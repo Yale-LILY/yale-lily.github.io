@@ -1,0 +1,117 @@
+---
+layout: page
+title: Members
+permalink: /members/
+---
+
+
+  <header class="post-header">
+    <h2 class="post-title">Yale LILY Members</h1>
+  </header> 
+
+<br>
+<h3> Faculty </h3>
+<hr>
+<div class = "people-list">
+{% for person in site.data.members.faculty %}
+    <div class ="imageContainer">
+            <img src="{{person.photo | prepend: site.member_photos}} ">
+            <p>
+                    {% if person.title %}
+                        {{person.name}} <br>{{ person.title }}
+                        <br>
+                    {% else %}
+                        {{ person.name }} <br>
+                    {% endif %}
+                    {% if person.url %}
+                          <a href="{{ person.url }}"> Website </a> <br>
+                    {% endif %}
+                    <!-- <a href = "mailto:{{person.email}}"> {{person.email}}</a><br> -->
+                    {% if person.github %}
+                          <a href="https://github.com/{{ person.github }}"> Github </a> <br>
+                    {% endif %}
+                </p>
+    </div>
+{% endfor %}
+</div>
+<div style="clear:left;"></div> 
+
+<h3> Graduate Students </h3>
+<hr>
+<div class = "people-list">
+{% for person in site.data.members.graduate %}
+    <div class ="imageContainer">
+            <img src="{{person.photo | prepend: site.member_photos}}">
+            <p>
+                    {% if person.title %}
+                        {{person.name}} <br>{{ person.title }}<br>
+                    {% else %}
+                        {{ person.name }} <br>
+                    {% endif %}
+                    {% if person.url %}
+                          <a href="{{ person.url }}"> Website </a> <br>
+                    {% endif %}
+                    <!-- <a href = "mailto:{{person.email}}"> {{person.email}}</a><br> -->
+                    {% if person.github %}
+                          <a href="https://github.com/{{ person.github }}"> Github </a> <br>
+                    {% endif %}
+                </p>
+    </div>
+{% endfor %}
+</div> 
+
+<div style="clear:left;"></div> 
+
+<h3> Undergraduate Students </h3>
+<hr>
+<div class = "people-list">
+{% for person in site.data.members.undergraduate %}
+    <div class ="imageContainer">
+            <img src="{{person.photo | prepend: site.member_photos}} " width="120" height="120">
+            <p>
+                    {% if person.title %}
+                        {{person.name}} <br>{{ person.title }}<br>
+                    {% else %}
+                        {{ person.name }} <br> <br>
+                    {% endif %}
+                    {% if person.github %}
+                          <a href="https://github.com/{{ person.github }}"> Github </a> <br>
+                    {% else %}
+                        <br>
+                    {% endif %}
+                    {% if person.url %}
+                          <a href="{{ person.url }}"> Website </a> <br>
+                    {% else %}
+                        <br>
+                    {% endif %}
+                    <!-- <a href = "mailto:{{person.email}}"> {{person.email}}</a><br> -->
+                </p>
+    </div>
+{% endfor %}
+</div>
+
+
+
+<!-- {% for paper in site.data.papers.papers %}
+
+<table>
+  <tr><td style="padding:10px">
+{% if paper.image %}<img width="100px" src="{{paper.image}}"> {% endif %}
+</td><td style="padding:10px">
+<a class="paper" href="{{paper.pdf}}">
+{{paper.title}}
+</a><br>
+{{paper.authors}}.<br>
+{{paper.conference}} <br>
+
+{% if paper.pdf %}<a class="icon pdf label label-info" href="{{paper.pdf}}">pdf</a> {% endif %}
+{% if paper.slides %}<a class="icon slides label label-success" href="{{paper.slides}}">slides</a>{% endif %}
+{% if paper.code %} <a class="icon slides label label-success label-warning" href="{{paper.code}}">code</a>{% endif %}
+<br>
+
+</td></tr>
+
+{% endfor %}
+</table>
+-->
+

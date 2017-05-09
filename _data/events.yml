@@ -1,0 +1,32 @@
+- term: Spring 2017 Talks
+  events:
+    - date: "Apr. 19 @12:00pm to 1:00pm"
+      presenter: "Daniel Spielman"
+      website: http://www.cs.yale.edu/homes/spielman/
+      event_website: http://yins.yale.edu/event/yins-seminar-daniel-spielman
+      location: "3rd floor at 17 Hillhouse"
+      type: "YINS Seminar"
+    - date: "Apr. 12 @11:00am to 1:00pm"
+      presenter: Dragomir Radev
+      website: http://www.cs.yale.edu/homes/radev/ 
+      event_website: http://yins.yale.edu/calendar/conferences-workshops 
+      location: "3rd floor at 17 Hillhouse"
+      type: "YINS Seminar"
+    - date: "Apr. 3 @4:00 pm"
+      presenter: Mark Dredze
+      website: http://www.cs.jhu.edu/~mdredze/
+      event_website: http://cpsc.yale.edu/event/cs-talk-mark-dredze-johns-hopkins-university
+      location: "AKW 200"
+      type: "CS Talk"
+    - date: "Mar. 6 @4:15 pm"
+      presenter: Mirella Lapata
+      website: http://homepages.inf.ed.ac.uk/mlap/
+      event_website: http://cpsc.yale.edu/event/cs-talk-mirella-lapata-school-informatics-university-edinburgh
+      location: "AKW 200"
+      type: "CS Talk"
+    - date: "Feb. 17 @10:30 am"
+      presenter: Peter Stone
+      website: https://www.cs.utexas.edu/~pstone/
+      event_website: http://cpsc.yale.edu/event/cs-talk-peter-stone-univ-texas-austin-0
+      location: "AKW 200"
+      type: "CS Talk"

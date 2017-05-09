@@ -1,0 +1,16 @@
+- group: External Links
+  links:
+    - name: "Deep Learning"
+      description: Deep Learning Links
+      url: "http://clair.si.umich.edu/~radev/dl/dl.pdf"
+    - name: "ACL"
+      description: "Association for Computational Linguistics 2017 Website"
+      url: "http://acl2017.org/calls/workshops/"
+    - name: "AAN"
+      description: the ACL Anthology Network 
+      url: "http://clair.eecs.umich.edu/aan/index.php"
+- group: Neural Networks and NLP
+  links:
+    - name: "Neural Networks from Scratch"
+      description: Introduction 
+      url: "http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/"

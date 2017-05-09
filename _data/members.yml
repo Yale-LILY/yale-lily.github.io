@@ -1,0 +1,53 @@
+faculty:
+
+    - name : Dragomir Radev
+      github: Yale-LILY
+      url: http://www.cs.yale.edu/~radev/
+      photo: http://www.cs.yale.edu/homes/radev/131007_facaward_dragomir.jpg
+      email: dragomir.radev@yale.edu
+      title : Professor
+
+graduate:
+
+undergraduate:
+
+    - name : Jungo Kasai
+      github: jungokasai
+      url: https://jungokasai.github.io/
+      photo: /photos/jungo_profile.jpg
+      email: jungo.kasai@yale.edu
+      title: Senior 
+    - name : Krishnan Srinivasan  
+      github: krishpop
+      url: http://krishpop.xyz/
+      photo: /photos/krishnan_profile.jpg
+      email: krishnan.srinivasan@yale.edu
+      title: Senior 
+    - name: Adam Zucker
+      github: adamzu
+      email: adam.zucker@yale.edu
+      photo: /photos/adam_profile.jpg
+      title: Senior
+    - name: Rachel Prince
+      github: rachaprince 
+      email: rachel.prince@yale.edu
+      photo: /photos/rachel_profile.jpg
+      title: Senior
+    - name: Kshitijh Meelu
+      github: kmeelu
+      email: kshitijh.meelu@yale.edu
+      photo: /photos/kshitijh_profile.jpg
+      title: Senior
+    - name: Daniel Keller
+      github: dankeller101
+      photo: /photos/daniel_profile.jpg
+      title: Junior
+    - name: Tyler Dohrn
+      github: tylerdohrn
+      photo: /photos/tyler_profile.jpg
+      title: Junior
+    - name : Michihiro Yasunaga
+      github: michiyasunaga
+      email: michihiro.yasunaga@yale.edu
+      photo: /photos/michi_profile.jpg
+      title: Sophomore
