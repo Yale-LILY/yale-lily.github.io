@@ -1,10 +1,11 @@
 ---
+layout: page
 title: Publications
 permalink: /publications/
 ---
 
   <header class="post-header">
-    <h2 class="post-title">Projects at LILY</h2>
+    <h2 class="post-title">Publications</h2>
   </header> 
 
 <table>
