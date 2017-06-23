@@ -1,6 +1,6 @@
 papers:
     - title: "Graph-based Neural Multi-Document Summarization" 
-      authors: "Yasunaga, Michihiro and Zhang, Rui and Meelu, Kshitijh and Pareek, Ayush and Srinivasan, Krishnan and Radev, Dragomir R."
+      authors: "Michihiro Yasunaga, Rui Zhang, Kshitijh Meelu, Ayush Pareek, Krishnan Srinivasan and Dragomir Radev"
       conference: "Proceedings of Computational Natural Language Learning (CoNLL-2017)"
       pdf : "https://arxiv.org/abs/1706.06681" 
       image : /images/michi.png

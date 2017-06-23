@@ -15,7 +15,7 @@ permalink: /publications/
 <a class="paper" href="{{paper.pdf}}">
 {{paper.title}}
 </a><br>
-{{paper.authors}}.<br>
+{{paper.authors}}<br>
 {{paper.conference}} <br>
 
 {% if paper.pdf %}<a class="btn btn-labeled btn-primary" href="{{paper.pdf}}">PDF</a>{% endif %}
