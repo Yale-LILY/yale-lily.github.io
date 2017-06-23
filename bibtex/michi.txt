@@ -1,0 +1,7 @@
+@InProceedings{Yasunaga&al.17,
+  author =  {Yasunaga, Michihiro and Zhang, Rui and Meelu, Kshitijh and Pareek, Ayush and Srinivasan, Krishnan and Radev, Dragomir R.},
+  title =   {Graph-based Neural Multi-Document Summarization},
+  year =    {2017},  
+  booktitle =   {Proceedings of CoNLL-2017},  
+  publisher =   {Association for Computational Linguistics},
+}
