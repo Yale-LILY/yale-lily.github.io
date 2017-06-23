@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-
+---
 
 <table>
 {% for paper in site.data.papers.papers %}
