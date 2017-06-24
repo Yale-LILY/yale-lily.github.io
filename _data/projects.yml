@@ -11,6 +11,7 @@
     - topic: "Interpreting Metaphors Using Lessons Drawn from Psychology"
       members: "Daniel Keller"
       project_website: ../public/dankeller.pdf
+      image: ../images/dankeller.png
     - topic: "Web Application for Generating Image Descriptions Using Natural Language Processing and Computer Vision Techniques"
       members: "Adam Zucker"
       project_website: ../public/adamzucker.pdf
