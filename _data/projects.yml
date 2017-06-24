@@ -51,11 +51,12 @@
     - topic: "Graph-based Neural Multi-Doc Summarization"
       members: "Michihiro Yasunaga"
       project_website: ../public/michiyasunaga.pdf
-      images: ../images/michiyasunaga.png
+      image: ../images/michiyasunaga.png
+      paper: ..
     - topic: "Neural Multi-Doc Summarization"
       members: "Krishnan Srinivasan"
       project_website: ../public/michiyasunaga.pdf
-      project_website: ../images/michiyasunaga.png
+      image: ../images/michiyasunaga.png
     - topic: "Generating Three-Dimensional Crosswords as a Weighted Constraint Satisfaction Problem"
       members: "Michael Menz"
       project_website: ../public/michaelmenz.pdf
