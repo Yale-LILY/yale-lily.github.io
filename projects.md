@@ -14,7 +14,7 @@ permalink: /projects/
 <div style="text-align:center">
 <h3>{{term.term}}</h3>
 </div>
-</div
+</div>
 
 
 <table>
