@@ -23,9 +23,7 @@ permalink: /projects/
 
   <tr><td style="padding:10px">
 {% if project.image %}
-<a href="{{project.project_website}}">
 <img width="300px" src="{{project.image}}"> {% endif %}
-</a>
 </td><td style="padding:10px">
 <a class="paper" href="{{project.project_website}}">
 {{project.topic}}
@@ -33,7 +31,7 @@ permalink: /projects/
 {{project.members}}<br>
 
 {% if project.project_website %}<a class="btn btn-labeled btn-primary" href="{{project.project_website}}">PDF</a>{% endif %}
-{% if project.dataset %}<a class="btn btn-labeled btn-primary" href="{{project.dataset}}">BibTex</a>{% endif %}
+{% if project.dataset %}<a class="btn btn-labeled btn-primary" href="{{project.dataset}}">Dataset</a>{% endif %}
 {% if project.code %} <a class="icon slides label label-success label-warning" href="{{project.code}}">code</a>{% endif %}
 <br>
 

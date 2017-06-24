@@ -15,42 +15,56 @@
     - topic: "Web Application for Generating Image Descriptions Using Natural Language Processing and Computer Vision Techniques"
       members: "Adam Zucker"
       project_website: ../public/adamzucker.pdf
+      image: ../images/adamzucker.png
     - topic: "Humorous Caption Generation"
       members: "Rachel Prince"
       project_website: ../public/rachelprince.pdf
+      image: ../images/rachelprince.png
     - topic: "Improving Graph Representations of Document Clusters in MDS"
       members: "Kshitijh Meelu"
       project_website: ../public/michiyasunaga.pdf
+      image: ../images/michiyasunaga.png
     - topic: "Neural network-based text generation for the New Yorker Caption Contest"
       members: "Dan Friedman"
       project_website: ../public/danfriedman.pdf
+      image: ../images/danfriedman.png
     - topic: "Detecting Humor in New Yorker Cartoon Captions"
       members: "Hari Anbarasu"
       project_website: ../public/harianbarasu.pdf
+      image: ../images/harianbarasu.png
     - topic: "Applied Generative Models for Creating Humorous Photo Captions"
       members: "Tyler Dohrn"
       project_website: ../public/tylerdohrn.pdf
+      image: ../images/tylerdohrn.png
     - topic: "Text Mining to Find Interactions between Political Contributions and Political Speech"
       members: "Lincoln Swaine-Moore"
       project_website: ../public/lincolnswaine-moore.pdf
+      image: ../images/lincolnswaine-moore.png
     - topic: "Classifying Viewpoints: Using NLP to quantify differences between news sources"
       members: "Micah Rosales"
       project_website: ../public/micahrosales.pdf
+      image: ../images/micahrosales.png
     - topic: "Cross-lingual Word Embeddings"
       members: "Jungo Kasai"
       project_website: ../public/jungokasai.pdf
+      image: ../images/jungokasai.png
     - topic: "Graph-based Neural Multi-Doc Summarization"
       members: "Michihiro Yasunaga"
       project_website: ../public/michiyasunaga.pdf
+      images: ../images/michiyasunaga.png
     - topic: "Neural Multi-Doc Summarization"
       members: "Krishnan Srinivasan"
       project_website: ../public/michiyasunaga.pdf
+      project_website: ../images/michiyasunaga.png
     - topic: "Generating Three-Dimensional Crosswords as a Weighted Constraint Satisfaction Problem"
       members: "Michael Menz"
       project_website: ../public/michaelmenz.pdf
+      image: ../images/michaelmenz.png
     - topic: "Migrating ACL Anthology Network / \"All About NLP\""
       members: "Jay Hou"
       project_website: ../public/jayhou.pdf
+      image: ../images/jayhou.png
     - topic: "Word alignment with a pivot language"
       members: "Tom McCoy"
       project_website: ../public/tommccoy.pdf
+      image: ../images/tommccoy.png
