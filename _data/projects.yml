@@ -52,7 +52,7 @@
       members: "Michihiro Yasunaga"
       project_website: ../public/michiyasunaga.pdf
       image: ../images/michiyasunaga.png
-      paper: ..
+      paper: "https://arxiv.org/abs/1706.06681"
     - topic: "Neural Multi-Doc Summarization"
       members: "Krishnan Srinivasan"
       project_website: ../public/michiyasunaga.pdf
