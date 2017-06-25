@@ -1,0 +1,25 @@
+faculty:
+
+    - name : Dragomir Radev
+      github: Yale-LILY
+      url: http://www.cs.yale.edu/~radev/
+      photo: http://www.cs.yale.edu/homes/radev/131007_facaward_dragomir.jpg
+      email: dragomir.radev@yale.edu
+      title : Professor
+
+    - name : Daniel Spielman
+      title : Professor
+
+    - name : Amin Karbasi
+      title : Assistant Professor
+    - name : Sahand Negahban
+      title : Assistant Professor
+    - name : Sekhar Tatikonda
+      title : Associate Professor
+    - name : Smita Krishnaswamy
+      title : Assistant Professor
+    - name : John Lafferty
+      title : Professor
+    - name : Ronald Coifman
+      title : Professor
+

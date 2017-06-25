@@ -1,0 +1,37 @@
+---
+layout: page
+title: ML@Yale
+permalink: /mlatyale/
+---
+
+
+  <header class="post-header">
+    <h2 class="post-title">Machine Learning at Yale</h1>
+  </header> 
+
+<br>
+<h3> Faculty </h3>
+<hr>
+<div class = "people-list">
+{% for person in site.data.mlatyale.faculty %}
+    <div class ="imageContainer">
+            <img src="{{person.photo | prepend: site.member_photos}} ">
+            <p>
+                    {% if person.title %}
+                        {{person.name}} <br>{{ person.title }}
+                        <br>
+                    {% else %}
+                        {{ person.name }} <br>
+                    {% endif %}
+                    {% if person.url %}
+                          <a href="{{ person.url }}"> Website </a> <br>
+                    {% endif %}
+                    <!-- <a href = "mailto:{{person.email}}"> {{person.email}}</a><br> -->
+                    {% if person.github %}
+                          <a href="https://github.com/{{ person.github }}"> Github </a> <br>
+                    {% endif %}
+                </p>
+    </div>
+{% endfor %}
+</div>
+<div style="clear:left;"></div> 
