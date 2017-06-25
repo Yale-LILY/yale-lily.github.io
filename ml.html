@@ -14,9 +14,9 @@ permalink: /mlatyale/
 <h3> Faculty </h3>
 <hr>
 <div class = "people-list">
-{% for person in site.data.members.faculty %}
+{% for person in site.data.mlatyale.faculty %}
     <div class ="imageContainer">
-            <img src="{{person.photo | prepend: site.member_photos}} " width="120" height="120">
+            <img src="{{person.photo | prepend: site.member_photos}} " width="120">
             <p>
                     {% if person.title %}
                         {{person.name}} <br>{{ person.title }}<br>
@@ -38,6 +38,4 @@ permalink: /mlatyale/
     </div>
 {% endfor %}
 </div>
-
-
 
