@@ -38,6 +38,12 @@ undergraduate:
       email: kshitijh.meelu@yale.edu
       photo: /photos/kshitijh_profile.jpg
       title: Senior
+    - name : Dan Friedman
+      github: danfriedman0
+      url:  dfriedman.net
+      photo: /photos/dan_profile.jpg
+      email: dan.friedman@yale.edu
+      title: Senior
     - name: Daniel Keller
       github: dankeller101
       photo: /photos/daniel_profile.jpg
