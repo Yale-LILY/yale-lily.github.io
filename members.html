@@ -6,7 +6,7 @@ permalink: /members/
 
 
   <header class="post-header">
-    <h2 class="post-title">Yale LILY Members</h1>
+    <h2 class="post-title">Members</h2>
   </header> 
 
 <br>
@@ -70,7 +70,7 @@ permalink: /members/
             <img src="{{person.photo | prepend: site.member_photos}} " width="120" height="120">
             <p>
                     {% if person.title %}
-                        {{person.name}} <br>{{ person.title }}<br>
+                        {{person.name}} <br>Class of {{ person.title }}<br>
                     {% else %}
                         {{ person.name }} <br> <br>
                     {% endif %}

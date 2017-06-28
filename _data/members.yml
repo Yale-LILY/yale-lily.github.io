@@ -11,50 +11,54 @@ graduate:
 
 undergraduate:
 
-    - name : Jungo Kasai
-      github: jungokasai
-      url: https://jungokasai.github.io/
-      photo: /photos/jungo_profile.jpg
-      email: jungo.kasai@yale.edu
-      title: Senior 
-    - name : Krishnan Srinivasan  
-      github: krishpop
-      url: http://krishpop.xyz/
-      photo: /photos/krishnan_profile.jpg
-      email: krishnan.srinivasan@yale.edu
-      title: Senior 
-    - name: Adam Zucker
-      github: adamzu
-      email: adam.zucker@yale.edu
-      photo: /photos/adam_profile.jpg
-      title: Senior
-    - name: Rachel Prince
-      github: rachaprince 
-      email: rachel.prince@yale.edu
-      photo: /photos/rachel_profile.jpg
-      title: Senior
-    - name: Kshitijh Meelu
-      github: kmeelu
-      email: kshitijh.meelu@yale.edu
-      photo: /photos/kshitijh_profile.jpg
-      title: Senior
+    - name: Tyler Dohrn
+      github: tylerdohrn
+      photo: /photos/tyler_profile.jpg
+      title: 2018
     - name : Dan Friedman
       github: danfriedman0
       url:  "http://dfriedman.net"
       photo: /photos/dan_profile.jpg
       email: dan.friedman@yale.edu
-      title: Senior
+      title: 2017
+    - name : Jungo Kasai
+      github: jungokasai
+      url: https://jungokasai.github.io/
+      photo: /photos/jungo_profile.jpg
+      email: jungo.kasai@yale.edu
+      title: 2017
     - name: Daniel Keller
       github: dankeller101
       photo: /photos/daniel_profile.jpg
-      title: Junior
-    - name: Tyler Dohrn
-      github: tylerdohrn
-      photo: /photos/tyler_profile.jpg
-      title: Junior
+      title: 2018
+    - name: Kshitijh Meelu
+      github: kmeelu
+      email: kshitijh.meelu@yale.edu
+      photo: /photos/kshitijh_profile.jpg
+      title: 2017
+    - name: Rachel Prince
+      github: rachaprince 
+      email: rachel.prince@yale.edu
+      photo: /photos/rachel_profile.jpg
+      title: 2017
+    - name : Krishnan Srinivasan  
+      github: krishpop
+      url: http://krishpop.xyz/
+      photo: /photos/krishnan_profile.jpg
+      email: krishnan.srinivasan@yale.edu
+      title: 2017
+    - name: Pong Trairatvorakul
+      github: pongtr
+      photo: /photos/pong_profile.jpg
+      title: 2018
     - name : Michihiro Yasunaga
       github: michiyasunaga
       url: https://michiyasunaga.github.io/
       email: michihiro.yasunaga@yale.edu
       photo: /photos/michi_profile.jpg
-      title: Sophomore
+      title: 2019
+    - name: Adam Zucker
+      github: adamzu
+      email: adam.zucker@yale.edu
+      photo: /photos/adam_profile.jpg
+      title: 2017
