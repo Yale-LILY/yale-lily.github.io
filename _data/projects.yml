@@ -20,10 +20,6 @@
       members: "Rachel Prince"
       project_website: ../public/rachelprince.pdf
       image: ../images/rachelprince.png
-    - topic: "Improving Graph Representations of Document Clusters in MDS"
-      members: "Kshitijh Meelu"
-      project_website: ../public/michiyasunaga.pdf
-      image: ../images/michiyasunaga.png
     - topic: "Neural network-based text generation for the New Yorker Caption Contest"
       members: "Dan Friedman"
       project_website: ../public/danfriedman.pdf
@@ -49,14 +45,10 @@
       project_website: ../public/jungokasai.pdf
       image: ../images/jungokasai.png
     - topic: "Graph-based Neural Multi-Doc Summarization"
-      members: "Michihiro Yasunaga"
+      members: "Michihiro Yasunaga, Kshitijh Meelu, and Krishnan Srinivasan"
       project_website: ../public/michiyasunaga.pdf
       image: ../images/michiyasunaga.png
       paper: "https://arxiv.org/abs/1706.06681"
-    - topic: "Neural Multi-Doc Summarization"
-      members: "Krishnan Srinivasan"
-      project_website: ../public/michiyasunaga.pdf
-      image: ../images/michiyasunaga.png
     - topic: "Generating Three-Dimensional Crosswords as a Weighted Constraint Satisfaction Problem"
       members: "Michael Menz"
       project_website: ../public/michaelmenz.pdf
