@@ -1,3 +1,4 @@
+<!---
 ---
 layout: page
 title: ML@Yale
@@ -38,4 +39,4 @@ permalink: /mlatyale/
     </div>
 {% endfor %}
 </div>
-
+-->
