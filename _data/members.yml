@@ -57,6 +57,12 @@ undergraduate:
       email: michihiro.yasunaga@yale.edu
       photo: /photos/michi_profile.jpg
       title: 2019
+    - name : Sydney Young
+      github: esoterik
+      url: https://yale.githost.io/esoterik
+      email: sydney.young@yale.edu
+      photo: /photos/sydney_profile.jpg
+      title: 2018
     - name: Adam Zucker
       github: adamzu
       email: adam.zucker@yale.edu
