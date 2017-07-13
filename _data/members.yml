@@ -8,17 +8,17 @@ faculty:
       title : Professor
 
 graduate:
-    - name: Irene Li 
-      github: IreneZihuiLi
-      photo: /photos/irene_li.jpeg
-      title: "PhD Student"
-      url: https://ireneli.eu/
-
     - name: Javid Dadashkarimi
       github: javiddadashkarimi
       photo: /photos/javid_dadashkarimi.jpeg
       title: "PhD Student"
       url: http://dadashkarimi.com/
+
+    - name: Irene Li 
+      github: IreneZihuiLi
+      photo: /photos/irene_li.jpeg
+      title: "PhD Student"
+      url: https://ireneli.eu/
 
 undergraduate:
 
