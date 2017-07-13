@@ -36,30 +36,34 @@ permalink: /members/
 {% endfor %}
 </div>
 <div style="clear:left;"></div> 
-
 <h3> Graduate Students </h3>
 <hr>
 <div class = "people-list">
 {% for person in site.data.members.graduate %}
     <div class ="imageContainer">
-            <img src="{{person.photo | prepend: site.member_photos}}">
+            <img src="{{person.photo | prepend: site.member_photos}} " width="120" height="120">
             <p>
                     {% if person.title %}
-                        {{person.name}} <br>{{ person.title }}<br>
+                        {{person.name}} <br> {{ person.title }}<br>
                     {% else %}
-                        {{ person.name }} <br>
+                        {{ person.name }} <br> <br>
+                    {% endif %}
+                    {% if person.github %}
+                          <a href="https://github.com/{{ person.github }}"> Github </a> <br>
+                    {% else %}
+                        <br>
                     {% endif %}
                     {% if person.url %}
                           <a href="{{ person.url }}"> Website </a> <br>
+                    {% else %}
+                        <br>
                     {% endif %}
                     <!-- <a href = "mailto:{{person.email}}"> {{person.email}}</a><br> -->
-                    {% if person.github %}
-                          <a href="https://github.com/{{ person.github }}"> Github </a> <br>
-                    {% endif %}
                 </p>
     </div>
 {% endfor %}
-</div> 
+</div>
+
 
 <div style="clear:left;"></div> 
 
