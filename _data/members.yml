@@ -20,8 +20,18 @@ graduate:
       title: "PhD Student"
       url: https://ireneli.eu/
       
-     - name: Rui Zhang
+    - name: Yavuz Nuzumlali
       title: "PhD Student"
+      photo: /photos/test.jpeg
+
+    - name: Tao Yu
+      title: "PhD Student"
+      photo: /photos/test.jpeg
+
+    - name: Rui Zhang
+      title: "PhD Student"
+      photo: /photos/test.jpeg
+
 
 undergraduate:
 
