@@ -20,21 +20,21 @@ graduate:
 
     - name: Irene Li 
       github: IreneZihuiLi
-      photo: /photos/irene_li.jpeg
+      photo: /photos/irene_li.jpg
       title: "PhD Student"
       url: https://ireneli.eu/
       
     - name: Yavuz Nuzumlali
       title: "PhD Student"
-      photo: /photos/test.jpeg
+      photo: /photos/test.jpg
 
     - name: Tao Yu
       title: "PhD Student"
-      photo: /photos/test.jpeg
+      photo: /photos/test.jpg
 
     - name: Rui Zhang
       title: "PhD Student"
-      photo: /photos/test.jpeg
+      photo: /photos/test.jpg
 
 
 undergraduate:
