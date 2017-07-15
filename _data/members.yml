@@ -14,6 +14,10 @@ graduate:
       title: "PhD Student"
       url: http://dadashkarimi.com/
 
+    - name: Alex Fabbri
+      photo: /photos/fabbri_alex.jpg
+      title: "PhD Student"
+
     - name: Irene Li 
       github: IreneZihuiLi
       photo: /photos/irene_li.jpeg
