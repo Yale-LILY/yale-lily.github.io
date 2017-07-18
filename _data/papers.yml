@@ -5,3 +5,4 @@ papers:
       pdf : "https://arxiv.org/abs/1706.06681" 
       image : /images/michi.png
       bibtex: /bibtex/michi.txt
+      code: "https://github.com/michiyasunaga/graph_neural_mds"
