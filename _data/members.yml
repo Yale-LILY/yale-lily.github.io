@@ -77,6 +77,11 @@ undergraduate:
       photo: /photos/krishnan_profile.jpg
       email: krishnan.srinivasan@yale.edu
       title: 2017
+    - name : Alexander Strzalkowski
+      github: astrzalk
+      photo: /photos/alexander_strzalkowski.jpeg
+      email: alexander.strzalkowski@yale.edu 
+      title: 2018
     - name: Pong Trairatvorakul
       github: pongtr
       photo: "/photos/pong_profile.jpg"
