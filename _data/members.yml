@@ -27,8 +27,10 @@ graduate:
       url: https://ireneli.eu/
       
     - name: Yavuz Nuzumlali
+      github: manuyavuz 
       title: "PhD Student"
-      photo: /photos/test.jpg
+      photo: /photos/yavuz_nuzumlali.jpg 
+      url: https://manuyavuz.github.io/
 
     - name: Tao Yu
       title: "PhD Student"
