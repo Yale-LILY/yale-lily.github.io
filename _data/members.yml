@@ -96,6 +96,8 @@ undergraduate:
     - name: Summer Wu
       photo: "/photos/summer_wu.jpg"
       title: 2018
+      url: https://sumwu.me/ 
+      github: sw5813
     - name : Michihiro Yasunaga
       github: michiyasunaga
       url: https://michiyasunaga.github.io/
