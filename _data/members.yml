@@ -86,9 +86,15 @@ undergraduate:
       photo: /photos/alexander_strzalkowski.jpeg
       email: alexander.strzalkowski@yale.edu 
       title: 2018
+    - name: Wei Tai Ting
+      photo: "/photos/weitai_ting.jpg"
+      title: 2019
     - name: Pong Trairatvorakul
       github: pongtr
       photo: "/photos/pong_profile.jpg"
+      title: 2018
+    - name: Summer Wu
+      photo: "/photos/summer_wu.jpg"
       title: 2018
     - name : Michihiro Yasunaga
       github: michiyasunaga
