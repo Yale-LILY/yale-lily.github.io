@@ -8,5 +8,5 @@ papers:
       code: "https://github.com/michiyasunaga/graph_neural_mds"
     - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs" 
       authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, Dragomir Radev"
-      arXiv: "https://arxiv.org/abs/1709.04005"
+      pdf: "https://arxiv.org/abs/1709.04005"
       image: /images/SIRNN.png
