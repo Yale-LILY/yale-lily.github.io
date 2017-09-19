@@ -9,4 +9,4 @@ papers:
     - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs" 
       authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, Dragomir Radev"
       arXiv: "https://arxiv.org/abs/1709.04005"
-      image: /images/SIRNN5.pdf
+      image: /images/SIRNN.png
