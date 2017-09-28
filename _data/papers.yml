@@ -10,3 +10,4 @@ papers:
       authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, Dragomir Radev"
       pdf: "https://arxiv.org/abs/1709.04005"
       image: /images/SIRNN.png
+      code: "https://github.com/ryanzhumich/sirnn"
