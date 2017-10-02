@@ -12,7 +12,6 @@ permalink: /test/
 
 
 <h3 align="center">Friday, October 20, 2017</h3>
-<h3 align="center">Luce Hall, 34 Hillhouse Avenue at Yale University</h3>
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXxc3x7TMrKzJq_2Ufc5mMpyiLBjd8JHLJayRFtHSdE2twSA/viewform">Register</a> Now!</h3>
 ## Location
 
