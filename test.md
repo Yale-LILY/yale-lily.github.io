@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop
-permalink: /workshop/
+title: Test
+permalink: /test/
 ---
 
 <center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
