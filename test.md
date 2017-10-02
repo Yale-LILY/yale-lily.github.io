@@ -14,26 +14,25 @@ permalink: /test/
 <h3 align="center">Friday, October 20, 2017</h3>
 <h3 align="center">Luce Hall, 34 Hillhouse Avenue at Yale University</h3>
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXxc3x7TMrKzJq_2Ufc5mMpyiLBjd8JHLJayRFtHSdE2twSA/viewform">Register</a> Now!</h3>
-
-- Location
+## Location
 
 The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.edu/campus/venues/luce-hall) at Yale University. The address is 34 Hillhouse Ave, New Haven, CT 06511.
 
 <table>
-{% for paper in site.data.papers.papers %}
+{% for talk in site.data.talks.talks %}
 
 
+## Schedule
   <tr><td style="padding:10px">
-{% if paper.image %}<img width="250px" src="{{paper.image}}"> {% endif %}
+{% if talk.image %}<img width="250px" src="{{talk.image}}"> {% endif %}
 </td><td style="padding:10px">
-<a class="paper" href="{{paper.pdf}}">
-{{paper.title}}
-</a><br>
-{{paper.authors}}<br>
-{{paper.conference}} <br>
+{{talk.title}}
+<br>
+{{talk.speaker}}<br>
+{{talk.affiliation}} <br>
 
-{% if paper.bibtex %}
-<a class="btn btn-labeled btn-primary" href="#mycollapse2" data-toggle="collapse"> BibTex </a> {% endif %} 
+{% if talk.abstract %}
+<a class="btn btn-labeled btn-primary" href="#mycollapse2" data-toggle="collapse"> Abstract </a> {% endif %} 
 <div style="max-width:400px" id="mycollapse2" class="collapse">
 test
 </div>

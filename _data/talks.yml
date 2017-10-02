@@ -1,0 +1,6 @@
+talks:
+    - title: "Measuring Polarization in High-Dimensional Data: Method and Application to Congressional Speech" 
+      speaker: "Jesse Shapiro"
+      abstract: "We study trends in the partisanship of congressional speech from 1873 to 2016. We define partisanship to be the ease with which an observer could infer a congressperson’s party from a fixed amount of speech, and we estimate it using a structural choice model and methods from machine learning. Our method corrects a severe finite-sample bias that we show arises with standard estimators. The results reveal that partisanship is far greater in recent years than in the past, and that it increased sharply in the early 1990s after remaining low and relatively constant over the preceding century. Our method is applicable to the study of high-dimensional choices in many domains, and we illustrate its broader utility with an application to residential segregation."
+      affiliation: "Brown University"
+      image: /photos/test.jpg 
