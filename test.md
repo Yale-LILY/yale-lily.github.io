@@ -39,8 +39,8 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 {{talk.abstract}}
 </div>
 {% if talk.bio %}
-<a class="btn btn-labeled btn-primary" href="#test2" data-toggle="collapse"> Bio </a> {% endif %} 
-<div style="max-width:400px" id="test2" class="collapse">
+<a class="btn btn-labeled btn-primary" href="{{talk.collapse3}}" data-toggle="collapse"> Bio </a> {% endif %} 
+<div style="max-width:400px" id="{{talk.collapse4}}" class="collapse">
 {{talk.bio}}
 </div>
 <br>
