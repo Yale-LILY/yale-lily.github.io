@@ -33,13 +33,13 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 {{talk.affiliation}} <br>
 
 {% if talk.abstract %}
-<a class="btn btn-labeled btn-primary" href="#mycollapse1" data-toggle="collapse"> Abstract </a> {% endif %} 
-<div style="max-width:400px" id="mycollapse1" class="collapse">
+<a class="btn btn-labeled btn-primary" href="#{{talk.speaker}}1" data-toggle="collapse"> Abstract </a> {% endif %} 
+<div style="max-width:400px" id="#{{talk.speaker}}1" class="collapse">
 {{talk.abstract}}
 </div>
 {% if talk.bio %}
-<a class="btn btn-labeled btn-primary" href="#mycollapse2" data-toggle="collapse"> Bio </a> {% endif %} 
-<div style="max-width:400px" id="mycollapse2" class="collapse">
+<a class="btn btn-labeled btn-primary" href="#{{talk.speaker}}2" data-toggle="collapse"> Bio </a> {% endif %} 
+<div style="max-width:400px" id="{{talk.speaker}}2" class="collapse">
 {{talk.bio}}
 </div>
 <br>
