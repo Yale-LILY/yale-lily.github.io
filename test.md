@@ -28,13 +28,19 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 </td><td style="padding:10px">
 {{talk.title}}
 <br>
-{{talk.speaker}}<br>
+<a class="paper" href="{{talk.url}}">
+{{talk.speaker}}</a><br>
 {{talk.affiliation}} <br>
 
 {% if talk.abstract %}
 <a class="btn btn-labeled btn-primary" href="#mycollapse2" data-toggle="collapse"> Abstract </a> {% endif %} 
 <div style="max-width:400px" id="mycollapse2" class="collapse">
 {{talk.abstract}}
+</div>
+{% if talk.bio %}
+<a class="btn btn-labeled btn-primary" href="#mycollapse2" data-toggle="collapse"> Bio </a> {% endif %} 
+<div style="max-width:400px" id="mycollapse2" class="collapse">
+{{talk.bio}}
 </div>
 <br>
 
