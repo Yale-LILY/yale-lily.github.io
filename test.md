@@ -5,7 +5,8 @@ permalink: /test/
 ---
 
 <center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
-  <header class="post-header">
+ <header class="post-header">
+    <h2 class="post-title">The Data Science Workshop on Computational Social Science</h2>
   </header> 
 
 
@@ -14,8 +15,8 @@ permalink: /test/
 <h3 align="center">Luce Hall, 34 Hillhouse Avenue at Yale University</h3>
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXxc3x7TMrKzJq_2Ufc5mMpyiLBjd8JHLJayRFtHSdE2twSA/viewform">Register</a> Now!</h3>
 
-<h2>Location</h2>
-<p>The workshop will be held at Luce Hall <a href="http://conferencesandevents.yale.edu/campus/venues/luce-hall" target="_blank"></a> at Yale University. The address is 34 Hillhouse Ave, New Haven, CT 06511. </p>
+- Location
+The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.edu/campus/venues/luce-hall) at Yale University. The address is 34 Hillhouse Ave, New Haven, CT 06511.
 
 <table>
 {% for paper in site.data.papers.papers %}
