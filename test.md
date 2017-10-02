@@ -16,6 +16,7 @@ permalink: /test/
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXxc3x7TMrKzJq_2Ufc5mMpyiLBjd8JHLJayRFtHSdE2twSA/viewform">Register</a> Now!</h3>
 
 - Location
+
 The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.edu/campus/venues/luce-hall) at Yale University. The address is 34 Hillhouse Ave, New Haven, CT 06511.
 
 <table>
@@ -31,10 +32,11 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 {{paper.authors}}<br>
 {{paper.conference}} <br>
 
-{% if paper.pdf %}<a class="btn btn-labeled btn-primary" href="{{paper.pdf}}">PDF</a>{% endif %}
-{% if paper.arXiv %}<a class="btn btn-labeled btn-primary" href="{{paper.pdf}}">arXiv</a>{% endif %}
-{% if paper.bibtex %}<a class="btn btn-labeled btn-primary" href="{{paper.bibtex}}">BibTex</a>{% endif %}
-{% if paper.code %}<a class="btn btn-labeled btn-primary" href="{{paper.code}}">Code</a>{% endif %}
+{% if paper.bibtex %}
+<a class="btn btn-labeled btn-primary" href="#mycollapse2" data-toggle="collapse"> BibTex </a> {% endif %} 
+<div style="max-width:400px" id="mycollapse2" class="collapse">
+test
+</div>
 <br>
 
 </td></tr>
