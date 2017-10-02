@@ -17,7 +17,7 @@ talks:
       image: /photos/test.jpg 
       url: "http://www.jennwv.com/" 
       bio: "Jenn Wortman Vaughan is a Senior Researcher at Microsoft Research, New York City. She studies algorithmic economics, machine learning, and social computing, often in the conext of prediction markets, crowdsourcing, and other human-in-the-loop systems. Jenn came to MSR in 2012 from UCLA, where she was an assistant professor in the computer science department. She completed her Ph.D. at the University of Pennsylvania in 2009, and subsequently spent a year as a Computing Innovation Fellow at Harvard. She is the recipient of Penn's 2009Rubinoff dissertation award for innovative applications of computer technology, a National Science Foundation CAREER award, a Presidential Early Career Award for Scientists and Engineers (PECASE), and a handful of best paper or best student paper awards. In her spare time, Jenn is involved in a variety of efforts to provide support for women in computer science; most notably, she co-founded the Annual Workshop for Women in Machine Learning, which has been held each year since 2006."
-      collapse1: "test3"
-      collapse2: "#test3"
-      collapse3: "test4"
+      collapse1: "#test3"
+      collapse2: "test3"
+      collapse3: "#test4"
       collapse4: "test4"
