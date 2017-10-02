@@ -2,7 +2,7 @@ talks:
     - title: "Introduction" 
       speaker: "Dragomir Radev" 
       affiliation: "Yale University"
-      image: "http://www.cs.yale.edu/homes/radev/131007_facaward_dragomir.jpg" 
+      image: "/workshop_photos/drago.jpg" 
       url: "http://www.cs.yale.edu/homes/radev/"
     - title: "Welcome" 
       speaker: "Alan Gerber" 
