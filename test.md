@@ -18,11 +18,11 @@ permalink: /test/
 
 The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.edu/campus/venues/luce-hall) at Yale University. The address is 34 Hillhouse Ave, New Haven, CT 06511.
 
+## Schedule
 <table>
 {% for talk in site.data.talks.talks %}
 
 
-## Schedule
   <tr><td style="padding:10px">
 {% if talk.image %}<img width="250px" src="{{talk.image}}"> {% endif %}
 </td><td style="padding:10px">
@@ -34,7 +34,7 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 {% if talk.abstract %}
 <a class="btn btn-labeled btn-primary" href="#mycollapse2" data-toggle="collapse"> Abstract </a> {% endif %} 
 <div style="max-width:400px" id="mycollapse2" class="collapse">
-test
+{{talk.abstract}}
 </div>
 <br>
 
