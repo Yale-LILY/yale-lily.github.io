@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Workshop permalink: /workshop/
+title: Workshop
+permalink: /workshop/
 ---
 
  <header class="post-header">
@@ -22,19 +23,23 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
   <tr><td style="padding:10px">
 {% if talk.image %}<img width="200px" src="{{talk.image}}"> {% endif %}
 </td><td style="padding:10px">
-{% if talk.time %} {{talk.time}} <br> {% endif %}
+{{talk.time}}
+<br>
+{{talk.title}}
+<br>
+<a class="paper" href="{{talk.url}}">
+{{talk.speaker}}</a><br>
+{{talk.affiliation}} <br>
 
-{% if talk.title %} {{talk.title}} <br> {% endif %}
-{% if talk.speaker} <a class="paper" href="{{talk.url}}"> {{talk.speaker}}</a><br> {% endif %}
-{% if talk.affiliation %} {{talk.affiliation}} <br> {% endif %}
 
-
-{% if talk.abstract %} <a class="btn btn-labeled btn-primary" href="{{talk.collapse1}}" data-toggle="collapse"> Abstract </a> {% endif %} 
+{% if talk.abstract %}
+<a class="btn btn-labeled btn-primary" href="{{talk.collapse1}}" data-toggle="collapse"> Abstract </a> {% endif %} 
 <div style="max-width:400px" id="{{talk.collapse2}}" class="collapse">
 {{talk.abstract}}
 </div>
-{% if talk.bio %} <a class="btn btn-labeled btn-primary" href="{{talk.collapse3}}" data-toggle="collapse"> Bio </a> {% endif %}
- <div style="max-width:400px" id="{{talk.collapse4}}" class="collapse">
+{% if talk.bio %}
+<a class="btn btn-labeled btn-primary" href="{{talk.collapse3}}" data-toggle="collapse"> Bio </a> {% endif %} 
+<div style="max-width:400px" id="{{talk.collapse4}}" class="collapse">
 {{talk.bio}}
 </div>
 <br>
