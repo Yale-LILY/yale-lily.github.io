@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Workshop
-permalink: /workshop/
+title: Workshop permalink: /workshop/
 ---
 
  <header class="post-header">
@@ -23,11 +22,22 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
   <tr><td style="padding:10px">
 {% if talk.image %}<img width="200px" src="{{talk.image}}"> {% endif %}
 </td><td style="padding:10px">
+{% if talk.time %}
+{{talk.time}}
+<br>
+{% endif %}
+
+{% if talk.title %}
 {{talk.title}}
 <br>
+{% endif %}
+{% if talk.speaker}
 <a class="paper" href="{{talk.url}}">
 {{talk.speaker}}</a><br>
+{% endif %}
+{% if talk.affiliation %}
 {{talk.affiliation}} <br>
+{% endif %}
 
 
 {% if talk.abstract %}
