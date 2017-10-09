@@ -31,7 +31,8 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 {% if talk.speaker %}
 <a class="paper" href="{{talk.url}}">
 {{talk.speaker}}</a><br> {% endif %}
-{{talk.affiliation}} <br>
+{% if talk.affiliation %}
+{{talk.affiliation}} <br> {% endif %}
 
 
 {% if talk.abstract %}
@@ -40,11 +41,11 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 {{talk.abstract}}
 </div>
 {% if talk.bio %}
-<a class="btn btn-labeled btn-primary" href="{{talk.collapse3}}" data-toggle="collapse"> Bio </a> {% endif %} 
+<a class="btn btn-labeled btn-primary" href="{{talk.collapse3}}" data-toggle="collapse"> Bio </a> 
 <div style="max-width:400px" id="{{talk.collapse4}}" class="collapse">
 {{talk.bio}}
 </div>
-<br>
+<br> {% endif %}
 
 </td></tr>
 
