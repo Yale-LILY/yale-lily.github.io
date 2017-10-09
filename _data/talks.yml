@@ -3,10 +3,13 @@ talks:
       speaker: "Dragomir Radev" 
       affiliation: "Yale University"
       url: "http://www.cs.yale.edu/homes/radev/"
+      time: "9:00-9:15"
+      image: /workshop_photos/drago.jpg 
     - title: "Welcome" 
       speaker: "Alan Gerber" 
       affiliation: "Yale University"
       url: "http://politicalscience.yale.edu/people/alan-gerber"
+      image: /workshop_photos/alan.jpg 
     - title: "The Human Components of Machine Learning" 
       speaker: "Jenn Wortman Vaughan"
       abstract: "Machine learning is often viewed as an automated process. Data is fed to a learning algorithm that outputs a trained model which then makes predictions. In practice, however it is common for every step of this process to rely on humans in the loop. Training data is often generated through human activity, either as passive observations of social processesor actively crowdsourced annotations. Humans prepare this data for use by the algorithm, engineer features, and tweak the algorithm’s parameters to fit their needs. And in many applications to medicine, criminal justice, and other critical domains, humans must interpret the learned model’s predictions to determine how to best make use of these predictions in their own decision making process. In this talk, I’ll argue for the importance of understanding the humans in the loop. As one example, I’ll describe some of my own research on crowdsourcing aimed at understanding who the crowd is, what motivates them, and how they communicate. I’ll also touch on a new direction of research that I’m particularly excited about, studying how to make machine learning human-interpretable, and what human interpretability even means."

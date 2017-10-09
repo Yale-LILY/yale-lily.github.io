@@ -25,10 +25,12 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 </td><td style="padding:10px">
 {{talk.time}}
 <br>
+{% if talk.title %}
 {{talk.title}}
-<br>
+<br> {% endif %}
+{% if talk.speaker %}
 <a class="paper" href="{{talk.url}}">
-{{talk.speaker}}</a><br>
+{{talk.speaker}}</a><br> {% endif %}
 {{talk.affiliation}} <br>
 
 
