@@ -115,6 +115,6 @@ talks:
       collapse2: "test100"
       collapse3: "#test101"
       collapse4: "test101"
-      time: "4:45-"
+      time: "4:45-5:10"
     - title: "Short Presentations"
-      time: "4:45-5:30"
+      time: "5:10-5:30"
