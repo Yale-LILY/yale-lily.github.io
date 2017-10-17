@@ -103,5 +103,18 @@ talks:
       collapse3: "#test12"
       collapse4: "test12"
       time: "4:00-4:45"
+
+    - title: "Using phylogenetic methods to understand cultural variation in Australian Aboriginal societies" 
+      speaker: "Duncan Learmouth"
+      abstract: "Australian Aboriginal societies have a diverse and complex cultural heritage expressed, in particular, through differences in ritual, myth, song and art. This variation can be analyzed using phylogenetic tree-modeling methods that may help us answer such questions as: 1. Can changes in ritual complexity be explained by variation in other elements of Australian social life, and 2. Can some cultural elements, such as rock art motifs,  be used as 'population markers' to trace historic movements of people within Australia. Preliminary analyses associated with answering both these questions will be presented at the workshop."
+      affiliation: "Durham University"
+      image: /workshop_photos/learmouth.jpg  
+      url: "https://www.dur.ac.uk/anthropology/staff/academic/?mode=staff&id=15900" 
+      bio: "Duncan Learmouth is a PhD student in Anthropology at Durham University in the UK studying the application of phylogenetic methods to the study of cultural variation in Australian societies. He completed his Masters degree in Evolutionary Anthropology at University College London (UCL) in 2016. He is currently collaborating with Claire Bowern at Yale on applying the Australian (Pama-Nyungan) language phylogeny to answer questions related to cultural variation."
+      collapse1: "#test13"
+      collapse2: "test13"
+      collapse3: "#test14"
+      collapse4: "test14"
+      time: "4:45-"
     - title: "Short Presentations"
       time: "4:45-5:30"
