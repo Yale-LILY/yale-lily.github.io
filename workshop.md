@@ -17,6 +17,29 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 
 ## Schedule
 <table>
+
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/drago.jpg">
+</td><td style="padding:10px">
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/dan_spielman.jpg">
+</td><td style="padding:10px">
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/harry_zhou.jpg">
+</td><td style="padding:10px">
+9:00-9:15<br>
+<a class="paper" href="http://www.cs.yale.edu/homes/radev/">
+Dragomir Radev </a>
+<a class="paper" href="http://cs-www.cs.yale.edu/homes/spielman/">
+Daniel Spielman </a>
+<a class="paper" href="http://www.stat.yale.edu/~hz68/">
+Harry Zhou </a> <br>
+Yale University <br>
+</td></tr>
+</table>
+
+
+<table>
 {% for talk in site.data.talks.talks %}
 
 
