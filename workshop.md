@@ -21,10 +21,10 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
   <tr><td style="padding:10px">
 <img width="200px" src="/workshop_photos/drago.jpg">
 </td><td style="padding:10px">
-  <tr><td style="padding:10px">
+  <td style="padding:10px">
 <img width="200px" src="/workshop_photos/dan_spielman.jpg">
 </td><td style="padding:10px">
-  <tr><td style="padding:10px">
+  <td style="padding:10px">
 <img width="200px" src="/workshop_photos/harry_zhou.jpg">
 </td><td style="padding:10px">
 9:00-9:15<br>
