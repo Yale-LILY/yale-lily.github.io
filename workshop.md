@@ -17,7 +17,7 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 
 ## Schedule
 
-  <tr><td style="padding:10px">
+<td style="padding:10px">
 </td><td style="padding:10px">
 9:00-9:15<br>
 <a class="paper" href="http://www.cs.yale.edu/homes/radev/">
