@@ -10,6 +10,7 @@ permalink: /workshop/
 
 
 <h3 align="center">Friday, October 20, 2017 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXxc3x7TMrKzJq_2Ufc5mMpyiLBjd8JHLJayRFtHSdE2twSA/viewform">Register</a> Now!</h3>
+<h3 align="center"> The workshop is currently full. Further registrations will be added to a waiting list. </h3>
 
 ## Location
 
@@ -20,6 +21,7 @@ The workshop will be held at the [Luce Hall](http://conferencesandevents.yale.ed
 <td style="padding:10px">
 </td><td style="padding:10px">
 9:00-9:15<br>
+Introduction <br>
 <a class="paper" href="http://www.cs.yale.edu/homes/radev/">
 Dragomir Radev </a>
 <a class="paper" href="http://cs-www.cs.yale.edu/homes/spielman/">
