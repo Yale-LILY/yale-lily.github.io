@@ -28,11 +28,11 @@ permalink: /news/
         <td> 
         {% if event.website %}
            <a href="{{event.event_website}}">{{event.type}}</a> 
+        {% else %}
+           <a href="{{event.event_website}}">{{event.type}}</a>  
+        {% endif %}
         {% if event.presenter %}
             by <a href="{{event.website}}"> {{event.presenter}}</a>
-        {% endif %}
-        {% else %}
-           <a href="{{event.event_website}}">{{event.type}}</a> by {{event.presenter}} 
         {% endif %}
         </td>
         <td> {{event.location}} </td>
