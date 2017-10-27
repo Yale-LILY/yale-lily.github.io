@@ -1,5 +1,9 @@
 - term: Spring 2017 Talks
   events:
+    - date: "Oct. 20"
+      event_website: https://yale-lily.github.io/workshop/
+      location: "Luce hall"
+      type: "The Data Science Workshop on Computational Social Science"
     - date: "Apr. 19 @12:00pm to 1:00pm"
       presenter: "Daniel Spielman"
       website: http://www.cs.yale.edu/homes/spielman/
