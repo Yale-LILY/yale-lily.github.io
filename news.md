@@ -27,7 +27,10 @@ permalink: /news/
         <td> {{ event.date }}  </td>
         <td> 
         {% if event.website %}
-           <a href="{{event.event_website}}">{{event.type}}</a> by <a href="{{event.website}}"> {{event.presenter}}</a>
+           <a href="{{event.event_website}}">{{event.type}}</a> 
+        {% if event.presenter %}
+            by <a href="{{event.website}}"> {{event.presenter}}</a>
+        {% endif %}
         {% else %}
            <a href="{{event.event_website}}">{{event.type}}</a> by {{event.presenter}} 
         {% endif %}
