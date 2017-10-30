@@ -56,6 +56,11 @@ undergraduate:
       photo: /photos/dan_profile.jpg
       email: dan.friedman@yale.edu
       title: 2017
+    - name : Lionel Jin
+      github: lioneljin
+      photo: /photos/test.jpg
+      email: chentian.jin@yale.edu
+      title: 2018
     - name : Jungo Kasai
       github: jungokasai
       url: https://jungokasai.github.io/
@@ -76,6 +81,11 @@ undergraduate:
       email: rachel.prince@yale.edu
       photo: /photos/rachel_profile.jpg
       title: 2017
+    - name :  Stylianos Rousoglou
+      github: steliosrousoglou
+      photo: /photos/test.jpg
+      email: stylianos.rousoglou@yale.edu
+      title: 2018
     - name : Krishnan Srinivasan  
       github: krishpop
       url: http://krishpop.xyz/
