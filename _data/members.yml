@@ -58,7 +58,7 @@ undergraduate:
       title: 2017
     - name : Lionel Jin
       github: lioneljin
-      photo: /photos/test.jpg
+      photo: /photos/lionel_jin.png
       email: chentian.jin@yale.edu
       title: 2018
     - name : Jungo Kasai
@@ -125,6 +125,10 @@ undergraduate:
       email: sydney.young@yale.edu
       photo: /photos/sydney_profile.jpg
       title: 2018
+    - name: Dennis Zhao
+      email: dennis.zhao@yale.edu  
+      photo: /photos/dennis_zhao.png
+      title: 2019
     - name: Adam Zucker
       github: adamzu
       email: adam.zucker@yale.edu
