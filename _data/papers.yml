@@ -7,7 +7,12 @@ papers:
       bibtex: /bibtex/michi.txt
       code: "https://github.com/michiyasunaga/graph_neural_mds"
     - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs" 
-      authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, Dragomir Radev"
+      authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, and Dragomir Radev"
+      conference: "Proceedings of AAAI 2018"
       pdf: "https://arxiv.org/abs/1709.04005"
       image: /images/SIRNN.png
       code: "https://github.com/ryanzhumich/sirnn"
+    - title: "Sentence Ordering using Recurrent Neural Networks" 
+      authors: "Lajanugen Logeswaran, Honglak Lee, and Dragomir Radev"
+      conference: "Proceedings of AAAI 2018"
+      pdf: "https://arxiv.org/abs/1611.02654"
