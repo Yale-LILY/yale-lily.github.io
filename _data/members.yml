@@ -103,6 +103,7 @@ undergraduate:
     - name: Pong Trairatvorakul
       github: pongtr
       photo: "/photos/pong_profile.jpg"
+      url: "http://pongtr.com/"
       title: 2018
     - name: Caitlin Westerfield
       photo: "/photos/caitlin_westerfield.jpg"
