@@ -1,23 +1,23 @@
 papers:
-    - title: "Sentence Ordering using Recurrent Neural Networks" 
+    - title: "Sentence Ordering using Recurrent Neural Networks"
       authors: "Lajanugen Logeswaran, Honglak Lee, and Dragomir Radev"
       conference: "Proceedings of AAAI 2018"
       pdf: "https://arxiv.org/abs/1611.02654"
-    - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs" 
+    - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
       authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, and Dragomir Radev"
       conference: "Proceedings of AAAI 2018"
       pdf: /public/AAAI_sirnn.pdf
       bibtex: /bibtex/aaai-sirnn.txt
       image: /images/SIRNN.png
       code: "https://github.com/ryanzhumich/sirnn"
-    - title: "Cross-lingual Sentiment Transfer with Limited Resources" 
+    - title: "Cross-lingual Sentiment Transfer with Limited Resources"
       authors: "Mohammad Sadegh, RasooliNoura Farra, Axinia Radeva, Tao Yu, and Kathleen McKeown"
       conference: "Machine Translation (2017)"
       pdf: "https://link.springer.com/article/10.1007/s10590-017-9202-6"
-    - title: "Graph-based Neural Multi-Document Summarization" 
+    - title: "Graph-based Neural Multi-Document Summarization"
       authors: "Michihiro Yasunaga, Rui Zhang, Kshitijh Meelu, Ayush Pareek, Krishnan Srinivasan and Dragomir Radev"
       conference: "Proceedings of Computational Natural Language Learning (CoNLL-2017)"
-      pdf : "https://arxiv.org/abs/1706.06681" 
-      image : /images/michi.png
-      bibtex: /bibtex/michi.txt
+      pdf : "https://arxiv.org/abs/1706.06681"
+      image : /images/conll17_gnmds.png
+      bibtex: /bibtex/conll17_gnmds.txt
       slides: "https://michiyasunaga.github.io/files/conll17_slides.pdf"
