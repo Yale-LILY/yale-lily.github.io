@@ -26,6 +26,7 @@ permalink: /publications/
 {% if paper.arXiv %}<a class="btn btn-labeled btn-primary" href="{{paper.pdf}}">arXiv</a>{% endif %}
 {% if paper.bibtex %}<a class="btn btn-labeled btn-primary" href="{{paper.bibtex}}">BibTex</a>{% endif %}
 {% if paper.code %}<a class="btn btn-labeled btn-primary" href="{{paper.code}}">Code</a>{% endif %}
+{% if paper.slides %}<a class="btn btn-labeled btn-primary" href="{{paper.slides}}">Slides</a>{% endif %}
 <br>
 
 </td></tr>
