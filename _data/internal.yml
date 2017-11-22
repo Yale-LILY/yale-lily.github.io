@@ -1,4 +1,14 @@
 presentations: 
+    - term: Fall 2017 LILY NLP Workshop
+      place: Friday 12/15 9:00am-5:00pm
+      presentations:
+        - time: 9:00-9:10
+          title: "Welcome and Introduction"
+          presenter: "Dragomir Radev"
+          url: "http://www.cs.yale.edu/homes/radev/"
+        - time: 9:10-
+          title: TBA
+          presenter: TBA
     - term: Spring 2017 LILY NLP Workshop
       place: Friday April 28 9:00-13:00 at Room 000, AKW
       presentations:
