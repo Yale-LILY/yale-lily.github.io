@@ -57,8 +57,10 @@ Yale University <br>
 <div style="max-width:400px" id="{{talk.collapse4}}" class="collapse">
 {{talk.bio}}
 </div>
-<br> {% endif %}
+{% endif %}
+{% if talk.slides %}<a class="btn btn-labeled btn-primary" href="{{talk.slides}}">Slides</a>{% endif %}
 
+<br>
 </td></tr>
 
 {% endfor %}
