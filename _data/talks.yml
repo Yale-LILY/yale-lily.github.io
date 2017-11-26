@@ -25,7 +25,7 @@ talks:
       collapse3: "#test8"
       collapse4: "test8"
       time: "10:30-11:15"
-      slides: "slides/oconnor_yale_css_20171020.pdf"
+      slides: "/slides/oconnor_yale_css_20171020.pdf"
     - title: "Using Bayesian methods to infer language spread." 
       speaker: "Claire Bowern"
       abstract: "In this talk I present results of work that uses computational phylogenetics to infer the dates and trajectories of spread of the Pama-Nyungan family of Australian languages. I show how evolutionary approaches to language change allow us to model language spread and gain insights into both specific language histories and patterns of change more generally. "
