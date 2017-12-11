@@ -6,9 +6,69 @@ presentations:
           title: "Welcome and Introduction"
           presenter: "Dragomir Radev"
           url: "http://www.cs.yale.edu/homes/radev/"
-        - time: 9:10-
-          title: TBA
-          presenter: TBA
+        - title: ""
+          time: 9:50-10:00
+          presenter: "Tao Yu"
+        - title: "Coreference Resolution"
+          time: 10:00-10:10
+          presenter: "Rui Zhang"
+        - title: ""
+          time: 10:10-10:20
+          presenter: "Alison"
+        - title: "Stylistic Author Attrib. Methods for Identifying Parody"
+          time: 10:20-10:30
+          presenter: "Isaac"
+        - title: "Break"
+          time: 10:30-11:00
+          presenter: ""
+        - title: "Analyzing MRI Reports with NLP"
+          time: 11:00-11:10
+          presenter: "Lionel Jin"
+        - title: "Domain Adaptation in summarization"
+          time: 11:10-11:20
+          presenter: "Irene Li"
+        - title: ""
+          time: 11:20-11:30
+          presenter: "Stelios"
+        - title: ""
+          time: 11:30-11:40
+          presenter: "Jack"
+        - title: "Word Representations for IR"
+          time: 11:40-11:50
+          presenter: "Yavuz Nuzumlali"
+        - title: "Tree-based Semantic Parsing"
+          time: 12:00-12:10
+          presenter: "Alex Fabbri"
+        - title: "Seq2Seq with History Gates"
+          time: 12:10-12:20
+          presenter: "Javid Dadashkarimi"
+        - title: "Syntax-Aware Semantic Role Labeling"
+          time: 1:30-1:40
+          presenter: "Jungo Kasai"
+        - title: "Biomedical Entity-Relationship Extraction Part 1"
+          time: 1:40-1:50
+          presenter: "Robert"
+        - title: "Biomedical Entity-Relationship Extraction Part 2"
+          time: 1:50-2:00
+          presenter: "Adrian"
+        - title: "A Mobile App for the Blind and Dyslexic"
+          time: 2:00-2:10
+          presenter: "Joe"
+        - title: ""
+          time: 2:10-2:20
+          presenter: "Dennis Zhao"
+        - title: ""
+          time: 2:20-2:30
+          presenter: "Caitlin Westerfield"
+        - title: "Python Source Code Search"
+          time: 2:30-2:40
+          presenter: "Andrew"
+        - title: ""
+          time: 2:40-2:50
+          presenter: "Summer Wu"
+        - title: "Data-driven Citation-based Scientific Paper Summarization"
+          time: 2:50-3:00
+          presenter: "Michihiro Yasunaga"
     - term: Spring 2017 LILY NLP Workshop
       place: Friday April 28 9:00-13:00 at Room 000, AKW
       presentations:
