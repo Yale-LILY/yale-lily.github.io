@@ -2,11 +2,14 @@ presentations:
     - term: Fall 2017 LILY NLP Workshop
       place: Friday 12/15 9:00am-5:00pm
       presentations:
-        - time: 9:00-9:10
-          title: "Welcome and Introduction"
+        - time: 9:30-9:40
+          title: "Welcome"
           presenter: "Dragomir Radev"
           url: "http://www.cs.yale.edu/homes/radev/"
-        - title: ""
+        - title: "Analyzing MRI Reports with NLP"
+          time: 9:40-9:50
+          presenter: "Lionel Jin"
+        - title: "Weakly-Supervised Semantic Parsing"
           time: 9:50-10:00
           presenter: "Tao Yu"
         - title: "Coreference Resolution"
@@ -21,9 +24,6 @@ presentations:
         - title: "Break"
           time: 10:30-11:00
           presenter: ""
-        - title: "Analyzing MRI Reports with NLP"
-          time: 11:00-11:10
-          presenter: "Lionel Jin"
         - title: "Domain Adaptation in summarization"
           time: 11:10-11:20
           presenter: "Irene Li"
@@ -54,16 +54,16 @@ presentations:
         - title: "A Mobile App for the Blind and Dyslexic"
           time: 2:00-2:10
           presenter: "Joe"
-        - title: ""
+        - title: "Word Embeddings and MATERIAL"
           time: 2:10-2:20
           presenter: "Dennis Zhao"
-        - title: ""
+        - title: "Cross-Lingual Information Retrieval and MATERIAL"
           time: 2:20-2:30
           presenter: "Caitlin Westerfield"
         - title: "Python Source Code Search"
           time: 2:30-2:40
           presenter: "Andrew"
-        - title: ""
+        - title: "Sequential Question Answering Using Neural Network-Identified Coreference"
           time: 2:40-2:50
           presenter: "Summer Wu"
         - title: "Data-driven Citation-based Scientific Paper Summarization"
