@@ -12,7 +12,7 @@ presentations:
         - title: "Weakly-Supervised Semantic Parsing"
           time: 9:50-10:00
           presenter: "Tao Yu"
-        - title: "Coreference Resolution"
+        - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
           time: 10:00-10:10
           presenter: "Rui Zhang"
         - title: "Medical Document Data Mining to Cluster Similar Cardiology Research Papers"
