@@ -6,13 +6,13 @@
 #      title: "CPSC 470/570 Artificial Intelligence"
 #      time: "TBA"
 #
-- term: Fall 2017
-  projects:
-	- topic: "Analyzing MRI Reports with NLP"
-	  members: "Lionel Jin"
-	  project_webiste: "/public/Lionel-Jin-490-Poster.pptx" 
-	- topic: "Weakly-Supervised Semantic Parsing"
-	  members: "Tao Yu"
+#- term: Fall 2017
+#  projects:
+#	- topic: "Analyzing MRI Reports with NLP"
+#	  members: "Lionel Jin"
+#	  project_webiste: "/public/Lionel-Jin-490-Poster.pptx" 
+#	- topic: "Weakly-Supervised Semantic Parsing"
+#	  members: "Tao Yu"
 #	- topic: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
 #	  members: "Rui Zhang"
 #	- topic: "Medical Document Data Mining to Cluster Similar Cardiology Research Papers"
