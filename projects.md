@@ -24,7 +24,7 @@ permalink: /projects/
 
   <tr><td style="padding:10px">
 {% if project.image %}
-<img width="300px" src="{{project.image}}"> {% endif %}
+<img width="200px" src="{{project.image}}"> {% endif %}
 </td><td style="padding:10px">
 <a class="paper" href="{{project.project_website}}">
 {{project.topic}}
