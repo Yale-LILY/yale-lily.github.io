@@ -6,8 +6,12 @@
 #      title: "CPSC 470/570 Artificial Intelligence"
 #      time: "TBA"
 #
-#- term: Fall 2017
-#  projects:
+- term: Fall 2017
+  projects:
+    - topic: "Interpreting Metaphors Using Lessons Drawn from Psychology"
+      members: "Daniel Keller"
+      project_website: ../public/dankeller.pdf
+      image: ../images/dankeller.png
 #	- topic: "Analyzing MRI Reports with NLP"
 #	  members: "Lionel Jin"
 #	  project_webiste: "/public/Lionel-Jin-490-Poster.pptx" 
