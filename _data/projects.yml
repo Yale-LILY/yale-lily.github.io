@@ -8,13 +8,8 @@
 #
 - term: Fall 2017
   projects:
-    - topic: "Interpreting Metaphors Using Lessons Drawn from Psychology"
-      members: "Daniel Keller"
-      project_website: ../public/dankeller.pdf
-      image: ../images/dankeller.png
     - topic: "Weakly-Supervised Semantic Parsing"
       members: "Tao Yu"
-      project_website: ../public/dankeller.pdf
 #    - topic: "Analyzing MRI Reports with NLP"
 #      members: "Lionel Jin"
 #      project_webiste: /public/Lionel-Jin-490-Poster.pptx 
@@ -48,8 +43,9 @@
 #	  members: "Dennis Zhao"
 #	- topic: "Cross-Lingual Information Retrieval and MATERIAL"
 #	  members: "Caitlin Westerfield"
-#	- topic: "Python Source Code Search"
-#	  members: "Andrew Malta"
+    - topic: "Python Source Code Search"
+      members: "Andrew Malta"
+      project_website: ../public/Andrew.ppt
 #	- topic: "Sequential Question Answering Using Neural Network-Identified Coreference"
 #	  members: "Summer Wu"
 #	- topic: "Data-driven Citation-based Scientific Paper Summarization"
