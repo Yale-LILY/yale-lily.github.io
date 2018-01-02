@@ -10,13 +10,13 @@
   projects:
     - topic: "Interpreting Metaphors Using Lessons Drawn from Psychology"
       members: "Daniel Keller"
-      project_website: ../public/dankeller.pdf
+      project_website: "../public/dankeller.pdf"
       image: ../images/dankeller.png
-    - topic: "Analyzing MRI Reports with NLP"
-      members: "Lionel Jin"
-     project_webiste: "/public/Lionel-Jin-490-Poster.pptx" 
-#	- topic: "Weakly-Supervised Semantic Parsing"
-#	  members: "Tao Yu"
+#    - topic: "Analyzing MRI Reports with NLP"
+#      members: "Lionel Jin"
+#      project_webiste: /public/Lionel-Jin-490-Poster.pptx 
+    - topic: "Weakly-Supervised Semantic Parsing"
+	  members: "Tao Yu"
 #	- topic: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
 #	  members: "Rui Zhang"
 #	- topic: "Medical Document Data Mining to Cluster Similar Cardiology Research Papers"
