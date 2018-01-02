@@ -12,22 +12,21 @@
       members: "Tao Yu"
     - topic: "Analyzing MRI Reports with NLP"
       members: "Lionel Jin"
-      project_webiste: /public/Lionel-Jin-490-Poster.pptx 
+      project_webiste: "/public/Lionel-Jin-490-Poster.pptx"
     - topic: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
       members: "Rui Zhang"
-      project_webiste: /public/RuiZhang_LilyWorkshop.pdf
+      project_webiste: "/public/RuiZhang_LilyWorkshop.pdf"
     - topic: "Medical Document Data Mining to Cluster Similar Cardiology Research Papers"
       members: "Alison Visher"
-      project_webiste: /public/Visher_Alison_CPSC490_Poster.pptx
+      project_webiste: "/public/Visher_Alison_CPSC490_Poster.pptx"
     - topic: "Stylistic Author Attrib. Methods for Identifying Parody"
       members: "Isaac Pena"
-      project_webiste: /public/Isaac-Pena-490-presentation.pptx
+      project_webiste: "/public/Isaac-Pena-490-presentation.pptx"
     - topic: "A System to Diagnose Patients with Cough Part 1"
       members: "Irene Li"
-      project_webiste: /public/IreneLi.pdf
+      project_webiste: "/public/IreneLi.pdf"
     - topic: "A System to Diagnose Patients with Cough Part 2"
       members: "Stylianos Roussoglou"
-      project_webiste: /public/
     - topic: ""
       members: "Jack"
     - topic: "Word Representations for IR"
@@ -51,7 +50,7 @@
      members: "Caitlin Westerfield"
     - topic: "Python Source Code Search"
       members: "Andrew Malta"
-      project_website: ../public/Andrew.pptx
+      project_website: "../public/Andrew.pptx"
    - topic: "Sequential Question Answering Using Neural Network-Identified Coreference"
      members: "Summer Wu"
    - topic: "Data-driven Citation-based Scientific Paper Summarization"
