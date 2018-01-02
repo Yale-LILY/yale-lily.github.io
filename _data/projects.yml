@@ -12,9 +12,9 @@
       members: "Daniel Keller"
       project_website: ../public/dankeller.pdf
       image: ../images/dankeller.png
-	- topic: "Analyzing MRI Reports with NLP"
-	  members: "Lionel Jin"
-	  project_webiste: "/public/Lionel-Jin-490-Poster.pptx" 
+    - topic: "Analyzing MRI Reports with NLP"
+      members: "Lionel Jin"
+     project_webiste: "/public/Lionel-Jin-490-Poster.pptx" 
 #	- topic: "Weakly-Supervised Semantic Parsing"
 #	  members: "Tao Yu"
 #	- topic: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
