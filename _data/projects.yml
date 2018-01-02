@@ -51,10 +51,10 @@
     - topic: "Python Source Code Search"
       members: "Andrew Malta"
       project_website: "../public/Andrew.pptx"
-   - topic: "Sequential Question Answering Using Neural Network-Identified Coreference"
-     members: "Summer Wu"
-   - topic: "Data-driven Citation-based Scientific Paper Summarization"
-     members: "Michihiro Yasunaga"
+    - topic: "Sequential Question Answering Using Neural Network-Identified Coreference"
+      members: "Summer Wu"
+    - topic: "Data-driven Citation-based Scientific Paper Summarization"
+      members: "Michihiro Yasunaga"
 - term: Spring 2017
   projects:
     - topic: "Interpreting Metaphors Using Lessons Drawn from Psychology"
