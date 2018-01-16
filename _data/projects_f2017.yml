@@ -1,0 +1,112 @@
+#- term: Fall 2017
+#  courses:
+#    - instructor: Dragomir Radev
+#      instructor_website: http://www.cs.yale.edu/homes/radev/
+#      location: "TBA"
+#      title: "CPSC 470/570 Artificial Intelligence"
+#      time: "TBA"
+#
+- term: Fall 2017
+  projects:
+    - topic: "Weakly-Supervised Semantic Parsing"
+      members: "Tao Yu"
+    - topic: "Analyzing MRI Reports with NLP"
+      members: "Lionel Jin"
+      project_webiste: "/public/Lionel-Jin-490-Poster.pptx"
+    - topic: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
+      members: "Rui Zhang"
+      project_webiste: "/public/RuiZhang_LilyWorkshop.pdf"
+    - topic: "Medical Document Data Mining to Cluster Similar Cardiology Research Papers"
+      members: "Alison Visher"
+      project_webiste: "/public/Visher_Alison_CPSC490_Poster.pptx"
+    - topic: "Stylistic Author Attrib. Methods for Identifying Parody"
+      members: "Isaac Pena"
+      project_webiste: "/public/Isaac-Pena-490-presentation.pptx"
+#    - topic: "A System to Diagnose Patients with Cough Part 1"
+#      members: "Irene Li"
+#      project_webiste: "/public/IreneLi.pdf"
+#    - topic: "A System to Diagnose Patients with Cough Part 2"
+#      members: "Stylianos Roussoglou"
+#    - topic: "A"
+#      members: "Jack"
+#    - topic: "Word Representations for IR"
+#      members: "Yavuz Nuzumlali"
+#    - topic: "Tree-based Semantic Parsing"
+#      members: "Alexander Fabbri"
+#    - topic: "Seq2Seq with History Gates"
+#      members: "Javid Dadashkarimi"
+#    - topic: "Syntax-Aware Semantic Role Labeling"
+#      members: "Jungo Kasai"
+#      project_website: "Jungo_Kasai-SRL.pdf"
+#    - topic: "Biomedical Entity-Relationship Extraction Part 1"
+#     members: "Robert Tung"
+#    - topic: "Biomedical Entity-Relationship Extraction Part 2"
+#     members: "Adrian Lin"
+#    - topic: "A Mobile App for the Blind and Dyslexic"
+#     members: "Joe Lanzone"
+#    - topic: "Word Embeddings and MATERIAL"
+#     members: "Dennis Zhao"
+#    - topic: "Cross-Lingual Information Retrieval and MATERIAL"
+#     members: "Caitlin Westerfield"
+#    - topic: "Python Source Code Search"
+#      members: "Andrew Malta"
+#      project_website: "/public/Andrew.pptx"
+#    - topic: "Sequential Question Answering Using Neural Network-Identified Coreference"
+#      members: "Summer Wu"
+#    - topic: "Data-driven Citation-based Scientific Paper Summarization"
+#      members: "Michihiro Yasunaga"
+- term: Spring 2017
+  projects:
+    - topic: "Interpreting Metaphors Using Lessons Drawn from Psychology"
+      members: "Daniel Keller"
+      project_website: ../public/dankeller.pdf
+      image: ../images/dankeller.png
+    - topic: "Web Application for Generating Image Descriptions Using Natural Language Processing and Computer Vision Techniques"
+      members: "Adam Zucker"
+      project_website: ../public/adamzucker.pdf
+      image: ../images/adamzucker.png
+    - topic: "Humorous Caption Generation"
+      members: "Rachel Prince"
+      project_website: ../public/rachelprince.pdf
+      image: ../images/rachelprince.png
+    - topic: "Neural network-based text generation for the New Yorker Caption Contest"
+      members: "Dan Friedman"
+      project_website: ../public/danfriedman.pdf
+      image: ../images/danfriedman.png
+    - topic: "Detecting Humor in New Yorker Cartoon Captions"
+      members: "Hari Anbarasu"
+      project_website: ../public/harianbarasu.pdf
+      image: ../images/harianbarasu.png
+    - topic: "Applied Generative Models for Creating Humorous Photo Captions"
+      members: "Tyler Dohrn"
+      project_website: ../public/tylerdohrn.pdf
+      image: ../images/tylerdohrn.png
+    - topic: "Text Mining to Find Interactions between Political Contributions and Political Speech"
+      members: "Lincoln Swaine-Moore"
+      project_website: ../public/lincolnswaine-moore.pdf
+      image: ../images/lincolnswaine-moore.png
+    - topic: "Classifying Viewpoints: Using NLP to quantify differences between news sources"
+      members: "Micah Rosales"
+      project_website: ../public/micahrosales.pdf
+      image: ../images/micahrosales.png
+    - topic: "Cross-lingual Word Embeddings"
+      members: "Jungo Kasai"
+      project_website: ../public/jungokasai.pdf
+      image: ../images/jungokasai.png
+    - topic: "Graph-based Neural Multi-Doc Summarization"
+      members: "Michihiro Yasunaga, Kshitijh Meelu, and Krishnan Srinivasan"
+      project_website: ../public/michiyasunaga.pdf
+      image: ../images/michiyasunaga.png
+      paper: "https://arxiv.org/abs/1706.06681"
+    - topic: "Generating Three-Dimensional Crosswords as a Weighted Constraint Satisfaction Problem"
+      members: "Michael Menz"
+      project_website: ../public/michaelmenz.pdf
+      image: ../images/michaelmenz.png
+    - topic: "Migrating ACL Anthology Network / \"All About NLP\""
+      members: "Jay Hou"
+      project_website: ../public/jayhou.pdf
+      image: ../images/jayhou.png
+    - topic: "Word alignment with a pivot language"
+      members: "Tom McCoy"
+      project_website: ../public/tommccoy.pdf
+      image: ../images/tommccoy.png
