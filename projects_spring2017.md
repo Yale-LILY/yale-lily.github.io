@@ -1,25 +1,15 @@
 ---
-layout: page
+layout: pame
 permalink: /projects_s2017/
 ---
 
 <center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
   <header class="post-header">
-    <h2 class="post-title">Projects</h2>
+    <h2 class="post-title">{{site.data.projects_s2017.term}}</h2>
   </header> 
 
-{% for term in site.data.projects %}
-<div class ="row">
-
-<div style="text-align:center">
-<h3>{{term.term}}</h3>
-</div>
-</div>
-
-
 <table>
-{% for project in term.projects %}
-
+{% for project in site.data.projects_s2017.term.projects %}
 
   <tr><td style="padding:10px">
 {% if project.image %}
@@ -42,5 +32,4 @@ permalink: /projects_s2017/
 {% endfor %}
 </table>
 
-{% endfor %}
 
