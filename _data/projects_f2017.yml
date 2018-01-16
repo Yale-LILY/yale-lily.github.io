@@ -18,7 +18,7 @@ projects:
       project_webiste: "/public/IreneLi.pdf"
     - topic: "A System to Diagnose Patients with Cough Part 2"
       members: "Stylianos Roussoglou"
-    - topic: "A"
+    - topic: "A" 
       members: "Jack"
     - topic: "Word Representations for IR"
       members: "Yavuz Nuzumlali"
