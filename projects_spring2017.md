@@ -1,5 +1,5 @@
 ---
-layout: pame
+layout: page
 permalink: /projects_s2017/
 ---
 
