@@ -30,7 +30,7 @@ projects:
       project_website: "/public/javid-dadashkarimi-poster.pdf"
     - topic: "Syntax-Aware Semantic Role Labeling"
       members: "Jungo Kasai"
-      project_website: "/public/Jungo_Kasai-SRL.pdf"
+      #project_website: "/public/Jungo_Kasai-SRL.pdf"
     - topic: "Biomedical Entity-Relationship Extraction"
       members: "Robert Tung, Adrian Lin"
       project_website: "/public/SeniorProjectPresentation.pptx"
