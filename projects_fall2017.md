@@ -9,7 +9,7 @@ permalink: /projects_f2017/
   </header> 
 
 <table>
-{% for project in site.data.projects_s2017.projects %}
+{% for project in site.data.projects_f2017.projects %}
 
   <tr><td style="padding:10px">
 {% if project.image %}
