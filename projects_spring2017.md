@@ -5,11 +5,11 @@ permalink: /projects_s2017/
 
 <center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
   <header class="post-header">
-    <h2 class="post-title">{{site.data.projects_s2017.term}}</h2>
+    <h2 class="post-title">Spring 2017</h2>
   </header> 
 
 <table>
-{% for project in site.data.projects_s2017.term.projects %}
+{% for project in site.data.projects_s2017.projects %}
 
   <tr><td style="padding:10px">
 {% if project.image %}
