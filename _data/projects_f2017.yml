@@ -2,6 +2,7 @@ projects:
     - topic: "Weakly-Supervised Semantic Parsing"
       members: "Tao Yu"
       project_website: "/public/lily_workshop_poster_tao.pdf"
+      image: "/images/lily_workshop_poster_tao.png"
     - topic: "Analyzing MRI Reports with NLP"
       members: "Lionel Jin"
       project_website: "/public/Lionel-Jin-490-Poster.pptx"
