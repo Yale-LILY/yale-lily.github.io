@@ -43,7 +43,7 @@ projects:
     - topic: "Biomedical Entity-Relationship Extraction"
       members: "Robert Tung, Adrian Lin"
       project_website: "/images/SeniorProjectPresentation.pptx"
-      images: "/images/SeniorProjectPresentation.png"
+      image: "/images/SeniorProjectPresentation.png"
     - topic: "A Mobile App for the Blind and Dyslexic"
       members: "Joe Lanzone"
       project_website: "/public/JoeLanzoneMobileAppForBlindAndDyslexic.pptx"
