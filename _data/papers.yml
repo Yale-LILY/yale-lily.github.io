@@ -3,6 +3,7 @@ papers:
       authors: "Michihiro Yasunaga, Jungo Kasai, and Dragomir Radev"
       conference: "Proceedings of NAACL 2018"
       pdf: "https://arxiv.org/abs/1711.04903"
+      image: "/images/pic_adv.png"
     - title: "Sentence Ordering using Recurrent Neural Networks"
       authors: "Lajanugen Logeswaran, Honglak Lee, and Dragomir Radev"
       conference: "Proceedings of AAAI 2018"
