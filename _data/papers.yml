@@ -1,5 +1,5 @@
 papers:
-    - title: "https://arxiv.org/abs/1711.04903"
+    - title: "Robust Multilingual Part-of-Speech Tagging via Adversarial Training"
       authors: "Michihiro Yasunaga, Jungo Kasai, and Dragomir Radev"
       conference: "Proceedings of NAACL 2018"
       pdf: "https://arxiv.org/abs/1711.04903"
