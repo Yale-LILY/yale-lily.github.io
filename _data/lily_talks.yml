@@ -1,6 +1,6 @@
 talks:
     - title: "Neural Information Retrieval with Weak Supervision" 
-      speaker: "Jenn Wortman Vaughan"
+      speaker: "Hamed Zamani"
       abstract: "In recent years, machine learning approaches, and in particular deep neural networks, have yielded significant improvements on several natural language processing and computer vision tasks; however, such breakthroughs have not yet been observed in the area of information retrieval (IR). Besides the complexity of the IR tasks, such as understanding the user's information needs, a main reason is the lack of large-scale training data for many IR tasks. This necessitates studying how to design and train machine learning algorithms where there is no large-scale data in hand. In this talk, I will introduce training neural networks for IR tasks with weak supervision, where labels are obtained automatically without human annotators or any external resources (e.g., click data). I will also present the application of such learning strategy in relevance ranking, word embedding, query performance prediction, and efficient learning to rank."
       affiliation: "University of Massachusetts Amherst"
       image: /photos/test.jpg
