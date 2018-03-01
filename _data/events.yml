@@ -1,4 +1,10 @@
-- term: Fall 2018 Events
+- term: Spring 2018 Events
+  events:
+    - date: "Mar. 2"
+      event_website: "https://yale-lily.github.io/lily_talks/"
+      location: "Luce hall"
+      type: "LILY Invited Talk"
+- term: Fall 2017 Events
   events:
     - date: "Oct. 20"
       event_website: https://yaledailynews.com/blog/2017/10/25/yale-holds-inaugural-data-science-workshop/
