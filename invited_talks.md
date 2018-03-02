@@ -16,7 +16,7 @@ permalink: /lily_talks/
 
 
   <tr><td style="padding:10px">
-{% if talk.image %}<img width="200px" src="{{talk.image}}"> {% endif %}
+{% if talk.image %}<img width="150px" src="{{talk.image}}"> {% endif %}
 </td><td style="padding:10px">
 {{talk.time}}
 <br>
