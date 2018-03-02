@@ -1,9 +1,21 @@
 - term: Spring 2018 Events
   events:
+    - date: "TBD"
+      location: "HLH 17"
+      type: "TBD"
+      presenter: "Ryan Cotterell"
+      website: "https://ryancotterell.github.io/"
     - date: "Mar. 2"
       event_website: "https://yale-lily.github.io/lily_talks/"
       location: "HLH 17"
-      type: "LILY Invited Talk"
+      type: "Neural Information Retrieval with Weak Supervision"
+      presenter: "Hamed Zamani"
+      website: "http://hamedz.ir/"
+    - date: "Feb. 26"
+      location: "AKW 200"
+      type: "Knowledge from Deep Understanding of Language"
+      presenter: "Danqi Chen"
+      website: "https://cs.stanford.edu/~danqi/"
 - term: Fall 2017 Events
   events:
     - date: "Oct. 20"
