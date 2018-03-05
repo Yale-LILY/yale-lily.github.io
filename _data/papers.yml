@@ -1,4 +1,7 @@
 papers:
+    - title: "TYPESQL: KNOWLEDGE-BASED TYPE-AWARE NEURAL TEXT-TO-SQL GENERATION"
+      authors: "Tao Yu, Zifan Li, Zilin Zhang, Rui Zhang, and Dragomir Radev"
+      conference: "Proceedings of NAACL 2018, Short"
     - title: "Robust Multilingual Part-of-Speech Tagging via Adversarial Training"
       authors: "Michihiro Yasunaga, Jungo Kasai, and Dragomir Radev"
       conference: "Proceedings of NAACL 2018"
