@@ -9,7 +9,7 @@ papers:
       image: "/images/pic_adv.png"
     - title: "End-to-end Graph-based TAG Parsing with Neural Networks" 
       authors: "Jungo Kasai, Robert Frank, Pauli Xu, William Merrill, and Owen Rambow"
-      conference: "NAACL 2018 (Oral)"
+      conference: "Proceedings of NAACL 2018"
       pdf : ""
       image: "/images/biaffine_parsing.png"
       bibtex: ""
