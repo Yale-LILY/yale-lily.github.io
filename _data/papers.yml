@@ -17,7 +17,7 @@ papers:
     - title: "Sentence Ordering using Recurrent Neural Networks"
       authors: "Lajanugen Logeswaran, Honglak Lee, and Dragomir Radev"
       conference: "Proceedings of AAAI 2018"
-      pdf: "https://arxiv.org/abs/1611.02654"
+      pdf: /public/aaai2018_CR.pdf
     - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
       authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, and Dragomir Radev"
       conference: "Proceedings of AAAI 2018"
