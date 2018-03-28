@@ -1,3 +1,12 @@
+- term: Spring 2018
+  courses:
+    - instructor: Dragomir Radev
+      instructor_website: http://www.cs.yale.edu/homes/radev/
+      course_website: http://www.cs.yale.edu/homes/radev/nlp.html
+      location: "LORIA 250"
+      title: "CPSC 477/577 Natural Language Processing"
+      time: "Tue., Thu. 1:00-2:15pm"
+
 - term: Fall 2017
   courses:
     - instructor: Dragomir Radev
