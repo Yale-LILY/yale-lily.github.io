@@ -105,6 +105,11 @@ undergraduate:
       photo: "/photos/pong_profile.jpg"
       url: "http://pongtr.com/"
       title: 2018
+    - name: Robert Tung
+      github: robertrtung
+      email: robert.tung@yale.edu 
+      photo: /photos/robert_tung.jpeg
+      title: 2018
     - name: Caitlin Westerfield
       photo: "/photos/caitlin_westerfield.jpg"
       title: 2020
@@ -114,6 +119,11 @@ undergraduate:
       title: 2018
       url: https://sumwu.me/ 
       github: sw5813
+    - name: Qingning Yao  
+      github: VVVFO
+      email: qingning.yao@yale.edu
+      photo: /photos/qingning_yao.jpg
+      title: 2019
     - name : Michihiro Yasunaga
       github: michiyasunaga
       url: https://michiyasunaga.github.io/
