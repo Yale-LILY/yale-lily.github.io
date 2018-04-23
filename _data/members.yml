@@ -45,6 +45,10 @@ graduate:
 
 
 undergraduate:
+    - name: Emon Datta
+      github: emdat
+      photo: /photos/emon_datta.jpeg
+      title: 2018
 
     - name: Tyler Dohrn
       github: tylerdohrn
