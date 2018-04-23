@@ -16,6 +16,8 @@ papers:
       conference: "Proceedings of NAACL 2018"
       pdf: "https://arxiv.org/abs/1711.04903"
       image: "/images/pic_adv.png"
+      bibtex: "/bibtex/naacl18-posadv.txt"
+      code: "https://github.com/michiyasunaga/pos_adv"
     - title: "End-to-end Graph-based TAG Parsing with Neural Networks" 
       authors: "Jungo Kasai, Robert Frank, Pauli Xu, William Merrill, and Owen Rambow"
       conference: "Proceedings of NAACL 2018"
