@@ -1,0 +1,7 @@
+@InProceedings{Yasunaga&al.18.naacl,
+  author =  {Michihiro Yasunaga and Jungo Kasai and Dragomir R. Radev},
+  title =   {Robust Multilingual Part-of-Speech Tagging via Adversarial Training},
+  year =    {2018},  
+  booktitle =   {Proceedings of NAACL},  
+  publisher =   {Association for Computational Linguistics},
+}
