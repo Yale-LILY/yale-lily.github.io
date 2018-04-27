@@ -1,7 +1,12 @@
 - term: Spring 2018 Events
   events:
+    - date: "Apr. 27"
+      location: "AKW 200"
+      type: "TBD"
+      presenter: "Heng Ji"
+      website: "http://nlp.cs.rpi.edu/hengji.html"
     - date: "Apr. 16"
-      location: "HLH 17"
+      location: "AKW 200"
       type: "TBD"
       presenter: "Ryan Cotterell"
       website: "https://ryancotterell.github.io/"
