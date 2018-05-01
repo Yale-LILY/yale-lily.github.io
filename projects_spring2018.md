@@ -5,7 +5,7 @@ permalink: /projects_s2018/
 
 <center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
   <header class="post-header">
-    <h2 class="post-title">Fall 2017</h2>
+    <h2 class="post-title">Spring 2018</h2>
   </header> 
 
 <table>
@@ -22,9 +22,10 @@ permalink: /projects_s2018/
 {{project.members}}<br>
 
 {% if project.project_website %}<a class="btn btn-labeled btn-primary" href="{{project.project_website}}">Poster</a>{% endif %}
+{% if project.slides %}<a class="btn btn-labeled btn-primary" href="{{project.slides}}">Slides</a>{% endif %}
 {% if project.dataset %}<a class="btn btn-labeled btn-primary" href="{{project.dataset}}">Dataset</a>{% endif %}
 {% if project.paper %}<a class="btn btn-labeled btn-primary" href="{{project.paper}}">Paper</a>{% endif %}
-{% if project.code %} <a class="icon slides label label-success label-warning" href="{{project.code}}">code</a>{% endif %}
+{% if project.code %} <a class="icon slides label label-success label-warning" href="{{project.code}}">Code</a>{% endif %}
 <br>
 
 </td></tr>

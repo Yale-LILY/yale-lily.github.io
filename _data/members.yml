@@ -32,6 +32,16 @@ graduate:
       photo: /photos/yavuz_nuzumlali.jpg 
       url: https://manuyavuz.github.io/
 
+    - name: Dongxu Wang
+      title: "Master's Student"
+      photo: /photos/dongxu_wang.jpg
+      github: IsaWdx
+
+    - name: Kai Yang
+      title: "Master's Student"
+      photo: /photos/kai_yang.JPG
+      github: yangkai2g7k
+
     - name: Tao Yu
       title: "PhD Student"
       photo: /photos/tao_yu.jpg
