@@ -1,0 +1,15 @@
+@Article{Rasooli2017,
+author="Rasooli, Mohammad Sadegh
+and Farra, Noura
+and Radeva, Axinia
+and Yu, Tao
+and McKeown, Kathleen",
+title="Cross-lingual sentiment transfer with limited resources",
+journal="Machine Translation",
+year="2017",
+month="Nov",
+day="15",
+issn="1573-0573",
+doi="10.1007/s10590-017-9202-6",
+url="https://doi.org/10.1007/s10590-017-9202-6"
+}
