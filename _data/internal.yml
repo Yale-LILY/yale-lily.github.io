@@ -1,74 +1,89 @@
 presentations: 
     - term: Spring 2018 LILY NLP Workshop
-      place: Friday 04/27 9:30am-3:00pm
+      place: Friday 04/27 9:00am-3:00pm
       presentations:
-        - time: 9:30-9:40
+        - time: 9:00-9:10
           title: "Welcome"
           presenter: "Dragomir Radev"
           url: "http://www.cs.yale.edu/homes/radev/"
-        - title: "Analyzing MRI Reports with NLP"
+        - title: "Tree-Adjoining Parsing and Applications"
+          time: 9:10-9:20
+          presenter: "Jungo Kasai"
+        - title: "Sequence to SQL"
+          time: 9:20-9:30
+          presenter: "Zilin Zhang"
+        - title: "AAN Corpus"
+          time: 9:30-9:40
+          presenter: "Alex Fabbri"
+        - title: "End-to-End Neural CLIR by Sharing Representation"
           time: 9:40-9:50
-          presenter: "Lionel Jin"
-        - title: "Weakly-Supervised Semantic Parsing"
-          time: 9:50-10:00
-          presenter: "Tao Yu"
-        - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
-          time: 10:00-10:10
           presenter: "Rui Zhang"
-        - title: "Medical Document Data Mining to Cluster Similar Cardiology Research Papers"
+        - title: "Seq2SQL: NLI Matching Model"
+          time: 9:50-10:00
+          presenter: "Qingning Yao"
+        - title: "Material: English information search in any language"
+          time: 10:00-10:10
+          presenter: "Javid Dadashkarimi"
+        - title: "Tree2Tree Neural Semantic Parsing"
           time: 10:10-10:20
-          presenter: "Alison Visher"
-        - title: "Stylistic Author Attrib. Methods for Identifying Parody"
+          presenter: "Jack Koch"
+        - title: "Predicting Document Cutoff with Neural Networks"
           time: 10:20-10:30
-          presenter: "Isaac Pena"
+          presenter: "Miles Saffran"
         - title: "Break"
           time: 10:30-11:00
           presenter: ""
-        - title: "A System to Diagnose Patients with Cough Part 1"
+        - title: "Building a Corpus for Sentiment Analysis of Surgical Operation Notes"
+          time: 11:00-11:10
+          presenter: "Jake Albert"
+        - title: "20NN: Making Learning an Image Classification Problem"
           time: 11:10-11:20
-          presenter: "Irene Li"
-        - title: "A System to Diagnose Patients with Cough Part 2"
+          presenter: "Ben Rodriquez-Vars"
+        - title: "Watch and Learn: Applications of Time Distributed Deep Learning to Super Smash Brothers Melee"
           time: 11:20-11:30
-          presenter: "Stylianos Roussoglou"
-        - title: ""
+          presenter: "Austin Lachance"
+        - title: "Computer Vision for Parking Signs"
           time: 11:30-11:40
-          presenter: "Jack"
-        - title: "Word Representations for IR"
+          presenter: "Carter Levin"
+        - title: "Summarization for Powerpoints and Web Tutorials"
           time: 11:40-11:50
-          presenter: "Yavuz Nuzumlali"
-        - title: "Tree-based Semantic Parsing"
+          presenter: "Yijiao He"
+        - title: "One shot learning"
           time: 12:00-12:10
-          presenter: "Alexander Fabbri"
-        - title: "Seq2Seq with History Gates"
-          time: 12:10-12:20
-          presenter: "Javid Dadashkarimi"
-        - title: "Syntax-Aware Semantic Role Labeling"
+          presenter: "Gaurav Pathak"
+        - title: "Lunch with Visitor (Heng Ji)"
+          time: 12:10-1:20
+          presenter: ""
+        - title: "New Semantic Parsing Task with a Large Text-to-SQL Corpus"
+          time: 1:20-1:30
+          presenter: "Tao Yu"
+        - title: "Automatic Generation of Survey Structures in NLP+AI topics"
           time: 1:30-1:40
-          presenter: "Jungo Kasai"
-        - title: "Biomedical Entity-Relationship Extraction Part 1"
+          presenter: "Pong Trairatvorakul"
+        - title: "Seq2SQL using seq2seq with attention model"
           time: 1:40-1:50
-          presenter: "Robert Tung"
-        - title: "Biomedical Entity-Relationship Extraction Part 2"
+          presenter: "Dongxu Wang"
+        - title: "AST Based Natural Language Question to SQL Method"
           time: 1:50-2:00
-          presenter: "Adrian Lin"
-        - title: "A Mobile App for the Blind and Dyslexic"
+          presenter: "Kai Yang"
+        - title: "Summarization & Clustering for Search Results"
           time: 2:00-2:10
-          presenter: "Joe Lanzone"
-        - title: "Word Embeddings and MATERIAL"
+          presenter: "Emon Datta"
+        - title: "Adversarial Training for NLP"
           time: 2:10-2:20
-          presenter: "Dennis Zhao"
-        - title: "Cross-Lingual Information Retrieval and MATERIAL"
-          time: 2:20-2:30
-          presenter: "Caitlin Westerfield"
-        - title: "Python Source Code Search"
-          time: 2:30-2:40
-          presenter: "Andrew Malta"
-        - title: "Sequential Question Answering Using Neural Network-Identified Coreference"
-          time: 2:40-2:50
-          presenter: "Summer Wu"
-        - title: "Data-driven Citation-based Scientific Paper Summarization"
-          time: 2:50-3:00
           presenter: "Michihiro Yasunaga"
+        - title: "Prerequisite Chains and LectureBank"
+          time: 2:20-2:30
+          presenter: "Irene Li"
+        - title: "Resource Recommendation for AAN"
+          time: 2:30-2:40
+          presenter: "Robert Tung"
+        - title: "Extending SQLNet to Complex NL Questions"
+          time: 2:40-2:50
+          presenter: "James Ma"
+        - title: "Seq2SQL Baseline"
+          time: 2:50-3:00
+          presenter: "Shanelle Roman"
     - term: Fall 2017 LILY NLP Workshop
       place: Friday 12/15 9:30am-3:00pm
       presentations:
