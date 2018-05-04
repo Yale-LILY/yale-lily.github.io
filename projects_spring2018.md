@@ -3,7 +3,7 @@ layout: page
 permalink: /projects_s2018/
 ---
 
-<center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
+<center><a href="https://lily.yale.edu/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
   <header class="post-header">
     <h2 class="post-title">Spring 2018</h2>
   </header> 
