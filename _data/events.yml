@@ -23,7 +23,7 @@
       presenter: "Ryan Cotterell"
       website: "https://ryancotterell.github.io/"
     - date: "Mar. 2"
-      event_website: "http://lily.yale.edu/lily_talks/"
+      event_website: "https://yale-lily.github.io/lily_talks/"
       location: "AKW 200"
       type: "Neural Information Retrieval with Weak Supervision"
       presenter: "Hamed Zamani"
