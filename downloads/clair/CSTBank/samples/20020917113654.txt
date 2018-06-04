@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<!DOCTYPE DOCSENT SYSTEM './docsent.dtd'>
+<DOCSENT DID='http:%2F%2Fwww.msnbc.com%2Fnews%2F808936.asp?cp1=1.20020917113654'>
+    <HEAD>
+        <PDATE></PDATE>
+    </HEAD>
+    <BODY>
+        <HEADLINE>
+            <S SNO='1' PAR='1' RSNT='1'>
+                North Korea admits kidnappings
+            </S>
+        </HEADLINE>
+        <TEXT>
+            <S SNO='2' PAR='2' RSNT='1'>
+                North Korea admits kidnappings
+            </S>
+            <S SNO='3' PAR='3' RSNT='1'>
+                PYONGYANG, North Korea, Sept. 17    In an astonishing concession at a summit with Japan s Prime Minister Junichiro Koizumi, North Korean leader Kim Jong Il confirmed Tuesday that North Korean spies kidnapped Japanese citizens decades ago, and said at least four are still alive.
+            </S>
+            <S SNO='4' PAR='4' RSNT='1'>
+                Six of the 11 Tokyo has long claimed were abducted were confirmed to be dead, while one never entered the country.
+            </S>
+            <S SNO='5' PAR='4' RSNT='2'>
+                North Korea also admitted that two others who disappeared in Europe had also died.
+            </S>
+            <S SNO='6' PAR='5' RSNT='1'>
+                Although one of the victims, Megumi Yokota   who disappeared when she was 13   had died, her daughter was confirmed to be still alive in Pyongyang, the official said.
+            </S>
+            <S SNO='7' PAR='6' RSNT='1'>
+                Kim acknowledged that in the past some misguided people in his country had carried out the kidnappings to learn the Japanese language and assume their identities, the official said.
+            </S>
+            <S SNO='8' PAR='7' RSNT='1'>
+                I am getting a big shock.
+            </S>
+            <S SNO='9' PAR='7' RSNT='2'>
+                When I think of the families  feelings, the pain is unbearable,  Koizumi was quoted as telling Kim.
+            </S>
+            <S SNO='10' PAR='8' RSNT='1'>
+                How the people had died was not immediately clear.
+            </S>
+            <S SNO='11' PAR='8' RSNT='2'>
+                Japan demanded a thorough investigation of the deaths.
+            </S>
+        </TEXT>
+    </BODY>
+</DOCSENT>

@@ -1,0 +1,144 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Cross-document Structure Theory Corpus</title>
+</head>
+
+<body bgcolor="#CCFFFF">
+
+<p align="center"><font face="Arial Black" size="6">CSTBank</font></p>
+<p align="center"><b><font face="Arial">Computational Linguistics and 
+Information Retrieval (CLAIR)</font></b></p>
+
+<p align="center"><b><font face="Arial">University of Michigan</font></b></p>
+
+<hr>
+<p><font face="Arial Black">Example and explanation of CST sentrel files</font></p>
+
+<p><font face="Arial"><b>The table below shows 5 annotated pairs in the Milan sentrel
+with
+the relevant sentences.&nbsp; Note that since some CST relationships, such as
+subsumption, have directionality, the relationship between a given pair of
+sentences is expressed with respect to how the source sentence relates to the
+target sentence.</b></font></p>
+
+<table border="1" width="100%">
+  <tr>
+    <td width="36%"><b>Table entry:</b></td>
+    <td width="30%"><b>Source sentence:</b></td>
+    <td width="33%"><b>Target sentence:</b></td>
+    <td width="34%"><b>CST relationships assigned by judges</b></td>
+  </tr>
+  <tr>
+    <td width="36%"><font size="2">&lt;R SDID=&quot;23&quot; SSENT=&quot;2&quot;
+      TDID=&quot;43&quot; TSENT=&quot;2&quot;&gt;<br>
+  &lt;RELATION TYPE="18" JUDGE="J" /><br>
+&lt;/R></font></td>
+    <td width="30%"><font size="2">&lt;DOCSENT DID=&quot;23&quot; LANG="ENG"><br>
+...<br>
+      &lt;S SNO='2' PAR='2' RSNT='1'&gt;The Pirelli Building in Milan, Italy, was hit by<br>
+ a small plane.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="33%"><font size="2">&lt;DOCSENT DID=&quot;43&quot; LANG="ENG"><br>
+...<br>
+      &lt;S SNO='2' PAR='2' RSNT='1'&gt;Thursday: Smoke billows from the Pirelli building
+      after a small plane crashed into it.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="34%"><font size="2">Judge J: 18 (partial equivalence)</font>
+      <p><font size="2">Judge Z: none</font></td>
+  </tr>
+  <tr>
+    <td width="36%"><font size="2">&lt;R SDID=&quot;36&quot; SSENT=&quot;5&quot;
+      TDID=&quot;2&quot; TSENT=&quot;2&quot;&gt;<br>
+  &lt;RELATION TYPE="11" JUDGE="Z" /><br>
+&lt;/R></font></td>
+    <td width="30%"><font size="2">&lt;DOCSENT DID=&quot;36&quot; LANG="ENG"><br>
+...<br>
+      &lt;S SNO='5' PAR='5' RSNT='1'&gt;Dozens of people in the Pirelli building were injured<br>
+after several floors of the 32-story building caught fire, local reports said.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="33%"><font size="2">&lt;DOCSENT DID=&quot;2&quot; LANG="ENG"><br>
+...<br>
+      &lt;S SNO='2' PAR='2' RSNT='1'&gt;A small plane has hit a skyscraper<br>
+in central Milan, setting the top floors of the 30-story building on fire, an<br>
+Italian journalist told CNN.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="34%"><font size="2">Judge J: none</font>
+      <p><font size="2">Judge Z: 11 (follow-up)</font></td>
+  </tr>
+  <tr>
+    <td width="36%"><font size="2">&lt;R SDID=&quot;16&quot; SSENT=&quot;3&quot;
+      TDID=&quot;19&quot; TSENT=&quot;10&quot;&gt;<br>
+  &lt;RELATION TYPE=&quot;18&quot; JUDGE=&quot;Z&quot; /><br>
+&lt;/R></font></td>
+    <td width="30%"><font size="2">&lt;DOCSENT DID=&quot;16&quot; LANG="ENG"><br>
+...<br>
+     &lt;S SNO='3' PAR='3' RSNT='1'&gt;(ABCNEWS.com)  A small plane crashed into a skyscraper<br>
+in downtown Milan today, setting several floors of the 30-story building on fire.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="33%"><font size="2">&lt;DOCSENT DID=&quot;19&quot; LANG="ENG"><br>
+...<br>
+      &lt;S SNO='10' PAR='10' RSNT='1'&gt;Police and ambulances rushed to the building in
+      downtown Milan.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="34%"><font size="2">Judge J: none</font>
+      <p><font size="2">Judge Z: 18 (partial equivalence)</font></td>
+  </tr>
+  <tr>
+    <td width="36%"><font size="2">&lt;R SDID=&quot;36&quot; SSENT=&quot;13&quot;
+      TDID=&quot;21&quot; TSENT=&quot;4&quot;&gt;<br>
+  &lt;RELATION TYPE=&quot;15&quot; JUDGE=&quot;J&quot; /><br>
+&lt;/R></font></td>
+    <td width="30%"><font size="2">&lt;DOCSENT DID=&quot;36&quot; LANG="ENG"><br>
+...<br>
+      &lt;S SNO='13' PAR='13' RSNT='1'&gt;The Pirelli building houses the administrative<br>
+ offices of the local Lombardy region and sits next to the city's central train station.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="33%"><font size="2">&lt;DOCSENT DID=&quot;21&quot; LANG="ENG"><br>
+...<br>
+      &lt;S SNO='4' PAR='4' RSNT='1'&gt;Smoke poured out of the 30-story building and there
+      was no immediate word of any victims.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="34%"><font size="2">Judge J: 15 (description)</font>
+      <p><font size="2">Judge Z: none</font></td>
+  </tr>
+  <tr>
+    <td width="36%"><font size="2">&lt;R SDID=&quot;36&quot; SSENT=&quot;13&quot;
+      TDID=&quot;21&quot; TSENT=&quot;5&quot;&gt;<br>
+&lt;RELATION TYPE=&quot;4&quot; JUDGE="J"/><br>
+&lt;RELATION TYPE=&quot;4&quot; JUDGE=&quot;Z&quot;/&gt;<br>
+&lt;/R></font></td>
+    <td width="30%"><font size="2">&lt;DOCSENT DID=&quot;36&quot; LANG="ENG"><br>
+...<br>
+      &lt;S SNO='13' PAR='13' RSNT='1'&gt;The Pirelli building houses the administrative<br>
+ offices of the local Lombardy region and sits next to the city's central train&nbsp;
+      station.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="33%"><font size="2">&lt;DOCSENT DID=&quot;21&quot; LANG="ENG"><br>
+...<br>
+      &lt;S SNO='5' PAR='5' RSNT='1'&gt;The building houses the regional government offices,
+      authorities said.&lt;/S><br>
+...<br>
+&lt;/DOCSENT&gt;</font></td>
+    <td width="34%"><font size="2">Judge J: 4 (subsumption)</font>
+      <p><font size="2">Judge Z: 4 (subsumption)</font></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+
+</body>
+
+</html>

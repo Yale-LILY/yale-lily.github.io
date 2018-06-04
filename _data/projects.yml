@@ -5,3 +5,14 @@ terms:
     link: /projects_f2017/
   - term: Spring 2017
     link: /projects_s2017/
+
+major-projects:
+  - title: All About NLP (AAN)
+    link: /aan/
+    image: "/images/aan.png"
+  - title: Cross-Lingual Information Retrieval
+    link: /clir/
+    image: "/images/clir.png"
+  - title: Seq2SQL and Dialogue
+    link: /seq2sql/
+    image: "/images/typesql.png"

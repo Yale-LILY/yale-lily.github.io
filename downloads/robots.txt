@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /~radev/chemical/Krypton
+Disallow: /~radev/chemical/Silver
+Disallow: /~radev/chemical/Vanadium
+Disallow: /~radev/chemical/Zinc
+

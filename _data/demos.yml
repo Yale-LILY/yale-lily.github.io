@@ -1,0 +1,6 @@
+demos:
+    - title: <a href="/demos/demos/lexrank/lexrankmead.html">Lexical networks and lexical centrality</a>
+    - title: <a href="/demos/demos/tumbl/index.html">Graph-based semi-supervised learning</a>
+    #- title: <a href="http://tangra.cs.yale.edu/subgroup_detector/index.php">ACL Anthology Network (previous version temporarily unavailable)</a>
+    #- title: <a href="http://tangra.cs.yale.edu/subgroup_detector/index.php">Subgroup detection through signed attitude network paritioning (temporarily unavailable)</a>
+    #- title: <a href="http://tangra.cs.yale.edu/subgroup_detector/index.php">Subgroup detection through attitude vector clustering (temporarily unavailable)</a>

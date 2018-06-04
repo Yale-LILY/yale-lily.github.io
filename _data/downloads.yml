@@ -1,0 +1,31 @@
+downloads:
+    - title: AAN previous version # <a href="http://clair.eecs.umich.edu/aan">AAN (previous version)</a>
+      description: The AAN corpus includes three networks, paper citation, author citation and author collaboration.  The paper citation network (paper-citation-network.txt) is a directed network composed of nodes labeled with paper ids which correspond to individual papers (acl-metadata.txt).  The author citation network (author-citation-network.txt), a directed network, is compiled from the paper network and the metadata file.  For each citation in the paper network, where paper A cites paper B, and for each author in paper A, an edge is created for that author to each author in paper B.  The author collaboration network (author-collaboration-network.txt), an undirected network, is composed of authors where, for each paper in the paper citation network, an edge is created between each collaborator for that paper. 
+    - title: <a href="/downloads/homepage/downloads/humor-corpus.tar.gz">Cartoons</a> 
+    - title: Clairlib
+      description: The Clair library (i.e. Clairlib) is a suite of open-source Perl modules intended to simplify a number of generic tasks in natural language processing (NLP), information retrieval (IR), and network analysis (NA). Its architecture also allows for external software to be plugged in with very little effort. (temporarily unavailable)
+    - title: CreateDebate 
+      description:  <a href="/downloads/homepage/downloads/createdebate.tar.gz">Download</a>
+    - title: <a href="/downloads/CSTBank/index.html">Cross-document Structure Theory Bank</a>
+    - title: <a href="/downloads/fraud/index.html">FRAUD</a>
+      description:  CLAIR collection of fraud email. 
+    - title: MEAD
+      description: A prerequisite for all Clairlib versions (temporarily unavailable)
+    - title: MEAD Evaluation add-on
+      description: An Evaluation Framekwork for Extractive Summarization (temporarily unavailable)
+    - title:  <a href="/downloads/homepage/downloads/near_duplicate/index.html">Near Duplicate Detection</a>
+      description: A C++ package for detecting near-duplicate documents in a large corpus
+    - title:  <a href="/downloads/homepage/downloads/node_similarity/index.html">Node Similarity Measures  </a>
+      description: A C++ library for computing similarity between nodes in a graph. The library supports the following similarity measures <ul> <li> SimRank</li> <li>Random walk based similarity measure</li> </ul>
+    - title:  <a href="/downloads/homepage/downloads/aan_session/index.html">Publication Classification</a>
+      description: Contains 383 papers manually classified into 31 research areas using session information.
+    - title:  <a href="/downloads/homepage/downloads/aan_relational/index.html">Relational Classification Dataset</a>
+      description: <ul> <li> Contains 380 papers manually classified into the three research areas of Machine Translation, Dependency Parsing and Summarization. </li> <li>Contains Authorship information, venue information, title and citation information for all the papers.</li> </ul>
+    - title: Similarity
+      description:  <a href="/downloads/homepage/downloads/clustering-datasets.tar.gz">Download</a>
+    - title: <a href="/downloads/homepage/downloads/string_similarity/index.html">String Similarity Measures</a>
+      description: A C++ package for computing similarity between strings. The package supports the following similarity measures <ul> <li>Cosine Similarity</li> <li> Jaccard Similarity</li> <li> Similarity based on Levenshtein Distance</li> <li> P-Spectrum Kernel</li> <li> Length-Weighted Kernel</li> </ul>
+    - title: SUMMBank
+      description:  a collection of summaries used in the JHU workshop in 2001 (coming soon) #<a href="/downloads/fraud/index.html">Download</a>
+    - title: Surveyor
+      description:  Paper collection. (coming soon) #<a href="/downloads/surveyor/data/surveyor_complete_collection.tar.gz">Download</a>

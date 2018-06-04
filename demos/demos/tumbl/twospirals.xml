@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<tumbl xmlns="http://tangra.si.umich.edu/clair/tumbl"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://tangra.si.umich.edu/clair/tumbl tumbl.xsd">
+<object id="13" label="0.500000" x="273.000000" y="112.000000"/>
+<object id="38" label="0.500000" x="350.000000" y="433.000000"/>
+<feature id="F8" x="621.000000" y="363.000000"/>
+<feature id="F19" x="426.000000" y="464.000000"/>
+<object id="4" label="0.500000" x="415.000000" y="72.000000"/>
+<feature id="F16" x="327.000000" y="39.000000"/>
+<object id="16" label="0.500000" x="546.000000" y="387.000000"/>
+<object id="35" label="0.500000" x="252.000000" y="297.000000"/>
+<feature id="F9" x="709.000000" y="50.000000"/>
+<feature id="F5" x="722.000000" y="213.000000"/>
+<object id="6" label="1.000000" x="397.000000" y="359.000000"/>
+<object id="11" label="0.500000" x="669.000000" y="133.000000"/>
+<feature id="F11" x="413.000000" y="275.000000"/>
+<feature id="F3" x="506.000000" y="65.000000"/>
+<object id="21" label="0.500000" x="467.000000" y="233.000000"/>
+<feature id="F17" x="246.000000" y="213.000000"/>
+<feature id="F10" x="426.000000" y="160.000000"/>
+<object id="2" label="0.500000" x="566.000000" y="215.000000"/>
+<feature id="F14" x="636.000000" y="66.000000"/>
+<feature id="F15" x="507.000000" y="-14.000000"/>
+<feature id="F7" x="473.000000" y="387.000000"/>
+<object id="20" label="0.500000" x="514.000000" y="467.000000"/>
+<object id="28" label="0.500000" x="396.000000" y="217.000000"/>
+<object id="32" label="0.500000" x="589.000000" y="20.000000"/>
+<object id="40" label="0.500000" x="665.000000" y="-9.000000"/>
+<object id="7" label="0.500000" x="494.000000" y="161.000000"/>
+<feature id="F13" x="661.000000" y="201.000000"/>
+<object id="29" label="0.000000" x="475.000000" y="310.000000"/>
+<feature id="F12" x="555.000000" y="313.000000"/>
+<feature id="F21" x="521.000000" y="252.000000"/>
+<object id="17" label="0.500000" x="687.000000" y="301.000000"/>
+<object id="1" label="0.500000" x="624.000000" y="266.000000"/>
+<feature id="F18" x="287.000000" y="375.000000"/>
+<feature id="F20" x="584.000000" y="161.000000"/>
+<feature id="F6" x="340.000000" y="298.000000"/>
+<object id="18" label="0.500000" x="733.000000" y="123.000000"/>
+<object id="25" label="0.500000" x="320.000000" y="220.000000"/>
+<feature id="F4" x="341.000000" y="136.000000"/>
+<object id="3" label="0.500000" x="574.000000" y="107.000000"/>
+<object id="33" label="0.500000" x="412.000000" y="-5.000000"/>
+<edge directed="false" from="3" to="F3" />
+<edge directed="false" from="2" to="F21" />
+<edge directed="false" from="40" to="F9" />
+<edge directed="false" from="13" to="F16" />
+<edge directed="false" from="17" to="F8" />
+<edge directed="false" from="16" to="F8" />
+<edge directed="false" from="33" to="F16" />
+<edge directed="false" from="4" to="F4" />
+<edge directed="false" from="25" to="F4" />
+<edge directed="false" from="16" to="F7" />
+<edge directed="false" from="38" to="F19" />
+<edge directed="true" from="29" to="F11" />
+<edge directed="false" from="35" to="F18" />
+<edge directed="false" from="20" to="F19" />
+<edge directed="false" from="17" to="F5" />
+<edge directed="false" from="7" to="F10" />
+<edge directed="false" from="1" to="F12" />
+<edge directed="false" from="28" to="F10" />
+<edge directed="false" from="25" to="F6" />
+<edge directed="false" from="33" to="F15" />
+<edge directed="false" from="38" to="F18" />
+<edge directed="false" from="35" to="F17" />
+<edge directed="false" from="32" to="F15" />
+<edge directed="false" from="18" to="F9" />
+<edge directed="false" from="18" to="F5" />
+<edge directed="false" from="21" to="F21" />
+<edge directed="false" from="3" to="F20" />
+<edge directed="false" from="32" to="F14" />
+<edge directed="false" from="13" to="F17" />
+<edge directed="true" from="29" to="F12" />
+<edge directed="false" from="2" to="F20" />
+<edge directed="false" from="11" to="F14" />
+<edge directed="false" from="1" to="F13" />
+<edge directed="false" from="4" to="F3" />
+<edge directed="false" from="28" to="F11" />
+<edge directed="true" from="6" to="F7" />
+<edge directed="false" from="11" to="F13" />
+<edge directed="true" from="6" to="F6" />
+</tumbl>

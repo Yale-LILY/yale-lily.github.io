@@ -1,0 +1,97 @@
+body {
+	margin:0;
+	padding:0;
+	border:0;			/* This removes the border around the viewport in old versions of IE */
+	width:100%;
+	min-width:600px;    	/* Minimum width of layout - remove line if not required */
+					/* The min-width property does not work in old versions of Internet Explorer */
+	font-size: 16px;
+}
+
+cite {
+       font-style: italic;
+       }
+
+h1, h2, h3 {
+	margin:.8em 0 .2em 0;
+	padding:0;
+        clear: left;
+}
+
+ul.links {
+           clear: left;
+           }
+
+p {
+	margin:.4em 0 .8em 0;
+	padding:0;
+}
+img {
+	margin:10px 0 5px;
+}
+
+
+img.logo {
+           float: left;
+           margin-right: 1em;
+           margin-bottom: 1em;
+           border: thin solid black;
+           }
+
+/* 'widths' sub menu */
+#layoutdims {
+	clear:both;
+	border-top:4px solid #000;
+	margin:0;
+	padding:6px 15px !important;
+	text-align:right;
+}
+/* column container */
+.colmask {
+	position:relative;	/* This fixes the IE7 overflow hidden bug */
+	clear:both;
+	float:left;
+	width:100%;			/* width of whole page */
+	overflow:hidden;		/* This chops off any overhanging divs */
+}
+/* common column settings */
+.colright,
+.colmid,
+.colleft {
+	float:left;
+	width:100%;
+	position:relative;
+}
+.col1,
+.col2,
+.col3 {
+	float:left;
+	position:relative;
+	padding:0 0 1em 0;
+	overflow:hidden;
+}
+/* 2 Column (right menu) settings */
+.rightmenu .colleft {
+	right:25%;			/* right column width */
+}
+.rightmenu .col1 {
+	width:71%;			/* left column content width (left column width minus left and right padding) */
+	left:27%;			/* (right column width) plus (left column left padding) */
+}
+.rightmenu .col2 {
+	width:21%;			/* right column content width (right column width minus left and right padding) */
+	left:31%;			/* (right column width) plus (left column left and right padding) plus (right column left padding) */
+}
+
+ul.people {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            }
+
+ul.links {
+           list-style-type: none;
+           padding: 0;
+           margin: 0;
+           margin-left: 1.5em; 
+           }

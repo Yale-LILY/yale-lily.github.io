@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE DOCSENT SYSTEM "./docsent.dtd" >
+<DOCSENT DID='D-19970731_013.e' DOCNO='224' LANG='ENG' CORR-DOC='D-19970731_012.c'>
+<BODY>
+<HEADLINE><S PAR="1" RSNT="1" SNO="1"> CE thanks civil servants for good work </S></HEADLINE>
+<TEXT>  
+<S PAR='2' RSNT='1' SNO='2'>The Chief Executive of the Hong Kong Special Administrative Region (HKSAR), Mr Tung Chee Hwa, today (Thursday) thanked civil servants who had worked exceedingly hard in making handover-related events successful.</S>   
+<S PAR='3' RSNT='1' SNO='3'>Speaking at a reception to celebrate the success of the events, Mr Tung stressed that smooth running of the handover ceremony, inauguration ceremony, celebration ceremony and reception for the establishment of the HKSAR signified a good beginning of the Special Administrative Region.</S>   
+<S PAR='4' RSNT='1' SNO='4'>Mr Tung said the contribution and hard work of all those involved would be recorded in history.</S> 
+<S PAR='4' RSNT='2' SNO='5'>Their excellent performance won high praise from Chinese leaders and international guests.</S>   
+<S PAR='5' RSNT='1' SNO='6'>About 300 civil servants attended the reception held at Government House.</S>  </TEXT>
+</BODY>
+</DOCSENT>

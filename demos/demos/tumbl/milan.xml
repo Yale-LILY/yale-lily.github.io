@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<tumbl xmlns="http://tangra.si.umich.edu/clair/tumbl"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://tangra.si.umich.edu/clair/tumbl tumbl.xsd">
+<object id="What was the plane's destination?" label="0.5" classification="1" x="240.000000" y="139.000000"/>
+<feature id="plane" x="112.000000" y="120.000000"/>
+<feature id="destin" x="20.000000" y="160.000000"/>
+<feature id="Italy" x="112.000000" y="200.000000"/>
+<feature id="Rome" x="20.000000" y="240.000000"/>
+<feature id="Locarno" x="112.000000" y="280.000000"/>
+<feature id="Switzerland" x="20.000000" y="320.000000"/>
+<feature id="Milan" x="112.000000" y="360.000000"/>
+<feature id="Linate" x="20.000000" y="400.000000"/>
+<feature id="flight" x="112.000000" y="440.000000"/>
+<feature id="airport" x="20.000000" y="480.000000"/>
+<feature id="head" x="112.000000" y="520.000000"/>
+<object id="The plane was destined for Italy's capital Rome." label="0.5" classification="1" x="240.000000" y="210.000000"/>
+<object id="The plane was en route from Locarno in Switzerland to Rome, Italy." label="0.5" classification="1" x="240.000000" y="290.000000"/>
+<object id="The pilot was on a 20-minute flight from Locarno, Switzerland, to Milan" label="0.5" classification="1" x="240.000000" y="370.000000"/>
+<object id="It had taken off from Locarno, Switzerland and was destined to Linate in Milan." label="0.5" classification="1" x="240.000000" y="450.000000"/>
+<object id="Linate airport is near Milan." label="0.5" classification="0" x="240.000000" y="530.000000"/>
+<object id="He was headed for the airport." label="0.5" classification="0" x="240.000000" y="610.000000"/>
+<edge directed="true" from="What was the plane's destination?" to="destin" />
+<edge directed="false" from="The plane was destined for Italy's capital Rome." to="plane" />
+<edge directed="false" from="The plane was destined for Italy's capital Rome." to="Italy" />
+<edge directed="false" from="The plane was destined for Italy's capital Rome." to="destin" />
+<edge directed="false" from="The plane was en route from Locarno in Switzerland to Rome, Italy." to="Locarno" />
+<edge directed="false" from="Linate airport is near Milan." to="Linate" />
+<edge directed="false" from="It had taken off from Locarno, Switzerland and was destined to Linate in Milan." to="Milan" />
+<edge directed="false" from="The plane was en route from Locarno in Switzerland to Rome, Italy." to="Switzerland" />
+<edge directed="false" from="The pilot was on a 20-minute flight from Locarno, Switzerland, to Milan" to="Locarno" />
+<edge directed="false" from="The pilot was on a 20-minute flight from Locarno, Switzerland, to Milan" to="flight" />
+<edge directed="false" from="The plane was en route from Locarno in Switzerland to Rome, Italy." to="Italy" />
+<edge directed="false" from="Linate airport is near Milan." to="Milan" />
+<edge directed="false" from="It had taken off from Locarno, Switzerland and was destined to Linate in Milan." to="Locarno" />
+<edge directed="false" from="It had taken off from Locarno, Switzerland and was destined to Linate in Milan." to="destin" />
+<edge directed="false" from="The pilot was on a 20-minute flight from Locarno, Switzerland, to Milan" to="Switzerland" />
+<edge directed="true" from="He was headed for the airport." to="head" />
+<edge directed="false" from="It had taken off from Locarno, Switzerland and was destined to Linate in Milan." to="Linate" />
+<edge directed="false" from="The plane was en route from Locarno in Switzerland to Rome, Italy." to="Rome" />
+<edge directed="false" from="The plane was destined for Italy's capital Rome." to="Rome" />
+<edge directed="false" from="Linate airport is near Milan." to="airport" />
+<edge directed="true" from="He was headed for the airport." to="airport" />
+<edge directed="false" from="The pilot was on a 20-minute flight from Locarno, Switzerland, to Milan" to="Milan" />
+<edge directed="false" from="It had taken off from Locarno, Switzerland and was destined to Linate in Milan." to="Switzerland" />
+<edge directed="true" from="What was the plane's destination?" to="plane" />
+</tumbl>
