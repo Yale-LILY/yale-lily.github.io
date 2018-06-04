@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<title>Downloading fraud emails</title>
+<link rel="stylesheet" href="http://clair.si.umich.edu/standard.css">
+</head>
+<body  bgcolor="#FFFFFF" marginheight="0" topmargin="0" leftmargin="2" marginwidth="2">
+<br>
+<table  cellspacing="0" cellpadding="0"  border="0" width="100%">
+	<tr>
+      	<td width="20%" valign="top">
+		</td>
+      	<td valign="top">
+				<h2>Corpus Info</h2>Format: Berkeley mbox format<br> Content: 2,978 messages, mostly from 2001 to 2007 <br> Credit: these message are collected by <A HREF='http://tangra.si.umich.edu/~radev/'>Dragomir R. Radev</A> <br> Usage: Use Mail::Mbox::MessageParser CPAN module to parse this corpus<H2>Verification</H2>For verfication purposes we require you submit an email for download.<br>Your email will not be sold or used for anything other than possible information about updates to the package you download.<FORM action="http://clair.si.umich.edu/fraud/downloads.cgi" method=get><P><input type=hidden name=package value=FRAUD.gz> <LABEL> E-Mail Address</LABEL> <INPUT name=email>
+<h4>Thank you for using CLAIR collection of fraud emails. If you end up using this resource, please contact our lab to obtain the appropriate citation.</h4>
+<INPUT type=submit value=Send> <INPUT type=reset> </P></FORM><br><br>
+				Return to <a href="http://tangra.si.umich.edu/clair/">Clair home page</a>.
+    </td></tr>
+ </table></body></html>

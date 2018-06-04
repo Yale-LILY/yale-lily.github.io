@@ -1,10 +1,17 @@
 - term: Spring 2018 Events
   events:
+    - date: "March 25 @4:00pm-5:00pm"
+      location: "17 Hillhouse Rm. 335"
+      type: "Reasoning-Driven Question Answering"
+      presenter: "Daniel Khashabi"
+      website: "http://www.cis.upenn.edu/~danielkh/"
+      event_website: "http://www.cis.upenn.edu/~danielkh/files/2018_semanticilp/Upenn_Clunch_Nov_2017.pdf"
     - date: "Apr. 27 @4:00pm-5:00pm"
       location: "AKW 200"
-      type: "TBD"
+      type: "Universal Information Extraction"
       presenter: "Heng Ji"
       website: "http://nlp.cs.rpi.edu/hengji.html"
+      event_website: "https://cpsc.yale.edu/event/cs-colloquium-heng-ji-rensselaer-polytechnic-institute"
     - date: "Apr. 20 @3:00pm-4:00pm"
       location: "AKW 200"
       type: "Robots that Learn Grounded Language Through Interactive Dialog"

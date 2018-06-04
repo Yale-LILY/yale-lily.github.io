@@ -1,0 +1,1471 @@
+<?xml version="1.0"?>
+<tumbl xmlns="http://tangra.si.umich.edu/clair/tumbl"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://tangra.si.umich.edu/clair/tumbl tumbl.xsd">
+<object id="o.1" label="1" classification="0"/>
+<object id="o.2" classification="1"/>
+<object id="o.3" classification="1"/>
+<object id="o.4" classification="1"/>
+<object id="o.5" classification="0"/>
+<object id="o.6" classification="0"/>
+<object id="o.7" classification="1"/>
+<object id="o.8" classification="1"/>
+<object id="o.9" classification="1"/>
+<object id="o.10" classification="1"/>
+<object id="o.11" classification="1"/>
+<object id="o.12" classification="1"/>
+<object id="o.13" classification="1"/>
+<object id="o.14" classification="1"/>
+<object id="o.15" classification="1"/>
+<object id="o.16" classification="1"/>
+<object id="o.17" classification="0"/>
+<object id="o.18" classification="0"/>
+<object id="o.19" classification="1"/>
+<object id="o.20" classification="1"/>
+<object id="o.21" classification="1"/>
+<object id="o.22" classification="0"/>
+<object id="o.23" classification="1"/>
+<object id="o.24" classification="0"/>
+<object id="o.25" classification="1"/>
+<object id="o.26" classification="1"/>
+<object id="o.27" classification="1"/>
+<object id="o.28" classification="1"/>
+<object id="o.29" classification="1"/>
+<object id="o.30" classification="1"/>
+<object id="o.31" classification="1"/>
+<object id="o.32" classification="1"/>
+<object id="o.33" classification="1"/>
+<object id="o.34" classification="1"/>
+<object id="o.35" classification="0"/>
+<object id="o.36" classification="1"/>
+<object id="o.37" classification="1"/>
+<object id="o.38" classification="0"/>
+<object id="o.39" classification="1"/>
+<object id="o.40" classification="0"/>
+<object id="o.41" classification="0"/>
+<object id="o.42" classification="1"/>
+<object id="o.43" classification="1"/>
+<object id="o.44" classification="1"/>
+<object id="o.45" classification="1"/>
+<object id="o.46" classification="1"/>
+<object id="o.47" classification="1"/>
+<object id="o.48" classification="1"/>
+<object id="o.49" classification="1"/>
+<object id="o.50" classification="1"/>
+<object id="o.51" classification="0"/>
+<object id="o.52" classification="1"/>
+<object id="o.53" classification="0"/>
+<object id="o.54" classification="1"/>
+<object id="o.55" classification="0"/>
+<object id="o.56" classification="1"/>
+<object id="o.57" classification="1"/>
+<object id="o.58" classification="0"/>
+<object id="o.59" classification="1"/>
+<object id="o.60" classification="1"/>
+<object id="o.61" classification="1"/>
+<object id="o.62" classification="1"/>
+<object id="o.63" classification="0"/>
+<object id="o.64" classification="1"/>
+<object id="o.65" classification="0"/>
+<object id="o.66" classification="0"/>
+<object id="o.67" classification="1"/>
+<object id="o.68" classification="0"/>
+<object id="o.69" classification="0"/>
+<object id="o.70" classification="0"/>
+<object id="o.71" classification="0"/>
+<object id="o.72" classification="0"/>
+<object id="o.73" classification="1"/>
+<object id="o.74" classification="0"/>
+<object id="o.75" classification="1"/>
+<object id="o.76" classification="0"/>
+<object id="o.77" classification="1"/>
+<object id="o.78" classification="0"/>
+<object id="o.79" classification="1"/>
+<object id="o.80" classification="1"/>
+<object id="o.81" classification="1"/>
+<object id="o.82" classification="0"/>
+<object id="o.83" classification="1"/>
+<object id="o.84" classification="0"/>
+<object id="o.85" classification="1"/>
+<object id="o.86" classification="1"/>
+<object id="o.87" classification="0"/>
+<object id="o.88" classification="1"/>
+<object id="o.89" classification="1"/>
+<object id="o.90" classification="0"/>
+<object id="o.91" classification="1"/>
+<object id="o.92" classification="0"/>
+<object id="o.93" classification="1"/>
+<object id="o.94" classification="1"/>
+<object id="o.95" classification="0"/>
+<object id="o.96" classification="1"/>
+<object id="o.97" classification="0"/>
+<object id="o.98" classification="1"/>
+<object id="o.99" classification="1"/>
+<object id="o.100" classification="0"/>
+<object id="o.101" classification="0"/>
+<object id="o.102" classification="1"/>
+<object id="o.103" classification="0"/>
+<object id="o.104" classification="1"/>
+<object id="o.105" classification="1"/>
+<object id="o.106" classification="1"/>
+<object id="o.107" classification="0"/>
+<object id="o.108" classification="1"/>
+<object id="o.109" classification="1"/>
+<object id="o.110" classification="1"/>
+<object id="o.111" classification="0"/>
+<object id="o.112" classification="1"/>
+<object id="o.113" classification="0"/>
+<object id="o.114" classification="0"/>
+<object id="o.115" classification="1"/>
+<object id="o.116" classification="0"/>
+<object id="o.117" classification="1"/>
+<object id="o.118" classification="1"/>
+<object id="o.119" classification="1"/>
+<object id="o.120" classification="1"/>
+<object id="o.121" classification="0"/>
+<object id="o.122" classification="1"/>
+<object id="o.123" classification="1"/>
+<object id="o.124" classification="1"/>
+<object id="o.125" classification="0"/>
+<object id="o.126" label="0" classification="0"/>
+<object id="o.127" classification="1"/>
+<object id="o.128" classification="1"/>
+<object id="o.129" classification="1"/>
+<object id="o.130" classification="0"/>
+<object id="o.131" classification="1"/>
+<object id="o.132" classification="1"/>
+<object id="o.133" classification="1"/>
+<object id="o.134" classification="1"/>
+<object id="o.135" classification="0"/>
+<object id="o.136" classification="0"/>
+<object id="o.137" classification="0"/>
+<object id="o.138" classification="1"/>
+<object id="o.139" classification="0"/>
+<object id="o.140" classification="1"/>
+<object id="o.141" classification="1"/>
+<object id="o.142" classification="1"/>
+<object id="o.143" classification="1"/>
+<object id="o.144" classification="1"/>
+<object id="o.145" classification="1"/>
+<object id="o.146" classification="1"/>
+<object id="o.147" classification="0"/>
+<object id="o.148" classification="0"/>
+<object id="o.149" classification="0"/>
+<object id="o.150" classification="1"/>
+<object id="o.151" classification="1"/>
+<object id="o.152" classification="0"/>
+<object id="o.153" classification="1"/>
+<object id="o.154" classification="0"/>
+<object id="o.155" classification="1"/>
+<object id="o.156" classification="0"/>
+<object id="o.157" classification="1"/>
+<object id="o.158" classification="1"/>
+<object id="o.159" classification="1"/>
+<object id="o.160" classification="1"/>
+<object id="o.161" classification="0"/>
+<object id="o.162" classification="0"/>
+<object id="o.163" classification="1"/>
+<object id="o.164" classification="1"/>
+<object id="o.165" classification="1"/>
+<object id="o.166" classification="1"/>
+<object id="o.167" classification="1"/>
+<object id="o.168" classification="0"/>
+<object id="o.169" classification="1"/>
+<object id="o.170" classification="1"/>
+<object id="o.171" classification="1"/>
+<object id="o.172" classification="1"/>
+<object id="o.173" classification="1"/>
+<object id="o.174" classification="0"/>
+<object id="o.175" classification="1"/>
+<object id="o.176" classification="1"/>
+<object id="o.177" classification="1"/>
+<object id="o.178" classification="1"/>
+<object id="o.179" classification="0"/>
+<object id="o.180" classification="1"/>
+<object id="o.181" classification="1"/>
+<object id="o.182" classification="0"/>
+<object id="o.183" classification="1"/>
+<object id="o.184" classification="0"/>
+<object id="o.185" classification="1"/>
+<object id="o.186" classification="0"/>
+<object id="o.187" classification="0"/>
+<object id="o.188" classification="1"/>
+<object id="o.189" classification="1"/>
+<object id="o.190" classification="1"/>
+<object id="o.191" classification="1"/>
+<object id="o.192" classification="1"/>
+<object id="o.193" classification="1"/>
+<object id="o.194" classification="0"/>
+<object id="o.195" classification="0"/>
+<object id="o.196" classification="1"/>
+<object id="o.197" classification="0"/>
+<object id="o.198" classification="1"/>
+<object id="o.199" classification="1"/>
+<object id="o.200" classification="1"/>
+<feature id="x11_organization" />
+<feature id="x01_PS" />
+<feature id="x11_refund" />
+<feature id="x01_machine" />
+<feature id="x01_increases" />
+<feature id="x01_sales" />
+<feature id="x11_trillion" />
+<feature id="x02_set" />
+<feature id="x0_among" />
+<feature id="x11_capacity" />
+<feature id="x02_paying" />
+<feature id="x02_raise" />
+<feature id="x11_imports" />
+<feature id="x01_investigation" />
+<feature id="x11_securities" />
+<feature id="x02_store" />
+<feature id="x11_categories" />
+<feature id="x01_talks" />
+<feature id="x02_held" />
+<feature id="x01_designer" />
+<feature id="x01_credits" />
+<feature id="x02_bring" />
+<feature id="x11_board" />
+<feature id="x02_reducing" />
+<feature id="x01_asbestos" />
+<feature id="x02_channel" />
+<feature id="x11_presence" />
+<feature id="x02_show" />
+<feature id="x02_announced" />
+<feature id="x11_prepayment" />
+<feature id="x02_eliminate" />
+<feature id="x11_Cray-3" />
+<feature id="x01_debts" />
+<feature id="x11_program" />
+<feature id="x02_receive" />
+<feature id="x02_describe" />
+<feature id="x11_earnings" />
+<feature id="x0_for" />
+<feature id="x11_financing" />
+<feature id="x01_Korea" />
+<feature id="x02_give" />
+<feature id="x01_Hatch" />
+<feature id="x02_is" />
+<feature id="x02_holding" />
+<feature id="x01_force" />
+<feature id="x02_make" />
+<feature id="x01_president" />
+<feature id="x01_drain" />
+<feature id="x11_customers" />
+<feature id="x02_protect" />
+<feature id="x02_completed" />
+<feature id="x0_in" />
+<feature id="x02_improve" />
+<feature id="x02_paid" />
+<feature id="x01_pages" />
+<feature id="x02_needing" />
+<feature id="x11_regulation" />
+<feature id="x11_interests" />
+<feature id="x01_news" />
+<feature id="x11_increases" />
+<feature id="x02_received" />
+<feature id="x01_director" />
+<feature id="x02_acquired" />
+<feature id="x01_effects" />
+<feature id="x11_performance" />
+<feature id="x11_they" />
+<feature id="x01_one" />
+<feature id="x11_billion" />
+<feature id="x01_risk" />
+<feature id="x11_Newsweek" />
+<feature id="x11_economy" />
+<feature id="x11_seats" />
+<feature id="x11_end" />
+<feature id="x01_receipts" />
+<feature id="x02_were" />
+<feature id="x02_block" />
+<feature id="x11_products" />
+<feature id="x02_turned" />
+<feature id="x11_case" />
+<feature id="x11_Hampshire" />
+<feature id="x11_rising" />
+<feature id="x11_members" />
+<feature id="x02_left" />
+<feature id="x11_front" />
+<feature id="x02_claiming" />
+<feature id="x11_watches" />
+<feature id="x01_offer" />
+<feature id="x11_list" />
+<feature id="x11_deaths" />
+<feature id="x11_cancer" />
+<feature id="x01_forecast" />
+<feature id="x02_stored" />
+<feature id="x11_versions" />
+<feature id="x11_process" />
+<feature id="x11_Magna" />
+<feature id="x11_point" />
+<feature id="x11_4.75" />
+<feature id="x11_N.V." />
+<feature id="x11_debt" />
+<feature id="x01_demand" />
+<feature id="x02_expect" />
+<feature id="x01_Inc." />
+<feature id="x11_telephone" />
+<feature id="x02_reflects" />
+<feature id="x11_investors" />
+<feature id="x02_complete" />
+<feature id="x01_lack" />
+<feature id="x11_stocks" />
+<feature id="x02_issue" />
+<feature id="x11_advertisers" />
+<feature id="x11_world" />
+<feature id="x02_rose" />
+<feature id="x11_president" />
+<feature id="x11_problem" />
+<feature id="x01_circulation" />
+<feature id="x01_marketing" />
+<feature id="x01_board" />
+<feature id="x02_developed" />
+<feature id="x11_subsidiary" />
+<feature id="x02_fell" />
+<feature id="x11_bin" />
+<feature id="x11_PCs" />
+<feature id="x0_about" />
+<feature id="x02_stressed" />
+<feature id="x02_use" />
+<feature id="x02_opened" />
+<feature id="x02_been" />
+<feature id="x11_1986" />
+<feature id="x02_follows" />
+<feature id="x01_data" />
+<feature id="x11_screens" />
+<feature id="x11_parlors" />
+<feature id="x02_named" />
+<feature id="x11_imbalances" />
+<feature id="x02_slash" />
+<feature id="x02_boosted" />
+<feature id="x02_sells" />
+<feature id="x0_above" />
+<feature id="x01_beneficiaries" />
+<feature id="x01_profit" />
+<feature id="x01_Rexinger" />
+<feature id="x01_billion" />
+<feature id="x02_faces" />
+<feature id="x11_homes" />
+<feature id="x01_competition" />
+<feature id="x01_manager" />
+<feature id="x11_1990" />
+<feature id="x11_1991" />
+<feature id="x0_per" />
+<feature id="x02_are" />
+<feature id="x02_owns" />
+<feature id="x11_types" />
+<feature id="x01_attention" />
+<feature id="x01_members" />
+<feature id="x11_label" />
+<feature id="x02_acquire" />
+<feature id="x11_fields" />
+<feature id="x02_settled" />
+<feature id="x0_under" />
+<feature id="x01_payments" />
+<feature id="x0_throughout" />
+<feature id="x01_precedent" />
+<feature id="x01_share" />
+<feature id="x01_decline" />
+<feature id="x01_hostage" />
+<feature id="x02_giving" />
+<feature id="x02_boost" />
+<feature id="x01_%" />
+<feature id="x11_groups" />
+<feature id="x01_reduction" />
+<feature id="x11_chain" />
+<feature id="x02_gaining" />
+<feature id="x02_buying" />
+<feature id="x01_order" />
+<feature id="x0_into" />
+<feature id="x01_burden" />
+<feature id="x02_shore" />
+<feature id="x02_pursue" />
+<feature id="x02_cite" />
+<feature id="x01_-" />
+<feature id="x11_period" />
+<feature id="x11_reserves" />
+<feature id="x11_concern" />
+<feature id="x01_co-developers" />
+<feature id="x11_Scherer" />
+<feature id="x02_seeking" />
+<feature id="x02_requested" />
+<feature id="x01_three" />
+<feature id="x02_calculate" />
+<feature id="x01_spending" />
+<feature id="x02_report" />
+<feature id="x11_collections" />
+<feature id="x01_purchase" />
+<feature id="x11_bidders" />
+<feature id="x11_material" />
+<feature id="x02_recorded" />
+<feature id="x01_drives" />
+<feature id="x11_kind" />
+<feature id="x01_protection" />
+<feature id="x01_Magna" />
+<feature id="x11_stock" />
+<feature id="x02_added" />
+<feature id="x02_caused" />
+<feature id="x02_dumped" />
+<feature id="x02_settle" />
+<feature id="x02_merit" />
+<feature id="x11_countries" />
+<feature id="x02_extend" />
+<feature id="x01_directors" />
+<feature id="x02_values" />
+<feature id="x01_base" />
+<feature id="x02_using" />
+<feature id="x02_registered" />
+<feature id="x11_October" />
+<feature id="x02_link" />
+<feature id="x11_Edison" />
+<feature id="x11_funds" />
+<feature id="x11_magazine" />
+<feature id="x02_refund" />
+<feature id="x11_Research" />
+<feature id="x02_pose" />
+<feature id="x11_being" />
+<feature id="x0_of" />
+<feature id="x02_Following" />
+<feature id="x02_leaves" />
+<feature id="x11_millions" />
+<feature id="x02_was" />
+<feature id="x02_meet" />
+<feature id="x02_adapted" />
+<feature id="x11_nations" />
+<feature id="x0_on" />
+<feature id="x01_declines" />
+<feature id="x01_number" />
+<feature id="x01_sale" />
+<feature id="x01_approval" />
+<feature id="x0_during" />
+<feature id="x01_treatment" />
+<feature id="x11_Utilities" />
+<feature id="x02_ran" />
+<feature id="x01_fibers" />
+<feature id="x02_lifted" />
+<feature id="x02_remove" />
+<feature id="x02_redeploy" />
+<feature id="x01_advance" />
+<feature id="x01_realization" />
+<feature id="x0_through" />
+<feature id="x01_costs" />
+<feature id="x02_triggered" />
+<feature id="x02_join" />
+<feature id="x01_challenge" />
+<feature id="x11_those" />
+<feature id="x02_booked" />
+<feature id="x01_orders" />
+<feature id="x01_smattering" />
+<feature id="x01_system" />
+<feature id="x11_audiocassettes" />
+<feature id="x01_fraction" />
+<feature id="x02_had" />
+<feature id="x01_status" />
+<feature id="x11_property" />
+<feature id="x01_crocidolite" />
+<feature id="x11_profit" />
+<feature id="x11_factors" />
+<feature id="x0_as" />
+<feature id="x01_executive" />
+<feature id="x01_seat" />
+<feature id="x01_surplus" />
+<feature id="x0_at" />
+<feature id="x11_director" />
+<feature id="x02_approved" />
+<feature id="x02_has" />
+<feature id="x02_be" />
+<feature id="x11_4,393,237" />
+<feature id="x01_Co." />
+<feature id="x01_success" />
+<feature id="x01_investment" />
+<feature id="x01_interest" />
+<feature id="x02_imposed" />
+<feature id="x02_led" />
+<feature id="x11_Fund" />
+<feature id="x11_Chrysler" />
+<feature id="x01_earnings" />
+<feature id="x01_percentage" />
+<feature id="x11_30" />
+<feature id="x11_researchers" />
+<feature id="x11_data" />
+<feature id="x11_models" />
+<feature id="x02_removed" />
+<feature id="x01_producers" />
+<feature id="x02_holds" />
+<feature id="x01_refunds" />
+<feature id="x11_boosts" />
+<feature id="x11_half" />
+<feature id="x02_made" />
+<feature id="x02_expanding" />
+<feature id="x02_considered" />
+<feature id="x02_awards" />
+<feature id="x02_reflect" />
+<feature id="x01_purchasers" />
+<feature id="x11_bonds" />
+<feature id="x02_pour" />
+<feature id="x01_sacks" />
+<feature id="x01_seller" />
+<feature id="x11_uses" />
+<feature id="x11_calculations" />
+<feature id="x11_summer" />
+<feature id="x02_mirrors" />
+<feature id="x01_cloud" />
+<feature id="x02_retain" />
+<feature id="x01_standard" />
+<feature id="x01_rate" />
+<feature id="x01_chips" />
+<feature id="x0_by" />
+<feature id="x11_rates" />
+<feature id="x02_get" />
+<feature id="x01_deficit" />
+<feature id="x01_acquisition" />
+<feature id="x02_grant" />
+<feature id="x02_provide" />
+<feature id="x02_followed" />
+<feature id="x11_modems" />
+<feature id="x11_issue" />
+<feature id="x11_week" />
+<feature id="x02_kicked" />
+<feature id="x02_including" />
+<feature id="x11_45" />
+<feature id="x0_from" />
+<feature id="x11_action" />
+<feature id="x11_barrels" />
+<feature id="x11_May" />
+<feature id="x02_share" />
+<feature id="x02_underscore" />
+<feature id="x01_products" />
+<feature id="x02_introduce" />
+<feature id="x01_refund" />
+<feature id="x11_Board" />
+<feature id="x11_U.S." />
+<feature id="x02_compel" />
+<feature id="x01_signals" />
+<feature id="x01_fixtures" />
+<feature id="x11_computing" />
+<feature id="x02_keep" />
+<feature id="x0_via" />
+<feature id="x11_memories" />
+<feature id="x02_improved" />
+<feature id="x11_million" />
+<feature id="x02_casting" />
+<feature id="x01_sign" />
+<feature id="x11_company" />
+<feature id="x02_eased" />
+<feature id="x01_finding" />
+<feature id="x01_valuation" />
+<feature id="x01_credit" />
+<feature id="x01_bearing" />
+<feature id="x01_revenue" />
+<feature id="x11_intervention" />
+<feature id="x11_level" />
+<feature id="x01_premium" />
+<feature id="x01_pace" />
+<feature id="x0_against" />
+<feature id="x01_plant" />
+<feature id="x11_key" />
+<feature id="x02_increase" />
+<feature id="x11_shares" />
+<feature id="x02_buy" />
+<feature id="x11_subscriber" />
+<feature id="x01_plan" />
+<feature id="x11_%" />
+<feature id="x02_seek" />
+<feature id="x0_with" />
+<feature id="x01_progress" />
+<feature id="x11_round" />
+<feature id="x11_market" />
+<feature id="x01_hundreds" />
+<feature id="x01_ban" />
+<feature id="x01_part" />
+<feature id="x11_450" />
+<feature id="x02_making" />
+<feature id="x01_mania" />
+<feature id="x11_September" />
+<feature id="x11_1920s" />
+<feature id="x02_roll" />
+<feature id="x11_recession" />
+<feature id="x02_began" />
+<feature id="x11_orders" />
+<feature id="x11_owners" />
+<feature id="x11_years" />
+<feature id="x11_payments" />
+<feature id="x01_discounts" />
+<feature id="x01_note" />
+<feature id="x11_lawsuits" />
+<feature id="x0_to" />
+<feature id="x01_sets" />
+<feature id="x02_expects" />
+<feature id="x11_Korea" />
+<feature id="x02_suspended" />
+<feature id="x02_upheld" />
+<feature id="x11_diplomacy" />
+<feature id="x11_I" />
+<feature id="x01_dividend" />
+<feature id="x01_paper" />
+<feature id="x11_maintaining" />
+<feature id="x01_cash" />
+<feature id="x02_mixed" />
+<feature id="x02_complicate" />
+<feature id="x11_force" />
+<feature id="x01_ceiling" />
+<feature id="x01_career" />
+<feature id="x01_intensity" />
+<feature id="x01_barrels" />
+<feature id="x11_conglomerate" />
+<feature id="x01_obligations" />
+<feature id="x02_reported" />
+<feature id="x11_pages" />
+<feature id="x11_Parliament" />
+<feature id="x02_face" />
+<feature id="x01_service" />
+<feature id="x01_chairman" />
+<feature id="x01_rates" />
+<feature id="x11_downturn" />
+<feature id="x02_brings" />
+<feature id="x02_lowered" />
+<feature id="x11_proceedings" />
+<feature id="x11_purchase" />
+<feature id="x11_patterns" />
+<feature id="x02_succeed" />
+<feature id="x01_million" />
+<feature id="x02_CHANGED" />
+<feature id="x02_have" />
+<feature id="x01_company" />
+<feature id="x01_problems" />
+<feature id="x02_become" />
+<feature id="x11_division" />
+<feature id="x01_spinoff" />
+<feature id="x01_development" />
+<feature id="x01_issue" />
+<feature id="x01_600,000" />
+<feature id="x02_reach" />
+<feature id="x0_around" />
+<feature id="x11_ratepayers" />
+<feature id="x01_value" />
+<feature id="x0_between" />
+<feature id="x11_provision" />
+<feature id="x02_proposed" />
+<feature id="x11_contracts" />
+<feature id="x01_increase" />
+<feature id="x11_repayment" />
+<feature id="x01_face" />
+<feature id="x11_showings" />
+<feature id="x01_money" />
+<feature id="x11_Operations" />
+<feature id="x11_Ltd." />
+<feature id="x01_yield" />
+<feature id="x01_taste" />
+<feature id="x01_standing" />
+<feature id="x11_unit" />
+<feature id="x01_team" />
+<feature id="x11_1.55" />
+<feature id="x11_filters" />
+<feature id="x02_hold" />
+<feature id="x01_review" />
+<feature id="x11_weeklies" />
+<feature id="x02_cut" />
+<feature id="x0_since" />
+<feature id="x01_reserves" />
+<feature id="x02_elected" />
+<edge directed="false" to="x11_securities" from="o.177" />
+<edge directed="false" to="x02_receive" from="o.96" />
+<edge directed="false" to="x0_for" from="o.80" />
+<edge directed="false" to="x01_PS" from="o.59" />
+<edge directed="false" to="x01_sacks" from="o.16" />
+<edge directed="false" to="x0_for" from="o.100" />
+<edge directed="false" to="x11_fields" from="o.142" />
+<edge directed="false" to="x02_is" from="o.2" />
+<edge directed="false" to="x11_economy" from="o.41" />
+<edge directed="false" to="x02_approved" from="o.146" />
+<edge directed="false" to="x11_1.55" from="o.72" />
+<edge directed="false" to="x0_of" from="o.67" />
+<edge directed="false" to="x0_with" from="o.186" />
+<edge directed="false" to="x11_billion" from="o.58" />
+<edge directed="false" to="x0_of" from="o.191" />
+<edge directed="false" to="x0_under" from="o.137" />
+<edge directed="false" to="x0_of" from="o.165" />
+<edge directed="false" to="x02_needing" from="o.89" />
+<edge directed="false" to="x01_spinoff" from="o.87" />
+<edge directed="false" to="x0_of" from="o.64" />
+<edge directed="false" to="x02_introduce" from="o.45" />
+<edge directed="false" to="x11_funds" from="o.180" />
+<edge directed="false" to="x02_made" from="o.113" />
+<edge directed="false" to="x02_holding" from="o.183" />
+<edge directed="false" to="x01_profit" from="o.100" />
+<edge directed="false" to="x02_followed" from="o.83" />
+<edge directed="false" to="x02_make" from="o.142" />
+<edge directed="false" to="x11_funds" from="o.24" />
+<edge directed="false" to="x01_Korea" from="o.111" />
+<edge directed="false" to="x02_refund" from="o.82" />
+<edge directed="true" to="x0_as" from="o.1" />
+<edge directed="false" to="x02_developed" from="o.133" />
+<edge directed="false" to="x0_as" from="o.125" />
+<edge directed="false" to="x0_through" from="o.71" />
+<edge directed="false" to="x0_from" from="o.169" />
+<edge directed="false" to="x11_action" from="o.151" />
+<edge directed="false" to="x11_million" from="o.39" />
+<edge directed="false" to="x11_barrels" from="o.140" />
+<edge directed="false" to="x11_calculations" from="o.76" />
+<edge directed="false" to="x0_of" from="o.32" />
+<edge directed="false" to="x01_beneficiaries" from="o.151" />
+<edge directed="false" to="x01_reserves" from="o.140" />
+<edge directed="false" to="x11_orders" from="o.189" />
+<edge directed="false" to="x02_named" from="o.158" />
+<edge directed="false" to="x0_for" from="o.133" />
+<edge directed="false" to="x01_members" from="o.185" />
+<edge directed="false" to="x01_effects" from="o.190" />
+<edge directed="false" to="x01_sale" from="o.29" />
+<edge directed="false" to="x02_bring" from="o.6" />
+<edge directed="false" to="x0_of" from="o.104" />
+<edge directed="false" to="x02_expect" from="o.20" />
+<edge directed="false" to="x02_ran" from="o.198" />
+<edge directed="false" to="x02_requested" from="o.147" />
+<edge directed="false" to="x0_in" from="o.18" />
+<edge directed="false" to="x02_seeking" from="o.81" />
+<edge directed="false" to="x01_system" from="o.131" />
+<edge directed="false" to="x01_note" from="o.90" />
+<edge directed="false" to="x01_barrels" from="o.141" />
+<edge directed="false" to="x02_improve" from="o.112" />
+<edge directed="false" to="x01_cloud" from="o.41" />
+<edge directed="false" to="x01_executive" from="o.38" />
+<edge directed="false" to="x01_company" from="o.30" />
+<edge directed="false" to="x02_opened" from="o.84" />
+<edge directed="false" to="x02_cut" from="o.154" />
+<edge directed="false" to="x02_expects" from="o.102" />
+<edge directed="false" to="x02_report" from="o.100" />
+<edge directed="false" to="x11_company" from="o.91" />
+<edge directed="false" to="x01_number" from="o.117" />
+<edge directed="false" to="x02_making" from="o.9" />
+<edge directed="false" to="x0_in" from="o.110" />
+<edge directed="false" to="x01_competition" from="o.93" />
+<edge directed="false" to="x11_advertisers" from="o.45" />
+<edge directed="false" to="x11_cancer" from="o.10" />
+<edge directed="false" to="x11_members" from="o.168" />
+<edge directed="false" to="x0_from" from="o.127" />
+<edge directed="false" to="x0_at" from="o.78" />
+<edge directed="false" to="x01_treatment" from="o.147" />
+<edge directed="false" to="x01_refunds" from="o.68" />
+<edge directed="false" to="x11_increases" from="o.81" />
+<edge directed="false" to="x01_rates" from="o.74" />
+<edge directed="false" to="x02_registered" from="o.39" />
+<edge directed="false" to="x11_process" from="o.18" />
+<edge directed="false" to="x01_plant" from="o.84" />
+<edge directed="false" to="x0_of" from="o.83" />
+<edge directed="false" to="x02_keep" from="o.43" />
+<edge directed="false" to="x0_of" from="o.158" />
+<edge directed="false" to="x0_of" from="o.57" />
+<edge directed="false" to="x01_plan" from="o.56" />
+<edge directed="false" to="x0_of" from="o.8" />
+<edge directed="false" to="x11_organization" from="o.156" />
+<edge directed="false" to="x02_been" from="o.98" />
+<edge directed="false" to="x02_held" from="o.71" />
+<edge directed="false" to="x0_in" from="o.199" />
+<edge directed="false" to="x02_set" from="o.78" />
+<edge directed="false" to="x0_from" from="o.141" />
+<edge directed="false" to="x01_demand" from="o.85" />
+<edge directed="false" to="x01_directors" from="o.64" />
+<edge directed="false" to="x11_filters" from="o.15" />
+<edge directed="false" to="x11_memories" from="o.130" />
+<edge directed="false" to="x01_president" from="o.108" />
+<edge directed="false" to="x11_customers" from="o.68" />
+<edge directed="false" to="x11_key" from="o.187" />
+<edge directed="false" to="x11_Utilities" from="o.109" />
+<edge directed="false" to="x0_of" from="o.54" />
+<edge directed="false" to="x0_of" from="o.129" />
+<edge directed="false" to="x01_circulation" from="o.54" />
+<edge directed="false" to="x11_bin" from="o.17" />
+<edge directed="false" to="x0_on" from="o.181" />
+<edge directed="false" to="x0_in" from="o.95" />
+<edge directed="false" to="x02_roll" from="o.95" />
+<edge directed="false" to="x11_front" from="o.193" />
+<edge directed="false" to="x01_pace" from="o.43" />
+<edge directed="false" to="x01_progress" from="o.113" />
+<edge directed="false" to="x0_from" from="o.93" />
+<edge directed="false" to="x0_via" from="o.135" />
+<edge directed="false" to="x01_cash" from="o.24" />
+<edge directed="false" to="x11_debt" from="o.33" />
+<edge directed="false" to="x0_of" from="o.2" />
+<edge directed="false" to="x01_sale" from="o.143" />
+<edge directed="false" to="x11_450" from="o.102" />
+<edge directed="false" to="x0_by" from="o.75" />
+<edge directed="false" to="x02_are" from="o.185" />
+<edge directed="false" to="x01_paper" from="o.9" />
+<edge directed="true" to="x0_on" from="o.126" />
+<edge directed="false" to="x11_Korea" from="o.84" />
+<edge directed="false" to="x02_owns" from="o.59" />
+<edge directed="false" to="x02_grant" from="o.148" />
+<edge directed="false" to="x0_of" from="o.123" />
+<edge directed="false" to="x11_collections" from="o.79" />
+<edge directed="false" to="x02_kicked" from="o.174" />
+<edge directed="false" to="x02_raise" from="o.74" />
+<edge directed="false" to="x0_in" from="o.164" />
+<edge directed="false" to="x0_by" from="o.72" />
+<edge directed="false" to="x01_drives" from="o.133" />
+<edge directed="false" to="x0_to" from="o.197" />
+<edge directed="false" to="x11_%" from="o.139" />
+<edge directed="false" to="x02_dumped" from="o.16" />
+<edge directed="false" to="x02_acquire" from="o.57" />
+<edge directed="false" to="x11_models" from="o.128" />
+<edge directed="false" to="x0_of" from="o.120" />
+<edge directed="false" to="x01_surplus" from="o.42" />
+<edge directed="false" to="x01_sign" from="o.23" />
+<edge directed="false" to="x02_is" from="o.114" />
+<edge directed="false" to="x01_realization" from="o.114" />
+<edge directed="false" to="x02_is" from="o.150" />
+<edge directed="false" to="x0_to" from="o.194" />
+<edge directed="false" to="x0_to" from="o.168" />
+<edge directed="false" to="x01_risk" from="o.160" />
+<edge directed="false" to="x01_valuation" from="o.91" />
+<edge directed="false" to="x11_million" from="o.99" />
+<edge directed="false" to="x11_4.75" from="o.97" />
+<edge directed="false" to="x01_debts" from="o.186" />
+<edge directed="false" to="x01_sets" from="o.125" />
+<edge directed="false" to="x0_to" from="o.90" />
+<edge directed="false" to="x0_for" from="o.118" />
+<edge directed="false" to="x01_force" from="o.102" />
+<edge directed="false" to="x11_rates" from="o.161" />
+<edge directed="false" to="x02_compel" from="o.117" />
+<edge directed="false" to="x0_since" from="o.69" />
+<edge directed="false" to="x11_repayment" from="o.183" />
+<edge directed="false" to="x0_to" from="o.139" />
+<edge directed="false" to="x01_Co." from="o.55" />
+<edge directed="false" to="x11_years" from="o.38" />
+<edge directed="false" to="x11_Edison" from="o.108" />
+<edge directed="false" to="x02_paid" from="o.101" />
+<edge directed="false" to="x02_reported" from="o.199" />
+<edge directed="false" to="x01_premium" from="o.179" />
+<edge directed="false" to="x01_%" from="o.171" />
+<edge directed="false" to="x11_refund" from="o.77" />
+<edge directed="false" to="x11_Hampshire" from="o.59" />
+<edge directed="false" to="x0_under" from="o.122" />
+<edge directed="false" to="x0_at" from="o.97" />
+<edge directed="false" to="x01_costs" from="o.156" />
+<edge directed="false" to="x11_Scherer" from="o.144" />
+<edge directed="false" to="x0_to" from="o.35" />
+<edge directed="false" to="x11_October" from="o.40" />
+<edge directed="false" to="x02_completed" from="o.143" />
+<edge directed="false" to="x11_Research" from="o.93" />
+<edge directed="false" to="x01_refund" from="o.79" />
+<edge directed="false" to="x11_million" from="o.74" />
+<edge directed="false" to="x01_one" from="o.60" />
+<edge directed="false" to="x02_provide" from="o.192" />
+<edge directed="false" to="x0_on" from="o.79" />
+<edge directed="false" to="x11_bonds" from="o.32" />
+<edge directed="false" to="x0_of" from="o.177" />
+<edge directed="false" to="x02_has" from="o.94" />
+<edge directed="false" to="x0_with" from="o.152" />
+<edge directed="false" to="x11_they" from="o.96" />
+<edge directed="false" to="x0_per" from="o.50" />
+<edge directed="false" to="x01_development" from="o.128" />
+<edge directed="false" to="x01_PS" from="o.57" />
+<edge directed="false" to="x11_division" from="o.36" />
+<edge directed="false" to="x01_percentage" from="o.4" />
+<edge directed="false" to="x02_including" from="o.10" />
+<edge directed="false" to="x11_reserves" from="o.173" />
+<edge directed="false" to="x11_magazine" from="o.43" />
+<edge directed="false" to="x0_of" from="o.73" />
+<edge directed="false" to="x11_data" from="o.129" />
+<edge directed="false" to="x01_signals" from="o.192" />
+<edge directed="false" to="x02_dumped" from="o.17" />
+<edge directed="false" to="x0_in" from="o.189" />
+<edge directed="false" to="x01_review" from="o.120" />
+<edge directed="false" to="x01_president" from="o.105" />
+<edge directed="false" to="x0_of" from="o.171" />
+<edge directed="false" to="x01_Magna" from="o.152" />
+<edge directed="false" to="x0_of" from="o.145" />
+<edge directed="false" to="x01_mania" from="o.175" />
+<edge directed="false" to="x0_of" from="o.119" />
+<edge directed="false" to="x11_countries" from="o.184" />
+<edge directed="false" to="x11_rising" from="o.23" />
+<edge directed="false" to="x02_meet" from="o.85" />
+<edge directed="false" to="x02_follows" from="o.173" />
+<edge directed="false" to="x0_from" from="o.142" />
+<edge directed="false" to="x11_types" from="o.147" />
+<edge directed="false" to="x11_%" from="o.83" />
+<edge directed="false" to="x01_billion" from="o.166" />
+<edge directed="false" to="x02_was" from="o.104" />
+<edge directed="false" to="x0_in" from="o.7" />
+<edge directed="false" to="x0_in" from="o.56" />
+<edge directed="false" to="x11_concern" from="o.167" />
+<edge directed="false" to="x0_on" from="o.41" />
+<edge directed="false" to="x01_drain" from="o.98" />
+<edge directed="false" to="x0_of" from="o.12" />
+<edge directed="false" to="x01_interest" from="o.26" />
+<edge directed="false" to="x0_in" from="o.154" />
+<edge directed="false" to="x01_rates" from="o.22" />
+<edge directed="false" to="x0_in" from="o.53" />
+<edge directed="false" to="x0_for" from="o.131" />
+<edge directed="false" to="x0_in" from="o.128" />
+<edge directed="false" to="x0_on" from="o.113" />
+<edge directed="false" to="x01_director" from="o.158" />
+<edge directed="false" to="x11_market" from="o.94" />
+<edge directed="false" to="x02_complicate" from="o.91" />
+<edge directed="false" to="x11_payments" from="o.162" />
+<edge directed="false" to="x02_reflects" from="o.172" />
+<edge directed="false" to="x11_showings" from="o.116" />
+<edge directed="false" to="x02_holds" from="o.27" />
+<edge directed="false" to="x11_summer" from="o.63" />
+<edge directed="false" to="x11_lawsuits" from="o.169" />
+<edge directed="false" to="x11_issue" from="o.113" />
+<edge directed="false" to="x11_computing" from="o.124" />
+<edge directed="false" to="x0_to" from="o.184" />
+<edge directed="false" to="x0_for" from="o.86" />
+<edge directed="false" to="x11_earnings" from="o.98" />
+<edge directed="false" to="x02_casting" from="o.41" />
+<edge directed="false" to="x11_debt" from="o.165" />
+<edge directed="false" to="x11_those" from="o.11" />
+<edge directed="false" to="x01_ceiling" from="o.35" />
+<edge directed="false" to="x02_get" from="o.178" />
+<edge directed="false" to="x11_provision" from="o.122" />
+<edge directed="false" to="x11_world" from="o.114" />
+<edge directed="false" to="x01_decline" from="o.173" />
+<edge directed="false" to="x11_%" from="o.123" />
+<edge directed="false" to="x01_offer" from="o.170" />
+<edge directed="false" to="x11_bidders" from="o.55" />
+<edge directed="false" to="x01_million" from="o.81" />
+<edge directed="false" to="x01_%" from="o.138" />
+<edge directed="false" to="x11_regulation" from="o.13" />
+<edge directed="false" to="x01_deficit" from="o.40" />
+<edge directed="false" to="x01_face" from="o.124" />
+<edge directed="false" to="x01_review" from="o.121" />
+<edge directed="true" to="x02_stored" from="o.126" />
+<edge directed="false" to="x0_to" from="o.51" />
+<edge directed="false" to="x11_owners" from="o.118" />
+<edge directed="false" to="x11_funds" from="o.176" />
+<edge directed="false" to="x02_block" from="o.70" />
+<edge directed="false" to="x0_on" from="o.98" />
+<edge directed="false" to="x02_has" from="o.31" />
+<edge directed="true" to="x01_data" from="o.126" />
+<edge directed="false" to="x02_rose" from="o.197" />
+<edge directed="false" to="x01_lack" from="o.191" />
+<edge directed="false" to="x02_improved" from="o.115" />
+<edge directed="false" to="x02_been" from="o.37" />
+<edge directed="false" to="x01_billion" from="o.189" />
+<edge directed="false" to="x01_bearing" from="o.19" />
+<edge directed="false" to="x02_is" from="o.12" />
+<edge directed="false" to="x0_on" from="o.196" />
+<edge directed="false" to="x11_company" from="o.26" />
+<edge directed="false" to="x0_at" from="o.58" />
+<edge directed="false" to="x02_considered" from="o.23" />
+<edge directed="false" to="x02_be" from="o.119" />
+<edge directed="false" to="x01_asbestos" from="o.7" />
+<edge directed="false" to="x0_of" from="o.167" />
+<edge directed="false" to="x02_announced" from="o.87" />
+<edge directed="false" to="x02_seek" from="o.155" />
+<edge directed="false" to="x0_as" from="o.55" />
+<edge directed="false" to="x0_on" from="o.193" />
+<edge directed="false" to="x02_face" from="o.93" />
+<edge directed="false" to="x11_Ltd." from="o.28" />
+<edge directed="false" to="x0_of" from="o.190" />
+<edge directed="false" to="x02_cut" from="o.156" />
+<edge directed="false" to="x11_1986" from="o.69" />
+<edge directed="false" to="x02_slash" from="o.72" />
+<edge directed="false" to="x11_modems" from="o.134" />
+<edge directed="false" to="x11_billion" from="o.194" />
+<edge directed="false" to="x0_of" from="o.138" />
+<edge directed="false" to="x01_rate" from="o.78" />
+<edge directed="false" to="x02_recorded" from="o.42" />
+<edge directed="false" to="x02_boosted" from="o.164" />
+<edge directed="false" to="x01_orders" from="o.86" />
+<edge directed="false" to="x0_of" from="o.60" />
+<edge directed="false" to="x02_succeed" from="o.107" />
+<edge directed="false" to="x02_increase" from="o.139" />
+<edge directed="false" to="x02_completed" from="o.29" />
+<edge directed="false" to="x0_of" from="o.34" />
+<edge directed="false" to="x0_of" from="o.109" />
+<edge directed="false" to="x01_paper" from="o.15" />
+<edge directed="false" to="x02_protect" from="o.116" />
+<edge directed="false" to="x11_countries" from="o.119" />
+<edge directed="false" to="x01_interest" from="o.159" />
+<edge directed="false" to="x0_of" from="o.132" />
+<edge directed="false" to="x11_screens" from="o.125" />
+<edge directed="false" to="x0_of" from="o.31" />
+<edge directed="false" to="x0_in" from="o.173" />
+<edge directed="false" to="x01_investigation" from="o.122" />
+<edge directed="false" to="x02_removed" from="o.111" />
+<edge directed="false" to="x0_of" from="o.106" />
+<edge directed="false" to="x02_triggered" from="o.128" />
+<edge directed="false" to="x11_recession" from="o.200" />
+<edge directed="false" to="x02_considered" from="o.200" />
+<edge directed="false" to="x02_gaining" from="o.53" />
+<edge directed="false" to="x0_for" from="o.38" />
+<edge directed="false" to="x02_named" from="o.167" />
+<edge directed="false" to="x02_link" from="o.90" />
+<edge directed="false" to="x02_announced" from="o.44" />
+<edge directed="false" to="x11_imports" from="o.146" />
+<edge directed="false" to="x01_advance" from="o.127" />
+<edge directed="false" to="x01_ceiling" from="o.33" />
+<edge directed="false" to="x0_to" from="o.76" />
+<edge directed="false" to="x0_between" from="o.48" />
+<edge directed="false" to="x11_material" from="o.16" />
+<edge directed="false" to="x02_store" from="o.129" />
+<edge directed="false" to="x02_named" from="o.109" />
+<edge directed="false" to="x11_weeklies" from="o.47" />
+<edge directed="false" to="x11_million" from="o.136" />
+<edge directed="false" to="x01_spending" from="o.196" />
+<edge directed="false" to="x01_one" from="o.12" />
+<edge directed="false" to="x11_products" from="o.7" />
+<edge directed="false" to="x0_for" from="o.49" />
+<edge directed="false" to="x0_in" from="o.40" />
+<edge directed="false" to="x0_for" from="o.85" />
+<edge directed="false" to="x02_had" from="o.193" />
+<edge directed="false" to="x02_brings" from="o.176" />
+<edge directed="false" to="x02_is" from="o.7" />
+<edge directed="false" to="x02_cite" from="o.191" />
+<edge directed="false" to="x02_owns" from="o.138" />
+<edge directed="false" to="x01_profit" from="o.99" />
+<edge directed="false" to="x0_by" from="o.121" />
+<edge directed="false" to="x01_success" from="o.110" />
+<edge directed="false" to="x02_owns" from="o.171" />
+<edge directed="false" to="x01_decline" from="o.52" />
+<edge directed="false" to="x02_turned" from="o.149" />
+<edge directed="false" to="x02_refund" from="o.66" />
+<edge directed="false" to="x0_for" from="o.96" />
+<edge directed="false" to="x01_president" from="o.109" />
+<edge directed="false" to="x02_boost" from="o.196" />
+<edge directed="false" to="x11_4,393,237" from="o.54" />
+<edge directed="false" to="x02_make" from="o.67" />
+<edge directed="false" to="x11_Edison" from="o.70" />
+<edge directed="false" to="x02_had" from="o.25" />
+<edge directed="false" to="x11_securities" from="o.164" />
+<edge directed="false" to="x02_suspended" from="o.32" />
+<edge directed="false" to="x11_Chrysler" from="o.37" />
+<edge directed="false" to="x01_competition" from="o.48" />
+<edge directed="false" to="x0_of" from="o.88" />
+<edge directed="false" to="x01_%" from="o.50" />
+<edge directed="false" to="x11_company" from="o.104" />
+<edge directed="false" to="x11_million" from="o.31" />
+<edge directed="false" to="x02_developed" from="o.131" />
+<edge directed="false" to="x01_seller" from="o.150" />
+<edge directed="false" to="x11_performance" from="o.82" />
+<edge directed="false" to="x02_reflect" from="o.180" />
+<edge directed="false" to="x11_financing" from="o.89" />
+<edge directed="false" to="x02_was" from="o.36" />
+<edge directed="false" to="x0_of" from="o.59" />
+<edge directed="false" to="x02_is" from="o.11" />
+<edge directed="false" to="x0_into" from="o.162" />
+<edge directed="false" to="x02_is" from="o.145" />
+<edge directed="false" to="x01_director" from="o.3" />
+<edge directed="false" to="x01_Rexinger" from="o.65" />
+<edge directed="false" to="x01_value" from="o.97" />
+<edge directed="false" to="x0_of" from="o.180" />
+<edge directed="false" to="x01_pages" from="o.130" />
+<edge directed="false" to="x11_categories" from="o.148" />
+<edge directed="false" to="x01_marketing" from="o.180" />
+<edge directed="false" to="x02_set" from="o.80" />
+<edge directed="false" to="x0_of" from="o.4" />
+<edge directed="false" to="x11_list" from="o.111" />
+<edge directed="true" to="x11_director" from="o.1" />
+<edge directed="false" to="x0_in" from="o.195" />
+<edge directed="false" to="x11_program" from="o.145" />
+<edge directed="false" to="x0_for" from="o.15" />
+<edge directed="false" to="x11_stock" from="o.138" />
+<edge directed="false" to="x0_of" from="o.27" />
+<edge directed="false" to="x0_for" from="o.149" />
+<edge directed="false" to="x11_Research" from="o.101" />
+<edge directed="false" to="x01_designer" from="o.88" />
+<edge directed="false" to="x11_interests" from="o.30" />
+<edge directed="false" to="x11_funds" from="o.182" />
+<edge directed="false" to="x02_lowered" from="o.49" />
+<edge directed="false" to="x0_of" from="o.151" />
+<edge directed="false" to="x11_products" from="o.85" />
+<edge directed="false" to="x11_Board" from="o.174" />
+<edge directed="false" to="x11_factors" from="o.60" />
+<edge directed="false" to="x11_September" from="o.195" />
+<edge directed="false" to="x02_report" from="o.99" />
+<edge directed="false" to="x01_manager" from="o.36" />
+<edge directed="false" to="x02_named" from="o.105" />
+<edge directed="false" to="x01_protection" from="o.169" />
+<edge directed="false" to="x02_issue" from="o.34" />
+<edge directed="false" to="x02_upheld" from="o.75" />
+<edge directed="false" to="x0_by" from="o.74" />
+<edge directed="false" to="x0_in" from="o.166" />
+<edge directed="false" to="x02_approved" from="o.28" />
+<edge directed="false" to="x01_base" from="o.49" />
+<edge directed="false" to="x02_registered" from="o.40" />
+<edge directed="false" to="x11_proceedings" from="o.56" />
+<edge directed="false" to="x01_problems" from="o.118" />
+<edge directed="false" to="x11_pages" from="o.52" />
+<edge directed="false" to="x01_burden" from="o.163" />
+<edge directed="false" to="x11_patterns" from="o.190" />
+<edge directed="false" to="x02_extend" from="o.184" />
+<edge directed="false" to="x0_of" from="o.21" />
+<edge directed="false" to="x02_rose" from="o.195" />
+<edge directed="false" to="x01_hundreds" from="o.188" />
+<edge directed="false" to="x02_named" from="o.3" />
+<edge directed="false" to="x02_was" from="o.127" />
+<edge directed="false" to="x11_PCs" from="o.131" />
+<edge directed="false" to="x0_throughout" from="o.156" />
+<edge directed="false" to="x01_deficit" from="o.39" />
+<edge directed="false" to="x02_imposed" from="o.14" />
+<edge directed="false" to="x01_machine" from="o.95" />
+<edge directed="false" to="x02_settled" from="o.186" />
+<edge directed="false" to="x11_funds" from="o.179" />
+<edge directed="false" to="x01_acquisition" from="o.28" />
+<edge directed="false" to="x01_three" from="o.10" />
+<edge directed="false" to="x01_taste" from="o.178" />
+<edge directed="false" to="x01_purchasers" from="o.165" />
+<edge directed="false" to="x11_case" from="o.80" />
+<edge directed="false" to="x0_to" from="o.66" />
+<edge directed="true" to="x01_board" from="o.1" />
+<edge directed="false" to="x11_company" from="o.158" />
+<edge directed="false" to="x02_have" from="o.13" />
+<edge directed="false" to="x02_merit" from="o.122" />
+<edge directed="false" to="x01_barrels" from="o.142" />
+<edge directed="false" to="x02_pose" from="o.118" />
+<edge directed="false" to="x01_Inc." from="o.136" />
+<edge directed="false" to="x02_expects" from="o.103" />
+<edge directed="false" to="x0_of" from="o.200" />
+<edge directed="false" to="x02_pour" from="o.24" />
+<edge directed="false" to="x02_was" from="o.106" />
+<edge directed="false" to="x11_half" from="o.100" />
+<edge directed="false" to="x01_president" from="o.106" />
+<edge directed="false" to="x02_using" from="o.5" />
+<edge directed="false" to="x01_receipts" from="o.182" />
+<edge directed="false" to="x11_intervention" from="o.172" />
+<edge directed="false" to="x02_give" from="o.46" />
+<edge directed="false" to="x01_status" from="o.148" />
+<edge directed="false" to="x02_had" from="o.54" />
+<edge directed="false" to="x0_from" from="o.116" />
+<edge directed="false" to="x02_caused" from="o.4" />
+<edge directed="false" to="x11_seats" from="o.27" />
+<edge directed="false" to="x01_payments" from="o.162" />
+<edge directed="false" to="x11_nations" from="o.12" />
+<edge directed="false" to="x02_holds" from="o.26" />
+<edge directed="false" to="x02_mixed" from="o.18" />
+<edge directed="false" to="x0_of" from="o.176" />
+<edge directed="false" to="x02_been" from="o.86" />
+<edge directed="false" to="x02_has" from="o.19" />
+<edge directed="false" to="x01_producers" from="o.116" />
+<edge directed="false" to="x01_career" from="o.157" />
+<edge directed="false" to="x02_is" from="o.88" />
+<edge directed="false" to="x11_level" from="o.198" />
+<edge directed="false" to="x11_capacity" from="o.152" />
+<edge directed="false" to="x01_one" from="o.132" />
+<edge directed="false" to="x0_in" from="o.87" />
+<edge directed="false" to="x11_Operations" from="o.29" />
+<edge directed="false" to="x11_imbalances" from="o.191" />
+<edge directed="false" to="x01_issue" from="o.174" />
+<edge directed="false" to="x01_declines" from="o.20" />
+<edge directed="false" to="x0_of" from="o.144" />
+<edge directed="false" to="x0_in" from="o.84" />
+<edge directed="false" to="x02_fell" from="o.194" />
+<edge directed="false" to="x11_versions" from="o.132" />
+<edge directed="false" to="x02_raise" from="o.35" />
+<edge directed="false" to="x11_being" from="o.92" />
+<edge directed="false" to="x0_as" from="o.107" />
+<edge directed="false" to="x0_for" from="o.148" />
+<edge directed="false" to="x01_intensity" from="o.172" />
+<edge directed="false" to="x01_board" from="o.168" />
+<edge directed="false" to="x0_in" from="o.182" />
+<edge directed="false" to="x0_in" from="o.81" />
+<edge directed="false" to="x01_news" from="o.193" />
+<edge directed="false" to="x11_researchers" from="o.8" />
+<edge directed="false" to="x0_with" from="o.43" />
+<edge directed="false" to="x01_%" from="o.198" />
+<edge directed="false" to="x11_filters" from="o.9" />
+<edge directed="false" to="x02_make" from="o.141" />
+<edge directed="false" to="x11_telephone" from="o.135" />
+<edge directed="false" to="x11_Hampshire" from="o.57" />
+<edge directed="false" to="x02_began" from="o.170" />
+<edge directed="false" to="x0_on" from="o.14" />
+<edge directed="false" to="x0_of" from="o.112" />
+<edge directed="false" to="x0_in" from="o.153" />
+<edge directed="false" to="x0_at" from="o.101" />
+<edge directed="false" to="x11_Cray-3" from="o.86" />
+<edge directed="false" to="x0_in" from="o.52" />
+<edge directed="false" to="x02_values" from="o.58" />
+<edge directed="false" to="x01_%" from="o.195" />
+<edge directed="false" to="x01_%" from="o.94" />
+<edge directed="false" to="x01_part" from="o.145" />
+<edge directed="false" to="x0_in" from="o.26" />
+<edge directed="false" to="x01_products" from="o.137" />
+<edge directed="false" to="x01_increases" from="o.83" />
+<edge directed="false" to="x02_use" from="o.125" />
+<edge directed="false" to="x11_profit" from="o.153" />
+<edge directed="false" to="x11_boosts" from="o.61" />
+<edge directed="false" to="x01_acquisition" from="o.144" />
+<edge directed="false" to="x01_credit" from="o.184" />
+<edge directed="false" to="x01_data" from="o.135" />
+<edge directed="false" to="x0_in" from="o.20" />
+<edge directed="false" to="x0_around" from="o.114" />
+<edge directed="false" to="x02_show" from="o.159" />
+<edge directed="false" to="x11_watches" from="o.150" />
+<edge directed="false" to="x02_describe" from="o.92" />
+<edge directed="false" to="x01_refunds" from="o.67" />
+<edge directed="false" to="x0_as" from="o.187" />
+<edge directed="false" to="x02_were" from="o.134" />
+<edge directed="false" to="x11_stocks" from="o.181" />
+<edge directed="false" to="x0_of" from="o.94" />
+<edge directed="false" to="x11_maintaining" from="o.46" />
+<edge directed="false" to="x0_for" from="o.9" />
+<edge directed="false" to="x02_sells" from="o.137" />
+<edge directed="true" to="x02_join" from="o.1" />
+<edge directed="false" to="x11_kind" from="o.34" />
+<edge directed="false" to="x0_of" from="o.192" />
+<edge directed="false" to="x01_600,000" from="o.101" />
+<edge directed="false" to="x0_of" from="o.91" />
+<edge directed="false" to="x11_property" from="o.112" />
+<edge directed="false" to="x01_chips" from="o.92" />
+<edge directed="false" to="x01_one" from="o.119" />
+<edge directed="false" to="x11_purchase" from="o.62" />
+<edge directed="false" to="x02_remove" from="o.190" />
+<edge directed="false" to="x01_declines" from="o.153" />
+<edge directed="false" to="x0_of" from="o.39" />
+<edge directed="false" to="x02_paying" from="o.179" />
+<edge directed="false" to="x02_awards" from="o.51" />
+<edge directed="false" to="x01_receipts" from="o.181" />
+<edge directed="false" to="x01_service" from="o.69" />
+<edge directed="false" to="x01_earnings" from="o.73" />
+<edge directed="false" to="x02_issue" from="o.121" />
+<edge directed="false" to="x0_on" from="o.65" />
+<edge directed="false" to="x01_hostage" from="o.71" />
+<edge directed="false" to="x0_of" from="o.62" />
+<edge directed="false" to="x01_three" from="o.27" />
+<edge directed="false" to="x0_for" from="o.136" />
+<edge directed="false" to="x0_of" from="o.36" />
+<edge directed="false" to="x11_label" from="o.137" />
+<edge directed="false" to="x01_treatment" from="o.149" />
+<edge directed="false" to="x11_years" from="o.53" />
+<edge directed="false" to="x11_unit" from="o.106" />
+<edge directed="false" to="x0_on" from="o.163" />
+<edge directed="false" to="x01_attention" from="o.6" />
+<edge directed="false" to="x0_against" from="o.61" />
+<edge directed="false" to="x11_%" from="o.78" />
+<edge directed="false" to="x0_of" from="o.160" />
+<edge directed="false" to="x01_million" from="o.76" />
+<edge directed="false" to="x0_of" from="o.134" />
+<edge directed="false" to="x11_rates" from="o.20" />
+<edge directed="false" to="x0_into" from="o.17" />
+<edge directed="false" to="x11_billion" from="o.197" />
+<edge directed="false" to="x02_Following" from="o.144" />
+<edge directed="false" to="x11_downturn" from="o.192" />
+<edge directed="false" to="x0_of" from="o.108" />
+<edge directed="false" to="x02_complete" from="o.63" />
+<edge directed="false" to="x11_performance" from="o.120" />
+<edge directed="false" to="x0_for" from="o.147" />
+<edge directed="false" to="x0_on" from="o.33" />
+<edge directed="false" to="x11_point" from="o.21" />
+<edge directed="false" to="x02_buying" from="o.166" />
+<edge directed="false" to="x01_dividend" from="o.154" />
+<edge directed="false" to="x01_number" from="o.176" />
+<edge directed="false" to="x02_made" from="o.15" />
+<edge directed="false" to="x0_into" from="o.24" />
+<edge directed="false" to="x0_of" from="o.105" />
+<edge directed="false" to="x11_45" from="o.67" />
+<edge directed="false" to="x01_director" from="o.167" />
+<edge directed="false" to="x02_hold" from="o.177" />
+<edge directed="false" to="x11_types" from="o.149" />
+<edge directed="false" to="x0_by" from="o.28" />
+<edge directed="false" to="x01_sacks" from="o.17" />
+<edge directed="false" to="x0_with" from="o.37" />
+<edge directed="false" to="x01_increase" from="o.199" />
+<edge directed="false" to="x01_finding" from="o.11" />
+<edge directed="false" to="x0_of" from="o.102" />
+<edge directed="false" to="x01_investment" from="o.164" />
+<edge directed="false" to="x11_stocks" from="o.178" />
+<edge directed="false" to="x01_challenge" from="o.75" />
+<edge directed="false" to="x02_CHANGED" from="o.124" />
+<edge directed="false" to="x11_contracts" from="o.199" />
+<edge directed="false" to="x0_among" from="o.11" />
+<edge directed="false" to="x02_underscore" from="o.48" />
+<edge directed="false" to="x02_reducing" from="o.163" />
+<edge directed="false" to="x11_million" from="o.42" />
+<edge directed="false" to="x01_seat" from="o.155" />
+<edge directed="false" to="x02_been" from="o.38" />
+<edge directed="false" to="x01_forecast" from="o.200" />
+<edge directed="false" to="x11_1920s" from="o.175" />
+<edge directed="false" to="x02_shore" from="o.52" />
+<edge directed="false" to="x0_for" from="o.46" />
+<edge directed="false" to="x01_million" from="o.82" />
+<edge directed="false" to="x0_for" from="o.82" />
+<edge directed="false" to="x11_May" from="o.87" />
+<edge directed="false" to="x11_groups" from="o.75" />
+<edge directed="false" to="x11_Cray-3" from="o.88" />
+<edge directed="false" to="x11_subsidiary" from="o.143" />
+<edge directed="false" to="x11_million" from="o.73" />
+<edge directed="false" to="x02_claiming" from="o.110" />
+<edge directed="false" to="x0_of" from="o.188" />
+<edge directed="false" to="x01_smattering" from="o.177" />
+<edge directed="false" to="x11_PCs" from="o.133" />
+<edge directed="false" to="x01_co-developers" from="o.134" />
+<edge directed="false" to="x0_during" from="o.25" />
+<edge directed="false" to="x0_above" from="o.198" />
+<edge directed="false" to="x11_Magna" from="o.157" />
+<edge directed="false" to="x02_redeploy" from="o.161" />
+<edge directed="false" to="x01_executive" from="o.37" />
+<edge directed="false" to="x0_of" from="o.185" />
+<edge directed="false" to="x0_at" from="o.174" />
+<edge directed="false" to="x01_interest" from="o.139" />
+<edge directed="false" to="x0_of" from="o.159" />
+<edge directed="false" to="x01_crocidolite" from="o.5" />
+<edge directed="false" to="x11_chain" from="o.64" />
+<edge directed="false" to="x01_fixtures" from="o.47" />
+<edge directed="false" to="x01_team" from="o.8" />
+<edge directed="false" to="x0_with" from="o.30" />
+<edge directed="false" to="x0_at" from="o.47" />
+<edge directed="false" to="x11_force" from="o.19" />
+<edge directed="false" to="x02_settle" from="o.188" />
+<edge directed="false" to="x01_protection" from="o.112" />
+<edge directed="false" to="x01_credits" from="o.51" />
+<edge directed="false" to="x02_received" from="o.69" />
+<edge directed="false" to="x02_left" from="o.152" />
+<edge directed="false" to="x11_period" from="o.22" />
+<edge directed="false" to="x02_calculate" from="o.97" />
+<edge directed="false" to="x0_of" from="o.29" />
+<edge directed="false" to="x02_was" from="o.108" />
+<edge directed="false" to="x02_seeking" from="o.62" />
+<edge directed="false" to="x11_filters" from="o.5" />
+<edge directed="false" to="x0_of" from="o.3" />
+<edge directed="false" to="x01_treatment" from="o.146" />
+<edge directed="false" to="x11_uses" from="o.14" />
+<edge directed="false" to="x01_purchase" from="o.63" />
+<edge directed="false" to="x02_be" from="o.151" />
+<edge directed="false" to="x11_investors" from="o.163" />
+<edge directed="false" to="x0_of" from="o.150" />
+<edge directed="false" to="x02_become" from="o.47" />
+<edge directed="false" to="x0_of" from="o.124" />
+<edge directed="false" to="x0_of" from="o.23" />
+<edge directed="false" to="x02_reported" from="o.73" />
+<edge directed="false" to="x11_investors" from="o.159" />
+<edge directed="false" to="x0_for" from="o.146" />
+<edge directed="false" to="x11_board" from="o.65" />
+<edge directed="false" to="x11_advertisers" from="o.51" />
+<edge directed="false" to="x11_bonds" from="o.166" />
+<edge directed="false" to="x02_channel" from="o.162" />
+<edge directed="false" to="x01_money" from="o.161" />
+<edge directed="false" to="x02_proposed" from="o.56" />
+<edge directed="false" to="x01_earnings" from="o.72" />
+<edge directed="false" to="x01_Hatch" from="o.107" />
+<edge directed="false" to="x01_reduction" from="o.123" />
+<edge directed="false" to="x0_by" from="o.70" />
+<edge directed="false" to="x02_buy" from="o.181" />
+<edge directed="false" to="x02_eliminate" from="o.160" />
+<edge directed="false" to="x02_is" from="o.30" />
+<edge directed="false" to="x02_proposed" from="o.61" />
+<edge directed="false" to="x11_1990" from="o.44" />
+<edge directed="false" to="x02_mirrors" from="o.175" />
+<edge directed="false" to="x02_pursue" from="o.157" />
+<edge directed="false" to="x0_to" from="o.68" />
+<edge directed="false" to="x01_million" from="o.66" />
+<edge directed="false" to="x02_make" from="o.68" />
+<edge directed="false" to="x11_countries" from="o.186" />
+<edge directed="false" to="x11_ratepayers" from="o.66" />
+<edge directed="false" to="x01_obligations" from="o.34" />
+<edge directed="false" to="x02_added" from="o.76" />
+<edge directed="false" to="x01_fibers" from="o.18" />
+<edge directed="false" to="x11_half" from="o.154" />
+<edge directed="false" to="x11_millions" from="o.188" />
+<edge directed="false" to="x02_be" from="o.50" />
+<edge directed="false" to="x11_Newsweek" from="o.48" />
+<edge directed="false" to="x0_in" from="o.130" />
+<edge directed="true" to="x11_audiocassettes" from="o.126" />
+<edge directed="false" to="x11_round" from="o.71" />
+<edge directed="false" to="x02_led" from="o.8" />
+<edge directed="false" to="x02_reported" from="o.153" />
+<edge directed="false" to="x01_circulation" from="o.53" />
+<edge directed="false" to="x11_Parliament" from="o.155" />
+<edge directed="false" to="x0_for" from="o.45" />
+<edge directed="false" to="x01_discounts" from="o.46" />
+<edge directed="false" to="x0_for" from="o.179" />
+<edge directed="false" to="x02_lifted" from="o.33" />
+<edge directed="false" to="x0_from" from="o.111" />
+<edge directed="false" to="x02_stressed" from="o.187" />
+<edge directed="false" to="x01_rates" from="o.44" />
+<edge directed="false" to="x0_as" from="o.92" />
+<edge directed="false" to="x11_company" from="o.105" />
+<edge directed="false" to="x0_of" from="o.178" />
+<edge directed="false" to="x02_was" from="o.60" />
+<edge directed="false" to="x11_homes" from="o.196" />
+<edge directed="false" to="x11_U.S." from="o.115" />
+<edge directed="false" to="x11_prepayment" from="o.160" />
+<edge directed="false" to="x0_with" from="o.157" />
+<edge directed="false" to="x02_succeed" from="o.65" />
+<edge directed="false" to="x02_become" from="o.165" />
+<edge directed="false" to="x01_sales" from="o.32" />
+<edge directed="false" to="x0_on" from="o.77" />
+<edge directed="false" to="x0_of" from="o.175" />
+<edge directed="false" to="x11_shares" from="o.170" />
+<edge directed="false" to="x11_diplomacy" from="o.110" />
+<edge directed="false" to="x11_problem" from="o.6" />
+<edge directed="false" to="x11_1991" from="o.95" />
+<edge directed="false" to="x0_in" from="o.89" />
+<edge directed="false" to="x02_share" from="o.135" />
+<edge directed="false" to="x0_of" from="o.172" />
+<edge directed="false" to="x11_trillion" from="o.35" />
+<edge directed="false" to="x02_leaves" from="o.55" />
+<edge directed="false" to="x11_subscriber" from="o.50" />
+<edge directed="false" to="x02_booked" from="o.189" />
+<edge directed="false" to="x11_president" from="o.107" />
+<edge directed="false" to="x0_at" from="o.161" />
+<edge directed="false" to="x02_store" from="o.130" />
+<edge directed="false" to="x01_million" from="o.89" />
+<edge directed="false" to="x01_debts" from="o.187" />
+<edge directed="false" to="x02_retain" from="o.22" />
+<edge directed="false" to="x11_1990" from="o.49" />
+<edge directed="false" to="x11_30" from="o.121" />
+<edge directed="false" to="x01_force" from="o.103" />
+<edge directed="false" to="x11_parlors" from="o.117" />
+<edge directed="false" to="x0_of" from="o.143" />
+<edge directed="false" to="x11_presence" from="o.90" />
+<edge directed="false" to="x11_fields" from="o.141" />
+<edge directed="false" to="x0_of" from="o.42" />
+<edge directed="false" to="x0_on" from="o.19" />
+<edge directed="false" to="x0_of" from="o.117" />
+<edge directed="false" to="x02_giving" from="o.169" />
+<edge directed="false" to="x0_of" from="o.16" />
+<edge directed="false" to="x11_deaths" from="o.4" />
+<edge directed="false" to="x11_N.V." from="o.2" />
+<edge directed="false" to="x0_for" from="o.170" />
+<edge directed="false" to="x01_precedent" from="o.80" />
+<edge directed="false" to="x0_of" from="o.140" />
+<edge directed="false" to="x01_standing" from="o.115" />
+<edge directed="false" to="x01_standard" from="o.13" />
+<edge directed="false" to="x0_of" from="o.13" />
+<edge directed="false" to="x01_rate" from="o.77" />
+<edge directed="false" to="x0_in" from="o.155" />
+<edge directed="false" to="x0_by" from="o.63" />
+<edge directed="false" to="x0_in" from="o.5" />
+<edge directed="false" to="x01_%" from="o.197" />
+<edge directed="false" to="x01_order" from="o.70" />
+<edge directed="false" to="x11_Fund" from="o.185" />
+<edge directed="false" to="x02_has" from="o.140" />
+<edge directed="false" to="x01_revenue" from="o.31" />
+<edge directed="false" to="x0_about" from="o.183" />
+<edge directed="false" to="x01_president" from="o.104" />
+<edge directed="false" to="x01_%" from="o.194" />
+<edge directed="false" to="x01_plan" from="o.58" />
+<edge directed="false" to="x01_share" from="o.96" />
+<edge directed="false" to="x0_with" from="o.10" />
+<edge directed="false" to="x02_issue" from="o.120" />
+<edge directed="false" to="x0_for" from="o.22" />
+<edge directed="false" to="x01_pages" from="o.129" />
+<edge directed="false" to="x0_with" from="o.115" />
+<edge directed="false" to="x02_faces" from="o.79" />
+<edge directed="false" to="x11_end" from="o.103" />
+<edge directed="false" to="x02_buy" from="o.182" />
+<edge directed="false" to="x01_fraction" from="o.21" />
+<edge directed="false" to="x0_to" from="o.6" />
+<edge directed="false" to="x02_elected" from="o.64" />
+<edge directed="false" to="x02_eased" from="o.21" />
+<edge directed="false" to="x11_week" from="o.25" />
+<edge directed="false" to="x11_shares" from="o.171" />
+<edge directed="false" to="x01_plan" from="o.45" />
+<edge directed="false" to="x01_talks" from="o.183" />
+<edge directed="false" to="x02_acquired" from="o.136" />
+<edge directed="false" to="x0_by" from="o.103" />
+<edge directed="false" to="x01_chairman" from="o.2" />
+<edge directed="false" to="x0_of" from="o.99" />
+<edge directed="false" to="x01_approval" from="o.62" />
+<edge directed="false" to="x02_reach" from="o.123" />
+<edge directed="false" to="x02_adapted" from="o.132" />
+<edge directed="false" to="x01_yield" from="o.25" />
+<edge directed="false" to="x11_conglomerate" from="o.3" />
+<edge directed="false" to="x01_-" from="o.61" />
+<edge directed="false" to="x02_expanding" from="o.168" />
+<edge directed="false" to="x0_for" from="o.44" />
+<edge directed="false" to="x02_set" from="o.77" />
+<edge directed="false" to="x11_I" from="o.127" />
+<edge directed="false" to="x01_ban" from="o.14" />
+</tumbl>

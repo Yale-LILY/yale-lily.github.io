@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE DOCSENT SYSTEM "./docsent.dtd">
+<DOCSENT DID='22' DOCNO='22' LANG='ENG' CORR-DOC='22.c'>
+<BODY>
+<HEADLINE><S PAR="1" RSNT="1" SNO="1"> Gulf Air Jet Crashes in Persian Gulf; No Survivors So Far; Many Children Among Victims</S></HEADLINE>
+<TEXT>
+<S PAR='2' RSNT='1' SNO='2'>A Gulf Air Airbus A320 carrying 143 people from Cairo, Egypt, to Bahrain crashed today in the Persian Gulf.</S>
+<S PAR='2' RSNT='2' SNO='3'>A Bahraini official said 70 bodies -- mostly children -- have been recovered and so far there is no sign of survivors.</S>
+<S PAR='2' RSNT='3' SNO='4'>Gulf Air Flight 72 had taken off from Cairo en route to Manama, Bahrain's capital, the U.S. Embassy in Manama said.</S>
+<S PAR='2' RSNT='4' SNO='5'>Bahraini state television and a newspaper said the aircraft made two approaches to the Bahraini airport before crashing into the sea in an  explosion of flames.</S>
+<S PAR='2' RSNT='5' SNO='6'>There were 135 passengers and eight crew members on board, according to the Khaleej Times, a daily newspaper in the emirate.</S>
+<S PAR='2' RSNT='6' SNO='7'>The U.S. Federal Aviation Administration said there was one American on the plane.</S>
+<S PAR='2' RSNT='7' SNO='8'>"More than 70 bodies, most of them of children, have been recovered and there are more bodies in the sea," Abdul-Rahman bin Rashed al-Khalifa, administration director of Bahrain's Civil Defense, told Bahrain Television.</S>
+<S PAR='2' RSNT='8' SNO='9'>A Gulf Air official said the passengers included 63 Egyptians, 34 Bahrainis, 12 Saudi Arabians, nine Palestinians, six Unied Arab Emirates nationals, three Chinese, two Britons, one Canadian, one Kuwaiti and one Omani national.</S>
+<S PAR='2' RSNT='9' SNO='10'>The wreckage is in about 18 feet of water, U.S. military officials in Washington said.</S>
+<S PAR='2' RSNT='10' SNO='11'>At least three U.S. Navy helicopters were taking part in the search and rescue mission, said Bryan Whitman, a Pentagon spokesman.</S>
+<S PAR='2' RSNT='11' SNO='12'>U.S. officials also said two small hovercraft were en route to the crash site, as was the USS MF Catawba, a support ship in the Gulf.</S>
+<S PAR='2' RSNT='12' SNO='13'>Three other vessels -- the USS Milius, the USS Oldendorf and a Canadian ship, the HMCS Calgary -- were also headed to the scene.</S>
+<S PAR='2' RSNT='13' SNO='14'>There are 14 U.S. Navy ships in the Persian Gulf, including the aircraft carrier George Washington, which is docked at the port of Bahrain.</S>
+<S PAR='2' RSNT='14' SNO='15'>Helicopters from the George Washington were already taking part in the rescue operation and the aircraft carrier could provide up to about a dozen, U.S. officials said.</S>
+<S PAR='2' RSNT='15' SNO='16'>The Bahraini Navy is also using five helicopters that are night-capable and has also deployed medical teams to the airport.</S>
+<S PAR='2' RSNT='16' SNO='17'>The weather in Bahrain is warm and humid and rescue operations are expected to continue through the night.</S>
+<S PAR='2' RSNT='17' SNO='18'>The Airbus A320 model, in use since 1988, is one of the world's most widely used aircraft.</S>
+<S PAR='2' RSNT='18' SNO='19'>The plane can be set up with 150 or 164 seats and has a range of about 3,500 miles.</S>
+<S PAR='2' RSNT='19' SNO='20'>Airbus is run by a European consortium with headquarters in France.</S>
+<S PAR='2' RSNT='20' SNO='21'>It has built more than 1,000 single-aisle 320-family planes.</S>
+<S PAR='2' RSNT='21' SNO='22'>French, German, British and Spanish companies own parts of Airbus, which is considered the world's second-biggest manufacturer of large passenger jets after Boeing.</S>
+<S PAR='2' RSNT='22' SNO='23'>Gulf Air's Airbus A320-200 planes use CFM56-5A3 engines from CFM International, a joint venture between General Electric and a French company, according to aviation trade magazine Speednews.</S>
+<S PAR='2' RSNT='23' SNO='24'>"The Airbus 320 is a good bird," said ABCNEWS aviation analyst John Nance.</S>
+<S PAR='2' RSNT='24' SNO='25'>"It's an extremely reliable, state-of-the-art airplane."</S>
+<S PAR='2' RSNT='25' SNO='26'>The Airbus 320 was one of the first aircrafts to add two major innovations: a side-stick controller that operates like a joystick and a "fly-by-wire" system.</S>
+<S PAR='2' RSNT='26' SNO='27'>Before the use of "fly-by-wire," pilots controlled aircraft through direct force -- moving control sticks and rudder pedals.</S>
+<S PAR='2' RSNT='27' SNO='28'>But with the new system, the Airbus 320 uses electrical impulses to control hydraulic valves.</S>
+<S PAR='2' RSNT='28' SNO='29'>Nance said there was some initial controversy about the safety of the fly-by-wire system, but he said, "The common feeling has come to be that it was safe."</S>
+</TEXT>
+</BODY>
+</DOCSENT>

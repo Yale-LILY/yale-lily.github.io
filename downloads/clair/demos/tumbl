@@ -1,0 +1,54 @@
+<html>
+  <head>
+  <title>TUMBL: Tripartite Updating Method for Biased Learning</title>
+  </head>
+  <body>
+    <applet code="http://clair.si.umich.edu/clair/demos/tumbl/edu.umich.clair.tumbl.TumblViewApplet.class"
+            archive="tumbl1.jar,jung-1.7.6.jar,jlfgr-1_0.jar,colt.jar,commons-collections-3.1.jar"
+            width="980" height="740">
+    </applet>  
+    <p>The following example data files are available for download: 
+
+<a href="http://clair.si.umich.edu/clair/demos/tumbl/tr200.xml">tr200.xml</a>,
+<a href="http://clair.si.umich.edu/clair/demos/tumbl/tr10f.xml">tr10f.xml</a>,
+<a href="http://clair.si.umich.edu/clair/demos/tumbl/milan.xml">milan.xml</a>,
+<a href="http://clair.si.umich.edu/clair/demos/tumbl/milan0.xml">milan0.xml</a>
+<a href="http://clair.si.umich.edu/clair/demos/tumbl/chain9.xml">chain9.xml</a>,
+<a href="http://clair.si.umich.edu/clair/demos/tumbl/pos.xml">pos.xml</a>,
+<a href="http://clair.si.umich.edu/clair/demos/tumbl/ppattach.xml">ppattach.xml</a>,
+<a href="http://clair.si.umich.edu/clair/demos/tumbl/sample7.xml">sample7.xml</a>,
+<a href="http://clair.si.umich.edu/clair/demos/tumbl/twospirals.xml">twospirals.xml</a>,
+</p>
+
+<p>
+	This demo uses the graph visualization and algorithms provided in the JUNG API.  The homepage for JUNG can be found <a 
+href="http://jung.sourceforge.net/">here</a>. 
+    </p>	
+    <p>
+     If you cannot see the demo above, you may need to download the
+     most recent version of Java.
+    </p>
+    <!--<p>
+    </p>
+<p>
+--------------------------------------------------------------------------<br/>
+"This material is based upon work supported by the National Science<br/>
+Foundation under Grant No. 0329043."<br/>
+"Any opinions, findings and conclusions or recomendations expressed in<br/>
+this material are those of the author(s) and do not necessarily<br/>
+reflect the views of the National Science Foundation (NSF)."<br/>
+--------------------------------------------------------------------------<br/>
+</p>    
+<p>
+        If you have problems with copy-and-paste you need to enable the applet permissions.  This is done by 
+editing (and perhaps creating) the .java.policy in your home directory.  The file should contain
+<p>
+grant codeBase "http://chernobog.si.umich.edu/-" {<br/>
+      permission java.awt.AWTPermission "accessClipboard";<br/>
+};
+</p>
+  
+<p> You may have to restart your browswer</p>
+-->  
+</body>
+</html>

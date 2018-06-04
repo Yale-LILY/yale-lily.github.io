@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+<!DOCTYPE DOCSENT SYSTEM './docsent.dtd'>
+<DOCSENT DID='LA020590-0085'>
+<BODY>
+<TEXT>
+
+<S SNO="1" PAR="1" RSNT="1"> LA020590-0085</S>
+
+<S SNO="2" PAR="2" RSNT="1"> 171982</S>
+
+<S SNO="3" PAR="3" RSNT="1"> February 5, 1990, Monday, Orange County Edition</S>
+
+<S SNO="4" PAR="4" RSNT="1"> Metro; Part B; Page 2; Column 1; Metro Desk</S>
+
+<S SNO="5" PAR="5" RSNT="1"> 425 words</S>
+
+<S SNO="6" PAR="6" RSNT="1"> ORANGE COUNTY FOCUS: STANTON;</S>
+
+<S SNO="7" PAR="7" RSNT="1"> PLAN PANEL TO VOTE ON PHONE ANTENNA</S>
+
+<S SNO="8" PAR="8" RSNT="1"> By CHRISTOPHER ELLIOTT</S>
+
+<S SNO="9" PAR="9" RSNT="1"> When residents of a mobile home park were told to expect a new neighbor last month, they didn't show the hospitality usually reserved for outsiders.</S>
+
+<S SNO="10" PAR="10" RSNT="1"> The new arrival is a 63-foot cellular-telephone antenna which the Pacific Telesis Co. wants to install next to the Katella Estates Mobile Home Park on Central Avenue.</S>
+
+<S SNO="11" PAR="11" RSNT="1"> Renters said that the radio waves from the antenna -- the same type emitted by FM radio and television transmitters -- are harmful.</S>
+
+<S SNO="12" PAR="12" RSNT="1"> About 120 park residents signed a petition to try to block its construction and presented it to the city's Planning Commission in January.</S>
+
+<S SNO="13" PAR="13" RSNT="1"> "It's just human experimentation," said Yvonne Hemwood, who started the petition drive.</S>
+
+<S SNO="14" PAR="14" RSNT="1"> "There are so many unknown things we'd be exposed to.</S>
+
+<S SNO="15" PAR="15" RSNT="1"> Who knows what it's going to cause"?</S>
+
+<S SNO="16" PAR="16" RSNT="1"> Officials at PacTel say the transmitter is harmless, and that it is needed to service the 250,000 mobile phones in Southern California.</S>
+
+<S SNO="17" PAR="17" RSNT="1"> Its output would be limited to 100 Watts under federal regulations, they said, which is equivalent to the power used by a light bulb.</S>
+
+<S SNO="18" PAR="18" RSNT="1"> "It's not dangerous," said Neil Fitzpatrick, the company's general manager for government and business relations.</S>
+
+<S SNO="19" PAR="19" RSNT="1"> "It's like an ant running down the freeway.</S>
+
+<S SNO="20" PAR="20" RSNT="1"> It's absolutely minuscule".</S>
+
+<S SNO="21" PAR="21" RSNT="1"> Under pressure from the park's residents, the Planning Commission postponed a decision on the antenna until Wednesday.</S>
+
+<S SNO="22" PAR="22" RSNT="1"> Mike Bouvier, the city's planning manager, said research conducted on antennas such as the one being erected on Central Avenue shows that there are virtually no negative effects from exposure to the radio waves.</S>
+
+<S SNO="23" PAR="23" RSNT="1"> "Nothing in the literature would seem to indicate this is a major problem," he said, adding that the power level output would be "negligible".</S>
+
+<S SNO="24" PAR="24" RSNT="1"> But Hillary Deuchar, a resident of the mobile home park, said that the articles he's read about cellular antennas show exactly the opposite: that long-term exposure to the antenna can be harmful.</S>
+
+<S SNO="25" PAR="25" RSNT="1"> Kelly Howard, an associate industrial hygienist for the California Occupational Safety and Health Assn., said that residents should be less concerned with the antenna's power and more worried about their proximity to it.</S>
+
+<S SNO="26" PAR="26" RSNT="1"> "Generally, 30 feet is a safe distance to be at," he said, adding that the antenna would have to be in a resident's living room -- "about 1 foot away" -- to be harmful.</S>
+
+<S SNO="27" PAR="27" RSNT="1"> If the city lets PacTel install the antenna, residents will fight on, they have vowed.</S>
+
+<S SNO="28" PAR="28" RSNT="1"> "We can't chop it down".</S>
+
+<S SNO="29" PAR="29" RSNT="1"> said Ellen Munsterman, who lives about 30 feet from the proposed antenna site.</S>
+
+<S SNO="30" PAR="30" RSNT="1"> "We'd like to move, but we can't".</S>
+
+<S SNO="31" PAR="31" RSNT="1"> CHRISTOPHER ELLIOTT</S>
+
+<S SNO="32" PAR="32" RSNT="1"> Photo, From left, Yvonne Hemwood, Hillary Deuchar and Paul and Ellen Munsterman stand before an antenna of the type that Pacific Telesis proposes to erect near their mobile home park.</S>
+
+<S SNO="33" PAR="33" RSNT="1"> The park residents are trying to block the plan.</S>
+
+<S SNO="34" PAR="34" RSNT="1"> CLIFF OTTO / Los Angeles Times</S>
+
+<S SNO="35" PAR="35" RSNT="1"> Column; Brief</S>
+
+<S SNO="36" PAR="36" RSNT="1"> COMPLAINTS; PUBLIC HEALTH; PUBLIC SAFETY; CELLULAR TELEPHONES; PACIFIC TELESIS GROUP; TRANSMISSION TOWERS; STANTON (CA) -- ZONING; MOBILE HOME PARKS</S>
+
+</TEXT>
+</BODY>
+</DOCSENT>

@@ -1,0 +1,177 @@
+.archivehead {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.archivehead A {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.breaking {
+	COLOR: #990000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 20px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.breaking A {
+	COLOR: #990000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 20px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.cap {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.cap A {
+	COLOR: #ffcc00; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.capblack {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.capblack A {
+	COLOR: #003366; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.capyell {
+	COLOR: #ffffcc; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.capyell A {
+	COLOR: #ffffcc; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.consoleheader {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.consolesubhead {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.consolesubheadyell {
+	COLOR: #ffcc00; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.consoletxt {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 11px; LIST-STYLE: circle; TEXT-DECORATION: none
+}
+.deck {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+deck A {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.deckblack {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.deckblack A {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.drillNav {
+	COLOR: #000033; FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.drillNav A {
+	COLOR: #000033; FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.featurehead {
+	COLOR: #66ccff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.featurehead A {
+	COLOR: #66ccff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.fmbtext {
+	COLOR: #33cccc; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.fmbtext A {
+	COLOR: #33cccc; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.headline {
+	COLOR: #ffcc00; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 20px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.headline A {
+	COLOR: #ffcc00; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 20px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.headlineblack {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 20px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.headlineblack A {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 20px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.market {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold
+}
+.marketDate {
+	COLOR: #00cc00; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold
+}
+.othnewshead {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.othnewshead A {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.pollheader {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 13px; FONT-WEIGHT: bold
+}
+.polltxt {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px
+}
+.promo {
+	COLOR: #ffcc00; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+.promo A {
+	COLOR: #ffcc00; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+.schedule {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 16px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.searchlink {
+	COLOR: #336699; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 14px
+}
+.searchlink A {
+	COLOR: #336699; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.smwhite {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px
+}
+.smwhite A {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px
+}
+.storytext {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 13px
+}
+.storytext A {
+	COLOR: #6699cc; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 13px
+}
+.BioLinks {
+	COLOR: #000033; FONT-FAMILY: Arial, helvetica; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.BioLinks A {
+	COLOR: #000033; FONT-FAMILY: Arial, helvetica; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.topstories {
+	COLOR: #000033; FONT-FAMILY: Arial, helvetica; FONT-SIZE: 13px; TEXT-DECORATION: none
+}
+.topstories A {
+	COLOR: #000033; FONT-FAMILY: Arial, helvetica; FONT-SIZE: 13px; TEXT-DECORATION: none
+}
+.vstext {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.vstext A {
+	COLOR: #cc0000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.vsgreyhead {
+	COLOR: #666666; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 16px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.faqmenu {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.faqmenu A {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.lineupcaps {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.lineupcaps A {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.contact {
+	COLOR: #000000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.contact A {
+	COLOR: #ff0000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.vstextred {
+	COLOR: #ff0000; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.techwhite {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 11px
+}
+.techblue {
+	COLOR: #000033; FONT-FAMILY: arial,helvetica,sans-serif; FONT-SIZE: 11px
+}

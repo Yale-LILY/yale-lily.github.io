@@ -1,0 +1,131 @@
+<html>
+    <center>
+	<h1>LexRank/Mead Demo</h1>
+        <a href="/demos/demos/lexrank/screen_sm.png"><img border="0" alt="screenshot" src="screen_sm.png"></a>
+    </center>
+
+		
+	<h2>Overview</h2>
+	<p>
+	The Mead Demo applet is a program that lets you run mead without having to
+	install it locally. To begin, you load raw documents from various sources. The
+	documents are then sent to Mead, which clusters the documents and calculates 
+	scores for each sentence and sends the results back to the demo. The demo 
+	displays visualizations of the clusters, lets you set various parameters, and
+	generates a summary.
+	</p>
+
+	
+	<h2>Adding Documents</h2>
+	<p>
+	
+	There are three ways to add documents:
+	<ul>
+		<li>Copying and pasting text</li>
+		<li>Entering a URL to a document</li>
+		<li>Entering a URL to a directory listing of documents</li>
+	</ul>
+	
+	
+	<h3>Copying and Pasting Text</h3>	
+	In the menu bar, go to "New Session &gt; Open File (Copy/Paste)...". A dialog will appear
+	that will let you enter a document name and a document body.
+		
+	<h3>Entering a URL to a Document</h3>
+	In the menu bar, go to "New Session &gt; Open File (URL)...". A dialog will appear that will
+	let you enter a URL to a document. For example, you would enter <tt>http://myhost.com/myfile.txt</tt>
+	into the dialog to load that file.
+	
+	<h3>Entering a URL to a Directory Listing</h3>
+	In the menu bar, go to "New Session &gt; Open Directory (URL)...". A dialog will appear that will
+	let you enter a URL to a directory. Make sure that the URL you enter will generate a directory
+	listing of files when viewed with a web browser and that the directory contains only the
+	documents you wish to use in Mead (no other files or subdirectories).
+
+    An example set of documents in a directory listing is available at
+	</p>
+	
+	<h2>Setting Clustering Parameters (Optional)</h2>
+	<p>
+	When the documents are sent to Mead, it will create clusters of similar documents using a
+	tool called CIDR. You can set CIDR parameters by going to 
+	"New Session &gt; Set clustering parameters...". There are four clustering parameters:
+	<ul>
+		<li>Similarity Threshold - how similar documents must be to be grouped together</li>
+		<li>Word Decay - how fast a common word loses its relative importance</li>
+		<li>Minimum nidf - the minimum nidf value of a word in order for it to be added
+		to the cluster centroid</li>
+		<li>Centroid Size - the number of words to keep in the cluster centroid</li>
+	</ul>
+	</p>
+	
+	<h2>Removing Documents</h2>
+	<p>
+	To remove a document, select it from the "Loaded Documents" table and click the "Remove Selected
+	Rows" button.
+	</p>
+	
+	<h2>Running Mead</h2>
+	<p>
+	To run Mead, make sure you have added at least one document and go to "New Session &gt; Run Mead".
+	It might take a few minutes for the request to be fully processed.
+	</p>
+	<p>
+	After everything has been loaded, at least two new tabs will open in the applet. The "Main"
+	tab gives an overview of the clusters, documents, and sentences. After the "Main" tab there
+	will be one or more cluster tabs, labelled by their top three centroid words. 
+	</p>
+	<p>
+	To start over, just add new documents to the (now cleared) list on the "New Session" tab and
+	run Mead as before.
+	</p>
+	
+	<h2>The Cluster View</h2>
+	<p>
+	The cluster view consists of three components: the main view in the center, the control panel
+	to the right, and the sentence table at the bottom. The main view has three separate views:
+	the graph view, the summary view, and the centroid view.
+	</p>
+	
+	<h3>The Sentence Table</h3>
+	The sentence table displays the list of sentences in the cluster as well as their document,
+	order in the document, feature scores, and overall score. Highlighted rows are sentences
+	that appear in the summary.
+	
+	<h3>The Control Panel</h3>
+	The control panel lets you specify parameters used to compute the summary as well as 
+	visualization settings. 
+	<ul>
+		<li><i>Feature Weights</i> - controls the relative weights of the sentence
+		scores.</li>
+		<li><i>MMR Parameter</i> - controls how to rerank sentences based on redundant
+		information (100% means redundant information is not penalized, 0% means that 
+		redundant information is highly penalized)</li>
+		<li><i>Compression</i> - controls the size of the summary</li>
+		<li><i>LexRank cosine filter</i> - controls the cutoff similarity score for LexRank</li>
+		<li><i>Graph Options</i> - controls how the graph is displayed</li>
+		
+	</ul>
+	
+	<h3>The Graph View</h3>
+
+	The graph view gives a visual representation of the cluster as a graph. Each vertex on the
+	graph represents a sentence and each edge between vertices represents the similarity between
+	those two sentences (this is used to calculate the LexRank feature). Sentences from the 
+	same document will be the same color. Sentences that do not appear in the summary will be
+	represented by small, red vertices.
+	
+	To display the vertex
+	names or edge weights, use the checkboxes at the bottom of the control panel. To pan the graph,
+	click and drag the background. To zoom the graph, use the scrollwheel on your mouse or the 
+	zoom buttons on the control panel.
+	
+	<h3>The Summary View</h3>
+	The summary view displays the top ranked sentences in the cluster.
+	
+	<h3>The Centroid View</h3>
+	The centroid view displays a table of words in the cluster and their corresponding
+	centroid score.
+	
+	</p>
+</html>

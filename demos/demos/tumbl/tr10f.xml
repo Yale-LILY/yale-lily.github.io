@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<tumbl xmlns="http://tangra.si.umich.edu/clair/tumbl"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://tangra.si.umich.edu/clair/tumbl tumbl.xsd">
+<feature id="x0_for" x="481.000000" y="484.000000"/>
+<feature id="x02_caused" x="653.000000" y="279.000000"/>
+<feature id="x11_conglomerate" x="-40.000000" y="360.000000"/>
+<object id="o.3" classification="1" label="0.500000" x="343.000000" y="367.000000"/>
+<feature id="x11_filters" x="-41.000000" y="304.000000"/>
+<feature id="x0_in" x="482.000000" y="21.000000"/>
+<feature id="x02_using" x="652.000000" y="-15.000000"/>
+<feature id="x11_problem" x="-46.000000" y="36.000000"/>
+<feature id="x02_join" x="654.000000" y="131.000000"/>
+<object id="o.10" classification="1" label="0.500000" x="334.000000" y="221.000000"/>
+<object id="o.5" classification="0" label="0.000000" x="328.000000" y="1.000000"/>
+<object id="o.1" classification="0" label="0.500000" x="334.000000" y="162.000000"/>
+<object id="o.9" classification="1" label="0.500000" x="349.000000" y="484.000000"/>
+<feature id="x11_deaths" x="-45.000000" y="246.000000"/>
+<feature id="x02_making" x="649.000000" y="419.000000"/>
+<feature id="x0_with" x="475.000000" y="185.000000"/>
+<object id="o.8" classification="1" label="1.000000" x="348.000000" y="578.000000"/>
+<feature id="x01_crocidolite" x="148.000000" y="-30.000000"/>
+<feature id="x01_team" x="149.000000" y="571.000000"/>
+<feature id="x11_researchers" x="-45.000000" y="470.000000"/>
+<feature id="x02_is" x="651.000000" y="479.000000"/>
+<object id="o.2" classification="1" label="0.500000" x="347.000000" y="535.000000"/>
+<feature id="x01_director" x="149.000000" y="386.000000"/>
+<object id="o.6" classification="0" label="0.500000" x="333.000000" y="76.000000"/>
+<feature id="x01_asbestos" x="154.000000" y="434.000000"/>
+<feature id="x02_named" x="652.000000" y="345.000000"/>
+<feature id="x11_cancer" x="-45.000000" y="189.000000"/>
+<feature id="x0_of" x="479.000000" y="325.000000"/>
+<feature id="x01_percentage" x="150.000000" y="319.000000"/>
+<object id="o.4" classification="1" label="0.500000" x="338.000000" y="297.000000"/>
+<object id="o.7" classification="1" label="0.500000" x="345.000000" y="424.000000"/>
+<feature id="x02_led" x="650.000000" y="568.000000"/>
+<feature id="x11_products" x="-42.000000" y="411.000000"/>
+<feature id="x02_bring" x="652.000000" y="39.000000"/>
+<feature id="x01_paper" x="154.000000" y="475.000000"/>
+<feature id="x11_N.V." x="-45.000000" y="531.000000"/>
+<feature id="x01_chairman" x="154.000000" y="514.000000"/>
+<feature id="x01_board" x="149.000000" y="168.000000"/>
+<feature id="x01_three" x="151.000000" y="204.000000"/>
+<feature id="x01_attention" x="157.000000" y="66.000000"/>
+<feature id="x11_director" x="-43.000000" y="125.000000"/>
+<edge directed="false" to="x11_products" from="o.7" />
+<edge directed="true" to="x0_in" from="o.5" />
+<edge directed="false" to="x01_paper" from="o.9" />
+<edge directed="false" to="x11_N.V." from="o.2" />
+<edge directed="false" to="x01_board" from="o.1" />
+<edge directed="false" to="x02_named" from="o.3" />
+<edge directed="false" to="x02_caused" from="o.10" />
+<edge directed="true" to="x02_led" from="o.8" />
+<edge directed="false" to="x0_of" from="o.4" />
+<edge directed="true" to="x02_using" from="o.5" />
+<edge directed="false" to="x02_bring" from="o.6" />
+<edge directed="false" to="x0_of" from="o.2" />
+<edge directed="false" to="x11_filters" from="o.9" />
+<edge directed="false" to="x01_chairman" from="o.2" />
+<edge directed="false" to="x02_caused" from="o.4" />
+<edge directed="false" to="x02_making" from="o.9" />
+<edge directed="false" to="x0_with" from="o.1" />
+<edge directed="true" to="x01_team" from="o.8" />
+<edge directed="true" to="x0_of" from="o.8" />
+<edge directed="false" to="x0_in" from="o.6" />
+<edge directed="false" to="x11_problem" from="o.6" />
+<edge directed="false" to="x11_deaths" from="o.4" />
+<edge directed="true" to="x11_filters" from="o.5" />
+<edge directed="false" to="x01_attention" from="o.6" />
+<edge directed="false" to="x0_with" from="o.10" />
+<edge directed="false" to="x01_three" from="o.10" />
+<edge directed="false" to="x02_is" from="o.7" />
+<edge directed="false" to="x11_conglomerate" from="o.3" />
+<edge directed="false" to="x11_director" from="o.1" />
+<edge directed="false" to="x02_is" from="o.2" />
+<edge directed="true" to="x11_researchers" from="o.8" />
+<edge directed="false" to="x02_join" from="o.1" />
+<edge directed="false" to="x01_asbestos" from="o.7" />
+<edge directed="true" to="x01_crocidolite" from="o.5" />
+<edge directed="false" to="x0_in" from="o.7" />
+<edge directed="false" to="x11_cancer" from="o.10" />
+<edge directed="false" to="x01_percentage" from="o.4" />
+<edge directed="false" to="x0_for" from="o.9" />
+<edge directed="false" to="x01_director" from="o.3" />
+<edge directed="false" to="x0_of" from="o.3" />
+</tumbl>
