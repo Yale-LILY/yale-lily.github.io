@@ -1,0 +1,437 @@
+<?xml version="1.0"?>
+<tumbl xmlns="http://tangra.si.umich.edu/clair/tumbl"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://tangra.si.umich.edu/clair/tumbl tumbl.xsd">
+  <object id="x0_of_25"  label="1" classification="1"/>
+  <object id="x0_of_46"  label="1" classification="1"/>
+  <object id="x0_of_27" classification="1"/>
+  <object id="x0_of_12" classification="1"/>
+  <object id="x0_of_37" classification="1"/>
+  <object id="x0_of_10"  label="1" classification="1"/>
+  <object id="x0_from_6"  label="1" classification="1"/>
+  <object id="x0_for_17" classification="1"/>
+  <object id="x0_in_11" classification="0"/>
+  <object id="x0_on_6"  label="1" classification="1"/>
+  <object id="x0_around_1" classification="0"/>
+  <object id="x0_against_1" classification="1"/>
+  <object id="x0_with_2"  label="1" classification="1"/>
+  <object id="x0_of_23" classification="1"/>
+  <object id="x0_of_29" classification="1"/>
+  <object id="x0_in_1" classification="0"/>
+  <object id="x0_on_9"  label="0" classification="0"/>
+  <object id="x0_of_2"  label="1" classification="1"/>
+  <object id="x0_of_30"  label="1" classification="1"/>
+  <object id="x0_of_5"  label="1" classification="1"/>
+  <object id="x0_of_18"  label="1" classification="1"/>
+  <object id="x0_in_17" classification="0"/>
+  <object id="x0_to_6" classification="0"/>
+  <object id="x0_for_12"  label="1" classification="1"/>
+  <object id="x0_of_21" classification="1"/>
+  <object id="x0_to_4" classification="0"/>
+  <object id="x0_by_2" classification="0"/>
+  <object id="x0_for_8" classification="1"/>
+  <object id="x0_from_1"  label="1" classification="1"/>
+  <object id="x0_with_1"  label="1" classification="1"/>
+  <object id="x0_for_9"  label="1" classification="1"/>
+  <object id="x0_into_1"  label="0" classification="0"/>
+  <object id="x0_as_2" classification="0"/>
+  <object id="x0_of_35"  label="1" classification="1"/>
+  <object id="x0_with_5" classification="1"/>
+  <object id="x0_from_5" classification="1"/>
+  <object id="x0_for_22" classification="0"/>
+  <object id="x0_of_33" classification="1"/>
+  <object id="x0_for_5" classification="1"/>
+  <object id="x0_of_13" classification="1"/>
+  <object id="x0_of_44" classification="1"/>
+  <object id="x0_of_15" classification="1"/>
+  <object id="x0_for_1" classification="1"/>
+  <object id="x0_of_40" classification="1"/>
+  <object id="x0_by_4" classification="0"/>
+  <object id="x0_on_7" classification="1"/>
+  <object id="x0_on_2"  label="1" classification="1"/>
+  <object id="x0_to_8"  label="0" classification="0"/>
+  <object id="x0_for_3" classification="0"/>
+  <object id="x0_for_18" classification="0"/>
+  <object id="x0_for_16" classification="1"/>
+  <object id="x0_of_49"  label="1" classification="1"/>
+  <object id="x0_at_3"  label="0" classification="0"/>
+  <object id="x0_by_7"  label="0" classification="0"/>
+  <object id="x0_with_3" classification="1"/>
+  <object id="x0_of_50" classification="1"/>
+  <object id="x0_of_42" classification="1"/>
+  <object id="x0_in_4"  label="1" classification="1"/>
+  <object id="x0_at_5"  label="0" classification="0"/>
+  <object id="x0_in_10" classification="1"/>
+  <object id="x0_for_19" classification="1"/>
+  <object id="x0_at_4"  label="0" classification="0"/>
+  <object id="x0_in_2"  label="1" classification="1"/>
+  <object id="x0_on_5" classification="0"/>
+  <object id="x0_in_14"  label="0" classification="0"/>
+  <object id="x0_of_17" classification="1"/>
+  <object id="x0_for_13" classification="1"/>
+  <object id="x0_sinc_1" classification="0"/>
+  <object id="x0_for_20" classification="0"/>
+  <object id="x0_of_19" classification="1"/>
+  <object id="x0_of_7"  label="1" classification="1"/>
+  <object id="x0_of_24" classification="1"/>
+  <object id="x0_for_11" classification="1"/>
+  <object id="x0_of_11"  label="1" classification="1"/>
+  <object id="x0_of_28" classification="1"/>
+  <object id="x0_of_1" classification="1"/>
+  <object id="x0_between_1" classification="1"/>
+  <object id="x0_among_1"  label="1" classification="1"/>
+  <object id="x0_of_20" classification="1"/>
+  <object id="x0_on_10" classification="0"/>
+  <object id="x0_of_47" classification="1"/>
+  <object id="x0_to_5"  label="0" classification="0"/>
+  <object id="x0_by_5"  label="0" classification="0"/>
+  <object id="x0_in_5" classification="1"/>
+  <object id="x0_in_12"  label="0" classification="0"/>
+  <object id="x0_as_4" classification="0"/>
+  <object id="x0_from_2" classification="0"/>
+  <object id="x0_to_3" classification="0"/>
+  <object id="x0_on_8"  label="1" classification="1"/>
+  <object id="x0_of_36"  label="1" classification="1"/>
+  <object id="x0_in_6"  label="0" classification="0"/>
+  <object id="x0_per_1" classification="1"/>
+  <object id="x0_by_1" classification="1"/>
+  <object id="x0_of_22" classification="1"/>
+  <object id="x0_in_8" classification="0"/>
+  <object id="x0_in_9" classification="1"/>
+  <object id="x0_for_10"  label="0" classification="0"/>
+  <object id="x0_for_6"  label="1" classification="1"/>
+  <object id="x0_of_51" classification="1"/>
+  <object id="x0_of_39" classification="1"/>
+  <object id="x0_on_3" classification="1"/>
+  <object id="x0_of_31"  label="1" classification="1"/>
+  <object id="x0_via_1"  label="0" classification="0"/>
+  <object id="x0_as_5" classification="0"/>
+  <object id="x0_of_41" classification="1"/>
+  <object id="x0_to_2"  label="0" classification="0"/>
+  <object id="x0_of_14"  label="1" classification="1"/>
+  <object id="x0_of_43" classification="1"/>
+  <object id="x0_in_7" classification="1"/>
+  <object id="x0_in_13" classification="1"/>
+  <object id="x0_of_48" classification="1"/>
+  <object id="x0_at_2" classification="0"/>
+  <object id="x0_of_26"  label="1" classification="1"/>
+  <object id="x0_by_8" classification="0"/>
+  <object id="x0_for_4"  label="0" classification="0"/>
+  <object id="x0_by_3"  label="0" classification="0"/>
+  <object id="x0_from_4" classification="1"/>
+  <object id="x0_of_32"  label="1" classification="1"/>
+  <object id="x0_dure_1"  label="1" classification="1"/>
+  <object id="x0_of_34"  label="1" classification="1"/>
+  <object id="x0_of_16"  label="1" classification="1"/>
+  <object id="x0_for_14"  label="0" classification="0"/>
+  <object id="x0_for_2"  label="1" classification="1"/>
+  <feature id="x11_product" />
+  <feature id="x01_million" />
+  <feature id="x02_made" />
+  <feature id="x01_ceil" />
+  <feature id="x02_report" />
+  <feature id="x02_own" />
+  <feature id="x02_develop" />
+  <feature id="x01_%" />
+  <feature id="x02_succe" />
+  <feature id="x02_receiv" />
+  <feature id="x01_forc" />
+  <feature id="x11_type" />
+  <feature id="x01_barrel" />
+  <feature id="x02_complet" />
+  <feature id="x11_year" />
+  <feature id="x02_store" />
+  <feature id="x01_execut" />
+  <feature id="x11_compani" />
+  <feature id="x01_acquisit" />
+  <feature id="x02_make" />
+  <feature id="x11_entitynam" />
+  <feature id="x02_ha" />
+  <feature id="x01_page" />
+  <feature id="x02_face" />
+  <feature id="x02_approv" />
+  <feature id="x02_entitynam" />
+  <feature id="x02_regist" />
+  <feature id="x02_issu" />
+  <feature id="x02_propos" />
+  <feature id="x11_%" />
+  <feature id="x01_paper" />
+  <feature id="x01_data" />
+  <feature id="x02_dump" />
+  <feature id="x01_circul" />
+  <feature id="x02_been" />
+  <feature id="x01_treatment" />
+  <feature id="x11_million" />
+  <feature id="x02_set" />
+  <feature id="x01_rate" />
+  <feature id="x02_hold" />
+  <feature id="x01_three" />
+  <feature id="x01_deficit" />
+  <feature id="x02_acquir" />
+  <feature id="x01_sack" />
+  <feature id="x11_yearnum" />
+  <feature id="x01_plan" />
+  <feature id="x02_seek" />
+  <feature id="x01_order" />
+  <feature id="x01_earn" />
+  <feature id="x01_profit" />
+  <feature id="x02_wa" />
+  <feature id="x02_is" />
+  <feature id="x02_be" />
+  <feature id="x01_interest" />
+  <feature id="x02_name" />
+  <feature id="x02_improv" />
+  <feature id="x02_refund" />
+  <feature id="x11_othernum" />
+  <feature id="x11_perform" />
+  <feature id="x01_presid" />
+  <feature id="x01_entitynam" />
+  <feature id="x11_advertis" />
+  <feature id="x02_us" />
+  <feature id="x01_declin" />
+  <feature id="x11_filter" />
+  <feature id="x02_expect" />
+  <feature id="x01_refund" />
+  <feature id="x01_director" />
+  <feature id="x02_had" />
+  <feature id="x01_on" />
+  <feature id="x01_review" />
+  <feature id="x11_field" />
+  <feature id="x02_announc" />
+  <feature id="x01_sale" />
+  <feature id="x02_rais" />
+  <feature id="x01_competit" />
+  <edge directed="false" to="x0_in_10" from="x01_million"/>
+  <edge directed="false" to="x0_to_4" from="x01_million"/>
+  <edge directed="false" to="x0_to_6" from="x01_million"/>
+  <edge directed="false" to="x0_in_13" from="x01_million"/>
+  <edge directed="false" to="x0_for_10" from="x01_million"/>
+  <edge directed="false" to="x0_of_25" from="x02_report"/>
+  <edge directed="true" to="x0_for_14" from="x02_report"/>
+  <edge directed="false" to="x0_of_30" from="x02_report"/>
+  <edge directed="false" to="x0_by_7" from="x01_forc"/>
+  <edge directed="true" to="x0_of_31" from="x01_forc"/>
+  <edge directed="false" to="x0_for_20" from="x11_type"/>
+  <edge directed="false" to="x0_for_22" from="x11_type"/>
+  <edge directed="true" to="x0_for_4" from="x11_year"/>
+  <edge directed="false" to="x0_in_8" from="x11_year"/>
+  <edge directed="false" to="x0_of_43" from="x01_page"/>
+  <edge directed="false" to="x0_in_17" from="x01_page"/>
+  <edge directed="false" to="x0_from_1" from="x02_face"/>
+  <edge directed="false" to="x0_on_7" from="x02_face"/>
+  <edge directed="true" to="x0_of_49" from="x02_entitynam"/>
+  <edge directed="false" to="x0_of_42" from="x02_entitynam"/>
+  <edge directed="true" to="x0_in_6" from="x02_regist"/>
+  <edge directed="false" to="x0_of_16" from="x02_regist"/>
+  <edge directed="false" to="x0_for_20" from="x01_treatment"/>
+  <edge directed="false" to="x0_for_19" from="x01_treatment"/>
+  <edge directed="false" to="x0_for_22" from="x01_treatment"/>
+  <edge directed="false" to="x0_of_25" from="x01_earn"/>
+  <edge directed="false" to="x0_by_4" from="x01_earn"/>
+  <edge directed="false" to="x0_of_15" from="x02_wa"/>
+  <edge directed="true" to="x0_of_34" from="x02_wa"/>
+  <edge directed="false" to="x0_from_4" from="x02_wa"/>
+  <edge directed="false" to="x0_of_21" from="x02_wa"/>
+  <edge directed="false" to="x0_of_35" from="x02_wa"/>
+  <edge directed="false" to="x0_of_32" from="x02_wa"/>
+  <edge directed="false" to="x0_with_5" from="x02_improv"/>
+  <edge directed="false" to="x0_of_37" from="x02_improv"/>
+  <edge directed="false" to="x0_of_33" from="x02_name"/>
+  <edge directed="false" to="x0_of_36" from="x02_name"/>
+  <edge directed="true" to="x0_of_2" from="x02_name"/>
+  <edge directed="false" to="x0_of_40" from="x11_perform"/>
+  <edge directed="true" to="x0_for_10" from="x11_perform"/>
+  <edge directed="true" to="x0_dure_1" from="x02_had"/>
+  <edge directed="true" to="x0_of_18" from="x02_had"/>
+  <edge directed="true" to="x0_in_12" from="x02_announc"/>
+  <edge directed="false" to="x0_for_5" from="x02_announc"/>
+  <edge directed="false" to="x0_per_1" from="x01_%"/>
+  <edge directed="false" to="x0_of_46" from="x01_%"/>
+  <edge directed="false" to="x0_of_29" from="x01_%"/>
+  <edge directed="false" to="x0_in_9" from="x02_propos"/>
+  <edge directed="false" to="x0_against_1" from="x02_propos"/>
+  <edge directed="false" to="x0_for_1" from="x01_paper"/>
+  <edge directed="false" to="x0_for_2" from="x01_paper"/>
+  <edge directed="false" to="x0_of_18" from="x01_circul"/>
+  <edge directed="false" to="x0_in_8" from="x01_circul"/>
+  <edge directed="true" to="x0_on_8" from="x02_been"/>
+  <edge directed="true" to="x0_for_4" from="x02_been"/>
+  <edge directed="false" to="x0_with_3" from="x02_been"/>
+  <edge directed="false" to="x0_for_12" from="x02_been"/>
+  <edge directed="true" to="x0_of_25" from="x11_million"/>
+  <edge directed="false" to="x0_of_12" from="x11_million"/>
+  <edge directed="false" to="x0_of_17" from="x11_million"/>
+  <edge directed="false" to="x0_for_18" from="x11_million"/>
+  <edge directed="true" to="x0_of_16" from="x11_million"/>
+  <edge directed="true" to="x0_of_30" from="x11_million"/>
+  <edge directed="false" to="x0_by_5" from="x11_million"/>
+  <edge directed="false" to="x0_in_10" from="x02_seek"/>
+  <edge directed="false" to="x0_of_22" from="x02_seek"/>
+  <edge directed="false" to="x0_by_8" from="x11_othernum"/>
+  <edge directed="false" to="x0_by_4" from="x11_othernum"/>
+  <edge directed="false" to="x0_of_31" from="x11_othernum"/>
+  <edge directed="true" to="x0_at_4" from="x11_othernum"/>
+  <edge directed="false" to="x0_of_24" from="x11_othernum"/>
+  <edge directed="true" to="x0_of_18" from="x11_othernum"/>
+  <edge directed="false" to="x0_of_33" from="x01_presid"/>
+  <edge directed="true" to="x0_of_36" from="x01_presid"/>
+  <edge directed="false" to="x0_of_34" from="x01_presid"/>
+  <edge directed="true" to="x0_of_35" from="x01_presid"/>
+  <edge directed="true" to="x0_of_32" from="x01_presid"/>
+  <edge directed="false" to="x0_for_6" from="x11_advertis"/>
+  <edge directed="false" to="x0_to_3" from="x11_advertis"/>
+  <edge directed="false" to="x0_of_13" from="x01_sale"/>
+  <edge directed="false" to="x0_of_48" from="x01_sale"/>
+  <edge directed="false" to="x0_of_11" from="x01_sale"/>
+  <edge directed="false" to="x0_for_11" from="x11_product"/>
+  <edge directed="true" to="x0_in_2" from="x11_product"/>
+  <edge directed="true" to="x0_on_9" from="x02_made"/>
+  <edge directed="false" to="x0_for_2" from="x02_made"/>
+  <edge directed="false" to="x0_for_16" from="x02_develop"/>
+  <edge directed="false" to="x0_for_17" from="x02_develop"/>
+  <edge directed="true" to="x0_from_6" from="x01_barrel"/>
+  <edge directed="false" to="x0_from_5" from="x01_barrel"/>
+  <edge directed="false" to="x0_for_19" from="x02_approv"/>
+  <edge directed="false" to="x0_by_1" from="x02_approv"/>
+  <edge directed="true" to="x0_of_26" from="x11_%"/>
+  <edge directed="false" to="x0_to_8" from="x11_%"/>
+  <edge directed="false" to="x0_at_3" from="x11_%"/>
+  <edge directed="false" to="x0_of_41" from="x11_%"/>
+  <edge directed="false" to="x0_into_1" from="x02_dump"/>
+  <edge directed="true" to="x0_of_7" from="x02_dump"/>
+  <edge directed="false" to="x0_at_3" from="x02_set"/>
+  <edge directed="true" to="x0_for_9" from="x02_set"/>
+  <edge directed="false" to="x0_on_6" from="x02_set"/>
+  <edge directed="true" to="x0_of_10" from="x02_hold"/>
+  <edge directed="false" to="x0_in_5" from="x02_hold"/>
+  <edge directed="false" to="x0_of_19" from="x02_acquir"/>
+  <edge directed="false" to="x0_for_18" from="x02_acquir"/>
+  <edge directed="true" to="x0_in_14" from="x11_yearnum"/>
+  <edge directed="false" to="x0_for_8" from="x11_yearnum"/>
+  <edge directed="false" to="x0_sinc_1" from="x11_yearnum"/>
+  <edge directed="false" to="x0_for_5" from="x11_yearnum"/>
+  <edge directed="false" to="x0_of_39" from="x02_be"/>
+  <edge directed="false" to="x0_per_1" from="x02_be"/>
+  <edge directed="false" to="x0_to_4" from="x02_refund"/>
+  <edge directed="false" to="x0_for_10" from="x02_refund"/>
+  <edge directed="false" to="x0_on_5" from="x01_entitynam"/>
+  <edge directed="false" to="x0_of_20" from="x01_entitynam"/>
+  <edge directed="false" to="x0_of_19" from="x01_entitynam"/>
+  <edge directed="false" to="x0_as_4" from="x01_entitynam"/>
+  <edge directed="false" to="x0_for_18" from="x01_entitynam"/>
+  <edge directed="false" to="x0_from_2" from="x01_entitynam"/>
+  <edge directed="false" to="x0_as_2" from="x01_entitynam"/>
+  <edge directed="false" to="x0_as_5" from="x02_us"/>
+  <edge directed="false" to="x0_in_1" from="x02_us"/>
+  <edge directed="false" to="x0_for_1" from="x11_filter"/>
+  <edge directed="true" to="x0_for_2" from="x11_filter"/>
+  <edge directed="false" to="x0_in_1" from="x11_filter"/>
+  <edge directed="true" to="x0_by_7" from="x02_expect"/>
+  <edge directed="false" to="x0_of_31" from="x02_expect"/>
+  <edge directed="false" to="x0_in_4" from="x02_expect"/>
+  <edge directed="false" to="x0_of_24" from="x01_refund"/>
+  <edge directed="false" to="x0_on_7" from="x01_refund"/>
+  <edge directed="true" to="x0_to_5" from="x01_refund"/>
+  <edge directed="false" to="x0_of_23" from="x01_director"/>
+  <edge directed="false" to="x0_of_2" from="x01_director"/>
+  <edge directed="false" to="x0_by_8" from="x01_review"/>
+  <edge directed="false" to="x0_of_40" from="x01_review"/>
+  <edge directed="false" to="x0_from_6" from="x11_field"/>
+  <edge directed="false" to="x0_from_5" from="x11_field"/>
+  <edge directed="false" to="x0_to_2" from="x02_rais"/>
+  <edge directed="false" to="x0_by_5" from="x02_rais"/>
+  <edge directed="true" to="x0_from_1" from="x01_competit"/>
+  <edge directed="false" to="x0_between_1" from="x01_competit"/>
+  <edge directed="false" to="x0_on_3" from="x01_ceil"/>
+  <edge directed="true" to="x0_to_2" from="x01_ceil"/>
+  <edge directed="false" to="x0_of_20" from="x02_own"/>
+  <edge directed="true" to="x0_of_46" from="x02_own"/>
+  <edge directed="false" to="x0_on_5" from="x02_succe"/>
+  <edge directed="false" to="x0_as_4" from="x02_succe"/>
+  <edge directed="false" to="x0_for_13" from="x02_receiv"/>
+  <edge directed="false" to="x0_sinc_1" from="x02_receiv"/>
+  <edge directed="false" to="x0_by_2" from="x02_complet"/>
+  <edge directed="false" to="x0_of_48" from="x02_complet"/>
+  <edge directed="false" to="x0_of_11" from="x02_complet"/>
+  <edge directed="false" to="x0_of_43" from="x02_store"/>
+  <edge directed="false" to="x0_in_17" from="x02_store"/>
+  <edge directed="false" to="x0_on_10" from="x02_store"/>
+  <edge directed="true" to="x0_for_4" from="x01_execut"/>
+  <edge directed="false" to="x0_with_3" from="x01_execut"/>
+  <edge directed="false" to="x0_of_49" from="x01_acquisit"/>
+  <edge directed="false" to="x0_by_1" from="x01_acquisit"/>
+  <edge directed="false" to="x0_of_33" from="x11_compani"/>
+  <edge directed="false" to="x0_in_5" from="x11_compani"/>
+  <edge directed="false" to="x0_of_28" from="x11_compani"/>
+  <edge directed="false" to="x0_of_32" from="x11_compani"/>
+  <edge directed="false" to="x0_for_1" from="x02_make"/>
+  <edge directed="false" to="x0_from_6" from="x02_make"/>
+  <edge directed="false" to="x0_from_5" from="x02_make"/>
+  <edge directed="false" to="x0_of_24" from="x02_make"/>
+  <edge directed="false" to="x0_to_5" from="x02_make"/>
+  <edge directed="false" to="x0_of_20" from="x11_entitynam"/>
+  <edge directed="false" to="x0_of_27" from="x11_entitynam"/>
+  <edge directed="false" to="x0_of_35" from="x11_entitynam"/>
+  <edge directed="false" to="x0_with_5" from="x11_entitynam"/>
+  <edge directed="false" to="x0_in_12" from="x11_entitynam"/>
+  <edge directed="false" to="x0_of_19" from="x11_entitynam"/>
+  <edge directed="false" to="x0_for_17" from="x11_entitynam"/>
+  <edge directed="false" to="x0_in_11" from="x11_entitynam"/>
+  <edge directed="false" to="x0_by_3" from="x11_entitynam"/>
+  <edge directed="false" to="x0_for_12" from="x11_entitynam"/>
+  <edge directed="true" to="x0_of_11" from="x11_entitynam"/>
+  <edge directed="false" to="x0_for_16" from="x11_entitynam"/>
+  <edge directed="false" to="x0_of_36" from="x11_entitynam"/>
+  <edge directed="false" to="x0_in_6" from="x11_entitynam"/>
+  <edge directed="false" to="x0_of_49" from="x11_entitynam"/>
+  <edge directed="false" to="x0_with_3" from="x11_entitynam"/>
+  <edge directed="false" to="x0_by_1" from="x11_entitynam"/>
+  <edge directed="false" to="x0_from_1" from="x11_entitynam"/>
+  <edge directed="true" to="x0_at_5" from="x11_entitynam"/>
+  <edge directed="false" to="x0_between_1" from="x11_entitynam"/>
+  <edge directed="false" to="x0_of_1" from="x11_entitynam"/>
+  <edge directed="false" to="x0_of_47" from="x02_ha"/>
+  <edge directed="true" to="x0_on_2" from="x02_ha"/>
+  <edge directed="false" to="x0_of_12" from="x02_ha"/>
+  <edge directed="false" to="x0_of_29" from="x02_ha"/>
+  <edge directed="false" to="x0_of_40" from="x02_issu"/>
+  <edge directed="true" to="x0_of_14" from="x02_issu"/>
+  <edge directed="false" to="x0_by_8" from="x02_issu"/>
+  <edge directed="false" to="x0_on_10" from="x01_data"/>
+  <edge directed="true" to="x0_via_1" from="x01_data"/>
+  <edge directed="true" to="x0_by_5" from="x01_rate"/>
+  <edge directed="false" to="x0_for_3" from="x01_rate"/>
+  <edge directed="true" to="x0_on_6" from="x01_rate"/>
+  <edge directed="false" to="x0_for_5" from="x01_rate"/>
+  <edge directed="true" to="x0_at_3" from="x01_rate"/>
+  <edge directed="true" to="x0_with_1" from="x01_three"/>
+  <edge directed="true" to="x0_of_10" from="x01_three"/>
+  <edge directed="false" to="x0_in_6" from="x01_deficit"/>
+  <edge directed="false" to="x0_of_16" from="x01_deficit"/>
+  <edge directed="true" to="x0_into_1" from="x01_sack"/>
+  <edge directed="false" to="x0_of_7" from="x01_sack"/>
+  <edge directed="false" to="x0_in_9" from="x01_plan"/>
+  <edge directed="true" to="x0_for_6" from="x01_plan"/>
+  <edge directed="false" to="x0_at_2" from="x01_plan"/>
+  <edge directed="true" to="x0_for_12" from="x01_order"/>
+  <edge directed="true" to="x0_by_3" from="x01_order"/>
+  <edge directed="false" to="x0_of_30" from="x01_profit"/>
+  <edge directed="false" to="x0_for_14" from="x01_profit"/>
+  <edge directed="true" to="x0_among_1" from="x02_is"/>
+  <edge directed="false" to="x0_of_27" from="x02_is"/>
+  <edge directed="false" to="x0_in_2" from="x02_is"/>
+  <edge directed="true" to="x0_of_5" from="x02_is"/>
+  <edge directed="false" to="x0_of_51" from="x02_is"/>
+  <edge directed="false" to="x0_around_1" from="x02_is"/>
+  <edge directed="true" to="x0_with_2" from="x02_is"/>
+  <edge directed="false" to="x0_of_50" from="x02_is"/>
+  <edge directed="false" to="x0_of_1" from="x02_is"/>
+  <edge directed="false" to="x0_in_5" from="x01_interest"/>
+  <edge directed="true" to="x0_to_8" from="x01_interest"/>
+  <edge directed="false" to="x0_in_7" from="x01_declin"/>
+  <edge directed="true" to="x0_in_4" from="x01_declin"/>
+  <edge directed="true" to="x0_of_5" from="x01_on"/>
+  <edge directed="false" to="x0_of_39" from="x01_on"/>
+  <edge directed="false" to="x0_of_21" from="x01_on"/>
+  <edge directed="false" to="x0_of_44" from="x01_on"/>
+</tumbl>

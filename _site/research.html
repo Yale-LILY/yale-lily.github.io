@@ -1,0 +1,1460 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <link rel="stylesheet"
+          href="css/jquery-ui.css"
+          type="text/css" />
+    <link rel="stylesheet" href="css/research.css" type="text/css" />
+    <script type="text/javascript" src="js/jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="js/jquery.ui.core.js"></script>
+    <script type="text/javascript" src="js/jquery.ui.widget.js"></script>
+    <script type="text/javascript" src="js/jquery.ui.tabs.js"></script>
+    <script type="text/javascript">
+      $(function() {
+           $("#tabs").tabs({
+		select: function (e, ui) {
+                        window.location.replace(ui.tab.hash);
+                        var $panel = $(ui.panel);
+                        if ($panel.is(":empty")) {
+                                $panel.append("<div class='tab-loading'>Loading...</div>")
+                    }}
+	});
+      });
+    </script>
+    <title>
+      CLAIR Research
+    </title>
+  </head>
+  <body>
+    <!-- It is unclear to me how a giant, unmaintainable JavaScript
+	 object is preferable to nicely broken up HTML.  This is more
+	 maintainable, for one thing, and you have less obnoxious
+	 line-break behaviour.  Also, this version degrades gracefully
+	 and shows people using w3m or lynx something other than a
+	 blank page.  To add a new tab to this section, add a new item
+	 to the unordered list below, then create a new div with the
+	 same id.  Clone and hack should do you fine.  -->
+    <div id="tabs">
+      <ul>
+	<li><a href="#intro">Introduction</a></li>
+	<li><a href="#clairlib">Clairlib</a></li>
+	<li><a href="#politext">PoliText</a></li>
+	<!--li><a href="#dynamicsalience">Dynamic Salience</a></li-->
+	<li><a href="#facets">Facets</a></li>
+	<li><a href="#ssknn">SSkNN</a></li>
+	<li><a href="#gin">GIN</a></li>
+	<li><a href="#gin-na">GIN-NA</a></li>
+	<li><a href="#gin-ie">GIN-IE</a></li>
+	<li><a href="#bioevents">BioEvents</a></li>
+	<li><a href="#biocontext">BioContext</a></li>
+	<li><a href="#speculation">Speculation</a></li>
+	<li><a href="#tumbl">Tumbl</a></li>
+	<li><a href="#lexrank">LexRank</a></li>
+	<li><a href="#mead">MEAD</a></li>
+	<li><a href="#blogocenter">BlogoCenter</a></li>
+	<li><a href="#aan">AAN</a></li>
+	<li><a href="#iopener">iOpener</a></li>
+	<li><a href="#nsir">NSIR</a></li>
+	<li><a href="#collectivediscourse">Collective Discourse</a></li>
+	<li><a href="#gbnlpir">Graph-Based NLP/IR</a></li>
+       <li><a href="#scil">SCIL</a></li>
+        <li><a href="#SoCS">SoCS</a></li>
+        <li><a href="#FUSE">FUSE</a></li>
+
+      </ul>
+      <div id="intro" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Introduction</h1>
+	    <p>
+	      The CLAIR (Computational Linguistics And Information
+	      Retrieval) research group focuses on text analysis,
+	      natural language processing, information retrieval, and
+	      network analysis. Specific projects involve text
+	      summarization, question answering, topic modeling, and
+	      bibliometrics. The applications areas include
+	      bioinformatics, political science, social media
+	      analysis, and others.
+	    </p> 
+	  </div>
+	  <div class="col2">
+	  </div>
+	</div>
+      </div>
+
+ <div id="FUSE" class="colmask rightmenu">
+        <div class="colleft">
+          <div class="col1">
+            <h1>Foresight and Understanding from Scientific Exposition (FUSE)</h1>
+            <p>(from the IARPA FUSE page)
+The FUSE Program seeks to develop automated methods that aid in the systematic, continuous, and comprehensive assessment of technical emergence using information found in the published scientific, technical, and patent literature. FUSE envisions a system that could (1) process the massive, multi-discipline, growing, noisy, and multilingual body of full-text scientific, technical, and patent literature from around the world; (2) automatically generate and prioritize RDGs, nominate those that exhibit technical emergence, and provide compelling evidence for that emergence; and (3) provide this capability for literatures in English and at least two non-English languages. The FUSE Program will also address the vital challenge of validating such a system, using real world data.</p>
+
+            <p><ul>
+	    <li><a href="http://clair.si.umich.edu/fuse">Umich FUSE page</a></li>
+	    <li><a href="http://clair.si.umich.edu/anthology">ACL Anthology Network</a></li>
+	    <li><a href="http://www.iarpa.gov/solicitations_fuse.html">IARPA FUSE Page</a></li>
+	    </ul></p>
+<!--<h2>Papers</h2>
+            <ul class="links">
+             </ul>-->
+ </div><div class="col2">
+            <h2>People</h2>
+            <ul class="people">
+ 	      <li>Aditya Tayade</li>
+              <li>Ben King</li>
+              <li>Paritosh Aggarwal</li>
+              <li>Rahul Jha</li>
+              <li>Wanchen Lu</li>
+              <li>Dragomir Radev</li>
+            </ul>
+          </div>
+        </div>
+       </div>
+
+
+ <div id="SoCS" class="colmask rightmenu">
+        <div class="colleft">
+          <div class="col1">
+            <h1>Assessing Information Credibility Without Authoritative Sources
+</h1>
+            <p>(from Paul Resnick's page)
+            This project will develop tools that help people make personal
+assessments of credibility. Rather than relying on particular sources
+as authoritative arbiters of ground truth, the goal is to minimize the
+amount of "social implausibility". That is, the tool will identify
+assertions that are disbelieved by "similar" people (those who, after
+careful consideration, someone tended to agree with in the past) or
+come from sources that someone has tended to disagree with. A text
+mining system for online media will be developed to extract
+controversial assertions and the beliefs expressed by users about
+those assertions. Comparisons of beliefs about common assertions, and
+retractions or updates to beliefs, will be tracked as part of
+personalized reputation measures.
+(Joint work with Qiaozhu Mei, Rahul Sami, and Dragomir Radev. Funded
+by NSF under Grant No. IIS- 0968489.)</p>
+<h2>Papers</h2>
+            <ul class="links">
+              <li><a href="http://clair.si.umich.edu/~radev/papers/EMNLP.pdf">
+              Vahed Qazvinian; Emily Rosengren; Dragomir R. Radev; and Qiaozhu Mei "Rumor has it: Identifying Misinformation in Microblogs"<cite>Empirical Methods on Natural Language Processing </cite><cite>(EMNLP 2011).</cite></a></li>
+
+                  </li>
+            </ul>
+ </div><div class="col2">
+            <h2>People</h2>
+            <ul class="people">
+              <li>Vahed Qazvinian</li>
+              <li>Emily Rosengren</li>
+              <li>Qiaozhu Mei</li>
+              <li>Dragomir Radev</li>
+              <li>Paul Resnick</li>
+              <li>Rahul Sami</li>
+              <li>Pradeep Muthukrishnan</li>
+
+            </ul>
+          </div>
+        </div>
+       </div>
+
+  <div id="scil" class="colmask rightmenu">
+           <div class="colleft">
+                <div class="col1">
+                        <h1>Sociolingustics/SCIL</h1>
+			Mining sentiment from user generated content is a very important task in Natural Language Processing. 
+			An example of such content is threaded discussions which act as a very important tool for communication 
+			and collaboration in the Web. Threaded discussions include e-mails, e-mail lists, bulletin boards, 
+			newsgroups, and Internet forums. Most of the work on sentiment analysis has been centered around finding 
+			the sentiment toward products or topics.The SCIL project aims to develop tools for predicting power, 
+			influence, and rifts in social groups through linguistic analysis. The languages of focus are English, Arabic, and Urdu.
+
+ <h2>Demonstration</h2>
+            <ul class="links">
+
+              <li><a href="http://clair.eecs.umich.edu/SubgroupDetector/">Demo (Vector Clustering Approach)</a></li>
+              <li><a href="http://clair.eecs.umich.edu/subgroup_detector/index.php">Demo (Signed Network Partitioning Approach)</a></li>
+
+            
+	    </ul>
+
+
+<h2>Papers</h2>
+ <ul class="links">
+  <li><a href="http://clair.si.umich.edu/~radev/papers/P11-2104.pdf">
+                  Ahmed Hassan; Amjad Abu-Jbara; Rahul Jha, and Dragomir Radev; "Identifying the Semantic Orientation of Foreign Words.
+ The 49th Annual Meeting of the Association for Computational Linguistics"<cite> (ACL 2011). </cite></a></li>
+<br/>
+               <li><a href="http://clair.si.umich.edu/~radev/papers/EMNLP121.pdf">
+                  Ahmed Hassan; Vahed Qazvinian; and Dragomir Radev."What's with the Attitude? A study of Participant Attitude in Multi-Party Online Discussions 
+The 2010 Conference on Empirical Methods in Natural Language Processing" <cite>(EMNLP 2010) </cite></a> </li>
+<br/>
+                <li><a href="http://clair.si.umich.edu/~radev/papers/P10-1041.pdf">
+                  Ahmed Hassan; and Dragomir Radev. "Identifying Text Polarity Using Random Walks.The 48th Annual Meeting of the Association for Computational Linguistics "<cite>(ACL 2010). </cite></a></li>
+<br/>
+            </ul>
+
+                </div>
+        	<div class="col2">
+	        <h2>People</h2>
+                <ul class="people">
+                <li>Dragomir Radev</li>
+                <li>Ahmed Hassan</li>
+                <li>Vahed Qazvinian</a>
+
+            </ul>
+
+                </div>
+           </div>
+      </div>
+
+
+
+      <div id="clairlib" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Clairlib: The Meta-Project</h1>
+	    <img alt="" class="logo"
+		 src="images/clairlib-330.png" />
+	    <p>
+	      Clairlib is a suite of open-source Perl modules
+	      developed and maintained by the Computational
+	      Linguistics And Information Retrieval (CLAIR) group at
+	      the University of Michigan. Clairlib is intended to
+	      simplify a number of generic tasks in natural language
+	      processing (NLP), information retrieval (IR), and
+	      network analysis (NA). The latest version of clairlib is
+	      1.08 which was released on September 2009 and includes about
+	      150 modules implementing a wide range of
+	      functionalities.
+	    </p>
+	    <p>
+	      Clairlib is distributed in two forms: Clairlib-core,
+	      which has essential functionality and minimal dependence
+	      on external software, and Clairlib-ext, which has
+	      extended functionality that may be of interest to a
+	      smaller audience. Much can be done using Clairlib on its
+	      own. Some of the things that Clairlib can do are:
+	      Tokenization, Summarization, Document Clustering,
+	      Document Indexing, Web Graph Analysis, Network
+	      Generation, Power Law Distribution Analysis, Network
+	      Analysis, RandomWalks on Graphs, Tf-IDF, Perceptron
+	      Learning and Classification, and Phrase Based Retrieval
+	      and Fuzzy OR Queries.
+	    </p>
+	    <p>
+	      Clairlib modules are available for download on
+	      www.clairlib.org . Installation instructions and modules
+	      documentation is also available in both PDF and HTML
+	      formats. Clairlib comes with a lot of code examples and
+	      a set of useful tutorials on using its modules in
+	      various applications.
+	    </p>
+	     <p>This <a href="cl-demo.pdf">paper</a> describes clairlib.
+	    <p>
+	      This work has been supported in part by National
+	      Institutes of Health grants R01 LM008106 "Representing
+	      and Acquiring Knowledge of Genome Regulation" and U54
+	      DA021519 "National center for integrative
+	      bioinformatics", as well as by grants IDM 0329043
+	      "Probabilistic and link-based Methods for Exploiting
+	      Very Large Textual Repositories", DHB 0527513 "The
+	      Dynamics of Political Representation and Political
+	      Rhetoric", 0534323 "Collaborative Research: BlogoCenter
+	      - Infrastructure for Collecting,Mining and Accessing
+	      Blogs", and 0527513 "The Dynamics of Political
+	      Representation and Political Rhetoric", from the
+	      National Science Foundation.
+	    </p>
+	    <h2>Links</h2>
+	    <ul class="links">
+	      <li><a href="http://clairlib.org">Project
+	      Website</a></li>
+	    </ul>
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Dragomir Radev</li>
+	      <li>Mark Hodges</li>
+	      <li>Anthony Fader</li>
+	      <li>Mark Joseph</li>
+	      <li>Joshua Gerrish</li>
+	      <li>Mark Schaller</li>
+	      <li>Jonathan dePetri</li>
+	      <li>Bryan Gibson</li>
+	      <li>Chen Huang</li>
+	      <li>Amjad Abu Jbara</li>
+              <li>Prem Ganeshkumar</li>
+
+
+	    </ul>	      
+	   
+	   </div>
+	</div>
+      </div>
+      
+      <div id="politext" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Analyzing Political Speech</h1>
+	    <!--img alt="" src="images/poli_sci-330.png" class="logo" /--> 
+        <img alt="" src="images/polisci-small-330.png" class="logo" />
+
+		<p>
+		This project, representing one of the first major collaborations across linguistics and political science (as well as statistics, computer science, and information science), seeks to exploit the opportunities presented by emerging electronic records, both contemporary and historical, of legislative debates around the world. For political science, such records represent a uniquely detailed account, ranging across multiple time scales, of elite positions on political issues and their dynamics. For linguistics, such records present a unique account of spoken word in a controlled setting, ranging across time scales from minutes to centuries. The massive scale of the databases involved presents statistical and computational challenges of interest and application in other fields. The project seeks to develop the methodological and computational infrastructure necessary to exploit these data for a unique interdisciplinary and multidisciplinary understanding of dynamics in human political and linguistic behavior. Some of the tasks that the project addressed are: topic modeling of legislative speech, identifying influential members of the us senate, tracking how members' influence
+vary with time, and modeling political attention.
+		</p>
+	    <p>
+	      One of the important tasks we addressed in this project is to study influence and salience in political discussions.
+		  We introduced a technique for identifying the most
+	      salient participants in a discussion. Our method
+	      is based on lexical centrality: a random walk
+	      is performed on a graph in which each node is a
+	      participant in the discussion and an edge links two
+	      participants who use similar rhetoric. As a test, we
+	      used MavenRank to identify the most influential members
+	      of the US Senate using data from the US Congressional
+	      Record and used committee ranking to evaluate the
+	      output. Our results show that scores are
+	      largely driven by committee status in most topics, but
+	      can capture speaker centrality in topics where speeches
+	      are used to indicate ideological position instead of
+	      influence legislation. We also introduced a technique for analyzing the
+		  temporal evolution of the salience of participants in a discussion. Our method can
+		  dynamically track how the relative importance of speakers evolve over time using
+		  graph based techniques. The method is dynamic in the sense that the graph evolves
+		  over time to capture the evolution inherent to the participants salience. We used
+		  our method to track the salience of members of the US Senate using data from the
+		  US Congressional Record. Our analysis investigated how the salience of speakers
+		  changes over time. Our results show that the scores can capture speaker centrality
+		  in topics as well as events that result in change of salience or influence among different participants.
+
+	    </p>
+	    <!--<h2>Links</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/clair/clair/poliscitopics.html">Topic
+	      Identification</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/clair/clair/poliscispeakers.html">Identifying
+	      Central Speakers</a></li>
+	    </ul> -->
+	    <h2>Papers</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/AJPS2010.pdf">Quinn,
+	      Kevin; Monroe, Burt; Colaresi, Michael; Crespin,
+	      Michael; Radev, Dragomir R. “How to Analyze Political
+	      Attention with Minimal Assumptions and
+	      Costs”. <cite>American Journal of Political
+	      Science</cite>. 2010.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/mpsa06.pdf">Quinn,
+	      Kevin M.; Monroe, Burt L.; Colaresi, Michael; Crespin,
+	      Michael H.; Radev, Dragomir R. “An Automated Method of
+	      Topic-Coding Legislative Speech Over Time with
+	      Application to the 105th–108th
+	      U.S. Senate”. <cite>Midwest Political Science
+	      Association Meeting</cite>. 2006.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/radev/papers/coling08a.pdf">
+	      Hassan, Ahmed; Fader, Anthony; Crespin, Michael; Quinn,
+	      Kevin; Monroe, Burt; Colaresi, Michael; Radev, Dragomir
+	      R. “Tracking the dynamic evolution of participant
+	      salience in a discussion”. <cite>COLING
+	      2008</cite>. Manchester, UK. 2008.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/emnlp07polisci.pdf">Fader,
+	      Anthony; Radev, Dragomir R.; Crespin, Michael H.;
+	      Monroe, Burt L.; Quinn, Kevin M.; Colaresi,
+	      Michael. “MavenRank: Identifying Influential Members of
+	      the US Senate Using Lexical Centrality”.
+	      <cite>Proceedings of the Conference of Empirical Methods
+	      in Natural Language Processing (EMNLP
+	      '07)</cite>. Prague, Czech Republic. June
+	      28–30. 2007.</a></li>
+	    </ul> 
+	  </div>
+	  <div class="col2">
+	  </div>
+	  <div class="col2">
+        <h2>People</h2>
+        <ul class="people">
+          <li>Dragomir Radev</li>
+          <li>Ahmed Hassan</li>
+          <li>Anthony Fader</li>
+        </ul>
+      </div>
+ 
+	</div>
+      </div>
+      <div id="facets" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Detecting Multiple Facets of an Event Using
+	    Graph-Based Unsupervised Methods</h1>
+	    <img alt="" src="images/vtech_topics-330.png"
+		 class="logo" />
+	    <p>
+	      We propose two new unsupervised methods to extract
+	      different facets about news events from blog
+	      postings. Both methods are a two step process with the
+	      first step generating different candidate facets using
+	      Kullback-Leibler divergence and the second step focuses
+	      on selecting a set of facets which cover a chosen
+	      space of documents while maximizing the diversity of the
+	      facets themselves.
+	    </p>
+		<p>
+		The two algorithms vary in selecting which documents to cover. The first algorithm attempts to pick facets such that they cover the entire space of documents. However, the second algorithm takes as input the number of topics the user requests. Each document is weighted such that broad (narrow) facets or topics are chosen if the number of topics requested is small (large). 
+	  </p>
+	    <h2>Papers</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/coling08b.pdf">Muthukrishnan,
+	      Pradeep; Gerrish, Joshua; Radev, Dragomir
+	      R. “Detecting Multiple Facets of an Event Using
+	      Graph-Based Unsupervised Methods”. <cite>COLING
+	      2008.</cite> Manchester, UK. 2008.</a></li>
+		  
+		  </li>
+		<li>
+		Muthukrishnan, Pradeep; Radev, Dragomir R.;
+		"Adaptive Detection Of Multiple Facets Of An Event Using Graph-Based Unsupervised Methods".
+                Submitted to Knowledge and Information Systems (KAIS), 2011.
+		</li>	
+	    </ul> 
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Pradeep Muthukrishnan</li>
+	      <li>Joshua Gerrish</li>
+	      <li>Dragomir Radev</li>
+	    </ul>	      
+	  </div>
+	</div>
+      </div>
+      <div id="ssknn" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Improved Nearest Neighbor Methods For Text
+	    Classification With Language Modeling and Harmonic
+	    Functions</h1>
+	    <img alt="" src="images/ssknn-330.png"
+		 class="logo" />
+	    <p>
+	      In this project, we presented new nearest neighbor
+	      methods for text classification and an evaluation of
+	      these methods against the existing nearest neighbor
+	      methods as well as other well-known text classification
+	      algorithms. Inspired by the language modeling approach
+	      to information retrieval, we show improvements in
+	      k-nearest neighbor (kNN) classification by replacing the
+	      classical cosine similarity with a KL divergence based
+	      similarity measure. We also present an extension of kNN
+	      to the semi-supervised case which turns out to be a
+	      formulation that is equivalent to semi-supervised
+	      learning with harmonic functions. In both supervised and
+	      semi-supervised experiments, our algorithms surpass the
+	      state-of-the-art methods such as Support Vector Machines
+	      (SVM) and transductive SVM on the Reuters Corpus Volume
+	      I (RCV1), and the 20 Newsgroups dataset and produce
+	      competitive results on the Reuters-21578 dataset. To our
+	      knowledge, this paper presents the most comprehensive
+	      evaluation of different machine learning algorithms on
+	      the entire RCV1 dataset.
+	    </p>
+		<h2>Papers</h2>
+        <ul class="links">
+		  <li><a
+          href="http://clair.si.umich.edu/~radev/papers/tc.pdf"> Gunes Erkan, Ahmed Hassan, and Dragomir Radev.
+		  Improved Nearest Neighbor Methods For Text Classifcation With Language Modeling and Harmonic Functions. 
+		  <cite>Submitted to Computational Intelligence</cite>. 2011.</a></li>
+        </ul>
+
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Gunes Erkan</li>
+	      <li>Ahmed Hassan</li>
+	      <li>Dragomir Radev</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="gin" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Gene Interaction Network</h1>
+	    <img alt="" src="images/gin-330.png" class="logo"
+		 />
+	    <p>
+	      GIN (Gene Interaction Network) is a system for browsing
+	      articles and molecule interaction information. What
+	      makes GIN stand out from other similar systems is that
+	      it uses automated methods (such as dependency parsing)
+	      to mine the text for relevant information (such as
+	      protein interactions) and computes statistics for the
+	      interaction network. The user can browse articles with
+	      highlighted summary sentences, citing sentences
+	      (sentences from other articles that cite the article in
+	      question), and interaction sentences. The user can also
+	      browse molecules to view their interactions,
+	      neighborhood, and other network statistics.
+	    </p>
+	    <!--<h2>Demonstration</h2>
+	    <ul class="links">
+	      <li><a href="http://belobog.si.umich.edu:8080/gin/">Demo
+	      Site</a></li>
+	    </ul>-->
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Arzucan Ozgur</li>
+	      <li>Thuy Vu</li>
+	      <li>Gunes Erkan</li>
+	      <li>Anthony Fader</li>
+	      <li>Joshua Gerrish</li>
+	      <li>Mark Schaller</li>
+	      <li>Dragomir Radev</li>
+	      <li>Amjad abu Jbara</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="gin-na" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>GIN-NA: Gene Interaction Network Analysis</h1>
+	    <p>
+	      GIN-NA is a system for analysing molecule interaction
+	      networks. The interaction networks are retrieved from
+	      the MiMI database, which integrates protein interactions
+	      from diverse biological data sources. Analysis of two
+	      types of networks are performed, namely
+	      molecule-specific networks and disease-specific
+	      networks. Molecule-specific networks are the networks of
+	      interactions in the neighborhood of a molecule. Besides
+	      the general network statistics such as average degree,
+	      power-law degree distribution, clustering coefficient,
+	      and shortest path statistics, GIN-NA ranks the molecules
+	      in the network based on graph centrality measures and
+	      second neighbor statistics. Disease-specific networks
+	      are built by compiling lists of known disease genes and
+	      retrieving the interactions among these genes and their
+	      neighborhood. We hypothesize that the genes central in
+	      the disease-specific gene interaction network are likely
+	      to be related to the disease and rank the genes based on
+	      their centrality scores. Currently, GIN-NA provides
+	      disease-specific networks for the four Driving
+	      Biological Problems, Prostate Cancer, Type 1 Diabetes,
+	      Type 2 Diabetes, and Bipolar Disorder.
+	    </p>
+	    <h2>Papers</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/nar09.pdf">Tarcea,
+	      V. G.; Weymouth, T.; Ade, A.; Bookvich, A.; Gao, J.;
+	      Mahavisno, V.; Wright, Z.; Chapman, A.; Jayapandian, M.;
+	      Özgür, A.; Tian, Y.; Cavalcoli, J.; Mirel, B.; Patel,
+	      J.; Radev, D.; Athey, B.; States, D.; Jagadish, H. V.
+	      “Michigan Molecular Interactions (MiMI) r2: From
+	      Interacting Proteins to Pathways”. <cite>Nucleic Acids
+	      Research</cite> 37: January,
+	      2009. pp. D642–D646.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/JBB-vaccine-2010.pdf">Özgür,
+	      Arzucan; Xiang, Zhuohuang; Radev, Dragomir R.; He,
+	      Yongqun. “Literature-Based Discovery of IFN-gamma and
+	      Vaccine-Mediated Gene Interaction
+	      Networks”. <cite>Journal of Biomedicine and
+	      Biotechnology</cite>. 2010.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/bioinformatics08.pdf">Özgür,
+	      Arzucan; Vu, Thuy; Erkan, Güneŝ; Radev, Dragomir
+	      R. “Identifying Gene-Disease Associations Based on
+	      Centrality on a Literature Mined Gene Interaction
+	      Network”.  <cite>Bioinformatics</cite> 24:
+	      2008. pp. i277–i285.</a></li>
+               <li><a
+              href="http://clair.si.umich.edu/~radev/papers/JBS11.pdf">Arzucan Özgür, Zhuohuang Xiang, Dragomir R. Radev, and Yongqun He.  
+Mining of vaccine-associated IFN-gamma gene interaction networks  
+using the Vaccine Ontology.<cite>  Journal of Biomedical Semantics,</cite> 2(Suppl  
+2):S8, 2011.</a></li>
+	    </ul>
+	  </div>
+	  <div class="col2">
+	    <ul class="people">
+	      <li>Arzucan Ozgur</li>
+	      <li>Dragomir Radev</li>
+              <li>Amjad abu Jbara</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="gin-ie" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>GIN-IE: Gene Interaction Extraction from the
+	    Literature</h1>
+	    <img alt="" src="images/prot_int-330.png"
+		 class="logo" />
+	    <p>Besides the fact that there is a relationship between a pair of  
+	       molecules, the context information such as the type and the  
+	       directionality are also important. To extract the relationships and  
+	       their types and directionalities we use the sentences, and their  
+	       dependency parse tree structures, which enables us to make syntax- 
+	       aware inferences about the roles of the entities in a sentence. We  
+               investigate both machine learning based approaches and rule-based  
+	       approaches. We extract paths between a protein pair in the dependency  
+	       parse tree of a sentence and define two kernel functions for SVM  
+	       based on the cosine and edit distance based similarities among these  
+	       paths. We participated in the BioCreative Meta-Server Project, which  
+	       is a platform for integrating text mining and information extraction  
+	       services for Molecular Biology. We contributed by providing an  
+	       annotation server that classifies biomedical articles as describing  
+               protein-protein interaction(s) or not using the path edit kernel with  
+	       SVM. While machine learning based approaches achieve more balanced  
+	       precision-recall performances, rule-based methods achieve higher  
+	       precision in the expense of recall. High precision is an important  
+	       requirement for most real-life applications. The high precision  
+	       interaction extraction pipeline is integrated with the daily  
+	       processing of the Pubmed updates pipeline at NCIBI. The extracted  
+	       interactions are published as an RSS feed and are also available  
+	       through the Michigan Molecular Interactions (MiMI) system.
+	    </p>
+	    <h2>Demonstrations</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://mimi.ncibi.org/">Demo
+	      Site</a></li>
+	    </ul>
+	    <h2>Papers</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/nar09.pdf">Tarcea,
+	      V. G.; Weymouth, T.; Ade, A.; Bookvich, A.; Gao, J.;
+	      Mahavisno, V.; Wright, Z.; Chapman, A.; Jayapandian, M.;
+	      Özgür, A.; Tian, Y.; Cavalcoli, J.; Mirel, B.; Patel,
+	      J.; Radev, D.; Athey, B.; States, D.; Jagadish,
+	      H. V. “Michigan Molecular Interactions (MiMI) r2: from
+	      Interacting Proteins to Pathways”. <cite>Nucleic Acids
+	      Research</cite> 37: January, 2009. pp. D642–D646.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/JBB-vaccine-2010.pdf">Özgür,
+	      Arzucan; Xiang, Zhuohuang; and Radev, Dragomir R.;
+	      He, Yongqun. “Literature-Based Discovery of
+	      IFN-gamma and Vaccine-Mediated Gene Interaction
+	      Networks”. <cite>Journal of Biomedicine and
+	      Biotechnology</cite>. 2010.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/bioinformatics08.pdf">Özgür,
+	      Arzucan; Vu, Thuy; Erkan, Güneŝ; Radev, Dragomir
+	      R. “Identifying Gene-Disease Associations Based on
+	      Centrality on a Literature Mined Gene Interaction
+	      Network”. <cite>Bioinformatics</cite>. 24. pp. i277–i285. 2008.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/genome08.pdf">Leitner,
+	      Florian; Krallinger, Martin; Rodriguez-Penagos, Carlos;
+	      Hakenberg, Joerg; Plake, Conrad; Kuo, Cheng-Ju; Hsu,
+	      Chun-Nan; Tasi, Richard Tzong-Han; Hung, Hsi-Chuan; Lau,
+	      William W.; Johnson, Calvin A.; Saetre, Rune; Yoshida,
+	      Kazuhiro; Chen, Yan Hua; Kim, Sun; Shin, Soo-Yong;
+	      Zhang, Byoung-Tak; Baumgartner., William A.; and Hunter,
+	      Lawrence; Haddow, Barry; Matthew, Michael; Wang,
+	      Xinglong; Ruch, Patrick; Ehrler, Frederic; Özgür,
+	      Arzucan; Erkan, Güneŝ; Radev, Dragomir R.; Krauthammer,
+	      Michael; Luong, ThaiBinh; Hoffman, Robert; Sander,
+	      Chris; Valencia, Alfonso. “Introducing Meta-Services for
+	      Biomedical Information Extraction”. <cite>Genome
+	      Biology</cite>. 9. September, 2008.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/emnlp07bio.pdf">Erkan,
+	      Güneŝ; Özgür, Arzucan; Radev, Dragomir
+	      R. “Semi-Supervised Classification for Extracting
+	      Protein Interaction Sentences Using Dependency
+	      Parsing”. <cite>Proceedings of the Conference of
+	      Empirical Methods in Natural Language Processing (EMNLP
+	      '07)</cite>. Prague, Czech Republic. June 28–30,
+	      2007.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/biocreative07.pdf">Erkan,
+	      Güneŝ; Özgür, Arzucan; Radev, Dragomir R.  “Extracting
+	      Interacting Protein Pairs and Evidence Sentences by
+	      using Dependency Parsing and Machine Learning
+	      Techniques”. <cite>Proceedings of the Second BioCreAtIvE
+	      Challenge Workshop - Critical Assessment of Information
+	      Extraction in Molecular Biology</cite>. April 23–25,
+	      2007.</a></li>
+	      <li><a
+              href="http://clair.si.umich.edu/~radev/papers/JBS11.pdf">Arzucan Özgür, Zhuohuang Xiang, Dragomir R. Radev, and Yongqun He.  
+Mining of vaccine-associated IFN-gamma gene interaction networks  
+using the Vaccine Ontology.<cite>  Journal of Biomedical Semantics,</cite> 2(Suppl  
+2):S8, 2011.</a></li>
+
+	    </ul> 
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Arzucan Ozgur</li>
+	      <li>Gunes Erkan</li>
+	      <li>Dragomir Radev</li>
+              <li>Amjad abu Jbara</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="bioevents" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Extracting Biomedical Events from the Literature</h1>
+	    <p>
+	      Most previous work on biomedical information extraction
+	      focuses on identifying relationships among biomedical
+	      entities (e.g. protein-protein interactions). Unlike
+	      relationships, which are in general characterized with a
+	      pair of entities, events can be characterized with event
+	      types and multiple entities in varying roles. The
+	      BioNLP\'09 Shared Task addresses the extraction of
+	      bio-molecular events from the biomedical literature. We
+	      participated in the “Event Detection and
+	      Characterization” task (Task 1). The goal was to
+	      recognize the events concerning the given proteins by
+	      detecting the event triggers, determining the event
+	      types, and identifying the event participants. We group
+	      the event types into three general classes based on the
+	      number and types of participants that they involve. The
+	      first class includes the event types that are described
+	      with a single theme participant. The second class
+	      includes the event types that are described with one or
+	      more theme participants. The third class includes the
+	      events that are described with a theme and/or a cause
+	      participant. We learn support vector machine (SVM)
+	      models for each class of events to classify each
+	      candidate event trigger/participant pair as a real
+	      trigger/participant pair or not. We use various types of
+	      linguistic features such as lexical, positional, and
+	      dependency relation features that represent the contexts
+	      of the candidate trigger/participant pairs.
+	    </p>
+	    <h2>Papers</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/BioNLP-2009.pdf">Özgür,
+	      Arzucan; Radev, Dragomir R. “Supervised
+	      Classification for Extracting Biomedical
+	      Events”. <cite>Proceedings of the BioNLP'09
+	      Workshop Shared Task on Event Extraction at
+	      NAACL-HLT</cite>. Boulder, Colorado. June,
+	      2009.</a></li>
+	    </ul> 
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Arzucan Ozgur</li>
+	      <li>Dragomir Radev</li>
+	    </ul> 
+	  </div>
+	</div>
+      </div>
+      <div id="biocontext" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Extracting Non-local Context for Biomedical
+	    Information Extraction</h1>
+	    <p>
+	      Most previous studies focus on extracting relationships
+	      between pairs of molecules. However, the context
+	      information such as the type, the directionality, the
+	      location, and the condition of the relationship are also
+	      important. While some types of context information such
+	      as the relationship type and directionality can be
+	      extracted locally from the sentence, other types of
+	      context information such as the experimental method and
+	      the species are not always found in the sentence, but
+	      need to be extracted non-locally from the entire
+	      document. We created guidelines for corpus annotation
+	      for non-local (document-level) context extraction. We
+	      are annotating full text articles for species
+	      mentions. The articles are retrieved from PubMed Central
+	      Open Access. We approach the problem as identifying the
+	      linguistic scope of each species mention in the
+	      article. We defined scope classes such as entity,
+	      sentence, paragraph, section, and article. For example,
+	      the scope of a species mention is entity level, if it
+	      applies to a certain entity (gene/protein) in the
+	      sentence. On the other hand, if it applies to all the
+	      entities in the paragraph its scope is defined to be
+	      paragraph level. The annotated corpus will enable us to
+	      learn models for identifying the species of the molecule
+	      mentions in the text.
+	    </p>
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Arzucan Ozgur</li>
+	      <li>Dragomir Radev</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="speculation" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Detecting Speculations and Resolving their Scopes in
+	    Scientific Text</h1>
+	    <p>
+	      Speculation is a frequently used language phenomenon in
+	      biomedical scientific articles. When researchers are not
+	      completely certain about the inferred conclusions, they
+	      use speculative language to convey this
+	      uncertainty. While speculative information might still
+	      be useful for biomedical scientists, it is important
+	      that it is distinguished from the factual
+	      information. We introduce an approach which is based on
+	      solving two sub-problems to identify speculative
+	      sentence fragments. The first sub-problem is identifying
+	      the speculation keywords in the sentences and the second
+	      one is resolving their linguistic scopes. We formulate
+	      the first sub-problem as a supervised classification
+	      task, where we classify the potential keywords as real
+	      speculation keywords or not by using a diverse set of
+	      linguistic features that represent the contexts of the
+	      keywords. After detecting the actual speculation
+	      keywords, we use the syntactic structures of the
+	      sentences to determine their scopes.
+	    </p>
+	    <h2>Papers</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/EMNLP145.pdf">Özgür,
+	      Arzucan; Radev, Dragomir R. “Detecting Speculations and
+	      Their Scopes in Scientific
+	      Text”. <cite>EMNLP</cite>. Singapore. 2009.</a></li>
+	    </ul> 
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Arzucan Ozgur</li>
+	      <li>Dragomir Radev</li>
+	    </ul>	      
+	  </div>
+	</div>
+      </div>
+      <div id="tumbl" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Graph-Based Semi-supervised Learning</h1>
+	    <img alt="" src="images/tumbl-330.png"
+		 class="logo" />
+	    <p>
+	      Tripartite updating is related to the principal
+	      eigenvector of a stochastic Markov process. This
+	      algorithm is a variant of the HITS algorithm (it uses a
+	      bipartite underlying structure and its stationary
+	      solution is computed iteratively), though it differs
+	      from it in three important ways: (a) the "right-hand"
+	      component of the graph is split into two groups: labeled
+	      and unlabeled data instances - therefore the name
+	      "tripartite", (b) there is an initial assignment of
+	      values for the labeled examples, and (c) the scores of
+	      the labeled examples are not allowed to change with
+	      time.
+	    </p>
+	    <h2>Demonstrations</h2>
+	    <ul class="links">
+	      <li><a href="../demos/tumbl">Demo
+	      Site</a></li>
+	    </ul>
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Dragomir Radev</li>
+              <li>Gunes Erkan</li>
+
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="lexrank" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Lexical Networks and Lexical Centrality</h1>
+	    <img alt="" src="images/Lexnet-330.png"
+		 class="logo" />
+	    <p>
+	      We introduce a stochastic graph-based method for
+	      computing relative importance of textual units for
+	      Natural Language Processing. We consider a new approach,
+	      LexRank, for computing sentence importance based on the
+	      concept of eigenvector centrality in a graph
+	      representation of sentences. In this model, a
+	      connectivity matrix based on intra-sentence cosine
+	      similarity is used as the adjacency matrix of the graph
+	      representation of sentences. The results show that
+	      degree-based methods (including LexRank) outperform both
+	      centroid-based methods and other systems participating
+	      in DUC in most of the cases.
+	    </p>
+	    <h2>Links</h2>
+	    <ul class="links">
+	      <li> <a
+	      href="projects/lexnets/lexnets.html">Lexical
+	      networks</a></li>
+	    </ul>
+	    <h2>Demonstrations</h2>
+	    <ul class="links">
+            <li><a
+            href="http://clair.si.umich.edu/demos/lexrank">Lexical
+            networks and lexical centrality</a></li>
+	    <li><a
+	    href="#">LexRankMead</a> (Temporarily unavailable)</li>
+	    </ul>
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Gunes Erkan</li>
+	      <li>Jahna Otterbacher</li>
+	      <li>Dragomir Radev</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="mead" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Text Summarization</h1>
+	    <img alt="" src="images/mead-330.png" class="logo"
+		 />
+	    <p>
+	      MEAD is the most elaborate publicly available platform
+	      for multi-lingual summarization and evaluation.The
+	      platform implements multiple summarization algorithms
+	      such as position-based, centroid-based, largest common
+	      subsequence, and keywords. The methods for evaluating
+	      the quality of the summaries are both intrinsic and
+	      extrinsic. MEAD implements a battery of summarization
+	      algorithms, including baselines (lead-based and random)
+	      as well as centroid-based and query-based methods.
+	    </p>
+	    <h2>Links</h2>
+	    <ul class="links">
+	      <li><a href="http://www.summarization.com/mead">MEAD Resources</a></li>
+	      <li><a href="http://clair.si.umich.edu/clair/CSTBank/">CSTBank</a></li>
+	      <li><a href="http://www.summarization.com/summbank/">SUMMBank</a></li>
+	    </ul>
+	    <h2>Demonstrations</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://www.summarization.com/mead">MEAD</a></li>
+	      <li><a href="#">NewsInEssence
+	      (Currently non-functional)</a></li>
+	    </ul>
+	    <h2>Papers</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/elsevier08.pdf">Otterbacher,
+	      Jahna; Radev, Dragomir; Kareem, Omer. “Hierarchical
+	      Summarization for Delivering Information to Mobile
+	      Devices”. <cite>Information Processing and
+	      Management</cite> 44.2:
+	      2008. Elsevier. pp. 931–947.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/sigir06.pdf">Otterbacher,
+	      Jahna; Radev, Dragomir; Kareem, Omer. “News
+	      to Go: Hierarchical Text Summarization for Mobile
+	      Devices.” <cite>29th Annual ACM SIGIR Conference
+	      on Research and Development in Information
+	      Retrieval</cite>. Seattle, Washington. August,
+	      2006.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/jdoc08.pdf">Otterbacher,
+	      Jahna; Radev, Dragomir. “Exploring Fact-focused
+	      Relevance and Novelty Detection”. <cite>Journal of
+	      Documentation</cite> 64.4: 2008. Emerald.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/lrec08j.pdf">Otterbacher,
+	      Jahna; Radev, Dragomir R. “Modeling Document Dynamics:
+	      An Evolutionary Approach”. <cite>LREC</cite>. Marrakech,
+	      Morocco. May, 2008.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/csetr537-07.pdf">
+	      Otterbacher, Jahna; Shen, Siwei; Radev, Dragomir R.; Ye,
+	      Yang. “Tracking Factual Information in Evolving
+	      Text: An Empirical Study”. University of
+	      Michigan. Department of Electrical Engineering and
+	      Computer Science. SE-TR-537-07. 2007.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/sigir06poster.pdf">Otterbacher,
+	      Jahna; Radev, Dragomir. “Fact-focused Novelty Detection:
+	      a Feasibility Study”. <cite>Poster session, 29th Annual
+	      ACM SIGIR Conference on Research and Development in
+	      Information Retrieval</cite>. Seattle,
+	      Washington. August, 2006.</a></li>
+	    </ul>
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Dragomir Radev</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="blogocenter" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Analysis of the Blogosphere</h1>
+	    <img alt="" src="images/Blogocenter-330.png"
+	      class="logo" />
+	    <p>
+	      If journalists deliver the first draft of history;
+	      bloggers today often deliver the first draft of
+	      journalism. Never before have so many members of the
+	      human race recorded their thoughts and observations in a
+	      form so widely accessible.  Collectively referred to as
+	      the blogosphere, these sites are of enormous value for
+	      researchers across a huge swath of the arts and
+	      sciences, both now and far into the future.
+	    </p>
+	    <p>
+	      The BlogoCenter system uses the latest in natural
+	      language processing tools to build a system that (1)
+	      continuously monitors, collects, and stores personal
+	      Weblogs (or blogs) at a central location, (2) discovers
+	      hidden structures and trends automatically from the
+	      blogs, and (3) makes them easily accessible to general
+	      users. By making the new information on the blogs easy
+	      to discover and access, this project is helping blogs
+	      realize their full potential for societal change as the
+	      "grassroots media." It is also collecting an important
+	      hypertext dataset of human interactions for further
+	      analysis by the research community.
+	    </p>
+	    <p>
+	      There are two main objectives for this project. The
+	      first is efficient monitoring and collection of
+	      blogs. For that objective, we developed novel monitoring
+	      algorithms that discovers and downloads new information
+	      from rapidly-changing distributed sources with minimal
+	      delay.
+	    </p>
+	    <p>
+	      Compared to the traditional Web, blogs are significantly
+	      more dynamic and their contents are highly time
+	      sensitive. In addition, blogs often exhibit patterns
+	      that are tightly connected to the general human
+	      behavior. We believe these distinctive characteristics
+	      make the traditional Web models (such as homogeneous
+	      Poisson model for Web page changes) and crawling
+	      algorithms inappropriate for the blog-data collection,
+	      necessitating the development of new techniques
+	      appropriate for the blogs. As part of this effort, a
+	      massive dataset of blogs was collected. RSS feeds from
+	      the Bloglines, Blogspot, Microsoft Live Spaces, and
+	      syndic8 aggregators have been retrieved for the past
+	      several years.
+	      The dataset contains over 192 million blog posts.
+	    </p>
+	    <p>
+	      The second objective is using text and graph mining to
+	      develop novel and effective ranking and summarization
+	      algorithms for blogs. There are three distinctive
+	      characteristics of the blogs that make their ranking and
+	      summarization significantly different: (1) Compared to
+	      the traditional Web where Web pages are the basic unit
+	      of information, blogs are organized around a much
+	      smaller unit, called postings or articles. These
+	      articles are then concatenated (often in the
+	      reverse-chronological order) to form pages. (2) Articles
+	      on the blogs are time-stamped. These time stamps allow
+	      us to learn how quickly and in what manner particular
+	      information is spread on the blog. (3) The articles on
+	      each blog are typically authored by a single individual,
+	      so it is easier to establish the authorship of the blog
+	      articles. We used both content based and hyperlink based
+	      models to build blog ranking and recommendation system
+	      that can suggest blogs to read for users that have an
+	      interest in a particular topic. We also track how the
+	      interests in a a particular topic varies over time and
+	      use that to find out blogs that has continuous recurring
+	      interest in a a particular topic.
+	    </p>
+	    <h2>Links</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/clair/blogocenter/">BlogoCenter</a></li>
+	    </ul>
+	    <h2>Papers</h2>
+	    <ul class="links">
+          <li><a
+          href="http://arxiv.org/PS_cache/arxiv/pdf/1102/1102.5458v1.pdf">
+		  Joshi, Amruta; Cho, Junghoo;  Radev, Dragomir R.; Hassan, Ahmed.
+          Improving Image Search based on User Created Communities.
+		  <cite> CoRR abs/1102.5458(2011)</cite>.
+          <li><a
+          href="http://clair.si.umich.edu/~radev/papers/icwsm09.pdf">Hassan,
+          Ahmed; Radev, Dragomir R.; Cho, Junghoo; Joshi,
+          Amruta. ântent Based Recommendation and Summarization
+          in the Blogosphere.<cite>Proceedings of ICWSM
+          2009</cite>. San Jose, CA. 2009.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/coling08b.pdf">Muthukrishnan,
+	      Pradeep; Gerrish, Joshua; Radev, Dragomir
+	      R. “Detecting Multiple Facets of an Event Using
+	      Graph-Based Unsupervised Methods”. <cite>COLING
+	      2008.</cite> Manchester, UK. 2008.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/tg07.pdf">
+	      Biemann, Chris; Matveeva, Irina; Mihalcea, Rada; Radev,
+	      Dragomir R. “Textgraphs-2: Graph-based methods for
+	      NLP”. <cite>Proceedings of the HLT-NAACL
+	      Workshop</cite>. Rochester. 2007.</a></li>
+	    </ul>
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Ahmed Hassan</li>
+	      <li><a href="http://www-personal.umich.edu/~vahed">Vahed Qazvinian</a></li>
+	      <li>Dragomir Radev</li>
+	    </ul> 
+	  </div>
+	</div>
+      </div>
+      <div id="aan" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>The ACL Anthology Network</h1>
+	    <img alt="" src="images/aan_screenshot.jpg" width ="400" class="logo"
+		 />
+	    <p>
+	      ACL Anthology is a collection of research papers in the
+	      field of computational linguistics. After a lot of
+	      pre-processing the papers which involved extracting the
+	      text from PDF, cleaning up the results, we
+	      semi-automatically match citations to compute the paper
+	      citation network. Using the metadata about the papers
+	      which contains the authorship information, venue, year
+	      of publication, we have created auxiliary networks like
+	      author citation network and author collaboration
+	      network. We attempt to identify the most central papers,
+	      authors using different measures of impact and network
+	      centrality measures.</p><p>The extracted citation data
+	      has further been used for summarization of papers and
+	      can be used for computing better similarity measures
+	      which use both the text of the papers, the citation
+	      links, authorship information and venue information. 
+	    </p>
+		<p>The data has also been used for identifying subject experts, automatic classification of publications
+		by research area. In addition to the above, we have performed experiments to identify gender patterns in author collaborations,  
+		relationship between different criterion, often used, to rank authors.
+</p>
+	    <h2>Links</h2>
+	    <ul class="links">
+	      <li><a href="http://clair.si.umich.edu/anthology/">ACL
+	      Anthology network</a></li>
+	    </ul>
+		<h2>Papers</h2>
+		<ul class="papers">
+		<li> <a href="http://clair.si.umich.edu/~radev/papers/133.pdf"> Dragomir R. Radev, Mark Thomas Joseph, Bryan Gibson and Pradeep Muthukrishnan. A Bibliometric and Network Analysis of the .eld of Computational
+		Linguistics. Journal of the American Society for Information Science and Technology. 2009.</a> </li>
+		<li> <a href="http://clair.si.umich.edu/~radev/papers/aan09.pdf"> Dragomir R. Radev, Pradeep Muthukrishnan, and Vahed Qazvinian.  The ACL anthology network corpus. In Proceedings, ACL Workshop on Natural Language Processing and Information Retrieval for Digital Libraries, Singapore, 2009. </a></li>
+		<li> Dragomir R. Radev, Pradeep Muthukrishnan, Vahed Qazvinian. THE ACL anthology network corpus. Submitted to Language Resources and Evaluation, 2011. </li>		
+</ul>
+
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Dragomir Radev</li>
+	      <li>Pradeep Muthukrishnan</li>
+	      <li>Amjad abu Jbara</li>
+	      <li>Rahul Jha </li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="iopener" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Summarizing Scientific Papers</h1>
+	    <img alt="" src="images/mrf.png" class="logo" width="650" align="center"/>
+	    <p>
+	      With the emphasis on cross-disciplinary science growing,
+	      the need for researchers to rapidly learn about a new
+	      subject area has never been greater. An example might be
+	      an information scientist who must become versed in
+	      network analysis to understand journal articles on
+	      Internet use research. The iOPENER framework will
+	      automatically organize, summarize, and display
+	      comprehensive information about scientific topics in
+	      such a way that learners at any level from novice to
+	      domain expert can rapidly digest it. iOPENER will be
+	      particularly valuable in harvesting and presenting
+	      complex information that would otherwise be too dense
+	      and technical for all but a few specialists.
+	    </p>
+	    <p>
+	      Our approach to such a system is based on three
+	      currently available technologies: (1) bibliometric
+	      lexical link mining that exploits the structure of
+	      citations and relations among citations; (2)
+	      summarization techniques that exploit the content of the
+	      material in both the citing and cited papers; and (3)
+	      visualization tools for displaying both structure and
+	      content. In iOpener we are trying to link these three
+	      technologies and evaluate different forms of
+	      presentation for rapid learning in unfamiliar research
+	      domains.
+	    </p>
+	    <p>
+	      To tackle the problem of generating surveys, the first
+	      step is to summarize scientific articles. We have
+	      achieved this by developing systems that extract the
+	      main nuggets of an article. In our work we use the
+	      citation summaries to understand the main contributions
+	      of articles. We have made programs to automatically
+	      extract such summaries, and have shown how citation
+	      summaries provide more coherent information than
+	      abstracts.  Moreover, we have investigated the
+	      usefulness of directly summarizing citation texts in the
+	      automatic creation of technical surveys. We
+	      automatically generated surveys of a wide range of
+	      topics including Question Answering, Machine
+	      Translation, and Dependency Parsing using paper
+	      contents, abstracts, and their citation texts. Our
+	      evaluations confirm that both citation texts and
+	      abstracts have unique survey-worthy information.
+	    </p>
+	    <h2>Links</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/clair/iopener/">iOpener</a></li>
+	    </ul>
+	    <h2>Papers</h2>
+	    <ul class="links">
+  <li>Aris, Aleks, Ben Shneiderman, Vahed Qazvinian, Dragomir Radev.  Visual Overviews for Discovering Key Papers and Influences Across Research Fronts. In Journal of the American Society for Information Science and Technology (JASIST).</li> 
+<br/> 
+
+  <li> Mohammad, Saif, Bonnie Dorr, Dragomir Radev, Melissa Egan, Ahmed Hassan, Pradeep Muthukrishnan, Vahed Qazvinian, David Zajic. Using Citations to Generate Surveys of Scientific Paradigms. In NAACL-HLT 2009. [<a href= "http://tangra.si.umich.edu/clair/iopener/pdf/naacl.pdf">PDF </a>]</li> 
+  <br/> 
+
+<li>  Qazvinian, Vahed and Dragomir R. Radev, Exploiting Phase Transition in Latent Networks for Clustering. In AAAI 2011.</li> 
+<br/> 
+ 
+ 
+<li>  Qazvinian, Vahed and Dragomir R. Radev, Learning from collective human behavior to introduce diversity in lexical choice. In ACL 2011.</li> 
+<br/> 
+ 
+<li>  Qazvinian, Vahed and Dragomir R. Radev, Identifying Non-explicit Citing Sentences for Citation-based Summarization. In ACL 2010. [<a href="http://www-personal.umich.edu/~vahed/papers/acl10.pdf">PDF</a>]</li> 
+<br/> 
+ 
+<li>  Qazvinian, Vahed, Dragomir R. Radev, and Arzucan Ozgur, Citation Summarization Through Keyphrase Extraction.  In COLING 2010. [<a href="http://www-personal.umich.edu/~vahed/papers/coling10.pdf">PDF</a>]</li> 
+<br/> 
+ 
+ 
+<li>  Qazvinian, Vahed and Dragomir R. Radev, The Evolution of Scientific Paper Title Networks. In ICWSM 2009. [<a href= "http://tangra.si.umich.edu/clair/iopener/pdf/icwsm.pdf">PDF</a>]</li> 
+<br/> 
+
+<li> Qazvinian, Vahed and Dragomir R. Radev, Scientific paper summarization using citation summary networks. In COLING 2008, Manchester, UK, 2008.[<a href= "http://tangra.si.umich.edu/clair/iopener/pdf/coling.pdf">PDF</a>]</li> 
+<br/> 
+ 
+<li> Radev, Dragomir R., Pradeep Muthukrishnan, Vahed Qazvinian, The ACL Anthology Network Corpus, ACL workshop on Natural Language Processing and Information Retrieval for Digital Libraries, Singapore, 2009.</li></br> 
+ 
+<li>  Radev, Dragomir R. and Joseph, Mark and Gibson, Bryan and Muthukrishnan, Pradeep. A Bibliometric and Network Analysis of the Field of Computational Linguistics. Journal of the American Society for Information Science and Technology (JASIST). </li> 
+<br/> 
+ 
+	
+	    </ul>
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li><a href="http://www-personal.umich.edu/~vahed">Vahed Qazvinian</a></li>
+	      <li>Dragomir Radev</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="nsir" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Question Answering</h1>
+	    <img alt="" src="images/nsir-330.png" class="logo"
+		 />
+	    <p>
+	      NSIR uses a fine question taxonomy, extracts candidate
+	      answers along with nine features: frequency, overlap,
+	      length, proximity, POSSIG, LEXSIG, local word list,
+	      named entity, and web ranking. Potential answers were
+	      ranked according to a set of techniques before they are
+	      returned to NSIR users. The proximity algorithm is based
+	      on the closeness in text between the question words and
+	      the neighbors of each phrasal answer. A potential answer
+	      that is spatially close to question words gets a higher
+	      score than one that is farther away. Probablistic phrase
+	      ranking takes expected answer type into
+	      consideration. Each phrase is assigned a probablibity
+	      score indicating the extent to which the phrase matches
+	      the expected answer type with respect to part-of-speech
+	      tag sentences.
+	    </p>
+	    <h2>Demonstrations</h2>
+	    <ul class="links">
+	      <li><a
+	      href="#">NSIR</a> (Temporarily unavailable)</li>
+	    </ul>
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Dragomir Radev</li>
+	      <li>Hong Qi</li>
+	      <li>Gunes Erkan</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="collectivediscourse" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Collective Discourse</h1>
+        <img alt="" src="images/coll.jpg" class="logo" width="600" align="center"/>
+	    <p>
+	      There has been extensive study of how information
+	      diffuses through mass communication systems
+	      characterized by a few sources and many (primarily mute)
+	      audience members. However, with the growing ubiquity of
+	      broadband interactivity we confront new phenomena of
+	      information diffusion on a mass scale not yet fully
+	      understood. We use the term collective discourse to
+	      characterize interactive content contribution occurring
+	      on social networking, news aggregator, discussion, blog,
+	      product review, and question and answer sites.
+	    </p>
+
+
+<p>
+Our work docuses on  the computational analysis of collective discourse, a collective behavior seen in interactive
+content contribution and text summarization in online social media. In collective discourse each individual.s behavior is largely independent of that of
+other individuals.
+In social media, discourse is often a collective reaction to an event. One
+scenario leading to collective reaction to a wellde.ned subject is when an event occurs (a movie is
+released, a story occurs, a paper is published) and
+people independently write about it (movie reviews,
+news headlines, citation sentences). This process of
+content generation happens over time, and each person chooses the aspects to cover. Each event has
+an onset and a time of death after which nothing is
+written about it. Tracing the generation of content
+over many instances will reveal temporal patterns
+</p>
+	    <h2>Links</h2>
+	    <ul class="links">
+	      <li><a href="http://www-personal.umich.edu/~vahed/research.html">Collective Discourse</a></li>
+	    </ul>
+
+<h2>Papers</h2> 
+   <ul class="links"> 
+          <li>
+	  Vahed Qazvinian, Dragomir R. Radev.
+	  <a href="http://www-personal.umich.edu/~vahed/papers/qazvinian_radev2011.pdf"> 
+	     Learning from Collective Human Behavior to Introduce Diversity in Lexical Choice</a>, 
+	       <cite>Association for Computational Linguistics (ACL 2011)</cite>.
+          </li>
+	    <li>
+	    Vahed Qazvinian, Dragomir R. Radev. 
+	    <a href="http://www-personal.umich.edu/~vahed/papers/latent.pdf"> 
+	       Exploiting Phase Transition in Latent Networks for Clustering</a>, 
+	         <cite>Association for the Advancement of Artificial Intelligence (AAAI 2011)</cite>.
+		   </li> 
+		      </ul> 
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li><a href="http://www-personal.umich.edu/~vahed">Vahed Qazvinian</a></li>
+	      <li>Dragomir Radev</li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+      <div id="gbnlpir" class="colmask rightmenu">
+	<div class="colleft">
+	  <div class="col1">
+	    <h1>Graph-Based NLP/IR</h1>
+	    <p>
+	      This is the title of an upcoming book by Rada Mihalcea
+	      and Dragomir Radev. More details to be added soon
+	    </p>
+	    <h2>Links</h2>
+	    <ul class="links">
+	      <li><a href="http://clairlib.org">Clairlib</a></li>
+              <li><a href="http://www.amazon.com/Graph-based-Language-Processing-Information-Retrieval/dp/0521896134/ref=sr_1_1?ie=UTF8&qid=1315974265&sr=8-1#reader_0521896134">Graph Based Natural Language Processing and Information Retrieval</a></li>
+	    </ul>
+	    <h2>Papers</h2>
+	    <ul class="links">
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/acl06demo.pdf">
+	      Radev, Dragomir R.; Erkan, Güneŝ; Fader, Anthony;
+	      Jordan, Patrick; Shen, Siwei; Sweeney, James. “LexNet: A
+	      Graphical Environment for Graph-Based Natural Language
+	      Processing”. <cite>Demo Session, COLING-ACL
+	      2006</cite>. Sydney, Australia. July, 2006.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/aim-rada.pdf">Radev,
+	      Dragomir R.; Mihalcea, Rada. “Networks and Natural
+	      Language Processing”. <cite>AI
+	      Magazine</cite>. 2008.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/blrj08.pdf">Otterbacher,
+	      Jahna; Erkan, Güneŝ; Radev, Dragomir. “Biased LexRank:
+	      Passage Retrieval using Random Walks with Question-Based
+	      Priors”. <cite>Information Processing and
+	      Management</cite>. Elsevier. 2009.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/tg06.pdf">Mihalcea,
+	      Rada; Radev, Dragomir R. “Textgraphs: Graph-based
+	      methods for NLP”. <cite>Proceedings of the HLT-NAACL
+	      Workshop</cite>. New York, NY. 2006.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/hlt06.pdf">Erkan,
+	      Güneŝ. “Language Model Based Document Clustering
+	      Using Random Walks”. <cite>HLT-NAACL</cite>. New
+	      York, NY. June, 2006.</a></li>
+	      <li><a
+	      href="http://www-personal.umich.edu/~gerkan/publications/duc06.pdf">Erkan,
+	      Güneŝ, “Using Biased Random Walks for Focused
+	      Segmentation”. <cite>DUC</cite>. New York,
+	      NY. June, 2006.</a></li>
+	      <li><a
+	      href="http://clair.si.umich.edu/~radev/papers/aim-marie.pdf">DesJardins,
+	      Marie; Gaston, Matthew; Radev, Dragomir R. “Introduction
+	      to the special issue on AI and networks”. <cite>AI
+	      Magazine</cite>. 2008.</a></li>
+	    </ul>
+	  </div>
+	  <div class="col2">
+	    <h2>People</h2>
+	    <ul class="people">
+	      <li>Dragomir Radev</li>
+              <li>Rada Mihalcea</li>
+              <img src="images/NLP.jpg" width="200">
+
+	    </ul>
+	  </div>
+	</div>
+      </div>
+
+
+
+   </div>
+  </body>
+</html>

@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<tumbl xmlns="http://tangra.si.umich.edu/clair/tumbl"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://tangra.si.umich.edu/clair/tumbl tumbl.xsd">
+  <object id="ending" classification="1"/>
+  <object id="running"  label="1" classification="1"/>
+  <object id="muster"  label="0" classification="0"/>
+  <object id="escape"  label="0" classification="0"/>
+  <object id="Citicorp"  label="0" classification="0"/>
+  <object id="surrender" classification="0"/>
+  <object id="developing" classification="1"/>
+  <object id="cause"  label="0" classification="0"/>
+  <object id="fold" classification="1"/>
+  <object id="covering"  label="1" classification="1"/>
+  <object id="funding" classification="1"/>
+  <object id="have"  label="1" classification="1"/>
+  <object id="shaping" classification="1"/>
+  <object id="promises" classification="1"/>
+  <object id="says"  label="1" classification="1"/>
+  <object id="hurt" classification="1"/>
+  <object id="calls" classification="1"/>
+  <object id="need" classification="1"/>
+  <object id="raise"  label="1" classification="1"/>
+  <object id="is"  label="1" classification="1"/>
+  <object id="tote" classification="1"/>
+  <object id="driving" classification="1"/>
+  <object id="permit" classification="1"/>
+  <object id="say"  label="1" classification="1"/>
+  <object id="living" classification="1"/>
+  <object id="winning" classification="1"/>
+  <object id="selling"  label="1" classification="1"/>
+  <object id="carry"  label="1" classification="1"/>
+  <object id="investigating" classification="1"/>
+  <object id="helping" classification="1"/>
+  <object id="put" classification="1"/>
+  <object id="joining"  label="1" classification="1"/>
+  <object id="match"  label="0" classification="0"/>
+  <object id="contrasts" classification="1"/>
+  <object id="rising" classification="1"/>
+  <object id="assist" classification="1"/>
+  <object id="covers" classification="0"/>
+  <object id="negotiating" classification="1"/>
+  <object id="Taking" classification="1"/>
+  <object id="market"  label="0" classification="0"/>
+  <object id="losing"  label="1" classification="1"/>
+  <object id="asking" classification="1"/>
+  <object id="are"  label="1" classification="1"/>
+  <object id="thinking" classification="1"/>
+  <object id="spending"  label="0" classification="0"/>
+  <object id="bounce" classification="1"/>
+  <object id="look" classification="1"/>
+  <object id="trying" classification="1"/>
+  <object id="pay"  label="1" classification="1"/>
+  <object id="spilling" classification="0"/>
+  <object id="attributes"  label="1" classification="1"/>
+  <object id="ease" classification="1"/>
+  <object id="Assuming"  label="1" classification="1"/>
+  <object id="make"  label="1" classification="1"/>
+  <object id="stand"  label="0" classification="0"/>
+  <object id="being"  label="1" classification="1"/>
+  <object id="talking" classification="1"/>
+  <object id="producing" classification="1"/>
+  <object id="initiate" classification="0"/>
+  <object id="take"  label="1" classification="1"/>
+  <object id="sleeping" classification="1"/>
+  <object id="insert" classification="1"/>
+  <object id="try"  label="0" classification="0"/>
+  <object id="stands" classification="0"/>
+  <object id="making" classification="1"/>
+  <object id="upset"  label="1" classification="1"/>
+  <object id="mention"  label="1" classification="1"/>
+  <object id="do"  label="1" classification="1"/>
+  <object id="pass" classification="1"/>
+  <object id="runs" classification="1"/>
+  <object id="hang"  label="1" classification="1"/>
+  <object id="shares"  label="0" classification="0"/>
+  <object id="See" classification="1"/>
+  <object id="Fails" classification="1"/>
+  <object id="rose" classification="1"/>
+  <object id="police" classification="0"/>
+  <object id="help" classification="1"/>
+  <object id="Take" classification="1"/>
+  <object id="want" classification="1"/>
+  <object id="hopes"  label="1" classification="1"/>
+  <object id="shows" classification="1"/>
+  <object id="According" classification="1"/>
+  <object id="Are" classification="1"/>
+  <object id="leading" classification="1"/>
+  <object id="conduct"  label="1" classification="1"/>
+  <object id="draws"  label="1" classification="1"/>
+  <object id="works" classification="0"/>
+  <object id="go" classification="1"/>
+  <object id="remodeling" classification="0"/>
+  <object id="working" classification="0"/>
+  <object id="giving"  label="1" classification="1"/>
+  <feature id="L1a" />
+  <feature id="R1as" />
+  <feature id="L1''" />
+  <feature id="R1is" />
+  <feature id="L1Eggers" />
+  <feature id="L1he" />
+  <feature id="L1preferred" />
+  <feature id="R1n't" />
+  <feature id="L1," />
+  <feature id="R1that" />
+  <feature id="L1Corp." />
+  <feature id="L1we" />
+  <feature id="R1from" />
+  <feature id="R1are" />
+  <feature id="L1you" />
+  <feature id="R1been" />
+  <feature id="L1would" />
+  <feature id="L1." />
+  <feature id="R1it" />
+  <feature id="L1observers" />
+  <feature id="L1``" />
+  <feature id="R1made" />
+  <feature id="R1to" />
+  <feature id="L1homelessness" />
+  <feature id="L1and" />
+  <feature id="L1the" />
+  <feature id="R1the" />
+  <feature id="L1could" />
+  <feature id="L1into" />
+  <feature id="R1a" />
+  <feature id="R1." />
+  <feature id="R1still" />
+  <feature id="L1to" />
+  <feature id="R1over" />
+  <feature id="L1We" />
+  <feature id="L1in" />
+  <feature id="L1bill" />
+  <feature id="L1began" />
+  <feature id="L1bridges" />
+  <feature id="R1Mr." />
+  <feature id="R1``" />
+  <feature id="L1it" />
+  <feature id="L1of" />
+  <feature id="L1railing" />
+  <feature id="L1Fairless" />
+  <feature id="L1company" />
+  <feature id="R1," />
+  <feature id="L1is" />
+  <feature id="L1after" />
+  <feature id="R1''" />
+  <feature id="L1Hahn" />
+  <feature id="R1U.S." />
+  <edge directed="false" to="funding" from="R1is"/>
+  <edge directed="false" to="need" from="R1is"/>
+  <edge directed="false" to="is" from="R1n't"/>
+  <edge directed="false" to="do" from="R1n't"/>
+  <edge directed="false" to="are" from="R1n't"/>
+  <edge directed="false" to="Are" from="R1n't"/>
+  <edge directed="false" to="shares" from="R1are"/>
+  <edge directed="true" to="escape" from="R1are"/>
+  <edge directed="false" to="say" from="L1observers"/>
+  <edge directed="false" to="cause" from="L1``"/>
+  <edge directed="false" to="are" from="L1``"/>
+  <edge directed="false" to="hopes" from="L1in"/>
+  <edge directed="false" to="shaping" from="L1in"/>
+  <edge directed="true" to="are" from="L1bridges"/>
+  <edge directed="false" to="need" from="L1bridges"/>
+  <edge directed="true" to="selling" from="L1began"/>
+  <edge directed="false" to="investigating" from="L1began"/>
+  <edge directed="true" to="is" from="R1``"/>
+  <edge directed="false" to="says" from="R1``"/>
+  <edge directed="false" to="See" from="R1``"/>
+  <edge directed="false" to="is" from="L1railing"/>
+  <edge directed="false" to="works" from="L1Fairless"/>
+  <edge directed="false" to="is" from="L1company"/>
+  <edge directed="false" to="says" from="L1company"/>
+  <edge directed="true" to="is" from="L1he"/>
+  <edge directed="true" to="says" from="L1he"/>
+  <edge directed="true" to="shares" from="L1preferred"/>
+  <edge directed="false" to="have" from="R1been"/>
+  <edge directed="false" to="look" from="R1to"/>
+  <edge directed="false" to="trying" from="R1to"/>
+  <edge directed="false" to="According" from="R1to"/>
+  <edge directed="false" to="need" from="R1to"/>
+  <edge directed="false" to="police" from="R1to"/>
+  <edge directed="false" to="is" from="R1to"/>
+  <edge directed="false" to="Fails" from="R1to"/>
+  <edge directed="false" to="want" from="R1to"/>
+  <edge directed="true" to="hopes" from="R1to"/>
+  <edge directed="false" to="hurt" from="L1and"/>
+  <edge directed="false" to="put" from="L1and"/>
+  <edge directed="true" to="is" from="L1and"/>
+  <edge directed="false" to="remodeling" from="L1and"/>
+  <edge directed="false" to="shares" from="L1the"/>
+  <edge directed="true" to="Citicorp" from="L1the"/>
+  <edge directed="false" to="driving" from="L1the"/>
+  <edge directed="true" to="losing" from="R1a"/>
+  <edge directed="false" to="take" from="R1a"/>
+  <edge directed="true" to="is" from="R1a"/>
+  <edge directed="true" to="draws" from="R1a"/>
+  <edge directed="false" to="insert" from="R1a"/>
+  <edge directed="false" to="negotiating" from="R1a"/>
+  <edge directed="true" to="being" from="L1is"/>
+  <edge directed="false" to="trying" from="L1is"/>
+  <edge directed="false" to="leading" from="L1is"/>
+  <edge directed="false" to="says" from="L1''"/>
+  <edge directed="false" to="says" from="L1Eggers"/>
+  <edge directed="false" to="running" from="L1,"/>
+  <edge directed="true" to="says" from="L1,"/>
+  <edge directed="false" to="calls" from="L1,"/>
+  <edge directed="false" to="is" from="L1,"/>
+  <edge directed="false" to="upset" from="L1,"/>
+  <edge directed="true" to="is" from="L1Corp."/>
+  <edge directed="true" to="are" from="L1Corp."/>
+  <edge directed="false" to="do" from="L1we"/>
+  <edge directed="false" to="look" from="L1we"/>
+  <edge directed="false" to="mention" from="L1you"/>
+  <edge directed="false" to="do" from="L1you"/>
+  <edge directed="false" to="make" from="L1you"/>
+  <edge directed="false" to="need" from="L1you"/>
+  <edge directed="true" to="conduct" from="L1you"/>
+  <edge directed="false" to="do" from="R1it"/>
+  <edge directed="true" to="carry" from="R1it"/>
+  <edge directed="true" to="giving" from="R1it"/>
+  <edge directed="true" to="mention" from="R1the"/>
+  <edge directed="false" to="runs" from="R1the"/>
+  <edge directed="false" to="hang" from="R1the"/>
+  <edge directed="false" to="investigating" from="R1the"/>
+  <edge directed="true" to="joining" from="R1the"/>
+  <edge directed="true" to="covering" from="R1the"/>
+  <edge directed="false" to="funding" from="R1the"/>
+  <edge directed="false" to="have" from="R1the"/>
+  <edge directed="true" to="attributes" from="R1the"/>
+  <edge directed="false" to="shaping" from="R1the"/>
+  <edge directed="false" to="make" from="R1the"/>
+  <edge directed="false" to="says" from="R1the"/>
+  <edge directed="false" to="leading" from="R1the"/>
+  <edge directed="false" to="calls" from="R1the"/>
+  <edge directed="false" to="is" from="R1the"/>
+  <edge directed="false" to="are" from="R1the"/>
+  <edge directed="false" to="say" from="R1the"/>
+  <edge directed="true" to="make" from="L1could"/>
+  <edge directed="false" to="take" from="L1could"/>
+  <edge directed="false" to="joining" from="L1into"/>
+  <edge directed="false" to="negotiating" from="L1into"/>
+  <edge directed="false" to="shares" from="R1."/>
+  <edge directed="false" to="spilling" from="R1."/>
+  <edge directed="false" to="fold" from="R1."/>
+  <edge directed="false" to="covers" from="R1."/>
+  <edge directed="true" to="stand" from="R1."/>
+  <edge directed="true" to="says" from="R1."/>
+  <edge directed="true" to="market" from="R1."/>
+  <edge directed="false" to="works" from="R1."/>
+  <edge directed="true" to="try" from="R1."/>
+  <edge directed="false" to="say" from="R1."/>
+  <edge directed="false" to="is" from="R1still"/>
+  <edge directed="false" to="are" from="R1still"/>
+  <edge directed="false" to="do" from="L1to"/>
+  <edge directed="false" to="bounce" from="L1to"/>
+  <edge directed="false" to="pass" from="L1to"/>
+  <edge directed="true" to="hang" from="L1to"/>
+  <edge directed="false" to="pay" from="L1to"/>
+  <edge directed="false" to="Take" from="L1to"/>
+  <edge directed="false" to="assist" from="L1to"/>
+  <edge directed="true" to="make" from="L1to"/>
+  <edge directed="true" to="take" from="L1to"/>
+  <edge directed="true" to="raise" from="L1to"/>
+  <edge directed="false" to="insert" from="L1to"/>
+  <edge directed="false" to="go" from="L1to"/>
+  <edge directed="false" to="permit" from="L1to"/>
+  <edge directed="false" to="Taking" from="R1over"/>
+  <edge directed="true" to="upset" from="R1over"/>
+  <edge directed="false" to="funding" from="L1bill"/>
+  <edge directed="false" to="draws" from="L1bill"/>
+  <edge directed="true" to="do" from="R1,"/>
+  <edge directed="true" to="pay" from="R1,"/>
+  <edge directed="true" to="muster" from="R1,"/>
+  <edge directed="true" to="match" from="R1,"/>
+  <edge directed="false" to="says" from="R1,"/>
+  <edge directed="false" to="works" from="R1,"/>
+  <edge directed="false" to="remodeling" from="R1,"/>
+  <edge directed="true" to="spending" from="R1,"/>
+  <edge directed="true" to="say" from="R1,"/>
+  <edge directed="false" to="losing" from="L1after"/>
+  <edge directed="false" to="spending" from="L1after"/>
+  <edge directed="true" to="cause" from="R1''"/>
+  <edge directed="false" to="market" from="L1a"/>
+  <edge directed="false" to="try" from="L1a"/>
+  <edge directed="false" to="runs" from="R1as"/>
+  <edge directed="false" to="initiate" from="R1as"/>
+  <edge directed="false" to="tote" from="R1as"/>
+  <edge directed="true" to="Assuming" from="R1that"/>
+  <edge directed="false" to="shows" from="R1that"/>
+  <edge directed="false" to="is" from="R1that"/>
+  <edge directed="false" to="say" from="R1that"/>
+  <edge directed="true" to="running" from="R1from"/>
+  <edge directed="true" to="hang" from="R1from"/>
+  <edge directed="false" to="Taking" from="L1."/>
+  <edge directed="false" to="Assuming" from="L1."/>
+  <edge directed="false" to="According" from="L1."/>
+  <edge directed="false" to="fold" from="L1would"/>
+  <edge directed="true" to="have" from="L1would"/>
+  <edge directed="false" to="ease" from="L1would"/>
+  <edge directed="true" to="have" from="R1made"/>
+  <edge directed="false" to="is" from="R1made"/>
+  <edge directed="false" to="is" from="L1homelessness"/>
+  <edge directed="true" to="are" from="L1homelessness"/>
+  <edge directed="false" to="have" from="L1We"/>
+  <edge directed="true" to="are" from="L1We"/>
+  <edge directed="false" to="says" from="R1Mr."/>
+  <edge directed="false" to="say" from="R1Mr."/>
+  <edge directed="false" to="says" from="L1it"/>
+  <edge directed="true" to="is" from="L1it"/>
+  <edge directed="false" to="winning" from="L1of"/>
+  <edge directed="true" to="escape" from="L1of"/>
+  <edge directed="false" to="being" from="L1of"/>
+  <edge directed="false" to="carry" from="L1Hahn"/>
+  <edge directed="false" to="rose" from="L1Hahn"/>
+  <edge directed="false" to="attributes" from="L1Hahn"/>
+  <edge directed="false" to="is" from="L1Hahn"/>
+  <edge directed="false" to="helping" from="R1U.S."/>
+  <edge directed="false" to="help" from="R1U.S."/>
+</tumbl>
