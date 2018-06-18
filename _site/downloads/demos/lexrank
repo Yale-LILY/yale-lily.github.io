@@ -1,0 +1,41 @@
+<html>
+  <head>
+  <title>LexRank Algorithm Demo</title>
+  <link rel="stylesheet" href="http://clair.si.umich.edu/demos/default.css" type="text/css" media="screen" />  
+  </head>
+  <body>
+<p> LexRank is the method for document ranking and text summarization
+  developed at U. Michigan by Gunes Erkan and Dragomir Radev. This
+  demo was written by Patrick Jordan.</p>
+    <applet code="http://clair.si.umich.edu/demos/lexrank/edu.umich.si.clair.lexrank.SentenceApplet.class"
+            archive="colt.jar,commons-collections-3.1.jar,jung-1.6.0.jar,lexrank.jar"
+            width="880" height="640">
+    </applet>  
+    <p>
+	This demo uses the graph visualization and algorithms provided in the JUNG API.  The homepage for JUNG can be found <a 
+href="http://jung.sourceforge.net/">here</a>. 
+    </p>	
+    <p>
+	Enter text into the document text window and press "Create Graph" to see the LexRank algorithm run over the text.
+    </p>
+<p>
+--------------------------------------------------------------------------<br/>
+"This material is based upon work supported by the National Science<br/>
+Foundation under Grant No. 0329043."<br/>
+"Any opinions, findings and conclusions or recomendations expressed in<br/>
+this material are those of the author(s) and do not necessarily<br/>
+reflect the views of the National Science Foundation (NSF)."<br/>
+--------------------------------------------------------------------------<br/>
+</p>    
+<p>
+        If you have problems with copy-and-paste you need to enable the applet permissions.  This is done by 
+editing (and perhaps creating) the .java.policy in your home directory.  The file should contain
+<p>
+grant codeBase "http://tangra.si.umich.edu/-" {<br/>
+      permission java.awt.AWTPermission "accessClipboard";<br/>
+};
+</p>
+  
+<p> You may have to restart your browswer</p> 
+  </body>
+</html>

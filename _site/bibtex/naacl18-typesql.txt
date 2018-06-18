@@ -1,0 +1,7 @@
+@InProceedings{Yu&al.18.naacl,
+  author =  {Tao Yu, Zifan Li, Zilin Zhang, Rui Zhang, Dragomir Radev},
+  title =   {TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation},
+  year =    {2018},
+  booktitle =   {Proceedings of NAACL},
+  publisher =   {Association for Computational Linguistics}
+}

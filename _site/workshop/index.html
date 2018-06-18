@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- <title></title> -->
+  <meta name="description" content="Website for the LILY Group at Yale University
+">
+<link rel="icon" type="image/png" href="/yale.png" />
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://yale-lily.github.io//workshop/">
+  <!--- <link rel="alternate" type="application/rss+xml" title="" href="http://yale-lily.github.io//feed.xml"> ---> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+<script src="/bib-list.js"></script>
+
+<link rel="stylesheet" href="/bib-publication-list.css" type="text/css" />
+
+
+<!-- Optional theme -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous"> -->
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</head>
+
+
+  <body>
+
+    
+<!--  <div class="wrapper">
+
+<span><a class="site-title" href="https://www.yale.edu/"><img src="/yale_header.png"></a></span> 
+
+    <nav class="site-nav">
+      <span class="menu-icon" onclick="void(0)">
+        
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+        </span>
+      </div>
+
+      <div class="trigger" onclick="void(0)">
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/" style="color: white;">About</a>
+          
+        
+          
+          <a class="page-link" href="/downloads/" style="color: white;">Downloads</a>
+          
+        
+          
+          <a class="page-link" href="/internal/" style="color: white;">Internal</a>
+          
+        
+          
+          <a class="page-link" href="/links/" style="color: white;">Links</a>
+          
+        
+          
+          <a class="page-link" href="/members/" style="color: white;">Members</a>
+          
+        
+          
+          <a class="page-link" href="/news/" style="color: white;">News</a>
+          
+        
+          
+          <a class="page-link" href="/projects/" style="color: white;">Projects</a>
+          
+        
+          
+          <a class="page-link" href="/publications/" style="color: white;">Publications</a>
+          
+        
+          
+          <a class="page-link" href="/teaching/" style="color: white;">Teaching</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header> -->
+
+
+<header class="site-header" style="background-color: #0c4c92;">
+
+  <div class="wrapper">
+
+
+    <span><a class="site-title" href="https://www.yale.edu/"><img src="/yale_header.png" height="40"></a></span> 
+<!--    <span><a class="site-title" href="/"><img src="/lily-logo.png" height="40"></a></span> -->
+
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/" style="color: white;">About</a>
+          
+        
+          
+          <a class="page-link" href="/downloads/" style="color: white;">Downloads</a>
+          
+        
+          
+          <a class="page-link" href="/internal/" style="color: white;">Internal</a>
+          
+        
+          
+          <a class="page-link" href="/links/" style="color: white;">Links</a>
+          
+        
+          
+          <a class="page-link" href="/members/" style="color: white;">Members</a>
+          
+        
+          
+          <a class="page-link" href="/news/" style="color: white;">News</a>
+          
+        
+          
+          <a class="page-link" href="/projects/" style="color: white;">Projects</a>
+          
+        
+          
+          <a class="page-link" href="/publications/" style="color: white;">Publications</a>
+          
+        
+          
+          <a class="page-link" href="/teaching/" style="color: white;">Teaching</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <article class="post">
+
+  <!-- <header class="post-header">
+    <h2 class="post-title"></h1>
+  </header> -->
+
+  <div class="post-content">
+    <header class="post-header">
+    <h2 class="post-title">The Data Science Workshop on Computational Social Science</h2>
+  </header>
+
+<h3 align="center">The workshop was held in on October 20, 2017. Featured in <a href="https://yaledailynews.com/blog/2017/10/25/yale-holds-inaugural-data-science-workshop/">the Yale Daily News</a>. </h3>
+
+<h2 id="schedule">Schedule</h2>
+
+<td style="padding:10px">
+</td>
+<td style="padding:10px">
+9:00-9:15<br />
+Introduction <br />
+<a class="paper" href="http://www.cs.yale.edu/homes/radev/">
+Dragomir Radev </a>
+<a class="paper" href="http://cs-www.cs.yale.edu/homes/spielman/">
+Daniel Spielman </a>
+<a class="paper" href="http://www.stat.yale.edu/~hz68/">
+Harry Zhou </a> <br />
+Yale University <br />
+</td>
+
+<table>
+
+
+
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/jenn2012.jpg" /> 
+</td><td style="padding:10px">
+9:15-10:00
+<br />
+
+The Human Components of Machine Learning
+<br /> 
+
+<a class="paper" href="http://www.jennwv.com/">
+Jenn Wortman Vaughan</a><br /> 
+
+Microsoft Research <br /> 
+
+
+
+<a class="btn btn-labeled btn-primary" href="#test3" data-toggle="collapse"> Abstract </a>  
+<div style="max-width:400px" id="test3" class="collapse">
+Machine learning is often viewed as an automated process. Data is fed to a learning algorithm that outputs a trained model which then makes predictions. In practice, however it is common for every step of this process to rely on humans in the loop. Training data is often generated through human activity, either as passive observations of social processesor actively crowdsourced annotations. Humans prepare this data for use by the algorithm, engineer features, and tweak the algorithm’s parameters to fit their needs. And in many applications to medicine, criminal justice, and other critical domains, humans must interpret the learned model’s predictions to determine how to best make use of these predictions in their own decision making process. In this talk, I’ll argue for the importance of understanding the humans in the loop. As one example, I’ll describe some of my own research on crowdsourcing aimed at understanding who the crowd is, what motivates them, and how they communicate. I’ll also touch on a new direction of research that I’m particularly excited about, studying how to make machine learning human-interpretable, and what human interpretability even means.
+</div>
+
+<a class="btn btn-labeled btn-primary" href="#test4" data-toggle="collapse"> Bio </a> 
+<div style="max-width:400px" id="test4" class="collapse">
+Jenn Wortman Vaughan is a Senior Researcher at Microsoft Research, New York City. She studies algorithmic economics, machine learning, and social computing, often in the conext of prediction markets, crowdsourcing, and other human-in-the-loop systems. Jenn came to MSR in 2012 from UCLA, where she was an assistant professor in the computer science department. She completed her Ph.D. at the University of Pennsylvania in 2009, and subsequently spent a year as a Computing Innovation Fellow at Harvard. She is the recipient of Penn's 2009Rubinoff dissertation award for innovative applications of computer technology, a National Science Foundation CAREER award, a Presidential Early Career Award for Scientists and Engineers (PECASE), and a handful of best paper or best student paper awards. In her spare time, Jenn is involved in a variety of efforts to provide support for women in computer science; most notably, she co-founded the Annual Workshop for Women in Machine Learning, which has been held each year since 2006.
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+10:00-10:30
+<br />
+
+Coffee Break
+<br /> 
+
+
+
+
+ 
+<div style="max-width:400px" class="collapse">
+
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/brendan.jpg" /> 
+</td><td style="padding:10px">
+10:30-11:15
+<br />
+
+Social Event Extraction: Inferring International Relations and Police Killings from the News
+<br /> 
+
+<a class="paper" href="http://brenocon.com/">
+Brendan O'Connor</a><br /> 
+
+University of Massachusetts Amherst <br /> 
+
+
+
+<a class="btn btn-labeled btn-primary" href="#test7" data-toggle="collapse"> Abstract </a>  
+<div style="max-width:400px" id="test7" class="collapse">
+What can text analysis tell us about society? Enormous corpora of news, social media, and historical documents record events, beliefs, and culture. Automated text analysis scales to large data sets, and can assist in discovering patterns and themes. I will discuss projects to extract event databases from the news, in the domains of international relations and police killings in the U.S. First, we analyze the raw text of 15 years of news articles to extract temporal trends of diplomacy, conflict, and military actions between pairs of countries, including, for example, the recent history of Israeli-Palestinian relations. Our model combines syntactic parsing and latent-variable probabilistic modeling to induce event classes, and we validate against predefined ontologies and databases of interstate conflict. Second, we tackle the surprising lack of systematic records on police killings of civilians in the U.S., by helping automate the extraction of these fatality events from news articles, in order to assist manual curation efforts. Our methods make use of distant supervision and outperform extractors used in previous NLP research. In addition to using natural language processing to advance social understanding, findings from the social sciences can better inform the design of artificial intelligence. Given time and interest, I will briefly overview our efforts to identify and fix dialectal and racial disparity in language technologies.
+</div>
+
+<a class="btn btn-labeled btn-primary" href="#test8" data-toggle="collapse"> Bio </a> 
+<div style="max-width:400px" id="test8" class="collapse">
+Brendan O'Connor is an assistant professor in the College of Information and Computer Sciences at the University of Massachusetts, Amherst. Prof. O'Connor works in computational social science, developing natural language processing, machine learning, and interface tools to help scientific investigation about political and social trends; for example, analyzing opinions and slang in Twitter, censorship in Chinese microblogs, and and political events reported in the news. His work has been featured in the New York Times and the Wall Street Journal. He received his PhD in 2014 from Carnegie Mellon University's Machine Learning Department, advised by Noah A. Smith, and has previously been a Visiting Fellow at the Harvard Institute for Quantitative Social Science, and an intern with the Facebook Data Science team. Before graduate school, he worked on crowdsourcing at CrowdFlower / Dolores Labs, and natural language search at Powerset. He holds an BS and MS in Symbolic Systems from Stanford University.
+</div>
+
+<a class="btn btn-labeled btn-primary" href="/slides/oconnor_yale_css_20171020.pdf">Slides</a>
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/claire.jpg" /> 
+</td><td style="padding:10px">
+11:15-12:00
+<br />
+
+Using Bayesian methods to infer language spread.
+<br /> 
+
+<a class="paper" href="http://campuspress.yale.edu/clairebowern/">
+Claire Bowern</a><br /> 
+
+Yale University <br /> 
+
+
+
+<a class="btn btn-labeled btn-primary" href="#test9" data-toggle="collapse"> Abstract </a>  
+<div style="max-width:400px" id="test9" class="collapse">
+In this talk I present results of work that uses computational phylogenetics to infer the dates and trajectories of spread of the Pama-Nyungan family of Australian languages. I show how evolutionary approaches to language change allow us to model language spread and gain insights into both specific language histories and patterns of change more generally. 
+</div>
+
+<a class="btn btn-labeled btn-primary" href="#test10" data-toggle="collapse"> Bio </a> 
+<div style="max-width:400px" id="test10" class="collapse">
+Claire Bowern is Professor of Linguistics. Her area of research is language documentation and historical linguistics, with a focus on the languages of Australia. Following a PhD at Harvard in historical linguistics, she spent four years at Rice University before moving to Yale in 2008. She runs the HistLing/Pama-Nyungan lab in Yale's Linguistics Department, where researchers combine computational (particularly phylogenetic) and theoretical approaches to language changes with ethnographic practices. She is also the author of 4 books: two reference grammars and two textbooks, and the editor (with Bethwyn Evans) of the Routledge Handbook of Historical Linguistics.
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+12:00-1:30
+<br />
+
+Lunch
+<br /> 
+
+
+
+
+ 
+<div style="max-width:400px" class="collapse">
+
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/jesse_shapiro.png" /> 
+</td><td style="padding:10px">
+1:30-2:15
+<br />
+
+Measuring Polarization in High-Dimensional Data: Method and Application to Congressional Speech
+<br /> 
+
+<a class="paper" href="http://www.brown.edu/Research/Shapiro/">
+Jesse Shapiro</a><br /> 
+
+Brown University <br /> 
+
+
+
+<a class="btn btn-labeled btn-primary" href="#test1" data-toggle="collapse"> Abstract </a>  
+<div style="max-width:400px" id="test1" class="collapse">
+We study trends in the partisanship of congressional speech from 1873 to 2016. We define partisanship to be the ease with which an observer could infer a congressperson’s party from a fixed amount of speech, and we estimate it using a structural choice model and methods from machine learning. Our method corrects a severe finite-sample bias that we show arises with standard estimators. The results reveal that partisanship is far greater in recent years than in the past, and that it increased sharply in the early 1990s after remaining low and relatively constant over the preceding century. Our method is applicable to the study of high-dimensional choices in many domains, and we illustrate its broader utility with an application to residential segregation.
+</div>
+
+<a class="btn btn-labeled btn-primary" href="#test2" data-toggle="collapse"> Bio </a> 
+<div style="max-width:400px" id="test2" class="collapse">
+Jesse Shapiro is the George S. and Nancy B. Parker Professor of Economics at Brown University. Prior to joining Brown University in 2015 he was the Chookaszian Family Professor of Economics at the University of Chicago Booth School of Business. Shapiro received his BA in economics in 2001 and his PhD in economics in 2005 from Harvard University. He is a Research Associate at the National Bureau of Economic Research and a former editor of the Journal of Political Economy. He was a 2011-12 Alfred P. Sloan Research Fellow.
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/ryan_cotterel.png" /> 
+</td><td style="padding:10px">
+2:15-3:00
+<br />
+
+Probabilistic Typology: Deep Generative Models of Vowel Inventories
+<br /> 
+
+<a class="paper" href="https://ryancotterell.github.io/">
+Ryan Cotterell</a><br /> 
+
+Johns Hopkins University <br /> 
+
+
+
+<a class="btn btn-labeled btn-primary" href="#test5" data-toggle="collapse"> Abstract </a>  
+<div style="max-width:400px" id="test5" class="collapse">
+Linguistic typology studies the range of structures present in human language. The main goal of the field is to discover which sets of possible phenomena are universal, and which are merely frequent. For example, all languages have vowels, while most—but not all—languages have an [u] sound. In this paper we present the first probabilistic treatment of a basic question in phonological typology: What makes a natural vowel inventory? We introduce a series of deep stochastic point processes, and contrast them with previous computational, simulation-based approaches. We provide a comprehensive suite of experiments on over 200 distinct languages.
+</div>
+
+<a class="btn btn-labeled btn-primary" href="#test6" data-toggle="collapse"> Bio </a> 
+<div style="max-width:400px" id="test6" class="collapse">
+Ryan is a fourth year Ph.D. student in the Johns Hopkins Computer Science department affiliated with the Center for Language and Speech Processing, where he is coadvised by Jason Eisner and David Yarowsky. He specializes in natural language processing, computational linguistics and machine learning, focusing on deep learning and statistical approaches to phonology, morphology, linguistic typology and low-resource languages. He has received best paper awards at ACL 2017 and EACL 2017 and two honorable mentions for best paper at EMNLP 2015 and NAACL 2016. Previously, he was a visiting Ph.D. student at the Center for Information and Language Processing at LMU Munich supported by a Fulbright Fellowship and a DAAD Research Grant under the supervision of Hinrich Schütze. Since Fall 2016 he has been supported by an NDSEG graduate fellowship and since 2017 by the Fredrick Jelinek Fellowship.
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/scaz.gif" /> 
+</td><td style="padding:10px">
+3:00-3:30
+<br />
+
+Robots for Autism
+<br /> 
+
+<a class="paper" href="http://www.cs.yale.edu/homes/scaz/Scaz.html">
+Brian Scassellati</a><br /> 
+
+Yale University <br /> 
+
+
+
+<a class="btn btn-labeled btn-primary" href="#test13" data-toggle="collapse"> Abstract </a>  
+<div style="max-width:400px" id="test13" class="collapse">
+In the last decade, there has been a slowly growing interaction between robotics researchers and clinicians to look at the viability of using robots as a tool for enhancing therapeutic and diagnostic options forindividuals with autism spectrum disorder. While much of the early work in using robots for autism therapy lacked clinical rigor, new research is beginning to demonstrate that robots improve engagement and elicit novel social behaviors from people (particularly children and teenagers) with autism.  However, why robots in particular show this capability, when similar interactions with other technology or with adults or peers fails to show this response, remains unknown.  This talk will present some of the most recent evidence showing robots eliciting social behavior from individuals with autism and discuss some of the mechanisms by which these effects may be generated. As a diagnostic tool, robots offer a social press that is repeatable and controllable to allow for standardization of interactive stimuli across individuals and across time. Because robots can provide consistent, reliable actions, clinicians can ensure that identical stimuli are presented at each diagnostic session. Furthermore, the component systems in socially aware robots may offer non-interactive methods for tracking human-human social behaviors. The perceptual systems of these robots are designed to measure and quantify social behavior—that is, exactly the skills that must be identified during diagnosis.
+</div>
+
+<a class="btn btn-labeled btn-primary" href="#test14" data-toggle="collapse"> Bio </a> 
+<div style="max-width:400px" id="test14" class="collapse">
+Brian Scassellati is a Professor of Computer Science, Cognitive Science, and Mechanical Engineering at Yale University and Director of the NSF Expedition on Socially Assistive Robotics. His research focuses on building embodied computational models of human social behavior, especially the developmental progression of early social skills. Using computational modeling and socially interactive robots, his research evaluates models of how infants acquire social skills and assists in the diagnosis and quantification of disorders of social development (such as autism). His other interests include humanoid robots, human-robot interaction, artificial intelligence, machine perception, and social learning. Dr. Scassellati received his Ph.D. in Computer Science from the Massachusetts Institute of Technology in 2001. His dissertation work (Foundations for a Theory of Mind for a Humanoid Robot) with Rodney Brooks used models drawn from developmental psychology to build a primitive system for allowing robots to understand people. His work at MIT focused mainly on two well-known humanoid robots named Cog and Kismet. He also holds a Master of Engineering in Computer Science and Electrical Engineering (1995), and Bachelors degrees in Computer Science and Electrical Engineering (1995) and Brain and Cognitive Science (1995), all from MIT. Dr. Scassellati's research in social robotics and assistive robotics has been recognized within the robotics community, the cognitive science community, and the broader scientific community. He was named an Alfred P. Sloan Fellow in 2007 and received an NSF CAREER award in 2003. His work has been awarded five best-paper awards. He was the chairman of the IEEE Autonomous Mental Development Technical Committee from 2006 to 2007, the program chair of the IEEE International Conference on Development and Learning (ICDL) in both 2007 and 2008, and the program chair for the IEEE/ACM International Conference on Human-Robot Interaction (HRI) in 2009.
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+3:30-4:00
+<br />
+
+Coffee Break
+<br /> 
+
+
+
+
+ 
+<div style="max-width:400px" class="collapse">
+
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/kumar.jpg" /> 
+</td><td style="padding:10px">
+4:00-4:45
+<br />
+
+Does Restricting Information make the Crowd Smarter?
+<br /> 
+
+<a class="paper" href="http://faculty.som.yale.edu/vineetkumar/">
+Vineet Kumar</a><br /> 
+
+Yale University <br /> 
+
+
+
+<a class="btn btn-labeled btn-primary" href="#test11" data-toggle="collapse"> Abstract </a>  
+<div style="max-width:400px" id="test11" class="collapse">
+Crowdsourcing has been widely used for fairly accurate information gathering, and digital technologies enlarge the scope. We examine how herding in crowdsourcing can arise based on how much information is made available to participants in such a cros setting. Using a randomized experiment with an aggregator of crowdsourced financial information, we investigate the causal impact of differential informational environments on overall quality and quantity of information. We find significant user heterogeneity i n how they respond to different designs, and evaluate strategies for how the value of crowdsourcing can be improved.
+</div>
+
+<a class="btn btn-labeled btn-primary" href="#test12" data-toggle="collapse"> Bio </a> 
+<div style="max-width:400px" id="test12" class="collapse">
+ Vineet studies how firms should create and deliver value in digital products and services, and strategies firms should adopt in designing digital products. His research focuses on developing economic models using microfoundations-based structural economic and game theoretic models to understand consumer and firm behavior in markets for technology products and services. At Yale, he teaches an elective MBA elective class on Digital Strategy and a doctoral level course on Networks. He also directs industry collaborations and projects with companies through the Yale Center for Customer Insights. Vineet received his PhD from Carnegie Mellon University and holds an undergraduate degree in engineering from Indian institute of Technology, Madras.
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="200px" src="/workshop_photos/learmouth.jpg" /> 
+</td><td style="padding:10px">
+4:45-5:10
+<br />
+
+Using phylogenetic methods to understand cultural variation in Australian Aboriginal societies
+<br /> 
+
+<a class="paper" href="https://www.dur.ac.uk/anthropology/staff/academic/?mode=staff&amp;id=15900">
+Duncan Learmouth</a><br /> 
+
+Durham University <br /> 
+
+
+
+<a class="btn btn-labeled btn-primary" href="#test100" data-toggle="collapse"> Abstract </a>  
+<div style="max-width:400px" id="test100" class="collapse">
+Australian Aboriginal societies have a diverse and complex cultural heritage expressed, in particular, through differences in ritual, myth, song and art. This variation can be analyzed using phylogenetic tree-modeling methods that may help us answer such questions as: 1. Can changes in ritual complexity be explained by variation in other elements of Australian social life, and 2. Can some cultural elements, such as rock art motifs,  be used as 'population markers' to trace historic movements of people within Australia. Preliminary analyses associated with answering both these questions will be presented at the workshop.
+</div>
+
+<a class="btn btn-labeled btn-primary" href="#test101" data-toggle="collapse"> Bio </a> 
+<div style="max-width:400px" id="test101" class="collapse">
+Duncan Learmouth is a PhD student in Anthropology at Durham University in the UK studying the application of phylogenetic methods to the study of cultural variation in Australian societies. He completed his Masters degree in Evolutionary Anthropology at University College London (UCL) in 2016. He is currently collaborating with Claire Bowern at Yale on applying the Australian (Pama-Nyungan) language phylogeny to answer questions related to cultural variation.
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+5:10-5:30
+<br />
+
+Short Presentations
+<br /> 
+
+
+
+
+ 
+<div style="max-width:400px" class="collapse">
+
+</div>
+
+
+
+<br />
+</td></tr>
+
+
+</table>
+
+<iframe width="700" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJTxEsvLfZ54kRSmWXc78lmh0&amp;key=AIzaSyC9I1jdJUkkDqPm8OXQlzPQcsVLM5juJkg" allowfullscreen=""></iframe>
+
+  </div>
+
+</article>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li></li>
+          <li><a href="mailto:dragomir.radev@yale.edu">dragomir.radev@yale.edu</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/Yale-LILY"><span class="icon icon--github"><svg viewBox="0 0 16 16"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">Yale-LILY</span></a>
+
+          </li>
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>Website for the LILY Group at Yale University
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

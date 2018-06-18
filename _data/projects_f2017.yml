@@ -42,7 +42,7 @@ projects:
       #project_website: "/public/Jungo_Kasai-SRL.pdf"
     - topic: "Biomedical Entity-Relationship Extraction"
       members: "Robert Tung, Adrian Lin"
-      project_website: "/images/SeniorProjectPresentation.pptx"
+      project_website: "/public/SeniorProjectPresentation.pptx"
       image: "/images/SeniorProjectPresentation.png"
     - topic: "A Mobile App for the Blind and Dyslexic"
       members: "Joe Lanzone"

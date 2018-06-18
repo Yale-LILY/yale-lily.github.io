@@ -1,0 +1,6 @@
+@InProceedings{zhang2018addressee,
+  author =  {Zhang, Rui and Lee, Honglak and Polymenakos, Lazaros and Radev, Dragomir R.},
+  title =   {Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs},
+  year =    {2018},  
+  booktitle =   {Proceedings of AAAI-2018}
+  }

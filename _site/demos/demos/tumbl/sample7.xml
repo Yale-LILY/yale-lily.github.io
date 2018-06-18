@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<tumbl xmlns="http://tangra.si.umich.edu/clair/tumbl"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://tangra.si.umich.edu/clair/tumbl tumbl.xsd">
+<object id="U1" label="0.997705" x="216.000000" y="302.000000"/>
+<object id="L2" label="0.000000" x="213.000000" y="451.000000"/>
+<object id="L1" label="1.000000" x="214.000000" y="221.000000"/>
+<feature id="F3" x="369.000000" y="410.000000"/>
+<feature id="F1" x="373.000000" y="263.000000"/>
+<object id="U2" label="0.996754" x="214.000000" y="373.000000"/>
+<feature id="F2" x="369.000000" y="342.000000"/>
+<edge directed="true" from="L1" to="F1" />
+<edge directed="false" from="U1" to="F3" />
+<edge directed="false" from="U1" to="F1" />
+<edge directed="true" from="L1" to="F2" />
+<edge directed="true" from="L2" to="F2" />
+<edge directed="false" from="U2" to="F3" />
+</tumbl>

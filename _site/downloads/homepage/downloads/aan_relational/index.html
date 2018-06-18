@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+     
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+     
+  <style type="text/css">A {
+	TEXT-DECORATION: none
+}
+</style>
+  <title>Relational Classification Dataset</title>
+</head>
+ <body bgcolor="#ffffff">
+ 
+<table border="0" cellspacing="2" cellpadding="2" width="80%" nosave="" align="Center">
+   <tbody>
+     <tr>
+       <td>       
+	<center><h1><font size="+5">Relational Classification Dataset</font></h1></center>
+       </td>
+     </tr>
+     <tr>
+       <td>       
+      <center>       
+      <hr size="1"></center>
+       </td>
+     </tr>
+     <tr>
+       <td>       
+      <div align="Justify">       
+      <div align="Left">
+	  <font size=4>
+	   This classification dataset contains 380 scientific publications from <a href="../../../clair/anthology">AAN</a> manually classified into three research areas ("Machine Translation", "Dependency Parsing" and "Summarization").  This is a relational dataset since we have included metadata information
+	   for the papers which includes citation information, authorship information, venue information and year of publication.
+	   <br/>
+	   Here is a description of the files included.
+	   <PRE class="normal">
+	aan_mds 
+	| 
+	|-----metadata.txt    Contains the id, title, authorship, venue and the class information for all the papers.  
+	| 
+	|-----papers_text     This directory contains the full text of the 380 papers. We obtained this text by converting 
+	|		      the PDF of the paper to text using PDFBox.  
+	|
+	|-----citations.txt   The file contains citations between ALL the papers in the AAN data set not just the citations 
+			      between the 380 papers in the dataset. This is because many link/citation similarity 
+			      measures like cocitation or coupling compute similarity between two papers using citations
+			      between other papers.
+	   </PRE>
+	   <br/>
+Here is a complete <a href="AAN_relational_README.txt">README</a> which explains the selection process for the publications, annotation process and the format of the different files.
+	  <br/>
+	  <br/>
+	  Click <a href="aan_mds.tar.gz">here</a> to download this data set.
+	  <br/>
+	  <br/>
+Papers that have used this dataset
+<ol>
+<li>Pradeep Muthukrishnan, Dragomir R. Radev, and Qiaozhu Mei. Simultaneous similarity learning and feature-weight learning for document clustering. In Sixth Textgraphs Workshop at ACL. 2011. </li>
+<li>Pradeep Muthukrishnan, Dragomir R. Radev, and Qiaozhu Mei. Edge weight regularization over multiple graphs for similarity learning. In IEEE ICDM. 2010. </li>
+
+</ol>
+</font>
+<ol>
+</ol>
+   <a href="../../downloads.html">Back to Datasets</a>
+        </tbody>
+      </table>
+       <br>
+       </div>
+       </td>
+     </tr>
+        </tbody>       
+      </table>
+       <br>
+       </div>
+       </td>
+     </tr>
+  </tbody> 
+</table>
+ 
+</body>
+</html>
