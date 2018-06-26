@@ -8,6 +8,8 @@ papers:
       code: "https://github.com/Yale-LILY/TutorialBank"
     - title: "Improving Text-to-SQL Evaluation Methodology"
       authors: "Catherine Finegan-Dollak, Jonathan K. Kummerfeld, Li Zhang, Karthik Ramanathan Dhanalakshmi Ramanathan, Sesh Sadasivam, Rui Zhang and Dragomir Radev"
+      code: "https://github.com/jkkummerfeld/text2sql-data" 
+      pdf: "https://arxiv.org/pdf/1806.09029.pdf"
       conference: "Proceedings of ACL 2018"
     - title: "Neural Coreference Resolution with Deep Biaffine Attention by Joint Mention Detection and Mention Clustering"
       authors: "Rui Zhang, Cicero Nogueira dos Santos, Michihiro Yasunaga, Bing Xiang and Dragomir Radev"
