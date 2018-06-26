@@ -1,0 +1,6 @@
+@inproceedings{Zhang&al18b.,
+  year =         2018,
+  title =        {Neural Coreference Resolution with Deep Biaffine Attention by Joint Mention Detection and Mention Clustering },
+  booktitle =    {ACL Short Papers},
+  author =       {Rui Zhang and dos Santos, Cicero Nogueira and Michihiro Yasunaga and Bing Xiang and Dragomir Radev}
+}

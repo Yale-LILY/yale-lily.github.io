@@ -1,0 +1,6 @@
+@inproceedings{Finegan-Dollak18,
+  year =         2018,
+  title =        {Improving Text-to-SQL Evaluation Methodology},
+  booktitle =    {ACL},
+  author =       {Catherine Finegan-Dollak and Jonathan  Kummerfeld and Li Zhang and Karthik Ramanathan and Sesh Sadasivam and Rui Zhang and Dragomir Radev}
+}

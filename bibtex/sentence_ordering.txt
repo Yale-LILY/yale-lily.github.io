@@ -1,0 +1,15 @@
+@article{DBLP:journals/corr/LogeswaranLR16,
+  author    = {Lajanugen Logeswaran and
+               Honglak Lee and
+               Dragomir R. Radev},
+  title     = {Sentence Ordering using Recurrent Neural Networks},
+  journal   = {CoRR},
+  volume    = {abs/1611.02654},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1611.02654},
+  archivePrefix = {arXiv},
+  eprint    = {1611.02654},
+  timestamp = {Wed, 07 Jun 2017 14:41:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/LogeswaranLR16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
