@@ -89,6 +89,7 @@ undergraduate:
       github: jbkjr
       photo: /photos/jack_koch.jpg
       title: 2019
+      url :  "https://jbkjr.com"
     - name: Kshitijh Meelu
       github: kmeelu
       email: kshitijh.meelu@yale.edu
