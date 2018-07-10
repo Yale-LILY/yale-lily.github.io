@@ -8,12 +8,6 @@ faculty:
       title : Professor
 
 graduate:
-    - name: Javid Dadashkarimi
-      github: javiddadashkarimi
-      photo: /photos/javid_dadashkarimi.gif
-      title: "PhD Student"
-      url: http://dadashkarimi.com/
-
     - name: Alex Fabbri
       photo: /photos/fabbri_alex.jpg
       title: "PhD Student"
