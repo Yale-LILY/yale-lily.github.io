@@ -64,6 +64,10 @@ undergraduate:
       photo: /photos/dan_profile.jpg
       email: dan.friedman@yale.edu
       title: 2017
+    - name : William Hu
+      photo: /photos/william.jpg
+      email: william.hun@yale.edu
+      title: 2021
     - name : Lionel Jin
       github: lioneljin
       photo: /photos/lionel_jin.png
@@ -123,6 +127,9 @@ undergraduate:
       email: robert.tung@yale.edu 
       photo: /photos/robert_tung.jpeg
       title: 2018
+    - name: Neha Verma
+      photo: /photos/neha.jpg
+      title: 2021
     - name: Caitlin Westerfield
       photo: "/photos/caitlin_westerfield.jpg"
       title: 2020
