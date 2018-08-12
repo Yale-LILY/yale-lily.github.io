@@ -1,4 +1,12 @@
 papers:
+    - title: "Spider: A Large-Scale Complex Human-Labeled SQL Corpus for Semantic Parsing and Text-to-SQL Generation"
+      authors: "Tao Yu, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang, and Dragomir Radev"
+      conference: "Proceedings of EMNLP 2018"
+      bibtex : "/bibtex/spider.txt"
+    - title: "SyntaxSQLNet: Syntax Tree Networks for Complex and Cross Domain Text-to-SQL Task"
+      authors: "Tao Yu, Michihiro Yasunaga, Kai Yang, Rui Zhang, Dongxu Wang, Zifan Li, and Dragomir Radev"
+      conference: "Proceedings of EMNLP 2018"
+      bibtex : "/bibtex/syntaxsqlnet.txt"
     - title: "TutorialBank: Using a Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation"
       authors: "Alexander Fabbri, Irene Li, Prawat Trairatvorakul, Yijiao He, Weitai Ting, Robert Tung, Caitlin Westerfield and Dragomir Radev"
       conference: "Proceedings of ACL 2018"
