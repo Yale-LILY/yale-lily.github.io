@@ -1,0 +1,6 @@
+@inproceedings{Yu&al.18c,
+  year =         2018,
+  title =        {Spider: A Large-Scale Complex Human-Labeled SQL Corpus for Semantic Parsing and Text-to-SQL Generation},
+  booktitle =    {EMNLP},
+  author =       {Tao Yu and Rui Zhang and Kai Yang and Michihiro Yasunaga and Dongxu Wang and Zifan Li and James Ma and Irene Li and Qingning Yao and Shanelle Roman and Zilin Zhang and Dragomir Radev }
+}
