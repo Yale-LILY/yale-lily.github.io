@@ -1,0 +1,6 @@
+@InProceedings{Jaidka&al.18,
+  author =  {Kokil Jaidka and Michihiro Yasunaga and Muthu Kumar Chandrasekaran and Dragomir Radev and Min-Yen Kan},
+  title =   {The CL-SciSumm Shared Task 2018: Results and Key Insights},
+  year =    {2018},
+  booktitle =   {Proceedings of the 3rd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL)}
+}
