@@ -34,7 +34,6 @@ public/jayhou.pdf filter=lfs diff=lfs merge=lfs -text
 public/michiyasunaga.pdf filter=lfs diff=lfs merge=lfs -text
 public/fabbri_alexander_tree_based_semantic_parsing.pdf filter=lfs diff=lfs merge=lfs -text
 public/lily_workshop_poster_tao.pdf filter=lfs diff=lfs merge=lfs -text
-public/AAAI_sirnn.pdf filter=lfs diff=lfs merge=lfs -text
 public/Jungo_Kasai-SRL.pdf filter=lfs diff=lfs merge=lfs -text
 public/BenVars_AustinLachance_presentation.pdf filter=lfs diff=lfs merge=lfs -text
 public/Poster.pptx filter=lfs diff=lfs merge=lfs -text
@@ -46,7 +45,6 @@ public/Jake-Albert-490-poster.pptx filter=lfs diff=lfs merge=lfs -text
 public/Javid-Material.pdf filter=lfs diff=lfs merge=lfs -text
 public/Jungo_Kasai-LILY2018.pdf filter=lfs diff=lfs merge=lfs -text
 public/Yijiao-He-490-poster.pdf filter=lfs diff=lfs merge=lfs -text
-public/aaai2018_CR.pdf filter=lfs diff=lfs merge=lfs -text
 public/Caitlin-Westerfield-290-finalposter.pptx filter=lfs diff=lfs merge=lfs -text
 public/James-Ma-492-poster.pdf filter=lfs diff=lfs merge=lfs -text
 public/Visher_Alison_CPSC490_Poster.pptx filter=lfs diff=lfs merge=lfs -text
