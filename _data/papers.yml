@@ -61,7 +61,7 @@ papers:
     - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
       authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, and Dragomir Radev"
       conference: "Proceedings of AAAI 2018"
-      pdf: "/bibtex/acl2018_coref.txt"
+      pdf: "/public/aaai2018_CR.pdf"
       bibtex: /bibtex/aaai-sirnn.txt
       image: /images/SIRNN.png
       code: "https://github.com/ryanzhumich/sirnn"
