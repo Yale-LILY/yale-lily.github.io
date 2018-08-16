@@ -62,7 +62,6 @@ papers:
       authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, and Dragomir Radev"
       conference: "Proceedings of AAAI 2018"
       pdf: "/bibtex/acl2018_coref.txt"
-      #pdf: "/public/AAAI_sirnn.pdf"
       bibtex: /bibtex/aaai-sirnn.txt
       image: /images/SIRNN.png
       code: "https://github.com/ryanzhumich/sirnn"
