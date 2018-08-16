@@ -57,11 +57,11 @@ papers:
       image : "/images/sentence_ordering.png"
       bibtex : "/bibtex/sentence_ordering.txt"
       conference: "Proceedings of AAAI 2018"
-      pdf: /public/aaai2018_CR.pdf
+      pdf: "/public/aaai2018_CR.pdf"
     - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs"
       authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, and Dragomir Radev"
       conference: "Proceedings of AAAI 2018"
-      pdf: /public/AAAI_sirnn.pdf
+      pdf: "/public/AAAI_sirnn.pdf"
       bibtex: /bibtex/aaai-sirnn.txt
       image: /images/SIRNN.png
       code: "https://github.com/ryanzhumich/sirnn"
