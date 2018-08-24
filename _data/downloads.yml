@@ -21,6 +21,8 @@ downloads:
       description: Contains 383 papers manually classified into 31 research areas using session information.
     - title:  <a href="/downloads/homepage/downloads/aan_relational/index.html">Relational Classification Dataset</a>
       description: <ul> <li> Contains 380 papers manually classified into the three research areas of Machine Translation, Dependency Parsing and Summarization. </li> <li>Contains Authorship information, venue information, title and citation information for all the papers.</li> </ul>
+    - title: Reference Scope Identification in Citing Sentences
+      description:  <a href="/downloads/homepage/downloads/aan_references.tar.gz">Download</a>
     - title: Similarity
       description:  <a href="/downloads/homepage/downloads/clustering-datasets.tar.gz">Download</a>
     - title: <a href="/downloads/homepage/downloads/string_similarity/index.html">String Similarity Measures</a>
