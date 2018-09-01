@@ -1,5 +1,5 @@
 downloads:
-    - title: <a href="http://aan.how/index.php/home/download">TutorialBank</a>
-      description:  We have manually collected and categorized over 7,800 resources on NLP as well as the related fields of Artificial Intelligence (AI), Machine Learning (ML) and Information Retrieval (IR).
     - title: <a href="https://github.com/jkkummerfeld/text2sql-data">Text2SQL</a>
       description: This dataset and code can be used for building and evaluating systems that map sentences to SQL.
+    - title: <a href="http://aan.how/index.php/home/download">TutorialBank</a>
+      description:  We have manually collected and categorized over 7,800 resources on NLP as well as the related fields of Artificial Intelligence (AI), Machine Learning (ML) and Information Retrieval (IR).
