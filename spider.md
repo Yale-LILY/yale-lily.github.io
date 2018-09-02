@@ -8,8 +8,7 @@ permalink: /seq2sql/spider
     <h2 class="post-title">Spider Dataset</h2>
   </header> 
 
-<div class="sideBar" id="contentCover">
-    <div class="container">
+<div class="container">
         <div class="row">
             <div class="col-md-5">
                 <div class="infoCard">
@@ -84,7 +83,7 @@ permalink: /seq2sql/spider
                         </div>
                         </p>
                         <div class="infoHeadline">
-                            <h2>Ackknowledgement</h2>
+                            <h2>Acknowledgement</h2>
                         </div>
                         <p align="left">
                         <div class="left">We thank Tianze Shi, Graham Neubig, and the anonymous reviewers for their
@@ -137,4 +136,3 @@ permalink: /seq2sql/spider
             </div>
         </div>
     </div>
-</div>
