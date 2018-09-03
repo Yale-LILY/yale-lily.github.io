@@ -3,11 +3,32 @@ layout: spider
 permalink: /seq2sql/spider
 ---
 
-<center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
-  <header class="post-header">
-    <h2 class="post-title">Spider Dataset</h2>
-  </header> 
+<div class="navbar navbar-default navbar-fixed-top" id="topNavbar" role="navigation">
+    <div class="container clearfix">
+        <div class="leftNav">
+            <div class="brandDiv">
+                <a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" height="42"></a>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="cover" id="topCover">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 id="appTitle">
+                    Spider
+                    <b>1.0</b>
+                </h1>
+            </div>
+            <center><img src="/lily-logo.png" alt="test image" height="72"></center>
+            <h2 id="appSubtitle">Yale Spider Dataset</h2>
+        </div>
+    </div>
+</div>
+
+<div class="cover" id="contentCover">
 <div class="container">
         <div class="row">
             <div class="col-md-5">
@@ -34,7 +55,7 @@ permalink: /seq2sql/spider
                             <h2>News</h2>
                         </div>
                         <p align="left">
-                        <div class="left">
+                        <div class="left" style="background-color: lightblue">
                             <span class="label label-default">News</span>
                             Spider is a large-scale human-labeled dataset for complex and cross-domain semantic parsing
                             and text-to-SQL dataset. It consists of 206 databases with multiple tables, 11,840
@@ -52,20 +73,14 @@ permalink: /seq2sql/spider
                             <h2>Getting Started</h2>
                         </div>
                         <a class="btn actionBtn" href="http://arxiv.org/abs/1806.03822">Spider paper</a>
+                        <a class="btn actionBtn inverseBtn" href="https://arxiv.org/abs/1805.04617" download>Training set</a>
                         <div class="infoHeadline">
                             <h2>Reference</h2>
                         </div>
                         <ul>
-                            <li>This data was introduced in Matt Thomas, Bo Pang, and Lillian Lee, Spider: A Large-Scale
-                                Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL
-                                Task. The original version of the paper appeared in the Proceedings of EMNLP, 2018, pp.
-                                1–10. However, the paper has been updated since then; the link provided is to the most
-                                current version.
+                            <li><a href="https://taoyds.github.io/">Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task</a> by Tao Yu, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang and Dragomir Radev
                             </li>
-                            <li>If you have used this data, we would appreciate hearing about it (Lillian Lee is our
-                                designated contact person); a list of those papers we know about can be found below.
-                                we’d appreciate you cite if you use the corpus in your research or participate in the
-                                challenge:
+                            <li><a href="https://taoyds.github.io/">SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task</a> by Tao Yu, Michihiro Yasunaga, Kai Yang, Rui Zhang, Dongxu Wang, Zifan Li and Dragomir Radev
                             </li>
                         </ul>
                         <div class="infoHeadline">
@@ -90,6 +105,7 @@ permalink: /seq2sql/spider
                             precious comments.
                         </div>
                         </p>
+                        <img src="/lily-logo.png" alt="test image">
                     </div>
                 </div>
             </div>
@@ -136,3 +152,4 @@ permalink: /seq2sql/spider
             </div>
         </div>
     </div>
+</div>
