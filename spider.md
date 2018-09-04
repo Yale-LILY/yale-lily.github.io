@@ -71,7 +71,7 @@ permalink: /seq2sql/spider
                         <div class="left">
                         Spider 1.0 is distinct from most of the previous semantic parsing tasks because:
                             <ul>
-                                <li><i>ATIS, Geo, Academic</i>: only a single database, limited SQL queries, and have the exact same SQL queries in the train and test.</li>
+                                <li><i>ATIS, Geo, Academic</i>: only a single database, limited number of SQL queries, and have the exact same SQL queries in the train and test.</li>
                                 <li><i>WikiSQL</i>: SQL queries are simple, database is only a simple table.</li>
                             </ul>
                         Spider 1.0 consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
@@ -115,7 +115,7 @@ permalink: /seq2sql/spider
                             <h2>Acknowledgement</h2>
                         </div>
                         <p align="left">
-                        <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a>, <a href="http://www.phontron.com/">Graham Neubig</a>, and the anonymous reviewers for their precious comments on this project. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for give the permission to build this site based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>.
+                        <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a>, <a href="http://www.phontron.com/">Graham Neubig</a>, and the anonymous reviewers for their precious comments on this project. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for giving the permission to build this site based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>.
                         </div>
                         </p>
                         <p align="left">
