@@ -43,9 +43,9 @@ permalink: /seq2sql/spider
                         It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
 
                         Spider 1.0 has different complicated SQL queries and databases appear in train and test sets.
-                        To do well on it, systems must <span style="color:#286dc0"><i>generalize well to not only both new SQL queries but also new database schemas</i></span>.
+                        To do well on it, systems must <i>generalize well to not only both new SQL queries but also new database schemas</i>.
 
-                        <a class="btn actionBtn" href="http://arxiv.org/abs/1806.03822">Spider paper</a>
+                        <a class="btn actionBtn" href="http://arxiv.org/abs/1806.03822">Spider Paper</a>
                         </div>
                         </p>
 
@@ -71,7 +71,7 @@ permalink: /seq2sql/spider
                         <div class="left">
                         Spider 1.0 is distinct from most of the previous semantic parsing tasks because:
                             <ul>
-                                <li><i>ATIS, Geo, Scholar</i>: only a single database, limited SQL queries, and have the exact same SQL queries in the train and test.</li>
+                                <li><i>ATIS, Geo, Academic</i>: only a single database, limited SQL queries, and have the exact same SQL queries in the train and test.</li>
                                 <li><i>WikiSQL</i>: SQL queries are simple, database is only a simple table.</li>
                             </ul>
                         Spider 1.0 consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
@@ -82,7 +82,7 @@ permalink: /seq2sql/spider
                             <h2>Getting Started</h2>
                         </div>
                         <p align="left">
-                        <div class="left"> The data is split into training, development, and unreased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
+                        <div class="left"> The data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
                         </div>
                         </p>
 
@@ -91,13 +91,13 @@ permalink: /seq2sql/spider
 
                         Details of baseline models and evaluation script can be found on the following GitHub site:
 
-                        <a class="btn actionBtn inverseBtn" href="https://taoyds.github.io/" download>Spider GitHub page</a>
+                        <a class="btn actionBtn inverseBtn" href="https://taoyds.github.io/" download>Spider GitHub Page</a>
 
                         <p align="left">
                         <div class="left">Once you have a built a model that works to your expectations on the dev set,
                             you submit it to get official scores on the dev and a hidden test set. To preserve the
                             integrity of test results, we do not release the test set to the public. Instead, we require
-                            you to submit your model so that we can run it on the test set for you. Here's a tutorial walking you through official evaluation of your model (comming soon):
+                            you to submit your model so that we can run it on the test set for you. Here's a tutorial walking you through official evaluation of your model (coming soon):
                         </div>
                         </p>
 
@@ -115,15 +115,19 @@ permalink: /seq2sql/spider
                             <h2>Acknowledgement</h2>
                         </div>
                         <p align="left">
-                        <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a>, <a href="http://www.phontron.com/">Graham Neubig</a>, and the anonymous reviewers for their precious comments on this project. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for give the permission to build this cite based on <a href="">SQuAD</a>.
+                        <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a>, <a href="http://www.phontron.com/">Graham Neubig</a>, and the anonymous reviewers for their precious comments on this project. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for give the permission to build this site based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>.
                         </div>
                         </p>
                         <p align="left">
-                        <div class="left">Our team at the submit of the East Rock park in New Haven (post is "NLseq2SQL"):
+                        <div class="left">Our team at the summit of the East Rock park in New Haven (The post is "NLseq2SQL"):
                         </div>
                         </p>
                         <img src="/images/spider_group.jpeg" alt="test image">
-                        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    </div>
+                    <div class="infoSubheadline">
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://yale-lily.github.io/seq2sql/spider" data-text="Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task" data-via="lilynlp" data-size="large" data-hashtags="Spider">Tweet</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+                    </script>
                     </div>
                 </div>
             </div>
