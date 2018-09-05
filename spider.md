@@ -7,7 +7,7 @@ permalink: /seq2sql/spider
     <div class="container clearfix">
         <div class="leftNav">
             <div class="brandDiv">
-                <a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" height="42"></a>
+                <a href="https://yale-lily.github.io/"><img src="/lily-logo-white.png" alt="test image" height="40"></a>
             </div>
         </div>
     </div>
@@ -22,7 +22,7 @@ permalink: /seq2sql/spider
                     <b>1.0</b>
                 </h1>
             </div>
-            <center><img src="/lily-logo.png" alt="test image" height="72"></center>
+            <center><img src="/lily-logo-white.png" alt="test image" height="70"></center>
             <h2 id="appSubtitle">Yale Semantic Parsing and Text-to-SQL Dataset</h2>
         </div>
     </div>
@@ -45,7 +45,7 @@ permalink: /seq2sql/spider
                         In Spider 1.0, different complex SQL queries and databases appear in train and test sets.
                         To do well on it, systems must <i>generalize well to not only new SQL queries but also new database schemas</i>.
 
-                        <a class="btn actionBtn" href="http://arxiv.org/abs/1806.03822">Spider Paper</a>
+                        <a class="btn actionBtn" href="">Spider Paper</a>
                         </div>
                         </p>
 
