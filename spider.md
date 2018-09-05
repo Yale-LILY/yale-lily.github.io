@@ -86,8 +86,7 @@ permalink: /seq2sql/spider
                         </div>
                         </p>
 
-                        <a class="btn actionBtn inverseBtn" href="https://taoyds.github.io/" download>Training Set</a>
-                        <a class="btn actionBtn inverseBtn" href="https://taoyds.github.io/" download>Dev Set</a>
+                        <a class="btn actionBtn inverseBtn" href="https://drive.google.com/drive/folders/1bNETWKnPSJvyVqq844BkoAPTeV4RyNM-?usp=sharing" download>Spider Dataset</a>
 
                         Details of baseline models and evaluation script can be found on the following GitHub site:
 
