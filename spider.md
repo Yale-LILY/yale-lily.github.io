@@ -42,8 +42,8 @@ permalink: /seq2sql/spider
 
                         It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
 
-                        Spider 1.0 has different complicated SQL queries and databases appear in train and test sets.
-                        To do well on it, systems must <i>generalize well to not only both new SQL queries but also new database schemas</i>.
+                        In Spider 1.0, different complex SQL queries and databases appear in train and test sets.
+                        To do well on it, systems must <i>generalize well to not only new SQL queries but also new database schemas</i>.
 
                         <a class="btn actionBtn" href="http://arxiv.org/abs/1806.03822">Spider Paper</a>
                         </div>
@@ -115,7 +115,7 @@ permalink: /seq2sql/spider
                             <h2>Acknowledgement</h2>
                         </div>
                         <p align="left">
-                        <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a>, <a href="http://www.phontron.com/">Graham Neubig</a>, and the anonymous reviewers for their precious comments on this project. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for giving the permission to build this site based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>.
+                        <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a>, <a href="http://www.phontron.com/">Graham Neubig</a>, and the anonymous reviewers for their precious comments on this project. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for giving us the permission to build this site based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>.
                         </div>
                         </p>
                         <p align="left">
