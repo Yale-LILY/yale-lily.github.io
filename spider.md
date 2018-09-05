@@ -7,7 +7,7 @@ permalink: /seq2sql/spider
     <div class="container clearfix">
         <div class="leftNav">
             <div class="brandDiv">
-                <a href="https://yale-lily.github.io/"><img src="/lily-logo-white.png" alt="test image" height="40"></a>
+                <a href="https://yale-lily.github.io/"><img src="/lily-logo-white.png" alt="test image" height="44"></a>
             </div>
         </div>
     </div>
@@ -22,7 +22,7 @@ permalink: /seq2sql/spider
                     <b>1.0</b>
                 </h1>
             </div>
-            <center><img src="/lily-logo-white.png" alt="test image" height="70"></center>
+            <center><img src="/lily-logo-white.png" alt="test image" height="65"></center>
             <h2 id="appSubtitle">Yale Semantic Parsing and Text-to-SQL Dataset</h2>
         </div>
     </div>
@@ -57,8 +57,8 @@ permalink: /seq2sql/spider
                         <ul>
                             <li><span class="label label-default" style="background-color: #286dc0"><i>News</i></span>
                             We will consider execution accuracy later.</li>
-                            <li><span class="label label-default" style="background-color: #286dc0"><i>News</i></span>
-                            We will consider execution accuracy later.</li>
+                            <!-- <li><span class="label label-default" style="background-color: #286dc0"><i>News</i></span>
+                            We will consider execution accuracy later.</li> -->
                         </ul>
                         </div>
                         </p>
