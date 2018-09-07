@@ -106,7 +106,7 @@ permalink: /seq2sql/spider
                             <h2>Have Questions?</h2>
                         </div>
                         <p align="left">
-                        <div class="left">Ask us questions at our <a href="https://taoyds.github.io/">Github issues page</a> or contact <a href="https://taoyds.github.io/">Tao Yu</a>, <a href="https://taoyds.github.io/">Rui Zhang</a>, or
+                        <div class="left">Ask us questions at our <a href="https://taoyds.github.io/">Github issues page</a> or contact <a href="https://taoyds.github.io/">Tao Yu</a>, <a href="https://ryanzhumich.github.io/">Rui Zhang</a>, or
                         <a href="https://michiyasunaga.github.io/">Michihiro Yasunaga</a>.
                         </div>
                         </p>
@@ -114,7 +114,7 @@ permalink: /seq2sql/spider
                             <h2>Acknowledgement</h2>
                         </div>
                         <p align="left">
-                        <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a>, <a href="http://www.phontron.com/">Graham Neubig</a>, and the anonymous reviewers for their precious comments on this project. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for giving us the permission to build this site based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>.
+                        <div class="left">We thank <a href="http://www.phontron.com/">Graham Neubig</a>, <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a>, <a href="http://www-personal.umich.edu/~cfdollak/">Catherine Finegan-Dollak</a>, and the anonymous reviewers for their precious comments on this project. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for giving us the permission to build this site based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>.
                         </div>
                         </p>
                         <p align="left">
