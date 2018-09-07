@@ -1,4 +1,6 @@
 downloads:
+    - title: <a href="https://github.com/WING-NUS/scisumm-corpus">SciSumm>
+      description: Scientific Document Summarization Corpus and Annotations
     - title: <a href="https://github.com/jkkummerfeld/text2sql-data">Text2SQL</a>
       description: This dataset and code can be used for building and evaluating systems that map sentences to SQL.
     - title: <a href="http://aan.how/index.php/home/download">TutorialBank</a>
