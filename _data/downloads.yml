@@ -27,7 +27,7 @@ downloads:
       description:  <a href="/downloads/homepage/downloads/clustering-datasets.tar.gz">Download</a>
     - title: <a href="/downloads/homepage/downloads/string_similarity/index.html">String Similarity Measures</a>
       description: A C++ package for computing similarity between strings. The package supports the following similarity measures <ul> <li>Cosine Similarity</li> <li> Jaccard Similarity</li> <li> Similarity based on Levenshtein Distance</li> <li> P-Spectrum Kernel</li> <li> Length-Weighted Kernel</li> </ul>
-    - title: SUMMBank
-      description:  a collection of summaries used in the JHU workshop in 2001 (coming soon) #<a href="/downloads/fraud/index.html">Download</a>
+    - title: <a href="https://catalog.ldc.upenn.edu/LDC2003T16">SUMMBank</a>
+      description:  a collection of summaries used in the JHU workshop in 2001 #<a href="/downloads/fraud/index.html">Download</a>
     - title: Surveyor
       description:  Paper collection. (coming soon) #<a href="/downloads/surveyor/data/surveyor_complete_collection.tar.gz">Download</a>
