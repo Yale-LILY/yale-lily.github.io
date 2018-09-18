@@ -16,3 +16,5 @@ major-projects:
   - title: Seq2SQL and Dialogue
     link: /seq2sql/
     image: "/images/typesql.png"
+  - title: NLP for Electronic Patient Records
+    link: /ehr/
