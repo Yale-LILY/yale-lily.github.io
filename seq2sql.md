@@ -13,9 +13,11 @@ permalink: /seq2sql/
     <h2 class="post-title">Seq2SQL and Dialogue</h2>
   </header> 
 
-<p>
-Interacting with relational databases through natural language helps users of any background easily query and analyze a vast amount of data. The goal of the Seq2SQL and Dialogue project at Yale is to develop natural language interfaces for relational databases so that users can talk with their data in the future.
+<p align="left">
+  <div class="left">Interacting with relational databases through natural language helps users of any background easily query and analyze a vast amount of data. The goal of the Seq2SQL and Dialogue project at Yale is to develop natural language interfaces for relational databases so that users can talk with their data in the future.
+  </div>
 </p>
+
 <ul>
   <li> <a href="/spider">Spider: Yale Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge</a></li>
 </ul>
