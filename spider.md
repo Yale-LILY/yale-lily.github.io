@@ -209,7 +209,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>Leaderboard - Execution</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, you can assume a list of gold values for each question will be given. You model has to fill them into the right slots in the SQL. Is your system going to the first one showing on this leaderboard?
+                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, you can assume  that a list of gold values for each question is given. Your model has to fill them into the right slots in the SQL. Is your system going to the first one showing up on this leaderboard?
                     </div>
                     </p>
                     <table class="table performanceTable">
