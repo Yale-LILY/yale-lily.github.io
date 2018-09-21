@@ -38,7 +38,7 @@ redirect_from: "/seq2sql/spider"
                     </div>
                     <p align="left">
                     <div class="left">Spider is a large-scale <span style="color:#286dc0"><i>complex and cross-domain</i></span> semantic parsing and text-to-SQL dataset annotated by 11 Yale students.
-                       Spider indices that our dataset is complex and cross-domain looks like a spider (foreign keys) is crossing mutiple nests(tables in the database).
+                       Why we call it "Spider"? It is because our dataset is complex and cross-domain like a spider(foreign keys) crossing mutiple nests(tables in the database).
                        It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
                        In Spider 1.0, different complex SQL queries and databases appear in train and test sets.
                        To do well on it, systems must <i>generalize well to not only new SQL queries but also new database schemas</i>.
@@ -92,7 +92,7 @@ redirect_from: "/seq2sql/spider"
                     Details of baseline models and evaluation script can be found on the following GitHub site:
                     <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/spider" download>Spider GitHub Page</a>
                     <p align="left">
-                    <div class="left">Once you have a built a model that works to your expectations on the dev set,
+                    <div class="left">Once you have built a model that works to your expectations on the dev set,
                        you submit it to get official scores on the dev and a hidden test set. To preserve the
                        integrity of test results, we do not release the test set to the public. Instead, we require
                        you to submit your model so that we can run it on the test set for you. Here's a tutorial walking you through official evaluation of your model (coming soon):
