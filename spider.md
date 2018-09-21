@@ -1,6 +1,6 @@
 ---
 layout: spider
-permalink: /spider
+permalink: spider
 redirect_from: "/seq2sql/spider"
 ---
 
