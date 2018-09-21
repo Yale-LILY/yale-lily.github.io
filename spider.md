@@ -61,7 +61,7 @@ redirect_from: "/seq2sql/spider"
                     </div>
                     </p>
                     <div class="infoHeadline">
-                       <h2>Why Spider 1.0 Differs from Previous Datasets?</h2>
+                       <h2>Why Spider?</h2>
                     </div>
                     <img src="/images/spider_chart.png" alt="test image">
                     <p align="left">
