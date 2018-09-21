@@ -68,10 +68,10 @@ redirect_from: "/seq2sql/spider"
                     <div class="left">
                        As the above spider chart shows, Spider 1.0 is distinct from most of the previous semantic parsing tasks because:
                        <ul>
-                          <li><a href="https://github.com/jkkummerfeld/text2sql-data"><i>ATIS, Geo, Academic</i></a>: Each of them contains only a single database with limited number of SQL queries, and has exact same SQL queries in train and test splits.</li>
-                          <li><a href="https://github.com/salesforce/WikiSQL"><i>WikiSQL</i></a>: The numbers of SQL and tables are significantly large. But all SQL queries are simple, and each database is only a simple table without foreign keys.</li>
+                          <li><a href="https://github.com/jkkummerfeld/text2sql-data"><i>ATIS, Geo, Academic</i></a>: Each of them contains only a single database with a limited number of SQL queries, and has exact same SQL queries in train and test splits.</li>
+                          <li><a href="https://github.com/salesforce/WikiSQL"><i>WikiSQL</i></a>: The numbers of SQL queries and tables are significantly large. But all SQL queries are simple, and each database is only a simple table without any foreign key.</li>
                        </ul>
-                       Spider 1.0 spans the largest area in the chart, which enables it as the only one complex and cross-domain semantic parsing and text-to-SQL dataset so far!
+                       Spider 1.0 spans the largest area in the chart, making it as the first complex and cross-domain semantic parsing and text-to-SQL dataset!
                     </div>
                     </p>
                     <div class="infoHeadline">
