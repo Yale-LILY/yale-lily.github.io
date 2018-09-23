@@ -75,14 +75,6 @@ redirect_from: "/seq2sql/spider"
                     </div>
                     </p>
                     <div class="infoHeadline">
-                       <h2>Data Examples</h2>
-                    </div>
-                    <p align="left">
-                    <div class="left"> Some examples look like the following:
-                    </div>
-                    </p>
-                    <img src="/images/spider_examples.png" alt="test image">
-                    <div class="infoHeadline">
                        <h2>Getting Started</h2>
                     </div>
                     <p align="left">
@@ -100,6 +92,14 @@ redirect_from: "/seq2sql/spider"
                     </div>
                     </p>
                     <a class="btn actionBtn inverseBtn" href="" download>Submission Tutorial</a>
+                    <div class="infoHeadline">
+                       <h2>Data Examples</h2>
+                    </div>
+                    <p align="left">
+                    <div class="left"> Some examples look like the following:
+                    </div>
+                    </p>
+                    <img src="/images/spider_examples.png" alt="test image">
                     <div class="infoHeadline">
                        <h2>Have Questions or Want to Contribute ?</h2>
                     </div>
