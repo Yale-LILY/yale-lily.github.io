@@ -3,6 +3,9 @@
     - name: "AAN"
       description: All About NLP (Comprehensive site about NLP tutorials)
       url: "http://tangra.cs.yale.edu/aan/"
+    - name: "Spider"
+      description: Yale Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge/Natural Language Interfaces to Databases
+      url: "https://yale-lily.github.io/spider"
 - group: External Links
   links:
     - name: "Deep Learning"

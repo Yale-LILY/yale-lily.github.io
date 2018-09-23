@@ -1,4 +1,6 @@
 downloads:
+    - title: <a href="https://github.com/WING-NUS/scisumm-corpus">Spider</a>
+      description: Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge/Natural Language Interfaces to Databases
     - title: <a href="https://github.com/WING-NUS/scisumm-corpus">SciSumm</a>
       description: Scientific Document Summarization Corpus and Annotations
     - title: <a href="https://github.com/jkkummerfeld/text2sql-data">Text2SQL</a>
