@@ -1,9 +1,9 @@
 downloads:
-    - title: <a href="https://github.com/WING-NUS/scisumm-corpus">Spider</a>
-      description: Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge/Natural Language Interfaces to Databases
+    - title: <a href="https://github.com/spider">Spider: New Complex and Cross-Domain Text-to-SQL Dataset, 2018!</a>
+      description: Yale Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge/Natural Language Interfaces to Databases published in EMNLP 2018
     - title: <a href="https://github.com/WING-NUS/scisumm-corpus">SciSumm</a>
       description: Scientific Document Summarization Corpus and Annotations
-    - title: <a href="https://github.com/jkkummerfeld/text2sql-data">Text2SQL</a>
-      description: This dataset and code can be used for building and evaluating systems that map sentences to SQL.
+    - title: <a href="https://github.com/jkkummerfeld/text2sql-data">Previous 9 Text2SQL Dataset with Single Database</a>
+      description: This dataset contains the previous widely used 9 cleaned text-to-SQL datasets with single database.
     - title: <a href="http://aan.how/index.php/home/download">TutorialBank</a>
       description:  We have manually collected and categorized over 7,800 resources on NLP as well as the related fields of Artificial Intelligence (AI), Machine Learning (ML) and Information Retrieval (IR).
