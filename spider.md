@@ -39,10 +39,10 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left">Spider is a large-scale <span style="color:#286dc0"><i>complex and cross-domain</i></span> semantic parsing and text-to-SQL dataset annotated by 11 Yale students.
                       The goal of the Spider challenge is to develop natural language interfaces to cross-domain databases.
-                       Why we call it "Spider"? It is because our dataset is complex and cross-domain like a spider crawling across mutiple complex(with foreign keys) nests(databases).
                        It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
                        In Spider 1.0, different complex SQL queries and databases appear in train and test sets.
                        To do well on it, systems must <i>generalize well to not only new SQL queries but also new database schemas</i>.
+                      <hr>Why we call it "Spider"? It is because our dataset is complex and cross-domain like a spider crawling across mutiple complex(with foreign keys) nests(databases).
                        <a class="btn actionBtn" href="">Spider Paper</a>
                     </div>
                     </p>
@@ -218,6 +218,15 @@ redirect_from: "/seq2sql/spider"
                        <th>Model</th>
                        <th>Dev</th>
                        <th>Test</th>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p></p>
+                       </td>
+                       <td style="word-break:break-word;">
+                       </td>
+                       <td></td>
+                       <td></td>
                     </tr>
                     </table>
                  </div>
