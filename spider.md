@@ -53,7 +53,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                           <li><span class="label label-default" style="background-color: #286dc0"><i>News</i></span>
-                             We will consider execution accuracy later.
+                             Please download the latest version of our paper on this page.
                           </li>
                           <!-- <li><span class="label label-default" style="background-color: #286dc0"><i>News</i></span>
                              We will consider execution accuracy later.</li> -->
@@ -126,7 +126,7 @@ redirect_from: "/seq2sql/spider"
                     <img src="/images/spider_group.jpeg" alt="test image">
                  </div>
                  <div class="infoSubheadline">
-                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://yale-lily.github.io/seq2sql/spider" data-text="Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task" data-via="lilynlp" data-size="large" data-hashtags="Spider">Tweet</a>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://yale-lily.github.io/spider" data-text="Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task" data-via="lilynlp" data-size="large" data-hashtags="Spider">Tweet</a>
                     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                  </div>
               </div>
@@ -135,10 +135,10 @@ redirect_from: "/seq2sql/spider"
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
-                       <h2>Leaderboard - Exact Set Match</h2>
+                       <h2>Leaderboard - Exact Set Match without Values</h2>
                     </div>
                     <p align="left">
-                    <div class="left">For exact matching evaluation, instead of simply conducting string comparison between the predicted and gold SQL queries, we decompose each SQL into several clauses, and conduct set comparison in each SQL clause. Please refer to our paper and the Github page for more details.
+                    <div class="left">For exact matching evaluation, instead of simply conducting string comparison between the predicted and gold SQL queries, we decompose each SQL into several clauses, and conduct set comparison in each SQL clause. Please refer to the paper and <a href="https://github.com/taoyds/spider/tree/master/evaluation">the Github page</a> for more details.
                     </div>
                     </p>
                     <table class="table performanceTable">
@@ -206,7 +206,7 @@ redirect_from: "/seq2sql/spider"
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
-                       <h2>Leaderboard - Execution</h2>
+                       <h2>Leaderboard - Execution with Value Selection</h2>
                     </div>
                     <p align="left">
                     <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, you can assume  that a list of gold values for each question is given. Your model has to fill them into the right slots in the SQL. Is your system going to the first one showing up on this leaderboard?
@@ -237,7 +237,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>Example Split Results</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> For comparison, we can get much higher results if we split the dataset based on data examples instead of databases. Thus, systems don't need to generalize to new database schemas.
+                    <div class="left"> For comparison, the models achieve much higher results if we split the dataset based on data examples instead of databases since the systems don't need to generalize to new database schemas.
                     </div>
                     </p>
                     <table class="table performanceTable">
