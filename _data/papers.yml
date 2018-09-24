@@ -8,7 +8,7 @@ papers:
       conference: "Proceedings of EMNLP 2018"
       bibtex : "/bibtex/spider.txt"
       image : "/images/emnlp18-data-2.png"
-      pdf : ""
+      pdf : "/public/seq2sql_dataset_emnlp2018.pdf"
       code: "https://yale-lily.github.io/spider"
     - title: "SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task"
       authors: "Tao Yu, Michihiro Yasunaga, Kai Yang, Rui Zhang, Dongxu Wang, Zifan Li, and Dragomir Radev"
