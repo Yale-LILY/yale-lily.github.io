@@ -43,7 +43,7 @@ redirect_from: "/seq2sql/spider"
                        In Spider 1.0, different complex SQL queries and databases appear in train and test sets.
                        To do well on it, systems must <i>generalize well to not only new SQL queries but also new database schemas</i>.
                       <hr>Why we call it "Spider"? It is because our dataset is complex and cross-domain like a spider crawling across mutiple complex(with many foreign keys) nests(databases).
-                       <a class="btn actionBtn" href="">Spider Paper</a>
+                       <a class="btn actionBtn" href="/public/seq2sql_dataset_emnlp2018.pdf">Spider Paper</a>
                     </div>
                     </p>
                     <div class="infoHeadline">
