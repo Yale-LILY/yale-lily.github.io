@@ -138,7 +138,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>Leaderboard - Exact Set Match without Values</h2>
                     </div>
                     <p align="left">
-                    <div class="left">For exact matching evaluation, instead of simply conducting string comparison between the predicted and gold SQL queries, we decompose each SQL into several clauses, and conduct set comparison in each SQL clause. Please refer to the paper and <a href="https://github.com/taoyds/spider/tree/master/evaluation">the Github page</a> for more details.
+                    <div class="left">For exact matching evaluation, instead of simply conducting string comparison between the predicted and gold SQL queries, we decompose each SQL into several clauses, and conduct set comparison in each SQL clause. Please refer to the paper and <a href="https://github.com/taoyds/spider/tree/master/evaluation_examples">the Github page</a> for more details.
                     </div>
                     </p>
                     <table class="table performanceTable">
@@ -158,8 +158,8 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Yale University</p>
                               <a class="link" href="">(Yu et al. EMNLP '18)</a>
                            </td>
-                           <td><b>24</b></td>
-                           <td><b>-</b></td>
+                           <td><b></b></td>
+                           <td><b>22.2</b></td>
                         </tr>
                         <tr>
                            <td>
@@ -171,8 +171,8 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Shanghai Jiao Tong University</p>
                               <a class="link" href="https://arxiv.org/abs/1711.04436">(Xu et al. '18)</a>
                            </td>
+                           <td>14.3</td>
                            <td>14.7</td>
-                           <td>-</td>
                         </tr>
                         <tr>
                            <td>
@@ -184,8 +184,8 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Yale University</p>
                               <a class="link" href="https://arxiv.org/abs/1804.09769">(Yu et al. NAACL '18)</a>
                            </td>
-                           <td>11</td>
-                           <td>-</td>
+                           <td>10.6</td>
+                           <td>10.5</td>
                         </tr>
                         <tr>
                            <td>
@@ -197,8 +197,8 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution"></p>
                               <a class="link" href=""></a>
                            </td>
-                           <td>6.5</td>
-                           <td>-</td>
+                           <td>2.7</td>
+                           <td>5.6</td>
                         </tr>
                     </table>
                  </div>
@@ -256,7 +256,7 @@ redirect_from: "/seq2sql/spider"
                           <p class="institution">Yale University</p>
                           <a class="link" href="https://arxiv.org/abs/1804.09769">(Yu et al. NAACL '18)</a>
                        </td>
-                       <td>44</td>
+                       <td>35.6</td>
                     </tr>
                     <tr>
                        <td>
@@ -268,7 +268,7 @@ redirect_from: "/seq2sql/spider"
                           <p class="institution">Shanghai Jiao Tong University</p>
                           <a class="link" href="https://arxiv.org/abs/1711.04436">(Xu et al. '18)</a>
                        </td>
-                       <td>31</td>
+                       <td>21.5</td>
                     </tr>
                     <tr>
                        <td>
@@ -280,7 +280,7 @@ redirect_from: "/seq2sql/spider"
                           <p class="institution"></p>
                           <a class="link" href=""></a>
                        </td>
-                       <td>24</td>
+                       <td>16.2</td>
                     </tr>
                     </table>
                  </div>
