@@ -1,29 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>yale-lily.github.io/tag/design/</loc>
-<lastmod>2017-02-12T22:36:08-05:00</lastmod>
+  <loc>https://yale-lily.github.io/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>yale-lily.github.io/tag/jekyll/</loc>
-<lastmod>2017-02-12T22:36:08-05:00</lastmod>
+  <loc>https://yale-lily.github.io/downloads/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>yale-lily.github.io/tag/web/</loc>
-<lastmod>2017-02-12T22:36:08-05:00</lastmod>
+  <loc>https://yale-lily.github.io/internal/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>yale-lily.github.io/about</loc>
+  <loc>https://yale-lily.github.io/links/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>yale-lily.github.io/</loc>
+  <loc>https://yale-lily.github.io/members/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>yale-lily.github.io/bower_components/fluidbox/demo/index.html</loc>
-<lastmod>2016-10-21T09:41:35-04:00</lastmod>
+  <loc>https://yale-lily.github.io/news/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>yale-lily.github.io/bower_components/fluidbox/index.html</loc>
-<lastmod>2016-10-21T09:41:35-04:00</lastmod>
+  <loc>https://yale-lily.github.io/projects/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://yale-lily.github.io/publications/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/teaching/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/workshop/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/spider</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/michigan/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/lily_talks/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/aan/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/clir/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/seq2sql/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/ehr/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/projects_s2018/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/projects_f2017/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/projects_s2017/</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/scisumm.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/spider.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/syntaxsqlnet.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/acl18_tutorialbank.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/acl2018_text2sql.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/acl2018_coref.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/naacl18-typesql.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/naacl18-posadv.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/public/aaai2018_CR.pdf</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/sentence_ordering.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/aaai-sirnn.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/mt-clsent.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/bibtex/conll17_gnmds.txt</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/slides/oconnor_yale_css_20171020.pdf</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/downloads/CSTBank/index.html</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yale-lily.github.io/downloads/fraud/index.html</loc>
+  <lastmod>2018-09-21T09:56:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
 </urlset>
