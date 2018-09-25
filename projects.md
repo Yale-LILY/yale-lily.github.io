@@ -11,7 +11,7 @@ permalink: /projects/
 
 <div class = "row">
 <div class = "">
-<p align="left"> <div class="left"> The LILY lab is currently focusing on three major projects:  </div>  </p>
+<p align="left"> <div class="left"> The LILY lab is currently focusing on four major projects:  </div>  </p>
 </div>
 </div>
 
