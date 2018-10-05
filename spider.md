@@ -71,7 +71,7 @@ redirect_from: "/seq2sql/spider"
                           <li><a href="https://github.com/jkkummerfeld/text2sql-data"><i>ATIS, Geo, Academic</i></a>: Each of them contains only a single database with a limited number of SQL queries, and has exact same SQL queries in train and test splits.</li>
                           <li><a href="https://github.com/salesforce/WikiSQL"><i>WikiSQL</i></a>: The numbers of SQL queries and tables are significantly large. But all SQL queries are simple, and each database is only a simple table without any foreign key.</li>
                        </ul>
-                       Spider 1.0 spans the largest area in the chart, making it as the first complex and cross-domain semantic parsing and text-to-SQL dataset!
+                       Spider 1.0 spans the largest area in the chart, making it the first complex and cross-domain semantic parsing and text-to-SQL dataset!
                     </div>
                     </p>
                     <div class="infoHeadline">
