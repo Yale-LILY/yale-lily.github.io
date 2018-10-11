@@ -4,11 +4,11 @@
     <title></title>
     <description>Website for the LILY Group at Yale University
 </description>
-    <link>http://yale-lily.github.io//</link>
-    <atom:link href="http://yale-lily.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Sep 2018 11:06:32 -0400</pubDate>
-    <lastBuildDate>Fri, 28 Sep 2018 11:06:32 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 11 Oct 2018 17:21:22 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Oct 2018 17:21:22 -0400</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
     
   </channel>
 </rss>
