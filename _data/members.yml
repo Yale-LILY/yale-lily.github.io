@@ -19,13 +19,19 @@ graduate:
       photo: /photos/irene_li.jpeg
       title: "PhD Student"
       url: https://ireneli.eu/
-      
+    - name: Suyi Li
+      github:  Suyi32
+      photo: /photos/suyi_li.jpeg
+      title: "Master's Student"
     - name: Yavuz Nuzumlali
       github: manuyavuz 
       title: "PhD Student"
       photo: /photos/yavuz_nuzumlali.jpg 
       url: https://manuyavuz.github.io/
-
+    - name: Tianwei She
+      github: Tianwei-She
+      title: "Master's Student"
+      photo: /photos/tianwei_she.jpeg
     - name: Tao Yu
       title: "PhD Student"
       photo: /photos/tao_yu.jpg
@@ -44,11 +50,19 @@ undergraduate:
       photo: /photos/william.jpg
       email: william.hun@yale.edu
       title: 2021
+    - name: Daniel Keller
+      github: dankeller101
+      photo: /photos/daniel_profile.jpg
+      title: 2018
     - name: Jack Koch
       github: jbkjr
       photo: /photos/jack_koch.jpg
       title: 2019
       url :  "https://jbkjr.com"
+    - name: Davey Proctor
+      github: daveyproctor
+      photo: /photos/davey_proctor.jpeg
+      title: 2019
     - name: Wei Tai Ting
       photo: "/photos/weitai_ting.jpg"
       title: 2019
@@ -91,10 +105,6 @@ alumni:
       photo: /photos/jungo_profile.jpg
       email: jungo.kasai@yale.edu
       title: 2017
-    - name: Daniel Keller
-      github: dankeller101
-      photo: /photos/daniel_profile.jpg
-      title: 2018
     - name: Kshitijh Meelu
       github: kmeelu
       email: kshitijh.meelu@yale.edu
