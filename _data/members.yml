@@ -46,6 +46,11 @@ graduate:
 
 
 undergraduate:
+    - name: Matt Greene
+      photo: /photos/matt_greene.jpg
+      github: mattkgreene
+      email: mathew.greene@yale.edu
+      title: 2019
     - name : William Hu
       photo: /photos/william.jpg
       email: william.hun@yale.edu
