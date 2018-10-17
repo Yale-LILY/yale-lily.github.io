@@ -156,10 +156,10 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               SyntaxSQLNet
                               <p class="institution">Yale University</p>
-                              <a class="link" href="">(Yu et al. EMNLP '18)</a>
+                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
                            </td>
-                           <td><b></b></td>
-                           <td><b>22.2</b></td>
+                           <td><b>22.1</b></td>
+                           <td><b>23.0</b></td>
                         </tr>
                         <tr>
                            <td>
