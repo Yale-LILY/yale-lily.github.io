@@ -13,7 +13,7 @@ papers:
     - title: "SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task"
       authors: "Tao Yu, Michihiro Yasunaga, Kai Yang, Rui Zhang, Dongxu Wang, Zifan Li, and Dragomir Radev"
       conference: "Proceedings of EMNLP 2018"
-      pdf : ""
+      pdf : "https://arxiv.org/abs/1810.05237"
       bibtex : "/bibtex/syntaxsqlnet.txt"
       code: "https://github.com/taoyds/syntaxSQL"
       image : "/images/emnlp18-syntaxSQLNet-2.png"
