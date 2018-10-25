@@ -52,11 +52,12 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
-                          <li><span class="label label-default" style="background-color: #286dc0"><i>News</i></span>
-                             Please download the latest version of our paper on this page.
+                          <li><span class="label label-default" style="background-color: #286dc0"><i>10/25/2018</i></span>
+                             The evaluation script and results were updated. Please download the lastest versions of the script and papers. Check out [the Github page](https://github.com/taoyds/spider) for more details.
                           </li>
-                          <!-- <li><span class="label label-default" style="background-color: #286dc0"><i>News</i></span>
-                             We will consider execution accuracy later.</li> -->
+                          <li><span class="label label-default" style="background-color: #286dc0"><i>10/25/2018</i></span>
+                             Please follow the instructions on [the Github page](https://github.com/taoyds/spider) to generate correct SQL parsing results.
+                          </li>
                        </ul>
                     </div>
                     </p>
@@ -158,8 +159,8 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Yale University</p>
                               <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
                            </td>
-                           <td><b>22.1</b></td>
-                           <td><b>23.0</b></td>
+                           <td><b>18.9</b></td>
+                           <td><b>19.7</b></td>
                         </tr>
                         <tr>
                            <td>
@@ -171,8 +172,8 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Shanghai Jiao Tong University</p>
                               <a class="link" href="https://arxiv.org/abs/1711.04436">(Xu et al. '18)</a>
                            </td>
-                           <td>14.3</td>
-                           <td>14.7</td>
+                           <td>10.9</td>
+                           <td>12.4</td>
                         </tr>
                         <tr>
                            <td>
@@ -184,8 +185,8 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Yale University</p>
                               <a class="link" href="https://arxiv.org/abs/1804.09769">(Yu et al. NAACL '18)</a>
                            </td>
-                           <td>10.6</td>
-                           <td>10.5</td>
+                           <td>8.0</td>
+                           <td>8.2</td>
                         </tr>
                         <tr>
                            <td>
@@ -194,11 +195,11 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               Seq2Seq + attention
-                              <p class="institution"></p>
-                              <a class="link" href=""></a>
+                              <p class="institution">University of Edinburgh</p>
+                              <a class="link" href="https://arxiv.org/abs/1601.01280">(Dong and Lapata, 2016)</a>
                            </td>
-                           <td>2.7</td>
-                           <td>5.6</td>
+                           <td>1.8</td>
+                           <td>4.8</td>
                         </tr>
                     </table>
                  </div>
@@ -256,7 +257,7 @@ redirect_from: "/seq2sql/spider"
                           <p class="institution">Yale University</p>
                           <a class="link" href="https://arxiv.org/abs/1804.09769">(Yu et al. NAACL '18)</a>
                        </td>
-                       <td>35.6</td>
+                       <td>33.0</td>
                     </tr>
                     <tr>
                        <td>
@@ -268,7 +269,7 @@ redirect_from: "/seq2sql/spider"
                           <p class="institution">Shanghai Jiao Tong University</p>
                           <a class="link" href="https://arxiv.org/abs/1711.04436">(Xu et al. '18)</a>
                        </td>
-                       <td>21.5</td>
+                       <td>18.3</td>
                     </tr>
                     <tr>
                        <td>
@@ -277,10 +278,10 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           Seq2Seq + attention
-                          <p class="institution"></p>
-                          <a class="link" href=""></a>
+                          <p class="institution">University of Edinburgh</p>
+                          <a class="link" href="https://arxiv.org/abs/1601.01280">(Dong and Lapata, 2016)</a>
                        </td>
-                       <td>16.2</td>
+                       <td>15.9</td>
                     </tr>
                     </table>
                  </div>
