@@ -53,10 +53,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                           <li><span class="label label-default" style="background-color: #286dc0"><i>10/25/2018</i></span>
-                             The evaluation script and results were updated. Please download the lastest versions of the script and papers. Check out [the Github page](https://github.com/taoyds/spider) for more details.
-                          </li>
-                          <li><span class="label label-default" style="background-color: #286dc0"><i>10/25/2018</i></span>
-                             Please follow the instructions on [the Github page](https://github.com/taoyds/spider) to generate correct SQL parsing results.
+                             The evaluation script and results were updated (<a href="https://github.com/taoyds/spider/issues/5">issue 5</a>). Please download the lastest versions of the script and papers. Please follow instructions in <a href="https://github.com/taoyds/spider/issues/3">issue 3</a> to generate correct SQL parsing results.
                           </li>
                        </ul>
                     </div>
