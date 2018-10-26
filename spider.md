@@ -37,7 +37,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>What is Spider?</h2>
                     </div>
                     <p align="left">
-                    <div class="left">Spider is a large-scale <span style="color:#286dc0"><i>complex and cross-domain</i></span> semantic parsing and text-to-SQL dataset annotated by 11 Yale students.
+                    <div class="left">Spider is a large-scale <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c"><i>complex and cross-domain</i></a> semantic parsing and text-to-SQL dataset annotated by 11 Yale students.
                       The goal of the Spider challenge is to develop natural language interfaces to cross-domain databases.
                        It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
                        In Spider 1.0, different complex SQL queries and databases appear in train and test sets.
@@ -53,7 +53,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                           <li><span class="label label-default" style="background-color: #286dc0"><i>10/25/2018</i></span>
-                             The evaluation script and results were updated (<a href="https://github.com/taoyds/spider/issues/5">issue 5</a>). Please download the lastest versions of the script and papers. Please follow instructions in <a href="https://github.com/taoyds/spider/issues/3">issue 3</a> to generate correct SQL parsing results.
+                             The evaluation script and results were updated (<a href="https://github.com/taoyds/spider/issues/5">issue 5</a>). Please download the lastest versions of the script and papers. Also, please follow instructions in <a href="https://github.com/taoyds/spider/issues/3">issue 3</a> to generate the latest SQL parsing results (fixed a bug).
                           </li>
                        </ul>
                     </div>
@@ -69,7 +69,7 @@ redirect_from: "/seq2sql/spider"
                           <li><a href="https://github.com/jkkummerfeld/text2sql-data"><i>ATIS, Geo, Academic</i></a>: Each of them contains only a single database with a limited number of SQL queries, and has exact same SQL queries in train and test splits.</li>
                           <li><a href="https://github.com/salesforce/WikiSQL"><i>WikiSQL</i></a>: The numbers of SQL queries and tables are significantly large. But all SQL queries are simple, and each database is only a simple table without any foreign key.</li>
                        </ul>
-                       Spider 1.0 spans the largest area in the chart, making it the first complex and cross-domain semantic parsing and text-to-SQL dataset!
+                       Spider 1.0 spans the largest area in the chart, making it the first complex and cross-domain semantic parsing and text-to-SQL dataset! Read more on <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">the blog post</a>.
                     </div>
                     </p>
                     <div class="infoHeadline">
