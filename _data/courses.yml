@@ -1,3 +1,11 @@
+- term: Fall 2018
+  courses:
+    - instructor: Dragomir Radev
+      instructor_website: http://www.cs.yale.edu/homes/radev/
+      location: "AKW 200"
+      title: "CPSC 677 Advanced Natural Language Processing"
+      time: "Tue., Thu. 4:00-5:15pm"
+
 - term: Spring 2018
   courses:
     - instructor: Dragomir Radev

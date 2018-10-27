@@ -10,6 +10,8 @@ permalink: /teaching/
     <h2 class="post-title">Teaching at Yale</h2>
   </header> 
 
+For other Machine Learning-related courses taught at Yale, please see <a href="http://machinelearning.yale.edu/teaching/">ml.yale.edu</a>.
+
 {% for term in site.data.courses %}
 <div class ="row">
 

@@ -2,6 +2,7 @@ papers:
     - title: "The CL-SciSumm Shared Task 2018: Results and Key Insights"
       authors: "Kokil Jaidka and Michihiro Yasunaga and Muthu Kumar Chandrasekaran and Dragomir Radev and Min-Yen Kan"
       conference: "Proceedings of the 3rd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL)"
+      pdf: "http://ceur-ws.org/Vol-2132/paper7.pdf"
       bibtex : "/bibtex/scisumm.txt"
     - title: "Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task"
       authors: "Tao Yu, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang, and Dragomir Radev"

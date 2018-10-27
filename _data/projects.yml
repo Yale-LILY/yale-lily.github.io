@@ -18,3 +18,4 @@ major-projects:
     image: "/images/typesql.png"
   - title: NLP for Electronic Patient Records
     link: /ehr/
+    image: "/images/ehr.png"
