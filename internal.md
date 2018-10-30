@@ -16,19 +16,17 @@ permalink: /internal/
 <h3>
 {{term.term}}
 </h3>
-<h4>
-{{term.place}}
-</h4>
+<br>
 </div>
 </div>
 
 <table class="table table-striped table-hover">
 <tr>
-    <th> Time </th> <th> Title </th> <th> Presenter</th> 
+    <th> Date </th> <th> Title </th> <th> Presenter</th> 
 </tr>
 {% for presentation in term.presentations %}
     <tr>
-        <td> {{ presentation.time}}  </td>
+        <td> {{ presentation.date}} </td>
         <td> 
             {{ presentation.title}} 
         </td>
