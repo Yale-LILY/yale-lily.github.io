@@ -1,4 +1,10 @@
 papers:
+    - title: "ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks"
+      authors: "Michihiro Yasunaga, Jungo Kasai, Rui Zhang, Alexander Fabbri, Irene Li, Dan Friedman, and Dragomir Radev"
+      conference: "Proceedings of AAAI 2019" 
+    - title: "What Should I Learn First: Introducing LectureBank for NLP Education and Prerequisite Chain Learning"
+      authors: "Irene Li, Alexander Fabbri, Robert Tung, and Dragomir Radev"
+      conference: "Proceedings of AAAI 2019" 
     - title: "The CL-SciSumm Shared Task 2018: Results and Key Insights"
       authors: "Kokil Jaidka and Michihiro Yasunaga and Muthu Kumar Chandrasekaran and Dragomir Radev and Min-Yen Kan"
       conference: "Proceedings of the 3rd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL)"
