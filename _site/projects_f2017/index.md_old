@@ -392,24 +392,6 @@ Stylianos Roussoglou<br>
 
   <tr><td style="padding:10px">
 
-</td><td style="padding:10px">
-<a class="paper" href="">
-Word Representations for IR
-</a><br>
-Yavuz Nuzumlali<br>
-
-
-
-
-
-<br>
-
-</td></tr>
-
-
-
-  <tr><td style="padding:10px">
-
 <img width="200px" src="/images/fabbri_alexander_tree_based_semantic_parsing.png"> 
 
 </td><td style="padding:10px">
@@ -450,13 +432,15 @@ Javid Dadashkarimi<br>
 
   <tr><td style="padding:10px">
 
+<img width="200px" src="/images/jungo.png"> 
+
 </td><td style="padding:10px">
-<a class="paper" href="">
+<a class="paper" href="/public/Jungo_Kasai-SRL.pdf">
 Syntax-Aware Semantic Role Labeling
 </a><br>
 Jungo Kasai<br>
 
-
+<a class="btn btn-labeled btn-primary" href="/public/Jungo_Kasai-SRL.pdf">Poster</a>
 
 
 
@@ -577,24 +561,6 @@ Sequential Question Answering Using Neural Network-Identified Coreference
 Summer Wu<br>
 
 <a class="btn btn-labeled btn-primary" href="/public/summer-wu-poster.pptx">Poster</a>
-
-
-
-<br>
-
-</td></tr>
-
-
-
-  <tr><td style="padding:10px">
-
-</td><td style="padding:10px">
-<a class="paper" href="">
-Data-driven Citation-based Scientific Paper Summarization
-</a><br>
-Michihiro Yasunaga<br>
-
-
 
 
 

@@ -18,7 +18,7 @@ projects:
       members: "Javid Dadashkarimi"
       project_website: "/public/s2018/Javid-Material.pdf"
       slides: "/public/s2018/Javid-Material.pdf"
-      image: "/images/s2018/Javid-Material.png "
+      image: "/images/s2018/javid.png "
     - topic: "Tree2Tree Neural Semantic Parsing"
       members: "Jack Koch"
       project_website: "/public/s2018/Jack-Koch-Poster.pdf"
