@@ -1,13 +1,13 @@
-faculty:
-
+- group : Faculty
+  people :
     - name : Dragomir Radev
       github: Yale-LILY
       url: http://www.cs.yale.edu/~radev/
       photo: http://www.cs.yale.edu/homes/radev/131007_facaward_dragomir.jpg
       email: dragomir.radev@yale.edu
       title : Professor
-
-graduate:
+- group: Graduate Students
+  people:
     - name: Alex Fabbri
       photo: /photos/fabbri_alex.jpg
       title: "PhD Student"
@@ -21,7 +21,7 @@ graduate:
       url: https://ireneli.eu/
     - name: Suyi Li
       github:  Suyi32
-      photo: /photos/suyi_li.jpeg
+      photo: /photos/suyi.jpg
       title: "Master's Student"
     - name: Yavuz Nuzumlali
       github: manuyavuz 
@@ -45,7 +45,8 @@ graduate:
       url: https://ryanzhumich.github.io/
 
 
-undergraduate:
+- group: Undergraduate Students
+  people:
     - name: Matt Greene
       photo: /photos/matt_greene.jpg
       github: mattkgreene
@@ -84,7 +85,8 @@ undergraduate:
       email: michihiro.yasunaga@yale.edu
       photo: /photos/michi_profile.jpg
       title: 2019
-alumni:
+- group: Alumni
+  people:
     - name: Emon Datta
       github: emdat
       photo: /photos/emon_datta.jpeg
