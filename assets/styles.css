@@ -12,8 +12,8 @@
 .info img {
     position: relative;
     float: left;
-    width:  110px;
-    height: 110px;
+    width:  150px;
+    height: 100px;
     background-position: 50% 50%;
     background-repeat:   no-repeat;
     background-size:     cover;
