@@ -1,0 +1,6 @@
+@InProceedings{yasunaga&al.aaai19.topiceq,
+  author =	{Michihiro Yasunaga and John Lafferty},
+  title =	{TopicEq: A Joint Topic and Mathematical Equation Model for Scientific Texts},
+  year =	{2019},  
+  booktitle =	{Proceedings of AAAI 2019},
+}

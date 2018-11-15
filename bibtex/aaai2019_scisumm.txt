@@ -1,0 +1,6 @@
+@InProceedings{yasunaga&al.aaai19.scisumm,
+  author =	{Michihiro Yasunaga and Jungo Kasai and Rui Zhang and Alexander Fabbri and Irene Li and Dan Friedman and Dragomir Radev},
+  title =	{ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks},
+  year =	{2019},  
+  booktitle =	{Proceedings of AAAI 2019},
+}
