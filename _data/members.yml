@@ -47,6 +47,10 @@
 
 - group: Undergraduate Students
   people:
+    - name: Garrett Bingham
+      photo: /photos/garrett.jpg
+      email: garrett.bingham@yale.edu
+      title: 2019
     - name: Matt Greene
       photo: /photos/matt_greene.jpg
       github: mattkgreene
