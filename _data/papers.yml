@@ -4,6 +4,7 @@ papers:
       conference: "Proceedings of AAAI 2019"
       bibtex: "/bibtex/aaai2019_scisumm.txt"
       image : "/images/aaai19_scisumm.png"
+      project : "https://michiyasunaga.github.io/projects/scisumm_net/"
     - title: "What Should I Learn First: Introducing LectureBank for NLP Education and Prerequisite Chain Learning"
       authors: "Irene Li, Alexander Fabbri, Robert Tung, and Dragomir Radev"
       pdf : "https://arxiv.org/pdf/1811.12181.pdf"
