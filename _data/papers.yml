@@ -3,6 +3,7 @@ papers:
       authors: "Jungo Kasai, Dan Friedman, Robert Frank, Dragomir Radev and Owen Rambow"
       conference: "NAACL 2019"
       pdf: "https://arxiv.org/pdf/1903.05260.pdf"
+      image : "/images/tags_naacl.png"
     - title: "ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks"
       authors: "Michihiro Yasunaga, Jungo Kasai, Rui Zhang, Alexander Fabbri, Irene Li, Dan Friedman, and Dragomir Radev"
       conference: "Proceedings of AAAI 2019"
