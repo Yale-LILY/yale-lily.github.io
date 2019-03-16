@@ -1,0 +1,80 @@
+- term: Spring 2018 Events
+  events:
+    - date: "March 25 @4:00pm-5:00pm"
+      location: "17 Hillhouse Rm. 335"
+      type: "Reasoning-Driven Question Answering"
+      presenter: "Daniel Khashabi"
+      website: "http://www.cis.upenn.edu/~danielkh/"
+      event_website: "http://www.cis.upenn.edu/~danielkh/files/2018_semanticilp/Upenn_Clunch_Nov_2017.pdf"
+    - date: "Apr. 27 @4:00pm-5:00pm"
+      location: "AKW 200"
+      type: "Universal Information Extraction"
+      presenter: "Heng Ji"
+      website: "http://nlp.cs.rpi.edu/hengji.html"
+      event_website: "https://cpsc.yale.edu/event/cs-colloquium-heng-ji-rensselaer-polytechnic-institute"
+    - date: "Apr. 20 @3:00pm-4:00pm"
+      location: "AKW 200"
+      type: "Robots that Learn Grounded Language Through Interactive Dialog"
+      event_website: "https://cpsc.yale.edu/event/speaker-raymond-j-mooney-univ-texas-austin"
+      presenter: "Raymond Mooney"
+      website: "https://www.cs.utexas.edu/~mooney/"
+    - date: "Apr. 20 @9:15pm-12:00pm"
+      location: "17 Hillhouse"
+      type: "Machine Translation: The State of the Art and Science"
+      event_website: "https://cpsc.yale.edu/event/machine-translation-state-art-and-science-program-yale-university-department-computer-science"
+      presenter: "Philipp Koehn, Raymond Mooney, and Dragomir Radev"
+      website: ""
+    - date: "Apr. 16"
+      location: "AKW 200"
+      type: "Linguistics ∩ Machine Learning"
+      presenter: "Ryan Cotterell"
+      website: "https://ryancotterell.github.io/"
+    - date: "Mar. 2"
+      event_website: "https://yale-lily.github.io/lily_talks/"
+      location: "AKW 200"
+      type: "Neural Information Retrieval with Weak Supervision"
+      presenter: "Hamed Zamani"
+      website: "http://hamedz.ir/"
+    - date: "Feb. 26"
+      location: "AKW 200"
+      type: "Knowledge from Deep Understanding of Language"
+      presenter: "Danqi Chen"
+      website: "https://cs.stanford.edu/~danqi/"
+- term: Fall 2017 Events
+  events:
+    - date: "Oct. 20"
+      event_website: https://yaledailynews.com/blog/2017/10/25/yale-holds-inaugural-data-science-workshop/
+      location: "Luce hall"
+      type: "The Data Science Workshop on Computational Social Science"
+- term: Spring 2017 Events
+  events:
+    - date: "Apr. 19 @12:00pm to 1:00pm"
+      presenter: "Daniel Spielman"
+      website: http://www.cs.yale.edu/homes/spielman/
+      event_website: http://yins.yale.edu/event/yins-seminar-daniel-spielman
+      location: "3rd floor at 17 Hillhouse"
+      type: "YINS Seminar"
+    - date: "Apr. 12 @11:00am to 1:00pm"
+      presenter: Dragomir Radev
+      website: http://www.cs.yale.edu/homes/radev/ 
+      event_website: http://yins.yale.edu/calendar/conferences-workshops 
+      location: "3rd floor at 17 Hillhouse"
+      type: "YINS Seminar"
+    - date: "Apr. 3 @4:00 pm"
+      presenter: Mark Dredze
+      website: http://www.cs.jhu.edu/~mdredze/
+      event_website: http://cpsc.yale.edu/event/cs-talk-mark-dredze-johns-hopkins-university
+      location: "AKW 200"
+      type: "CS Talk"
+    - date: "Mar. 6 @4:15 pm"
+      presenter: Mirella Lapata
+      website: http://homepages.inf.ed.ac.uk/mlap/
+      event_website: http://cpsc.yale.edu/event/cs-talk-mirella-lapata-school-informatics-university-edinburgh
+      location: "AKW 200"
+      type: "CS Talk"
+    - date: "Feb. 17 @10:30 am"
+      presenter: Peter Stone
+      website: https://www.cs.utexas.edu/~pstone/
+      event_website: http://cpsc.yale.edu/event/cs-talk-peter-stone-univ-texas-austin-0
+      location: "AKW 200"
+      type: "CS Talk"

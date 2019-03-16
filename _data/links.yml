@@ -3,6 +3,18 @@
     - name: "AAN"
       description: All About NLP (Comprehensive site about NLP tutorials)
       url: "http://tangra.cs.yale.edu/aan/"
+    - name: "LILY Blog"
+      description: The LILY Lab's Medium blog
+      url: "https://medium.com/lily-lab"
+    - name: "LILY Datasets"
+      description: "A collection of datasets from the LILY Lab"
+      url: "https://yale-lily.github.io/downloads/"
+    - name: "LILY Reading Group"
+      description: Papers discussed during LILY reading group meetings
+      url: "https://yale-lily.github.io/internal/"
+    - name: "ScisummNet"
+      description: Yale Scisumm Dataset
+      url: "https://michiyasunaga.github.io/projects/scisumm_net/"
     - name: "Spider"
       description: Yale Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge/Natural Language Interfaces to Databases
       url: "https://yale-lily.github.io/spider"

@@ -1,0 +1,70 @@
+---
+layout: page
+title: News 
+permalink: /news/
+---
+
+<center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
+
+  <header class="post-header">
+    <h2 class="post-title">News</h2>
+  </header> 
+<!--
+
+{% for term in site.data.news %}
+<div class ="row">
+
+<div style="text-align:center">
+<h3>{{term.term}}</h3>
+</div>
+</div>
+
+<table class="table table-striped table-hover">
+<tr>
+    <th> Date</th> <th> Talk</th> <th> Location </th>
+</tr>
+{% for event in term.events %}
+    <tr>
+        <td> {{ event.date }}  </td>
+        <td> 
+        {% if event.website %}
+           <a href="{{event.event_website}}">{{event.type}}</a> 
+        {% else %}
+           <a href="{{event.event_website}}">{{event.type}}</a>  
+        {% endif %}
+        {% if event.presenter %}
+            by <a href="{{event.website}}"> {{event.presenter}}</a>
+        {% endif %}
+        </td>
+        <td> {{event.location}} </td>
+    </tr>
+{% endfor %}
+</table>
+{% endfor %} -->
+
+    <ul>
+             <li>Mar. 2019: Register for <a href="https://aiethicsyale.wordpress.com/1stworkshop/">The 1st Yale Workshop on AI, Ethics, and Society</a>!
+             <li>Jan. 2019: Check out the work the LILY Lab will be presenting at AAAI, including the <a href="https://github.com/Yale-LILY/LectureBank">LectureBank</a> and <a href="https://michiyasunaga.github.io/projects/scisumm_net/">ScisummNet</a> datasets!
+             <li>Nov. 2018: The LILY Lab now has a blog on Medium! Check it out <a href="https://medium.com/lily-lab">here</a>!
+            <li>Oct. 2018:Check out this <a href="https://jbkjr.com/posts/2018/08/fastai_openai_transformer/">blog post</a> on replicating the OpenAI Pretrained Transformer Language Model</li>
+            <li>Oct. 2018: Check out this <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">blog post</a> on the Spider dataset!</li>
+        <li>Sep. 2018: Check out the dataset and leaderboard for our EMNLP 2018 paper: <a href="https://yale-lily.github.io/spider">Spider - Yale Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge</a>! </li>
+        <li>July 2018. Our paper on TutorialBank was presented at ACL. You can read about TutorialBank <A href="https://alex-fabbri.github.io/TutorialBank/">on this blog post.</A></li>
+        <li>May 2018. AAN (All About NLP) hosted at <A href="http://aan.how">http://aan.how/</A>. Our new search engine for 8000+ tutorials, presentations, libraries, NACLO problems on NLP, AI, DL. </li>
+        <li>We are co-organizing a workshop on <A href="http://wing.comp.nus.edu.sg/~cl-scisumm2018/">Scientific Document Summarization</A> at <A href="http://sigir.org/sigir2018/">SIGIR 2018</A></li>
+        <li><A href="https://yale-lily.github.io/workshop/"> Workshop on Computational Social Science on October 20, 2017</A> </li>
+            <ul>
+                <li> <A href="https://yaledailynews.com/blog/2017/10/25/yale-holds-inaugural-data-science-workshop/">YDN Article</A> </li> 
+                <li> <A href="https://news.yale.edu/2017/10/27/inaugural-data-science-workshop-highlights-social-sciences">Yale News</A> </li> 
+            </ul>
+    </ul>
+<style>
+#pubTable_filter{
+    display:none;
+}
+</style>
+
+<table id="pubTable" class="table table-hover"></table>
+
+
+
