@@ -206,12 +206,12 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">April 17, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
-                              TBD
+                              TBD + ELMo
                               <p class="institution">SAP Labs Korea</p>
                               <a class="link" href="https://arxiv.org/abs/1904.08835">(Lee. Arixv '19)</a>
                            </td>
-                           <td>-.-</td>
-                           <td>-.-</td>
+                           <td>28.5</td>
+                           <td>24.3</td>
                         </tr>
                         <tr>
                            <td>
