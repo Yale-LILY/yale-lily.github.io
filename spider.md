@@ -223,8 +223,8 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Yale University</p>
                               <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
                            </td>
-                           <td><b>18.9</b></td>
-                           <td><b>19.7</b></td>
+                           <td>18.9</td>
+                           <td>19.7</td>
                         </tr>
                         <tr>
                            <td>
