@@ -155,7 +155,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>1</p>
-                              <span class="date label label-default">Feb 20, 2018</span>
+                              <span class="date label label-default">Feb 20, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               Anonymous submission 1
@@ -167,7 +167,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>2</p>
-                              <span class="date label label-default">Feb 20, 2018</span>
+                              <span class="date label label-default">Feb 20, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               Anonymous submission 2
@@ -179,7 +179,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>3</p>
-                              <span class="date label label-default">Feb 20, 2018</span>
+                              <span class="date label label-default">Feb 20, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               Anonymous submission 3
@@ -191,7 +191,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>4</p>
-                              <span class="date label label-default">Feb 20, 2018</span>
+                              <span class="date label label-default">Feb 20, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               Anonymous submission 4
@@ -203,10 +203,10 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>5</p>
-                              <span class="date label label-default">April 17, 2018</span>
+                              <span class="date label label-default">April 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              TBD + ELMo
+                              RCSQL + ELMo
                               <p class="institution">SAP Labs Korea</p>
                               <a class="link" href="https://arxiv.org/abs/1904.08835">(Lee. Arixv '19)</a>
                            </td>
