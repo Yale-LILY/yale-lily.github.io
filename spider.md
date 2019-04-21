@@ -260,7 +260,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               Seq2Seq + attention
                               <p class="institution">University of Edinburgh</p>
-                              <a class="link" href="https://arxiv.org/abs/1601.01280">(Dong and Lapata, 2016)</a>
+                              <a class="link" href="https://arxiv.org/abs/1601.01280">(Dong and Lapata, ACL '16)</a>
                            </td>
                            <td>1.8</td>
                            <td>4.8</td>
