@@ -203,19 +203,6 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>5</p>
-                              <span class="date label label-default">April 17, 2019</span>
-                           </td>
-                           <td style="word-break:break-word;">
-                              RCSQL + ELMo
-                              <p class="institution">SAP Labs Korea</p>
-                              <a class="link" href="https://arxiv.org/abs/1904.08835">(Lee. Arixv '19)</a>
-                           </td>
-                           <td>28.5</td>
-                           <td>24.3</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <p>6</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -228,7 +215,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>6</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -241,7 +228,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>7</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -254,7 +241,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>8</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
