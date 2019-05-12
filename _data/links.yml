@@ -25,7 +25,7 @@
   links:
     - name: "Deep Learning"
       description: Deep Learning Links
-      url: "http://clair.si.umich.edu/~radev/dl/dl.pdf"
+      url: "http://tangra.cs.yale.edu/clair/bib2html/dl.pdf"
     - name: "ACL"
       description: "Association for Computational Linguistics 2017 Website"
       url: "http://acl2017.org/calls/workshops/"
