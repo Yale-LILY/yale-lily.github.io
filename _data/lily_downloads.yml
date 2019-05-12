@@ -7,5 +7,5 @@ downloads:
       description: Scientific Document Summarization Corpus and Annotations
     - title: <a href="https://github.com/jkkummerfeld/text2sql-data">Previous 9 Text2SQL Datasets with Single Database</a>
       description: This dataset contains the previous widely used 9 cleaned text-to-SQL datasets with single database.
-    - title: <a href="http://aan.how/index.php/home/download">TutorialBank</a>
-      description:  We have manually collected and categorized over 7,800 resources on NLP as well as the related fields of Artificial Intelligence (AI), Machine Learning (ML) and Information Retrieval (IR).
+    - title: <a href="https://github.com/Yale-LILY/TutorialBank">TutorialBank</a>
+      description:  We have manually collected and categorized over 11,000 resources on NLP as well as the related fields of Artificial Intelligence (AI), Machine Learning (ML) and Information Retrieval (IR).
