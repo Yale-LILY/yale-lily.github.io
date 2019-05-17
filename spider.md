@@ -164,7 +164,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>1</p>
-                              <span class="date label label-default">Feb 20, 2019</span>
+                              <span class="date label label-default">May 16, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               GNN
