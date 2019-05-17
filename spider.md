@@ -53,10 +53,10 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
-                             The <a href="https://worksheets.codalab.org/worksheets/0x82150f426cb94c17b861ef4162817399/">submission tutorial</a> is out!.
+                             Got 7 submissions! Please report any <a href="https://worksheets.codalab.org/worksheets/0x82150f426cb94c17b861ef4162817399/">annotation errors here</a>, we really appreciate your help and will update the data release in this summer!.
                           </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>1/14/2019</i></span>
-                             Got 7 submissions! Please report any <a href="https://worksheets.codalab.org/worksheets/0x82150f426cb94c17b861ef4162817399/">annotation errors here</a>, we really appreciate your help and will update the data release in this summer!.
+                             The <a href="https://worksheets.codalab.org/worksheets/0x82150f426cb94c17b861ef4162817399/">submission tutorial</a> is out!.
                           </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>12/17/2018</i></span>
                              We updated 7 sqlite database files (<a href="https://github.com/taoyds/spider/issues/14">issue 14</a>). Please download the Spider dataset from this page again.
