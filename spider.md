@@ -52,6 +52,15 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
+                             Our paper 'SParC: Cross-Domain Semantic Parsing in Context' with Salesforce Research was accepted to ACL 2019! It introduces the context-dependent version of the Spider challenge: SParC. Comming up soon!!!
+                          </li>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
+                             Got 7 submissions!
+                          </li>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
+                             Please report any <a href="https://github.com/taoyds/spider/issues/24">annotation errors here</a>, we really appreciate your help and will update the data release in this summer!
+                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>1/14/2019</i></span>
                              The <a href="https://worksheets.codalab.org/worksheets/0x82150f426cb94c17b861ef4162817399/">submission tutorial</a> is out!.
                           </li>
@@ -155,50 +164,58 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>1</p>
-                              <span class="date label label-default">Feb 20, 2019</span>
+                              <span class="date label label-default">May 16, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              Anonymous submission 1
-                              <p class="institution">Under Review</p>
+                              GNN
+                              <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
+                              <a class="link" href="https://arxiv.org/abs/1905.06241">(Bogin et al. ACL '19)</a>
+                              <a class="link" href="https://github.com/benbogin/spider-schema-gnn">code</a>
                            </td>
-                           <td>-.-</td>
-                           <td>-.-</td>
+                           <td><b>40.7</b></td>
+                           <td><b>39.4</b></td>
                         </tr>
                         <tr>
                            <td>
                               <p>2</p>
-                              <span class="date label label-default">Feb 20, 2019</span>
+                              <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
-                              Anonymous submission 2
-                              <p class="institution">Under Review</p>
+                              <i>SyntaxSQLNet + Augment</i>
+                              <p class="institution">Yale University</p>
+                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
+                              <a class="link" href="https://github.com/taoyds/syntaxSQL">code</a>
                            </td>
-                           <td>-.-</td>
-                           <td>-.-</td>
+                           <td>24.8</td>
+                           <td>27.2</td>
                         </tr>
                         <tr>
                            <td>
                               <p>3</p>
-                              <span class="date label label-default">Feb 20, 2019</span>
+                              <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
-                              Anonymous submission 3
-                              <p class="institution">Under Review</p>
+                              SyntaxSQLNet
+                              <p class="institution">Yale University</p>
+                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
+                              <a class="link" href="https://github.com/taoyds/syntaxSQL">code</a>
                            </td>
-                           <td>-.-</td>
-                           <td>-.-</td>
+                           <td>18.9</td>
+                           <td>19.7</td>
                         </tr>
                         <tr>
                            <td>
                               <p>4</p>
-                              <span class="date label label-default">Feb 20, 2019</span>
+                              <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
-                              Anonymous submission 4
-                              <p class="institution">Under Review</p>
+                              SQLNet
+                              <p class="institution">Shanghai Jiao Tong University <i>(modified by Yale)</i></p>
+                              <a class="link" href="https://arxiv.org/abs/1711.04436">(Xu et al. '18)</a>
+                              <a class="link" href="https://github.com/taoyds/spider/tree/master/baselines/sqlnet">code</a>
                            </td>
-                           <td>-.-</td>
-                           <td>-.-</td>
+                           <td>10.9</td>
+                           <td>12.4</td>
                         </tr>
                         <tr>
                            <td>
@@ -206,12 +223,13 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
-                              SyntaxSQLNet
+                              TypeSQL
                               <p class="institution">Yale University</p>
-                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
+                              <a class="link" href="https://arxiv.org/abs/1804.09769">(Yu et al. NAACL '18)</a>
+                              <a class="link" href="https://github.com/taoyds/spider/tree/master/baselines/typesql">code</a>
                            </td>
-                           <td>18.9</td>
-                           <td>19.7</td>
+                           <td>8.0</td>
+                           <td>8.2</td>
                         </tr>
                         <tr>
                            <td>
@@ -219,35 +237,10 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
-                              SQLNet
-                              <p class="institution">Shanghai Jiao Tong University</p>
-                              <a class="link" href="https://arxiv.org/abs/1711.04436">(Xu et al. '18)</a>
-                           </td>
-                           <td>10.9</td>
-                           <td>12.4</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <p>7</p>
-                              <span class="date label label-default">Sep 20, 2018</span>
-                           </td>
-                           <td style="word-break:break-word;">
-                              TypeSQL
-                              <p class="institution">Yale University</p>
-                              <a class="link" href="https://arxiv.org/abs/1804.09769">(Yu et al. NAACL '18)</a>
-                           </td>
-                           <td>8.0</td>
-                           <td>8.2</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <p>8</p>
-                              <span class="date label label-default">Sep 20, 2018</span>
-                           </td>
-                           <td style="word-break:break-word;">
                               Seq2Seq + attention
-                              <p class="institution">University of Edinburgh</p>
+                              <p class="institution">University of Edinburgh <i>(modified by Yale)</i></p>
                               <a class="link" href="https://arxiv.org/abs/1601.01280">(Dong and Lapata, ACL '16)</a>
+                              <a class="link" href="https://github.com/taoyds/spider/tree/master/baselines/seq2seq_attention_copy">code</a>
                            </td>
                            <td>1.8</td>
                            <td>4.8</td>
