@@ -167,6 +167,34 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">May 16, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
+                              IRNet + BERT
+                              <p class="institution">Xi’an Jiaotong University & Beijing University of Posts and Telecommunications & Microsoft Research Asia</p>
+                              <a class="link" href="https://github.com/zhanzecheng/IRNet/blob/master/paper/Towards_Complex_Text-to-SQL_in_Cross-Domain_Database_with_Intermediate_Representation.pdf">(Guo and Zhan et al. ACL '19)</a>
+                              <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
+                           </td>
+                           <td><b>61.9</b></td>
+                           <td><b>54.7</b></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>2</p>
+                              <span class="date label label-default">May 16, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              IRNet
+                              <p class="institution">Xi’an Jiaotong University & Beijing University of Posts and Telecommunications & Microsoft Research Asia</p>
+                              <a class="link" href="https://github.com/zhanzecheng/IRNet/blob/master/paper/Towards_Complex_Text-to-SQL_in_Cross-Domain_Database_with_Intermediate_Representation.pdf">(Guo and Zhan et al. ACL '19)</a>
+                              <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
+                           </td>
+                           <td>53.2</td>
+                           <td>46.7</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>3</p>
+                              <span class="date label label-default">May 16, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
                               GNN
                               <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
                               <a class="link" href="https://arxiv.org/abs/1905.06241">(Bogin et al. ACL '19)</a>
@@ -177,7 +205,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>4</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -191,7 +219,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>5</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -205,7 +233,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>6</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -219,7 +247,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>7</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -233,7 +261,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>8</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
