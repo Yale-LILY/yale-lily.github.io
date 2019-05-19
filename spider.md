@@ -200,8 +200,8 @@ redirect_from: "/seq2sql/spider"
                               <a class="link" href="https://arxiv.org/abs/1905.06241">(Bogin et al. ACL '19)</a>
                               <a class="link" href="https://github.com/benbogin/spider-schema-gnn">code</a>
                            </td>
-                           <td><b>40.7</b></td>
-                           <td><b>39.4</b></td>
+                           <td>40.7</td>
+                           <td>39.4</td>
                         </tr>
                         <tr>
                            <td>
