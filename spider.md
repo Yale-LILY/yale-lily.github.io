@@ -169,7 +169,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               IRNet + BERT
                               <p class="institution">Xi’an Jiaotong & BUPT & MSRA</p>
-                              <a class="link" href="https://github.com/zhanzecheng/IRNet/blob/master/paper/Towards_Complex_Text-to-SQL_in_Cross-Domain_Database_with_Intermediate_Representation.pdf">(Guo and Zhan et al. ACL '19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al. ACL '19)</a>
                               <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
                            </td>
                            <td><b>61.9</b></td>
@@ -183,7 +183,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               IRNet
                               <p class="institution">Xi’an Jiaotong & BUPT & MSRA</p>
-                              <a class="link" href="https://github.com/zhanzecheng/IRNet/blob/master/paper/Towards_Complex_Text-to-SQL_in_Cross-Domain_Database_with_Intermediate_Representation.pdf">(Guo and Zhan et al. ACL '19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al. ACL '19)</a>
                               <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
                            </td>
                            <td>53.2</td>
