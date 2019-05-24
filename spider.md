@@ -168,7 +168,7 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               IRNet + BERT
-                              <p class="institution">Xi’an Jiaotong & BUPT & MSRA</p>
+                              <p class="institution">Microsoft Research Asia</p>
                               <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al. ACL '19)</a>
                               <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
                            </td>
