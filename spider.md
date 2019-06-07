@@ -53,7 +53,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
-                             Our paper 'SParC: Cross-Domain Semantic Parsing in Context' with Salesforce Research was accepted to ACL 2019! It introduces the context-dependent version of the Spider challenge: SParC. Comming up soon!!!
+                             Our paper <a href="https://arxiv.org/abs/1906.02285">SParC: Cross-Domain Semantic Parsing in Context</a> with Salesforce Research was accepted to ACL 2019! It introduces the context-dependent version of the Spider challenge: SParC. Comming up soon!!!
                           </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
                              Got 7 submissions!
