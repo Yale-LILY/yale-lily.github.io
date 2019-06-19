@@ -206,10 +206,23 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>4</p>
+                              <span class="date label label-default">May 30, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              GrammarSQL
+                              <p class="institution">Allen Institute for AI</p>
+                              <a class="link" href="https://arxiv.org/abs/1905.13326">(Lin et al. '19)</a>
+                           </td>
+                           <td>34.8</td>
+                           <td>33.8</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>5</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
-                              <i>SyntaxSQLNet + Augment</i>
+                              <i>SyntaxSQLNet + augment</i>
                               <p class="institution">Yale University</p>
                               <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
                               <a class="link" href="https://github.com/taoyds/syntaxSQL">code</a>
@@ -219,7 +232,20 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>6</p>
+                              <span class="date label label-default">April 18, 2018</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RCSQL
+                              <p class="institution">SAP Labs Korea</p>
+                              <a class="link" href="https://arxiv.org/abs/1904.08835">(Lee '19)</a>
+                           </td>
+                           <td>28.5</td>
+                           <td>24.3</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>7</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -233,7 +259,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>8</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -247,7 +273,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>9</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -261,7 +287,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>10</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
