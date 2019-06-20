@@ -17,12 +17,12 @@ permalink: sparc
         <div class="row">
            <div class="col-md-12">
               <h1 id="appTitle">
-                 Sparc
+                 SParC
                  <b>1.0</b>
                  <img src="/images/spider_logo.png" alt="test image" height="100">
               </h1>
            </div>
-           <h2 id="appSubtitle">Cross-Domain Semantic Parsing in Context</h2>
+           <h2 id="appSubtitle">Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge</h2>
         </div>
      </div>
   </div>
@@ -36,9 +36,9 @@ permalink: sparc
                        <h2>What is Sparc?</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> SParC, a dataset for cross-domainSemanticParsing  inContext.   It  consists  of 4,298 coherent question sequences (12k+ indi-vidual questions annotated with SQL queries),obtained   from   controlled   user   interactionswith  200  complex  databases  over  138  do-mains.    We  provide  an  in-depth  analysis  ofSParC and show that it introduces new challenges compared to existing datasets.   SParC demonstrates  complex  contextual  dependencies, has greater semantic diversity, and requires  generalization  to  new  domainsdue  to  its  cross-domain  nature  and  the  unseen  databases  at  test  time.   We  experimented with  two  state-of-the-art  text-to-SQL  models  adapted  to  the  context-dependent,  cross-domain  setup. The  best  model  obtains  anexact  set  match  accuracy  of  20.2%  over  allquestions  and  less  than  10%  over  all  interaction  sequences,  indicating  that  the  cross-domain setting and the contextual phenomena of  the  dataset  present  significant  challengesfor  future  research. 
+                    <div class="left"> SParC is a dataset for cross-domain Semantic Parsing in Context. It is the context-dependent version of the Spider task. It consists of 4,298 coherent question sequences (12k+ indi-vidual questions annotated with SQL queries), obtained from user interactions with  200  complex databases over 138 domains. It introduces new challenges compared to existing datasets. SParC demonstrates complex contextual dependencies, has greater semantic diversity, and requires  generalization to new domainsdue to its cross-domain nature and the unseen databases at test time.
                     </div>
-                    <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">Sparc Paper</a>
+                    <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">SParC Paper</a>
                     </p>
                     <div class="infoHeadline">
                        <h2>News</h2>
