@@ -8,12 +8,12 @@ permalink: /aan/
     <h2 class="post-title">All About NLP (AAN)</h2>
   </header> 
 
-<p><a href="http://tangra.cs.yale.edu/newaan/"><img src="/images/aan.png" width="450" height="250"></a></p>
-<!---<p><a href="http://tangra.cs.yale.edu/newaan/"><img style="padding: 0 15px; float: left;" src="/images/aan.png" alt="Smiley face" width="450" height="250" align="left"></a></p>
+<p><a href="http://aan.how/"><img src="/images/aan.png" width="450" height="250"></a></p>
+<!---<p><a href="http://aan.how/"><img style="padding: 0 15px; float: left;" src="/images/aan.png" alt="Smiley face" width="450" height="250" align="left"></a></p>
 <p style="margin-top: 20px;"> </p>--->
 
 <div align="center">
-<form action="http://tangra.cs.yale.edu/newaan/index.php/search/reroute_main_search/" method="get">
+<form action="http://aan.how/search/resources/" method="get">
   <input id="papersInput" name="q" placeholder="Search AAN for..." type="text">
   <button class="btn btn-primary" type="submit">Search</button>
   <br>
