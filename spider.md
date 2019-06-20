@@ -233,7 +233,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>6</p>
-                              <span class="date label label-default">April 18, 2018</span>
+                              <span class="date label label-default">April 18, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               RCSQL
