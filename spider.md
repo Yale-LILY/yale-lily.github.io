@@ -21,7 +21,7 @@ redirect_from: "/seq2sql/spider"
                  Spider
                  <b>1.0</b>
                  <img src="/images/spider_logo.png" alt="test image" height="100">
-                 <h2 id="appSubtitle"> -> <a href="https://yale-lily.github.io/sparc">SParC</a></h2>
+                 <h2 id="appSubtitle"> -> SParC</h2>
               </h1>
            </div>
            <h2 id="appSubtitle">Yale Semantic Parsing and Text-to-SQL Challenge</h2>
