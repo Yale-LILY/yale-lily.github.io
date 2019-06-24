@@ -21,6 +21,7 @@ redirect_from: "/seq2sql/spider"
                  Spider
                  <b>1.0</b>
                  <img src="/images/spider_logo.png" alt="test image" height="100">
+                 <h2 id="appSubtitle"> -> <a href="https://yale-lily.github.io/sparc">SParC</a></h2>
               </h1>
            </div>
            <h2 id="appSubtitle">Yale Semantic Parsing and Text-to-SQL Challenge</h2>
@@ -43,7 +44,10 @@ redirect_from: "/seq2sql/spider"
                        In Spider 1.0, different complex SQL queries and databases appear in train and test sets.
                        To do well on it, systems must <i>generalize well to not only new SQL queries but also new database schemas</i>.
                       <hr>Why we call it "Spider"? It is because our dataset is complex and cross-domain like a spider crawling across mutiple complex(with many foreign keys) nests(databases).
-                       <a class="btn actionBtn" href="https://arxiv.org/abs/1809.08887">Spider Paper</a>
+                       <a class="btn actionBtn" href="https://arxiv.org/abs/1809.08887">Spider Paper (EMNLP'18)</a>
+                       <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">Spider Post</a>
+                      <hr>Check out the context-dependent version of the Spider:
+                       <a class="btn actionBtn" href="https://yale-lily.github.io/sparc">SParC Challenge (ACL'19)</a>
                     </div>
                     </p>
                     <div class="infoHeadline">
@@ -53,7 +57,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
-                             Our paper <a href="https://arxiv.org/abs/1906.02285">SParC: Cross-Domain Semantic Parsing in Context</a> with Salesforce Research was accepted to ACL 2019! It introduces the context-dependent version of the Spider challenge: SParC. Comming up soon!!!
+                             Our paper <a href="https://arxiv.org/abs/1906.02285">SParC: Cross-Domain Semantic Parsing in Context</a> with Salesforce Research was accepted to ACL 2019! It introduces the context-dependent version of the Spider challenge: <a href="https://yale-lily.github.io/sparc">SParC</a>!
                           </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
                              Got 7 submissions!
