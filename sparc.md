@@ -33,12 +33,15 @@ permalink: sparc
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
-                       <h2>What is Sparc?</h2>
+                       <h2>What is SParC?</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> SParC is a dataset for cross-domain Semantic Parsing in Context. It is the context-dependent version of the Spider task. It consists of 4,298 coherent question sequences (12k+ indi-vidual questions annotated with SQL queries), obtained from user interactions with  200  complex databases over 138 domains. It introduces new challenges compared to existing datasets. SParC demonstrates complex contextual dependencies, has greater semantic diversity, and requires  generalization to new domainsdue to its cross-domain nature and the unseen databases at test time.
+                    <div class="left"><b><i>SParC</i>/<b> is a dataset for cross-domain <b>S</b>emantic <b>Par</b>sing in <b>C</b>ontext. It is the context-dependent/multi-turn version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider task</i></b></a>, a complex and cross-domain text-to-SQL challenge. SParC consists of 4,298 coherent question sequences (12k+ unique individual questions annotated with SQL queries), obtained from user interactions with 200 complex databases over 138 domains.
                     </div>
-                    <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">SParC Paper</a>
+                    <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">SParC Paper (ACL'19)</a>
+                    <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">SParC Post</a>
+                    <hr><b>Spider</b>, the context-agnostic version of the SParC task, introduces the first complex and cross-domain text-to-SQL task.
+                    <a class="btn actionBtn" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
                     </p>
                     <div class="infoHeadline">
                        <h2>News</h2>
@@ -47,23 +50,22 @@ permalink: sparc
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
-                             Our paper <a href="https://arxiv.org/abs/1906.02285">SParC: Cross-Domain Semantic Parsing in Context</a> with Salesforce Research was accepted to ACL 2019! It introduces the context-dependent version of the Spider challenge: SParC. Comming up soon!!!
+                             Our paper <a href="https://arxiv.org/abs/1906.02285">SParC: Cross-Domain Semantic Parsing in Context</a> with Salesforce Research was accepted to ACL 2019!
                           </li>
                        </ul>
                     </div>
                     </p>
                     <div class="infoHeadline">
-                       <h2>Why Spider?</h2>
+                       <h2>Why SParC?</h2>
                     </div>
-                    <img src="/images/spider_chart.png" alt="test image">
                     <p align="left">
                     <div class="left">
-                       As the above spider chart shows, Spider 1.0 is distinct from most of the previous semantic parsing tasks because:
+                       SParC is built upon the Spider dataset. Comparing to other existing context-dependent semantic parsing/text-to-SQL datasets such as ATIS, it demonstrates:
                        <ul>
-                          <li><a href="https://github.com/jkkummerfeld/text2sql-data"><i>ATIS, Geo, Academic</i></a>: Each of them contains only a single database with a limited number of SQL queries, and has exact same SQL queries in train and test splits.</li>
-                          <li><a href="https://github.com/salesforce/WikiSQL"><i>WikiSQL</i></a>: The numbers of SQL queries and tables are significantly large. But all SQL queries are simple, and each database is only a simple table without any foreign key.</li>
+                          <li>complex contextual dependencies (annotated by 15 Yale computer science students)</li>
+                          <li>has greater semantic diversity due to complex coverage of SQL logic patterns in the Spider dataset.</li>
+                          <li>requires generalization to new domains due to its cross-domain nature and the unseen databasest time.</li>
                        </ul>
-                       Spider 1.0 spans the largest area in the chart, making it the first complex and cross-domain semantic parsing and text-to-SQL dataset! Read more on <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">the blog post</a>.
                     </div>
                     </p>
                     <div class="infoHeadline">
@@ -73,9 +75,9 @@ permalink: sparc
                     <div class="left"> The data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
                     </div>
                     </p>
-                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=11icoH_EA-NYb0OrPTdehRWm_d7-DIzWX" download>Spider Dataset</a>
+                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=11icoH_EA-NYb0OrPTdehRWm_d7-DIzWX" download>SParC Dataset</a>
                     Details of baseline models and evaluation script can be found on the following GitHub site:
-                    <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/spider" download>Spider GitHub Page</a>
+                    <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/spider" download>SParC GitHub Page</a>
                     <p align="left">
                     <div class="left">Once you have built a model that works to your expectations on the dev set,
                        you can submit it to get official scores on the dev and a hidden test set. To preserve the
