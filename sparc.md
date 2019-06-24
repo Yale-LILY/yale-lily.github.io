@@ -93,7 +93,7 @@ permalink: sparc
                     <div class="left"> Some examples look like the following:
                     </div>
                     </p>
-                    <img src="/images/sparc_examples.pdf" alt="test image">
+                    <img src="/images/sparc_examples.png" alt="test image">
                     <div class="infoHeadline">
                        <h2>Have Questions or Want to Contribute ?</h2>
                     </div>
