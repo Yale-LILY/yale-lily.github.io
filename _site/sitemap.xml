@@ -63,6 +63,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://yale-lily.github.io/sparc</loc>
+  <lastmod>2018-09-21T09:56:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://yale-lily.github.io/michigan/</loc>
   <lastmod>2018-09-21T09:56:28+00:00</lastmod>
   <priority>0.64</priority>

@@ -1,6 +1,8 @@
 downloads:
     - title: <a href="https://github.com/Yale-LILY/LectureBank">LectureBank Dataset</a>
       description: A manually-collected dataset of 1352 lecture files from 60 courses over 5 domains. 
+    - title: <a href="https://yale-lily.github.io/sparc">SParC Challenge</a>
+      description: Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge 
     - title: <a href="https://yale-lily.github.io/spider">Spider, New Complex and Cross-Domain Text-to-SQL Dataset</a>
       description: Yale Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge/Natural Language Interfaces to Databases published in EMNLP 2018
     - title: <a href="https://github.com/WING-NUS/scisumm-corpus">SciSumm</a>
