@@ -20,5 +20,5 @@ permalink: /seq2sql/
 
 <ul>
   <li> <a href="/spider">Spider: Yale Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge (EMNLP 2018)</a></li>
-  <li><a href="https://yale-lily.github.io/sparc">SParC: Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge (ACL 2019)</a>!</li>
+  <li><a href="https://yale-lily.github.io/sparc">SParC: Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge (ACL 2019)</a></li>
 </ul>
