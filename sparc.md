@@ -1,5 +1,5 @@
 ---
-layout: spider
+layout: sparc
 permalink: sparc
 ---
 
@@ -19,7 +19,7 @@ permalink: sparc
               <h1 id="appTitle">
                  SParC
                  <b>1.0</b>
-                 <img src="/images/spider_logo.png" alt="test image" height="100">
+                 <img src="/images/sparc_logo.png" alt="test image" height="100">
               </h1>
            </div>
            <h2 id="appSubtitle">Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge</h2>
