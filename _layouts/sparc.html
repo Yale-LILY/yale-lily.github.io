@@ -1,0 +1,27 @@
+<!DOCTYPE html> <!--Author: Pranav Rajpurkar 2016-->
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>SParC: Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge</title>
+      <meta name="description" content="Yale & Salesforce SParC is a dataset for cross-domain Semantic Parsing in Context. It is the context-dependent/multi-turn version of the Spider task, a complex and cross-domain text-to-SQL challenge. It can be used for developing natural language interfaces for relational databases">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+      <link rel="shortcut icon" href="images/sparc_logo.png" />
+      <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+      <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+      <!--- <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}"> --->
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+      <!-- Latest compiled and minified CSS -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+      <script src="/bib-list.js"></script>
+      <!-- <link rel="stylesheet" href="/bib-publication-list.css" type="text/css" /> -->
+      <link rel="stylesheet" href="/spider.css" type="text/css" />
+      <!-- Latest compiled and minified JavaScript -->
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+   </head>
+   <body>
+      {{ content }}
+      {% include footer.html %}
+   </body>
+</html>
