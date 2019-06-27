@@ -120,7 +120,7 @@ permalink: sparc
                     <img src="/images/sparc_lily.jpeg" alt="test image">
                  </div>
                  <div class="infoSubheadline">
-                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://yale-lily.github.io/spider" data-text="Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task" data-via="lilynlp" data-size="large" data-hashtags="Spider">Tweet</a>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://yale-lily.github.io/sparc" data-text="SParC: Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge" data-via="ACL 2019" data-size="large" data-hashtags="SParC">Tweet</a>
                     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                  </div>
               </div>
