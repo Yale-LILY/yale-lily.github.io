@@ -40,7 +40,7 @@ permalink: sparc
                     </div>
                     <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">SParC Paper (ACL'19)</a>
                     <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">SParC Post</a>
-                    <hr><b>Spider</b>, the context-agnostic version of the SParC task, introduces the first complex and cross-domain text-to-SQL task.
+                    <hr>Related challenge: <b>Spider</b> introduces the first complex and cross-domain text-to-SQL task。 It's the context-agnostic version of the SParC task.
                     <a class="btn actionBtn" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
                     </p>
                     <div class="infoHeadline">
@@ -98,7 +98,7 @@ permalink: sparc
                        <h2>Have Questions or Want to Contribute ?</h2>
                     </div>
                     <p align="left">
-                    <div class="left">Ask us questions at our <a href="https://github.com/taoyds/spider/issues">Github issues page</a> or contact <a href="https://taoyds.github.io/">Tao Yu</a>, <a href="https://ryanzhumich.github.io/">Rui Zhang</a>, or
+                    <div class="left">Ask us questions at our <a href="https://github.com/taoyds/sparc/issues">Github issues page</a> or contact <a href="https://taoyds.github.io/">Tao Yu</a>, <a href="https://ryanzhumich.github.io/">Rui Zhang</a>, or
                        <a href="http://victorialin.net/">Xi Victoria Lin</a>.
                     </div>
                     </p>
