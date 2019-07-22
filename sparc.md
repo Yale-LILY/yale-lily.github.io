@@ -151,7 +151,7 @@ permalink: sparc
                               CD-Seq2Seq
                               <p class="institution">Yale University</p>
                               <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
-                              <a class="link" href="">code</a>
+                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
                            <td>18.3</td>
                            <td><b>6.4</b></td>
@@ -165,7 +165,7 @@ permalink: sparc
                               SyntaxSQL-con
                               <p class="institution">Yale University</p>
                               <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
-                              <a class="link" href="">code</a>
+                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
                            <td><b>20.2</b></td>
                            <td>5.2</td>
