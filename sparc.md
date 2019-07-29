@@ -94,6 +94,7 @@ permalink: sparc
                     </div>
                     </p>
                     <img src="/images/sparc_example1.png" alt="test image">
+                    Another example:
                     <img src="/images/sparc_example2.png" alt="test image">
                     <div class="infoHeadline">
                        <h2>Have Questions or Want to Contribute ?</h2>
