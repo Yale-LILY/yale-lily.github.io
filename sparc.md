@@ -112,7 +112,7 @@ permalink: sparc
                        <h2>Acknowledgement</h2>
                     </div>
                     <p align="left">
-                    <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a> and the anonymous reviewers for their precious comments on this project and Melvin Gruesbeck for designing the nice example illustrations. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for giving us the permission to build this website based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>. .
+                    <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a> and the anonymous reviewers for their precious comments on this project and <a href="http://www.melvingruesbeck.com/">Melvin Gruesbeck</a> for designing the nice example illustrations. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for giving us the permission to build this website based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>. .
                     </div>
                     </p>
                     <p align="left">
