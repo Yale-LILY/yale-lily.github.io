@@ -172,7 +172,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               IRNet + BERT
                               <p class="institution">Microsoft Research Asia</p>
-                              <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al. ACL '19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al., ACL '19)</a>
                               <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
                            </td>
                            <td><b>61.9</b></td>
@@ -186,7 +186,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               Global-GNN
                               <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
-                              <a class="link" href="https://arxiv.org/pdf/1908.11214">(Bogin et al. EMNLP '19)</a>
+                              <a class="link" href="https://arxiv.org/pdf/1908.11214">(Bogin et al., EMNLP '19)</a>
                               <a class="link" href="https://github.com/benbogin/spider-schema-gnn-global">code</a>
                            </td>
                            <td>52.7</td>
@@ -200,7 +200,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               IRNet
                               <p class="institution">Microsoft Research Asia</p>
-                              <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al. ACL '19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al., ACL '19)</a>
                               <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
                            </td>
                            <td>53.2</td>
@@ -214,7 +214,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               GNN
                               <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
-                              <a class="link" href="https://arxiv.org/abs/1905.06241">(Bogin et al. ACL '19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1905.06241">(Bogin et al., ACL '19)</a>
                               <a class="link" href="https://github.com/benbogin/spider-schema-gnn">code</a>
                            </td>
                            <td>40.7</td>
@@ -228,7 +228,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               GrammarSQL
                               <p class="institution">Allen Institute for AI</p>
-                              <a class="link" href="https://arxiv.org/abs/1905.13326">(Lin et al. '19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1905.13326">(Lin et al., '19)</a>
                            </td>
                            <td>34.8</td>
                            <td>33.8</td>
@@ -241,7 +241,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               <i>SyntaxSQLNet + augment</i>
                               <p class="institution">Yale University</p>
-                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
+                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al., EMNLP '18)</a>
                               <a class="link" href="https://github.com/taoyds/syntaxSQL">code</a>
                            </td>
                            <td>24.8</td>
@@ -255,7 +255,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               RCSQL
                               <p class="institution">SAP Labs Korea</p>
-                              <a class="link" href="https://arxiv.org/abs/1904.08835">(Lee EMNLP'19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1904.08835">(Lee, EMNLP'19)</a>
                            </td>
                            <td>28.5</td>
                            <td>24.3</td>
@@ -268,7 +268,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               SyntaxSQLNet
                               <p class="institution">Yale University</p>
-                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
+                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al., EMNLP '18)</a>
                               <a class="link" href="https://github.com/taoyds/syntaxSQL">code</a>
                            </td>
                            <td>18.9</td>
@@ -282,7 +282,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               SQLNet
                               <p class="institution">Shanghai Jiao Tong University <i>(modified by Yale)</i></p>
-                              <a class="link" href="https://arxiv.org/abs/1711.04436">(Xu et al. '18)</a>
+                              <a class="link" href="https://arxiv.org/abs/1711.04436">(Xu et al., '18)</a>
                               <a class="link" href="https://github.com/taoyds/spider/tree/master/baselines/sqlnet">code</a>
                            </td>
                            <td>10.9</td>
@@ -296,7 +296,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               TypeSQL
                               <p class="institution">Yale University</p>
-                              <a class="link" href="https://arxiv.org/abs/1804.09769">(Yu et al. NAACL '18)</a>
+                              <a class="link" href="https://arxiv.org/abs/1804.09769">(Yu et al., NAACL '18)</a>
                               <a class="link" href="https://github.com/taoyds/spider/tree/master/baselines/typesql">code</a>
                            </td>
                            <td>8.0</td>
