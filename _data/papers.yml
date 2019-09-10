@@ -33,7 +33,7 @@ papers:
     - title: "ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks"
       authors: "Michihiro Yasunaga, Jungo Kasai, Rui Zhang, Alexander Fabbri, Irene Li, Dan Friedman, and Dragomir Radev"
       conference: "Proceedings of AAAI 2019"
-      pdf : "https://michiyasunaga.github.io/projects/scisumm_net/"
+      pdf : "https://cs.stanford.edu/~myasu/projects/scisumm_net/"
       bibtex: "/bibtex/aaai2019_scisumm.txt"
       image : "/images/aaai19_scisumm.png"
     - title: "What Should I Learn First: Introducing LectureBank for NLP Education and Prerequisite Chain Learning"
