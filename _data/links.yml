@@ -15,6 +15,9 @@
     - name: "ScisummNet"
       description: Yale Scisumm Dataset
       url: "https://cs.stanford.edu/~myasu/projects/scisumm_net/"
+    - name: "CL-SciSumm"
+      description: "CL-SciSumm Shared Task"
+      url: "https://github.com/WING-NUS/scisumm-corpus"
     - name: "SParC"
       description: Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge/Multi-turn Natural Language Interfaces to Databases
       url: "https://yale-lily.github.io/sparc"

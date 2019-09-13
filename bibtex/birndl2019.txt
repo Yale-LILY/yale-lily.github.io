@@ -1,0 +1,6 @@
+@InProceedings{clscisumm19,
+  author =  {Muthu Kumar Chandrasekaran and Michihiro Yasunaga and Dragomir Radev and Dayne Freitag and Min-Yen Kan},
+  title =   {Overview and Results: CL-SciSumm Shared Task 2019},
+  year =    {2019},  
+  booktitle =   {Proceedings of BIRNDL at SIGIR 2019}
+}
