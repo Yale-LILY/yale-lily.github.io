@@ -2,13 +2,18 @@ papers:
     - title: "CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases"
       authors: "Tao Yu, Rui Zhang, He Yang Er, Suyi Li, Eric Xue, Bo Pang, Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, Youxuan Jiang, Michihiro Yasunaga, Sungrok Shim, Tao Chen, Alexander Fabbri, Zifan Li, Luyao Chen, Yuwen Zhang, Shreya Dixit, Vincent Zhang, Caiming Xiong, Richard Socher, Walter Lasecki, Dragomir Radev"
       conference: "Proceedings of EMNLP 2019"
+      pdf: "https://arxiv.org/pdf/1909.05378.pdf"
+      image: /images/cosql.png
     - title: "Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions"
       authors: "Rui Zhang, Tao Yu, He Yang Er, Sungrok Shim, Eric Xue, Xi Victoria Lin, Tianze Shi, Caiming Xiong, Richard Socher, Dragomir Radev"
       conference: "Proceedings of EMNLP 2019"
+      pdf: "https://arxiv.org/pdf/1909.00786.pdf"
+      image: /images/rui_emnlp_2019.png
     - title: "Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model"
       authors: "Alexander Fabbri, Irene Li, Tianwei She, Suyi Li and Dragomir Radev"
       conference: "Proceedings of ACL 2019"
       pdf: /papers/multinews.pdf
+      code: "https://github.com/Alex-Fabbri/Multi-News"
       image: /images/multinews.png
     - title: "Improving Low-Resource Cross-lingual Document Retrieval by Reranking with Deep Bilingual Representations"
       authors: "Rui Zhang, Caitlin Westerfield, Sungrok Shim, Garrett Bingham, Alexander Fabbri, Neha Verma, William Hu, and Dragomir Radev"
@@ -19,6 +24,7 @@ papers:
       authors: "Tao Yu, Rui Zhang, Michihiro Yasunaga, Yi Chern Tan, Xi Victoria Lin, Suyi Li, Heyang Er, Irene Li, Bo Pang, Tao Chen, Emily Ji, Shreya Dixit, David Proctor, Sungrok Shim, Jonathan Kraft, Vincent Zhang, Caiming Xiong, Richard Socher and Dragomir Radev"
       conference: "Proceedings of ACL 2019"
       pdf: /papers/sparc.pdf
+      code: "https://yale-lily.github.io/sparc"
       image: /images/sparc.png
     - title: "This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation"
       authors: "Rui Zhang and Joel Tetreault"
@@ -32,8 +38,9 @@ papers:
       image : "/images/tags_naacl.png"
     - title: "ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks"
       authors: "Michihiro Yasunaga, Jungo Kasai, Rui Zhang, Alexander Fabbri, Irene Li, Dan Friedman, and Dragomir Radev"
-      conference: "Proceedings of AAAI 2019"
-      pdf : "https://cs.stanford.edu/~myasu/projects/scisumm_net/"
+      confference: "Proceedings of AAAI 2019"
+      pdf: "https://arxiv.org/pdf/1909.01716.pdf"
+      code : "https://cs.stanford.edu/~myasu/projects/scisumm_net/"
       bibtex: "/bibtex/aaai2019_scisumm.txt"
       image : "/images/aaai19_scisumm.png"
     - title: "Overview and Results of CL-SciSumm Shared Task 2019"
@@ -59,6 +66,7 @@ papers:
       conference: "Proceedings of the 3rd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL)"
       pdf: "http://ceur-ws.org/Vol-2132/paper7.pdf"
       bibtex : "/bibtex/scisumm.txt"
+      code: "https://github.com/WING-NUS/scisumm-corpus"
     - title: "Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task"
       authors: "Tao Yu, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang, and Dragomir Radev"
       conference: "Proceedings of EMNLP 2018"
