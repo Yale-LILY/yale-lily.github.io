@@ -46,7 +46,7 @@ redirect_from: "/seq2sql/spider"
                        <a class="btn actionBtn" href="https://arxiv.org/abs/1809.08887">Spider Paper (EMNLP'18)</a>
                        <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">Spider Post</a>
                       <hr><b>SParC</b>, the context-dependent version of the Spider task, introduces a new Semantic Parsing in Context challenge.
-                       <a class="btn actionBtn" href="https://yale-lily.github.io/sparc">SParC Challenge (ACL'19)</a>
+                       <a class="btn actionBtn" color=#FF5733 href="https://yale-lily.github.io/sparc">SParC Challenge (ACL'19)</a>
                     </div>
                     </p>
                     <div class="infoHeadline">
@@ -57,9 +57,6 @@ redirect_from: "/seq2sql/spider"
                        <ul>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
                              Our paper <a href="https://arxiv.org/abs/1906.02285">SParC: Cross-Domain Semantic Parsing in Context</a> with Salesforce Research was accepted to ACL 2019! It introduces the context-dependent version of the Spider challenge: <a href="https://yale-lily.github.io/sparc">SParC</a>!
-                          </li>
-                         <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
-                             Got 7 submissions!
                           </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
                              Please report any <a href="https://github.com/taoyds/spider/issues/24">annotation errors here</a>, we really appreciate your help and will update the data release in this summer!
