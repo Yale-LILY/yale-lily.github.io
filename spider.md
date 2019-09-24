@@ -46,7 +46,7 @@ redirect_from: "/seq2sql/spider"
                        <a class="btn actionBtn" href="https://arxiv.org/abs/1809.08887">Spider Paper (EMNLP'18)</a>
                        <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">Spider Post</a>
                       <hr><b>SParC</b>, the context-dependent version of the Spider task, introduces a new Semantic Parsing in Context challenge.
-                       <a class="btn actionBtn" color=#FF5733 href="https://yale-lily.github.io/sparc">SParC Challenge (ACL'19)</a>
+                       <a class="btn actionBtn" style="background-color: #FF5733" href="https://yale-lily.github.io/sparc">SParC Challenge (ACL'19)</a>
                     </div>
                     </p>
                     <div class="infoHeadline">
@@ -214,7 +214,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>5</p>
-                              <span class="date label label-default">May 19, 2019</span>
+                              <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               EditSQL + BERT
@@ -343,7 +343,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>15</p>
-                              <span class="date label label-default">May 19, 2019</span>
+                              <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               EditSQL
