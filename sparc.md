@@ -155,12 +155,26 @@ permalink: sparc
                               <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
-                           <td>18.3</td>
-                           <td><b>6.4</b></td>
+                           <td><b>47.9</b></td>
+                           <td><b>25.3</b></td>
                         </tr>
                         <tr>
                            <td>
                               <p>2</p>
+                              <span class="date label label-default">May 17, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              CD-Seq2Seq
+                              <p class="institution">Yale University</p>
+                              <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
+                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                           </td>
+                           <td>23.2</td>
+                           <td>7.5</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>3</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -169,7 +183,7 @@ permalink: sparc
                               <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
-                           <td><b>20.2</b></td>
+                           <td>20.2</td>
                            <td>5.2</td>
                         </tr>
                     </table>
