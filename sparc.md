@@ -147,12 +147,12 @@ permalink: sparc
                         <tr>
                            <td>
                               <p>1</p>
-                              <span class="date label label-default">May 17, 2019</span>
+                              <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              CD-Seq2Seq
+                              EditSQL
                               <p class="institution">Yale University</p>
-                              <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al. EMNLP '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
                            <td><b>47.9</b></td>
