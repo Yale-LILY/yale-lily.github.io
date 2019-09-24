@@ -167,6 +167,30 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>1</p>
+                              <span class="date label label-default">June 24, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              TPNet + BERT
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td><b>63.9</b></td>
+                           <td><b>55.0</b></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>2</p>
+                              <span class="date label label-default">Sep 20, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              GIRN
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>60.2</td>
+                           <td>54.8</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>3</p>
                               <span class="date label label-default">May 19, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -175,12 +199,50 @@ redirect_from: "/seq2sql/spider"
                               <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al., ACL '19)</a>
                               <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
                            </td>
-                           <td><b>61.9</b></td>
-                           <td><b>54.7</b></td>
+                           <td>61.9</td>
+                           <td>54.7</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>4</p>
+                              <span class="date label label-default">Sep 19, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RATSQL
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>60.6</td>
+                           <td>53.7</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>5</p>
+                              <span class="date label label-default">May 19, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              EditSQL + BERT
+                              <p class="institution">Yale University</p>
+                              <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al., EMNLP '19)</a>
+                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                           </td>
+                           <td>57.6</td>
+                           <td>53.4</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>6</p>
+                              <span class="date label label-default">June 24, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              TPNet
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>55.4</td>
+                           <td>48.5</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>7</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -194,7 +256,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>8</p>
                               <span class="date label label-default">May 19, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -208,7 +270,43 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>9</p>
+                              <span class="date label label-default">June 11, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              HSRNet
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>51.5</td>
+                           <td>45.6</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>10</p>
+                              <span class="date label label-default">June 12, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              CFGN
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>48.7</td>
+                           <td>44.1</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>11</p>
+                              <span class="date label label-default">Aug 31, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              NatSQL
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>52.9</td>
+                           <td>42.5</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>12</p>
                               <span class="date label label-default">May 16, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -222,7 +320,19 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>13</p>
+                              <span class="date label label-default">Feb 25, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              SASeq
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>40.8</td>
+                           <td>37.4</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>14</p>
                               <span class="date label label-default">May 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -235,7 +345,21 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>15</p>
+                              <span class="date label label-default">May 19, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              EditSQL
+                              <p class="institution">Yale University</p>
+                              <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al., EMNLP '19)</a>
+                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                           </td>
+                           <td>36.4</td>
+                           <td>32.9</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>16</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -249,7 +373,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>17</p>
                               <span class="date label label-default">April 18, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -262,7 +386,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>18</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -276,7 +400,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>19</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -290,7 +414,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>20</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -304,7 +428,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>11</p>
+                              <p>21</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
