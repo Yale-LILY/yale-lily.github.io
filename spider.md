@@ -182,7 +182,7 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Sep 20, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              GIRN
+                              GIRN + BERT
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>60.2</td>
