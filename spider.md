@@ -438,6 +438,17 @@ redirect_from: "/seq2sql/spider"
                            <td>4.8</td>
                         </tr>
                     </table>
+                    <p align="left">
+                    <div class="left"> Other papers used Spider (without evaluation on the test set):
+                      <ol>
+                        <li><a class="link" href="https://frcchang.github.io/pub/emnlp2019.2.pdf">(Min et al., EMNLP 2019)</a>, Westlake University, Chinese version of Spider (coming up soon)</li>
+                        <li><a class="link" href="https://arxiv.org/abs/1905.08407">(Shaw et al., ACL 2019)</a>, Google</li>
+                        <li><a class="link" href="https://arxiv.org/abs/1906.10816">(Shin et al., NeurlPS 2019)</a>, UC Berkeley & MSR</li>
+                        <li><a class="link" href="https://dl.acm.org/citation.cfm?id=3300105">(Weir et al., SIGMOD 2019)</a>, Brown University & TU Darmstadt</li>
+                        <li><a class="link" href="https://arxiv.org/abs/1902.00031">(Baik et al., ICDE 2019)</a>, U of Michigan & IBM</li>
+                      </ol>
+                    </div>
+                    </p>
                  </div>
               </div>
               <div class="infoCard">
