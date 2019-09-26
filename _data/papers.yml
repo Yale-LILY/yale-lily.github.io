@@ -3,11 +3,14 @@ papers:
       authors: "Tao Yu, Rui Zhang, He Yang Er, Suyi Li, Eric Xue, Bo Pang, Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, Youxuan Jiang, Michihiro Yasunaga, Sungrok Shim, Tao Chen, Alexander Fabbri, Zifan Li, Luyao Chen, Yuwen Zhang, Shreya Dixit, Vincent Zhang, Caiming Xiong, Richard Socher, Walter Lasecki, Dragomir Radev"
       conference: "Proceedings of EMNLP 2019"
       pdf: "https://arxiv.org/pdf/1909.05378.pdf"
+      bibtex: "/bibtex/cosql.txt"
       image: /images/cosql.png
     - title: "Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions"
       authors: "Rui Zhang, Tao Yu, He Yang Er, Sungrok Shim, Eric Xue, Xi Victoria Lin, Tianze Shi, Caiming Xiong, Richard Socher, Dragomir Radev"
       conference: "Proceedings of EMNLP 2019"
       pdf: "https://arxiv.org/pdf/1909.00786.pdf"
+      code: "https://github.com/ryanzhumich/sparc_atis_pytorch"
+      bibtex: "/bibtex/editsql.txt"
       image: /images/rui_emnlp_2019.png
     - title: "Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model"
       authors: "Alexander Fabbri, Irene Li, Tianwei She, Suyi Li and Dragomir Radev"
@@ -25,6 +28,7 @@ papers:
       conference: "Proceedings of ACL 2019"
       pdf: /papers/sparc.pdf
       code: "https://yale-lily.github.io/sparc"
+      bibtex: "/bibtex/sparc.txt"
       image: /images/sparc.png
     - title: "This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation"
       authors: "Rui Zhang and Joel Tetreault"
