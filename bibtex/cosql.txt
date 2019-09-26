@@ -1,0 +1,7 @@
+@InProceedings{yu2019cosql,
+  author =  {Tao Yu and Rui Zhang and He Yang Er and Suyi Li and Eric Xue and Bo Pang and Xi Victoria Lin and Yi Chern Tan and Tianze Shi and Zihan Li and Youxuan Jiang and Michihiro Yasunaga and Sungrok Shim and Tao Chen and Alexander Fabbri and Zifan Li and Luyao Chen and Yuwen Zhang and Shreya Dixit and Vincent Zhang and Caiming Xiong and Richard Socher and Walter Lasecki and Dragomir Radev},
+  title =   {CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases},
+  year =    {2019},
+  booktitle =   {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing},
+  publisher = {Association for Computational Linguistics},
+}
