@@ -151,7 +151,7 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               EditSQL
-                              <p class="institution">Yale University</p>
+                              <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al. EMNLP '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
@@ -165,7 +165,7 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               CD-Seq2Seq
-                              <p class="institution">Yale University</p>
+                              <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
@@ -179,7 +179,7 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               SyntaxSQL-con
-                              <p class="institution">Yale University</p>
+                              <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
