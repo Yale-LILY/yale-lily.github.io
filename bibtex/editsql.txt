@@ -1,0 +1,7 @@
+@InProceedings{zhang19,
+  author =  {Rui Zhang and Tao Yu and He Yang Er and Sungrok Shim and Eric Xue and Xi Victoria Lin and Tianze Shi and Caiming Xiong and Richard Socher and Dragomir Radev},
+  title =   {Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions},
+  year =    {2019},
+  booktitle =   {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing},
+  publisher = {Association for Computational Linguistics},
+}
