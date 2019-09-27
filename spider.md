@@ -56,7 +56,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>9/24/2019</i></span>
-                             <a href="https://frcchang.github.io/pub/emnlp2019.2.pdf">A EMNLP 2019 paper</a> (led by Qingkai at <a href="https://frcchang.github.io/">Westlake University</a>) tanslated Spider in Chinese (coming up soon)!
+                             <a href="https://frcchang.github.io/pub/emnlp2019.2.pdf">(Min et al., EMNLP 2019)</a> tanslated Spider in Chinese (coming up soon)!
                           </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
                              Our paper <a href="https://arxiv.org/abs/1906.02285">SParC: Cross-Domain Semantic Parsing in Context</a> with Salesforce Research was accepted to ACL 2019! It introduces the context-dependent version of the Spider challenge: <a href="https://yale-lily.github.io/sparc">SParC</a>!
