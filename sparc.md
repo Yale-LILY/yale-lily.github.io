@@ -85,7 +85,7 @@ permalink: sparc
                        you to submit your model so that we can run it on the test set for you. Here's a tutorial walking you through official evaluation of your model:
                     </div>
                     </p>
-                    <a class="btn actionBtn inverseBtn" href="https://worksheets.codalab.org/worksheets/0x82150f426cb94c17b861ef4162817399/" download>Submission Tutorial</a>
+                    <a class="btn actionBtn inverseBtn" href="https://worksheets.codalab.org/worksheets/0x9051e25df7b1404f9b1829f48b675c97" download>Submission Tutorial</a>
                     <div class="infoHeadline">
                        <h2>Data Examples</h2>
                     </div>
