@@ -170,8 +170,8 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">June 24, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              TPNet + BERT
-                              <p class="institution">Anonymous</p>
+                              IRNet v2 + BERT
+                              <p class="institution">Microsoft Research Asia</p>
                            </td>
                            <td><b>63.9</b></td>
                            <td><b>55.0</b></td>
@@ -234,8 +234,8 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">June 24, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              TPNet
-                              <p class="institution">Anonymous</p>
+                              IRNet v2
+                              <p class="institution">Microsoft Research Asia</p>
                            </td>
                            <td>55.4</td>
                            <td>48.5</td>
