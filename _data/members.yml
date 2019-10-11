@@ -48,6 +48,11 @@
       photo: /photos/william.jpg
       email: william.hun@yale.edu
       title: 2021
+    - name: Sally Ma
+      photo: /photos/sally_ma.jpg
+      email: sally.ma@yale.edu 
+      title: 2021
+      github: xm83
     - name: Neha Verma
       photo: /photos/neha.jpg
       title: 2021
