@@ -17,12 +17,12 @@ permalink: cosql
         <div class="row">
            <div class="col-md-12">
               <h1 id="appTitle">
-                 SParC
+                 CoSQL
                  <b>1.0</b>
                  <img src="/images/sparc_logo.png" alt="test image" height="100">
               </h1>
            </div>
-           <h2 id="appSubtitle">Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge</h2>
+           <h2 id="appSubtitle">Yale & Salesforce Conversational Semantic Parsing and Text-to-SQL Challenge</h2>
         </div>
      </div>
   </div>
@@ -33,15 +33,16 @@ permalink: cosql
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
-                       <h2>What is SParC?</h2>
+                       <h2>What is CoSQL?</h2>
                     </div>
                     <p align="left">
-                    <div class="left"><b><i>SParC</i></b> is a dataset for cross-domain <b>S</b>emantic <b>Par</b>sing in <b>C</b>ontext. It is the context-dependent/multi-turn version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider task</i></b></a>, a complex and cross-domain text-to-SQL challenge. SParC consists of 4,298 coherent question sequences (12k+ unique individual questions annotated with SQL queries annotated by 14 Yale students), obtained from user interactions with 200 complex databases over 138 domains.
+                    <div class="left"><b><i>CoSQL</i></b> is the first corpus for building cross-domain <b>Co</b>nversational text-to-<b>SQL</b> systems. It is the dilaogue version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> tasks. CoSQL consists of 30k+ turns plus 10k+ annotated SQL queries, obtained from a <a href="https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment">Wizard-of-Oz</a> collection of 3k dialogues querying 200 complex databases spanning 138 domains. Each dialogue simu- lates a real-world DB query scenario with a crowd worker as a user exploring the database and a SQL expert retrieving answers with SQL, clarifying ambiguous questions, or otherwise informing of unanswerable questions.
                     </div>
-                    <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">SParC Paper (ACL'19)</a>
-                    <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">SParC Post</a>
-                    <hr>Related challenge: <b>Spider</b> introduces the first complex and cross-domain text-to-SQL task. It's the context-agnostic version of the SParC task.
-                    <a class="btn actionBtn" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
+                    <a class="btn actionBtn" href="https://arxiv.org/abs/1909.05378">CoSQL Paper (EMNLP'19)</a>
+                    <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">CoSQL Post</a>
+                    <hr><b>Related challenges</b>: single-turn text-to-SQL <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and multi-turn text-to-SQL <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> tasks
+                        <a class="btn actionBtn" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
+                        <a class="btn actionBtn" href="https://yale-lily.github.io/sparc">SParC Chanllenge (ACL'19)</a>
                     </p>
                     <div class="infoHeadline">
                        <h2>News</h2>
@@ -49,22 +50,26 @@ permalink: cosql
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
-                         <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
-                             Our paper <a href="https://arxiv.org/abs/1906.02285">SParC: Cross-Domain Semantic Parsing in Context</a> with Salesforce Research was accepted to ACL 2019!
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>10/30/2019</i></span>
+                             CoSQL dataset is out, see you at <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019, Hong Kong</a>!
                           </li>
                        </ul>
                     </div>
                     </p>
                     <div class="infoHeadline">
-                       <h2>Why SParC?</h2>
+                       <h2>Why CoSQL?</h2>
                     </div>
                     <p align="left">
                     <div class="left">
-                       SParC is built upon the Spider dataset. Comparing to other existing context-dependent semantic parsing/text-to-SQL datasets such as ATIS, it demonstrates:
+                       CoSQL introduces new challenges compared to existing task-oriented dialogue tasks:       
                        <ul>
-                          <li>complex contextual dependencies (annotated by 15 Yale computer science students)</li>
-                          <li>has greater semantic diversity due to complex coverage of SQL logic patterns in the Spider dataset.</li>
-                          <li>requires generalization to new domains due to its cross-domain nature and the unseen databasest time.</li>
+                          <li>the dialogue states are grounded in SQL, a domain-independent executable representation, instead of domain-specific slot-value pairs.</li>
+                          <li>because testing is done on unseen databases, success requires generalizing to new domains.</li>
+                       </ul>
+                    <hr>Compared to other semantic parsing/text-to-SQL tasks, CoSQL presents new challenges:
+                       <ul>
+                          <li>it doesn't assume all user questions can be mapped into SQL queries. It involves system responses retrieving answers with SQL, clarifying ambiguous questions, or otherwise informing of unanswerable questions. When user questions are answerable by SQL, the expert describes the SQL and execution results to the user for result verification.</li>
+                          <li>each dialog is obtained via the Wizard-of-Oz setting, aiming to simulates a real-world DB query scenario with a crowd worker as a user exploring the DB and a SQL expert.</li>
                        </ul>
                     </div>
                     </p>
