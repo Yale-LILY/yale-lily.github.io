@@ -157,26 +157,12 @@ permalink: cosql
                         <tr>
                            <td>
                               <p>1</p>
-                              <span class="date label label-default">Sep 1, 2019</span>
-                           </td>
-                           <td style="word-break:break-word;">
-                              EditSQL
-                              <p class="institution">Yale University & Salesforce Research</p>
-                              <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al. EMNLP '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
-                           </td>
-                           <td><b>47.9</b></td>
-                           <td><b>25.3</b></td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <p>2</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               CD-Seq2Seq
                               <p class="institution">Yale University & Salesforce Research</p>
-                              <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
                            <td>13.9</td>
@@ -184,13 +170,13 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>2</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               SyntaxSQL-con
                               <p class="institution">Yale University & Salesforce Research</p>
-                              <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
+                              <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
                            <td>14.1</td>
@@ -202,27 +188,117 @@ permalink: cosql
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
-                       <h2>Leaderboard - Execution with Value Selection</h2>
+                       <h2>Leaderboard - Response Generation from SQL and Query Results</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, you can assume  that a list of gold values for each question is given. Your model has to fill them into the right slots in the SQL. Is your system going to the first one showing up on this leaderboard?
+                    <div class="left"> This task requires generating a natural language description of the SQL query and the result for each system response labeled as <code>INFORM_SQL</code>. It considers a SQL query, the execution result, and the DB schema. Preserving logical consistency (Logic Correctness Rate (LCR)) between SQL and NL response is crucial in this task, in addition to naturalness and syntactical correctness.
                     </div>
                     </p>
                     <table class="table performanceTable">
                     <tr>
                        <th>Rank</th>
                        <th>Model</th>
-                       <th>Question Match</th>
-                       <th>Interaction Match</th>
+                       <th>BLEU</th>
+                       <th>Grammar</th>
+                       <th>LCR (%)</th>
                     </tr>
                     <tr>
                        <td>
-                          <p></p>
+                          <p>1</p>
+                          <span class="date label label-default">Aug 30, 2019</span>
                        </td>
                        <td style="word-break:break-word;">
+                          Template baseline
+                          <p class="institution">Yale University & Salesforce Research</p>
+                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
                        </td>
-                       <td></td>
-                       <td></td>
+                       <td>9.3</td>
+                       <td>4.0</td>
+                       <td>41.0</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
+                          <span class="date label label-default">Aug 30, 2019</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          Pointer-generator baseline
+                          <p class="institution">Yale University & Salesforce Research</p>
+                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
+                       </td>
+                       <td>15.1</td>
+                       <td>3.6</td>
+                       <td>35.0</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
+                          <span class="date label label-default">Aug 30, 2019</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          Seq2Seq baseline
+                          <p class="institution">Yale University & Salesforce Research</p>
+                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
+                       </td>
+                       <td>14.1</td>
+                       <td>3.5</td>
+                       <td>27.0</td>
+                    </tr>
+                    </table>
+                 </div>
+              </div>
+              <div class="infoCard">
+                 <div class="infoBody">
+                    <div class="infoHeadline">
+                       <h2>Leaderboard - User Dialogue Act Prediction</h2>
+                    </div>
+                    <p align="left">
+                    <div class="left"> For a real-world DB querying dialogue system, it has to decide if the user question can be mapped to a SQL query or if special actions are needed. We define a series of dialogue acts for the DB user and the SQL expert (refer to the paper for more details). For example, if the user question can be answered by a SQL query, the dialogue act of the question is <code>INFORM_SQL</code>.
+                    </div>
+                    </p>
+                    <table class="table performanceTable">
+                    <tr>
+                       <th>Rank</th>
+                       <th>Model</th>
+                       <th>Accuracy</th>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>1</p>
+                          <span class="date label label-default">Aug 30, 2019</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          Template baseline
+                          <p class="institution">Yale University & Salesforce Research</p>
+                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
+                       </td>
+                       <td>9.3</td>
+                       <td>4.0</td>
+                       <td>41.0</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
+                          <span class="date label label-default">Aug 30, 2019</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          TBCNN-pair baseline
+                          <p class="institution">Yale University & Salesforce Research</p>
+                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
+                       </td>
+                       <td>83.9</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
+                          <span class="date label label-default">Aug 30, 2019</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          Majority baseline
+                          <p class="institution">Yale University & Salesforce Research</p>
+                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
+                       </td>
+                       <td>62.8</td>
                     </tr>
                     </table>
                  </div>
