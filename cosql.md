@@ -72,11 +72,11 @@ permalink: cosql
                           <li>it involves system responses to clarify ambiguous questions, verify returned results, and notify users of unanswerable or unrelated questions.</li>
                           <li>each dialog is obtained via the Wizard-of-Oz setting between a crowd worker and a SQL expert.</li>
                        </ul>
-                    <hr>It includes three tasks:
+                    <hr>CoSQL includes three tasks:
                       <ul>
-                          <li>SQL-grounded dialogue state tracking to map user utterances into SQL queries if possible given the interaction history</li>
-                          <li>natural language response generation based on an executed SQL and its results for user verification</li>
-                          <li>user dialogue act prediction to detect and resolve ambiguous and unanswerable questions</li>
+                          <li><b>SQL-grounded dialogue state tracking</b> to map user utterances into SQL queries if possible given the interaction history</li>
+                          <li><b>natural language response generation</b> based on an executed SQL and its results for user verification</li>
+                          <li><b>user dialogue act prediction</b> to detect and resolve ambiguous and unanswerable questions</li>
                        </ul>
                     </div>
                     </p>
@@ -84,7 +84,7 @@ permalink: cosql
                        <h2>Getting Started</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> The CoSQL data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
+                    <div class="left"> The data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
                     </div>
                     </p>
                     <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=13Abvu5SUMSP3SJM-ZIj66mOkeyAquR73" download>CoSQL Dataset</a>
@@ -105,9 +105,7 @@ permalink: cosql
                     <div class="left"> Some examples look like the following:
                     </div>
                     </p>
-                    <img src="/images/sparc_example1.png" alt="test image">
-                    Another example:
-                    <img src="/images/sparc_example2.png" alt="test image">
+                    <img src="/images/cosql_example.png" alt="test image">
                     <div class="infoHeadline">
                        <h2>Have Questions or Want to Contribute ?</h2>
                     </div>
@@ -124,11 +122,11 @@ permalink: cosql
                        <h2>Acknowledgement</h2>
                     </div>
                     <p align="left">
-                    <div class="left">We thank <a href="http://www.cs.cornell.edu/~tianze/">Tianze Shi</a> and the anonymous reviewers for their precious comments on this project and <a href="http://www.melvingruesbeck.com/">Melvin Gruesbeck</a> for designing the nice example illustrations. Also, we thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for giving us the permission to build this website based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>. .
+                    <div class="left">We thank <a href="https://rajpurkar.github.io/">Pranav Rajpurkar</a> for giving us the permission to build this website based on <a href="https://rajpurkar.github.io/SQuAD-explorer/">SQuAD</a>.
                     </div>
                     </p>
                     <p align="left">
-                    <div class="left">Part of our SParC team at <a href="https://yins.yale.edu/">YINS</a>:
+                    <div class="left">Part of our CoSQL team at <a href="https://yins.yale.edu/">YINS</a>:
                     </div>
                     </p>
                     <img src="/images/sparc_lily.jpeg" alt="test image">
@@ -143,10 +141,10 @@ permalink: cosql
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
-                       <h2>Leaderboard - Exact Set Match without Values</h2>
+                       <h2>Leaderboard - SQL-grounded Dialogue State Tracking</h2>
                     </div>
                     <p align="left">
-                    <div class="left">For exact matching evaluation, instead of simply conducting string comparison between the predicted and gold SQL queries, we decompose each SQL into several clauses, and conduct set comparison in each SQL clause. Please refer to the paper and <a href="https://github.com/taoyds/spider/tree/master/evaluation_examples">the Github page</a> for more details.
+                    <div class="left">In CoSQL, user dialogue states are grounded in SQL queries. Dialogue state tracking (DST) in this case is to predict the correct SQL query for each user utterance with <code>INFORM_SQL</code> label given the interaction context and the DB schema. Comparing to other context-dependent text-to-SQL tasks such as <a href="https://yale-lily.github.io/sparc"><i>SParC</i></a>, the DST task in CoSQL also includes the ambiguous questions if the user affirms the system clarification of them. In this case, the system clarification is also given as part of the interaction context to predict the SQL query corresponding to the question. As in <a href="https://yale-lily.github.io/spider"><i>Spider</i></a> and <a href="https://yale-lily.github.io/sparc"><i>SParC</i></a> tasks, we report results of Exact Set Match without Values here.
                     </div>
                     </p>
                     <table class="table performanceTable">
@@ -173,7 +171,7 @@ permalink: cosql
                         <tr>
                            <td>
                               <p>2</p>
-                              <span class="date label label-default">May 17, 2019</span>
+                              <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               CD-Seq2Seq
@@ -181,13 +179,13 @@ permalink: cosql
                               <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
-                           <td>23.2</td>
-                           <td>7.5</td>
+                           <td>13.9</td>
+                           <td>2.6</td>
                         </tr>
                         <tr>
                            <td>
                               <p>3</p>
-                              <span class="date label label-default">May 17, 2019</span>
+                              <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               SyntaxSQL-con
@@ -195,8 +193,8 @@ permalink: cosql
                               <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
                            </td>
-                           <td>20.2</td>
-                           <td>5.2</td>
+                           <td>14.1</td>
+                           <td>2.2</td>
                         </tr>
                     </table>
                  </div>
