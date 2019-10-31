@@ -153,7 +153,7 @@ permalink: sparc
                               EditSQL
                               <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al. EMNLP '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
                            </td>
                            <td><b>47.9</b></td>
                            <td><b>25.3</b></td>
@@ -167,7 +167,7 @@ permalink: sparc
                               CD-Seq2Seq
                               <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
                            </td>
                            <td>23.2</td>
                            <td>7.5</td>
@@ -179,9 +179,9 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               SyntaxSQL-con
-                              <p class="institution">Yale University & Salesforce Research</p>
-                              <a class="link" href="https://arxiv.org/abs/1906.02285">(Yu et al. ACL '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                              <p class="institution">Yale University</p>
+                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
+                              <a class="link" href="https://github.com/taoyds/syntaxSQL">code</a>
                            </td>
                            <td>20.2</td>
                            <td>5.2</td>
