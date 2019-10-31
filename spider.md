@@ -223,7 +223,7 @@ redirect_from: "/seq2sql/spider"
                               EditSQL + BERT
                               <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al., EMNLP '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
                            </td>
                            <td>57.6</td>
                            <td>53.4</td>
@@ -352,7 +352,7 @@ redirect_from: "/seq2sql/spider"
                               EditSQL
                               <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al., EMNLP '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
                            </td>
                            <td>36.4</td>
                            <td>32.9</td>
