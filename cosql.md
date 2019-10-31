@@ -175,7 +175,7 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               SyntaxSQL-con
-                              <p class="institution">Yale University/p>
+                              <p class="institution">Yale University</p>
                               <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
                               <a class="link" href="https://github.com/taoyds/syntaxSQL">code</a>
                            </td>
