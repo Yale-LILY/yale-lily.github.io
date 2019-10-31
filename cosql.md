@@ -163,7 +163,7 @@ permalink: cosql
                               CD-Seq2Seq
                               <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
                            </td>
                            <td>13.9</td>
                            <td>2.6</td>
@@ -177,7 +177,7 @@ permalink: cosql
                               SyntaxSQL-con
                               <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/sparc_atis_pytorch">code</a>
+                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
                            </td>
                            <td>14.1</td>
                            <td>2.2</td>
