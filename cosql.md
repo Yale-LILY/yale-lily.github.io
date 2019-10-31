@@ -232,7 +232,7 @@ permalink: cosql
                     </tr>
                     <tr>
                        <td>
-                          <p>2</p>
+                          <p>3</p>
                           <span class="date label label-default">Aug 30, 2019</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -264,7 +264,7 @@ permalink: cosql
                     </tr>
                     <tr>
                        <td>
-                          <p>2</p>
+                          <p>1</p>
                           <span class="date label label-default">Aug 30, 2019</span>
                        </td>
                        <td style="word-break:break-word;">
