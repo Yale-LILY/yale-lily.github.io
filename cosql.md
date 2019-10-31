@@ -264,20 +264,6 @@ permalink: cosql
                     </tr>
                     <tr>
                        <td>
-                          <p>1</p>
-                          <span class="date label label-default">Aug 30, 2019</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          Template baseline
-                          <p class="institution">Yale University & Salesforce Research</p>
-                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
-                       </td>
-                       <td>9.3</td>
-                       <td>4.0</td>
-                       <td>41.0</td>
-                    </tr>
-                    <tr>
-                       <td>
                           <p>2</p>
                           <span class="date label label-default">Aug 30, 2019</span>
                        </td>
