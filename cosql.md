@@ -36,11 +36,11 @@ permalink: cosql
                        <h2>What is CoSQL?</h2>
                     </div>
                     <p align="left">
-                    <div class="left"><b><i>CoSQL</i></b> is the first corpus for building cross-domain <b>Co</b>nversational text-to-<b>SQL</b> systems. It is the dilaogue version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> tasks. CoSQL consists of 30k+ turns plus 10k+ annotated SQL queries, obtained from a <a href="https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment">Wizard-of-Oz</a> collection of 3k dialogues querying 200 complex databases spanning 138 domains. Each dialogue simu- lates a real-world DB query scenario with a crowd worker as a user exploring the database and a SQL expert retrieving answers with SQL, clarifying ambiguous questions, or otherwise informing of unanswerable questions.
+                    <div class="left"><b><i>CoSQL</i></b> is a corpus for building cross-domain <b>Co</b>nversational text-to-<b>SQL</b> systems. It is the dilaogue version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> tasks. CoSQL consists of 30k+ turns plus 10k+ annotated SQL queries, obtained from a <a href="https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment">Wizard-of-Oz</a> collection of 3k dialogues querying 200 complex databases spanning 138 domains. Each dialogue simulates a real-world DB query scenario with a crowd worker as a user exploring the database and a SQL expert retrieving answers with SQL, clarifying ambiguous questions, or otherwise informing of unanswerable questions.
                     </div>
                     <a class="btn actionBtn" href="https://arxiv.org/abs/1909.05378">CoSQL Paper (EMNLP'19)</a>
                     <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">CoSQL Post</a>
-                    <hr><b>Related challenges</b>: single-turn text-to-SQL <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and multi-turn text-to-SQL <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> tasks
+                    <hr><b>Related challenges</b>: single-turn <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and multi-turn <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> text-to-SQL tasks
                         <a class="btn actionBtn" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
                         <a class="btn actionBtn" href="https://yale-lily.github.io/sparc">SParC Chanllenge (ACL'19)</a>
                     </p>
@@ -63,13 +63,20 @@ permalink: cosql
                     <div class="left">
                        CoSQL introduces new challenges compared to existing task-oriented dialogue tasks:       
                        <ul>
-                          <li>the dialogue states are grounded in SQL, a domain-independent executable representation, instead of domain-specific slot-value pairs.</li>
+                          <li>the dialogue states are grounded in domain-independent SQL program instead of domain-specific slot-value pairs.</li>
                           <li>because testing is done on unseen databases, success requires generalizing to new domains.</li>
                        </ul>
                     <hr>Compared to other semantic parsing/text-to-SQL tasks, CoSQL presents new challenges:
                        <ul>
-                          <li>it doesn't assume all user questions can be mapped into SQL queries. It involves system responses retrieving answers with SQL, clarifying ambiguous questions, or otherwise informing of unanswerable questions. When user questions are answerable by SQL, the expert describes the SQL and execution results to the user for result verification.</li>
-                          <li>each dialog is obtained via the Wizard-of-Oz setting, aiming to simulates a real-world DB query scenario with a crowd worker as a user exploring the DB and a SQL expert.</li>
+                          <li>user questions are not necessarily answerable.</li>
+                          <li>it involves system responses to clarify ambiguous questions, verify returned results, and notify users of unanswerable or unrelated questions.</li>
+                          <li>each dialog is obtained via the Wizard-of-Oz setting between a crowd worker and a SQL expert.</li>
+                       </ul>
+                    <hr>It includes three tasks:
+                      <ul>
+                          <li>SQL-grounded dialogue state tracking to map user utterances into SQL queries if possible given the interaction history</li>
+                          <li>natural language response generation based on an executed SQL and its results for user verification</li>
+                          <li>user dialogue act prediction to detect and resolve ambiguous and unanswerable questions</li>
                        </ul>
                     </div>
                     </p>
@@ -77,12 +84,12 @@ permalink: cosql
                        <h2>Getting Started</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> The data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
+                    <div class="left"> The CoSQL data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
                     </div>
                     </p>
-                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=13Abvu5SUMSP3SJM-ZIj66mOkeyAquR73" download>SParC Dataset</a>
+                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=13Abvu5SUMSP3SJM-ZIj66mOkeyAquR73" download>CoSQL Dataset</a>
                     Details of baseline models and evaluation script can be found on the following GitHub site:
-                    <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/sparc" download>SParC GitHub Page</a>
+                    <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/cosql" download>CoSQL GitHub Page</a>
                     <p align="left">
                     <div class="left">Once you have built a model that works to your expectations on the dev set,
                        you can submit it to get official scores on the dev and a hidden test set. To preserve the
