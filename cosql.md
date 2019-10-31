@@ -175,9 +175,9 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               SyntaxSQL-con
-                              <p class="institution">Yale University & Salesforce Research</p>
-                              <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
+                              <p class="institution">Yale University/p>
+                              <a class="link" href="https://arxiv.org/abs/1810.05237">(Yu et al. EMNLP '18)</a>
+                              <a class="link" href="https://github.com/taoyds/syntaxSQL">code</a>
                            </td>
                            <td>14.1</td>
                            <td>2.2</td>
@@ -209,8 +209,6 @@ permalink: cosql
                        </td>
                        <td style="word-break:break-word;">
                           Template baseline
-                          <p class="institution">Yale University & Salesforce Research</p>
-                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
                        </td>
                        <td>9.3</td>
                        <td>4.0</td>
@@ -223,8 +221,6 @@ permalink: cosql
                        </td>
                        <td style="word-break:break-word;">
                           Pointer-generator baseline
-                          <p class="institution">Yale University & Salesforce Research</p>
-                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
                        </td>
                        <td>15.1</td>
                        <td>3.6</td>
@@ -237,8 +233,6 @@ permalink: cosql
                        </td>
                        <td style="word-break:break-word;">
                           Seq2Seq baseline
-                          <p class="institution">Yale University & Salesforce Research</p>
-                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
                        </td>
                        <td>14.1</td>
                        <td>3.5</td>
@@ -269,8 +263,6 @@ permalink: cosql
                        </td>
                        <td style="word-break:break-word;">
                           TBCNN-pair baseline
-                          <p class="institution">Yale University & Salesforce Research</p>
-                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
                        </td>
                        <td>83.9</td>
                     </tr>
@@ -281,8 +273,6 @@ permalink: cosql
                        </td>
                        <td style="word-break:break-word;">
                           Majority baseline
-                          <p class="institution">Yale University & Salesforce Research</p>
-                          <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
                        </td>
                        <td>62.8</td>
                     </tr>
