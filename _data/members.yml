@@ -59,6 +59,13 @@
     - name: Neha Verma
       photo: /photos/neha.jpg
       title: 2021
+    - name: Aadit Vyas
+      photo: /photos/aadit.jpg
+      title: 2020
+      url: https://www.aadit.ai/
+    - name: Jeremy Weiss
+      photo: /photos/jeremy.jpg
+      title: 2022
     - name: Caitlin Westerfield
       photo: "/photos/caitlin_westerfield.jpg"
       title: 2020
