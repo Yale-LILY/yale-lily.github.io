@@ -1,4 +1,10 @@
 papers:
+    - title: "A Neural Topic-Attention Model for Medical Term Abbreviation Disambiguation"
+      authors: "Irene Li, Michihiro Yasunaga, Muhammed Yavuz Nuzumlalı, Cesar Caraballo, Shiwani Mahajan, Harlan Krumholz, Dragomir Radev"
+      conference: "Machine Learning for Health Workshop at NeurIPS 2019"
+      image: /images/neural_top_att.png
+      pdf: "https://arxiv.org/abs/1910.14076"
+      code: "https://github.com/IreneZihuiLi/TopicAttentionMedicalAD"
     - title: "CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases"
       authors: "Tao Yu, Rui Zhang, He Yang Er, Suyi Li, Eric Xue, Bo Pang, Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, Youxuan Jiang, Michihiro Yasunaga, Sungrok Shim, Tao Chen, Alexander Fabbri, Zifan Li, Luyao Chen, Yuwen Zhang, Shreya Dixit, Vincent Zhang, Caiming Xiong, Richard Socher, Walter Lasecki, Dragomir Radev"
       conference: "Proceedings of EMNLP 2019"
