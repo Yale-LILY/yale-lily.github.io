@@ -1,0 +1,6 @@
+@article{li2019neural,
+ author = {Irene Li, Michihiro Yasunaga, Muhammed Yavuz Nuzumlalı, Cesar Caraballo, Shiwani Mahajan, Harlan Krumholz, Dragomir Radev },
+ title = {A Neural Topic-Attention Model for Medical Term Abbreviation Disambiguation},
+ journal={arXiv preprint arXiv:1910.14076},
+ year = {2019}
+}
