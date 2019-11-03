@@ -1,5 +1,5 @@
 ---
-layout: sparc
+layout: cosql
 permalink: cosql
 ---
 
