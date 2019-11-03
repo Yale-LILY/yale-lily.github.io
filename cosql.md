@@ -17,7 +17,7 @@ permalink: cosql
         <div class="row">
            <div class="col-md-12">
               <h1 id="appTitle">
-                 <img src="/images/yale_logo.png" alt="test image" height="90">
+                 <img src="/images/yale_logo.png" alt="test image" height="82">
                  <img src="/images/salesforce_logo.png" alt="test image" height="90">
                  CoSQL
                  <b>1.0</b>
