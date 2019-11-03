@@ -17,15 +17,15 @@ permalink: cosql
         <div class="row">
            <div class="col-md-12">
               <h1 id="appTitle">
-                 <img src="/images/sparc_logo.png" alt="test image" height="100">
-                 <img src="/images/sparc_logo.png" alt="test image" height="100">
+                 <img src="/images/yale_logo.png" alt="test image" height="100">
+                 <img src="/images/salesforce_logo.png" alt="test image" height="100">
                  CoSQL
                  <b>1.0</b>
-                 <img src="/images/sparc_logo.png" alt="test image" height="100">
-                 <img src="/images/sparc_logo.png" alt="test image" height="100">
+                 <img src="/images/umichi_logo.png" alt="test image" height="100">
+                 <img src="/images/cornell_logo.png" alt="test image" height="100">
               </h1>
            </div>
-           <h2 id="appSubtitle">Yale & Salesforce Conversational Semantic Parsing and Text-to-SQL Challenge</h2>
+           <h2 id="appSubtitle">A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases</h2>
         </div>
      </div>
   </div>
