@@ -163,6 +163,20 @@ permalink: cosql
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
+                              EditSQL
+                              <p class="institution">Yale University & Salesforce Research</p>
+                              <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al. ACL '19)</a>
+                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
+                           </td>
+                           <td><b>40.8</b></td>
+                           <td><b>13.7</b></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>2</p>
+                              <span class="date label label-default">Aug 30, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
                               CD-Seq2Seq
                               <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1909.05378">(Yu et al. EMNLP '19)</a>
@@ -173,7 +187,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>3</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
