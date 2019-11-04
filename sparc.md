@@ -40,8 +40,9 @@ permalink: sparc
                     </div>
                     <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">SParC Paper (ACL'19)</a>
                     <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">SParC Post</a>
-                    <hr>Related challenge: <b>Spider</b> introduces the first complex and cross-domain text-to-SQL task. It's the context-agnostic version of the SParC task.
-                    <a class="btn actionBtn" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
+                    <hr><b>Related challenge:</b> single-turn <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and conversational <a href="https://yale-lily.github.io/cosql"><b><i>CoSQL</i></b></a> tasks.
+                    <a class="btn actionBtn2" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
+                    <a class="btn actionBtn2" href="https://yale-lily.github.io/cosql">CoSQL Chanllenge (EMNLP'19)</a>
                     </p>
                     <div class="infoHeadline">
                        <h2>News</h2>
