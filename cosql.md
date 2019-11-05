@@ -25,7 +25,7 @@ permalink: cosql
                  <img src="/images/umichi_logo.png" alt="test image" height="70">
               </h1>
            </div>
-           <h2 id="appSubtitle">A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases</h2>
+           <h2 id="appSubtitle">A Conversational Text-to-SQL Challenge <br>Towards Cross-Domain Natural Language Interfaces to Databases</h2>
         </div>
      </div>
   </div>
