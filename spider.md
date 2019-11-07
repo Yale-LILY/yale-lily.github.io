@@ -206,6 +206,18 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>4</p>
+                              <span class="date label label-default">Nov 4, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              BERTRAND + GNN
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>57.9</td>
+                           <td>54.6</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>5</p>
                               <span class="date label label-default">Sep 19, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -217,7 +229,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>6</p>
                               <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -231,7 +243,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>7</p>
                               <span class="date label label-default">June 24, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -243,7 +255,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>8</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -257,7 +269,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>9</p>
                               <span class="date label label-default">May 19, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -271,7 +283,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>10</p>
                               <span class="date label label-default">June 11, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -283,7 +295,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>11</p>
                               <span class="date label label-default">June 12, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -295,7 +307,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>11</p>
+                              <p>12</p>
                               <span class="date label label-default">Aug 31, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -307,7 +319,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>12</p>
+                              <p>13</p>
                               <span class="date label label-default">May 16, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -321,7 +333,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>13</p>
+                              <p>14</p>
                               <span class="date label label-default">Feb 25, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -333,7 +345,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>14</p>
+                              <p>15</p>
                               <span class="date label label-default">May 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -346,7 +358,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>15</p>
+                              <p>16</p>
                               <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -360,7 +372,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>16</p>
+                              <p>17</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -374,7 +386,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>17</p>
+                              <p>18</p>
                               <span class="date label label-default">April 18, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -387,7 +399,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>18</p>
+                              <p>19</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -401,7 +413,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>19</p>
+                              <p>20</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -415,7 +427,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>20</p>
+                              <p>21</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -429,7 +441,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>21</p>
+                              <p>22</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
