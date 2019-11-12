@@ -45,7 +45,7 @@ redirect_from: "/seq2sql/spider"
                       <hr>Why we call it "Spider"? It is because our dataset is complex and cross-domain like a spider crawling across mutiple complex(with many foreign keys) nests(databases).
                        <a class="btn actionBtn" href="https://arxiv.org/abs/1809.08887">Spider Paper (EMNLP'18)</a>
                        <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">Spider Post</a>
-                      <hr><b>Related challenge:</b> multi-turn <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> and conversational <a href="https://yale-lily.github.io/cosql"><b><i>CoSQL</i></b></a> text-to-SQL tasks.
+                      <hr><b>Related challenges:</b> multi-turn <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> and conversational <a href="https://yale-lily.github.io/cosql"><b><i>CoSQL</i></b></a> text-to-SQL tasks.
                        <a class="btn actionBtn2" href="https://yale-lily.github.io/sparc">SParC Challenge (ACL'19)</a>
                        <a class="btn actionBtn2" href="https://yale-lily.github.io/cosql">CoSQL Challenge (EMNLP'19)</a>
                     </div>
