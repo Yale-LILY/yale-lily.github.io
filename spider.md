@@ -171,7 +171,7 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Nov 12, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              NSNet + BERT
+                              RYANSQL + BERT
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>66.6</td>
