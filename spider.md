@@ -234,8 +234,7 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               RATSQL
-                              <p class="institution">Microsoft Research & U of Edinburgh & UC Berkeley</p>
-                              <a class="link" href="https://arxiv.org/abs/1911.04942">(Wang and Shin et al., '19)</a>
+                              <p class="institution">Anonymous</p>
                            </td>
                            <td>60.6</td>
                            <td>53.7</td>
