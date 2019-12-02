@@ -210,7 +210,7 @@ redirect_from: "/seq2sql/spider"
                               IRNet + BERT
                               <p class="institution">Microsoft Research Asia</p>
                               <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al., ACL '19)</a>
-                              <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
+                              <a class="link" href="https://github.com/microsoft/IRNet">code</a>
                            </td>
                            <td>61.9</td>
                            <td>54.7</td>
@@ -288,7 +288,7 @@ redirect_from: "/seq2sql/spider"
                               IRNet
                               <p class="institution">Microsoft Research Asia</p>
                               <a class="link" href="https://arxiv.org/abs/1905.08205">(Guo and Zhan et al., ACL '19)</a>
-                              <a class="link" href="https://github.com/zhanzecheng/IRNet">code</a>
+                              <a class="link" href="https://github.com/microsoft/IRNet">code</a>
                            </td>
                            <td>53.2</td>
                            <td>46.7</td>
