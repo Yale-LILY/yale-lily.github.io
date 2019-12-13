@@ -168,8 +168,8 @@ permalink: sparc
                               GuiderSQL
                               <p class="institution">Anonymous</p>
                            </td>
-                           <td><b>34.4</b></td>
-                           <td><b>13.1</b></td>
+                           <td>34.4</td>
+                           <td>13.1</td>
                         </tr>
                         <tr>
                            <td>
