@@ -165,7 +165,7 @@ permalink: sparc
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              GuiderSQL
+                              GuideSQL
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>34.4</td>
