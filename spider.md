@@ -460,7 +460,7 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              GuiderSQL
+                              GuideSQL
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>36.8</td>
