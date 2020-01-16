@@ -53,6 +53,9 @@ permalink: cosql
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>01/16/2020</i></span>
+                             Added some supplemental files to the CoSQL dataset (No change to the data content for each task).
+                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>10/30/2019</i></span>
                              CoSQL dataset is out, see you at <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019, Hong Kong</a>!
                           </li>
