@@ -56,6 +56,9 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>01/16/2020</i></span>
+                             For value prediction (in order to compute the execution accuracy), your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
+                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>9/24/2019</i></span>
                              <a href="https://frcchang.github.io/pub/emnlp2019.2.pdf">(Min et al., EMNLP 2019)</a> translated Spider to Chinese! Check out <a href="https://taolusi.github.io/CSpider-explorer/">the Chinese challenge page</a>.
                           </li>
@@ -582,7 +585,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>Leaderboard - Execution with Value Selection</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, you can assume  that a list of gold values for each question is given. Your model has to fill them into the right slots in the SQL. Is your system going to the first one showing up on this leaderboard?
+                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
                     </div>
                     </p>
                     <table class="table performanceTable">
