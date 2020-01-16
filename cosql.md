@@ -100,7 +100,7 @@ permalink: cosql
                        you to submit your model so that we can run it on the test set for you. Here's a tutorial walking you through official evaluation of your model:
                     </div>
                     </p>
-                    <a class="btn actionBtn inverseBtn" href="https://worksheets.codalab.org/worksheets/0x9051e25df7b1404f9b1829f48b675c97" download>Submission Tutorial</a>
+                    <a class="btn actionBtn inverseBtn" href="https://worksheets.codalab.org/worksheets/0x308e69603f284587aab34b8c09aee4f1" download>Submission Tutorial</a>
                     <div class="infoHeadline">
                        <h2>Data Examples</h2>
                     </div>
@@ -272,6 +272,16 @@ permalink: cosql
                     <tr>
                        <td>
                           <p>1</p>
+                          <span class="date label label-default">Dec 20, 2019</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          UTran-SQL
+                       </td>
+                       <td><b>87.2</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
                           <span class="date label label-default">Aug 30, 2019</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -281,7 +291,7 @@ permalink: cosql
                     </tr>
                     <tr>
                        <td>
-                          <p>2</p>
+                          <p>3</p>
                           <span class="date label label-default">Aug 30, 2019</span>
                        </td>
                        <td style="word-break:break-word;">
