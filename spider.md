@@ -284,8 +284,10 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Nov 4, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              BERTRAND + GNN
-                              <p class="institution">Anonymous</p>
+                              GNN + Bertrand-DR
+                              <p class="institution">Got It R&D</p>
+                              <a class="link" href="https://arxiv.org/abs/2002.00557">(Kelkar et al., '20)</a>
+                              <a class="link" href="https://github.com/amolk/Bertrand-DR">code</a>
                            </td>
                            <td>57.9</td>
                            <td>54.6</td>
