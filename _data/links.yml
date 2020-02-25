@@ -3,6 +3,9 @@
     - name: "AAN"
       description: All About NLP (Comprehensive site about NLP tutorials)
       url: "http://aan.how/"
+    - name: "CoSQL"
+      description: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases
+      url: "https://yale-lily.github.io/cosql"
     - name: "LILY Blog"
       description: The LILY Lab's Medium blog
       url: "https://medium.com/lily-lab"

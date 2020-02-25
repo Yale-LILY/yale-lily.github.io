@@ -1,4 +1,9 @@
 papers:
+    - title: "Extending Sparse Text with Induced Domain-Specific Lexicons and Embeddings: A Case Study on Predicting Donations"
+      authors: "MeiXing Dong, Rada Mihalcea, and Dragomir Radev"
+      conference: "Computer Speech & Language, 2019"
+      pdf: "https://www.sciencedirect.com/science/article/pii/S0885230818300123"
+      image: /images/sparse_text.png
     - title: "A Neural Topic-Attention Model for Medical Term Abbreviation Disambiguation"
       authors: "Irene Li, Michihiro Yasunaga, Muhammed Yavuz Nuzumlalı, Cesar Caraballo, Shiwani Mahajan, Harlan Krumholz, Dragomir Radev"
       conference: "Machine Learning for Health Workshop at NeurIPS 2019"
@@ -49,7 +54,7 @@ papers:
       image : "/images/tags_naacl.png"
     - title: "ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks"
       authors: "Michihiro Yasunaga, Jungo Kasai, Rui Zhang, Alexander Fabbri, Irene Li, Dan Friedman, and Dragomir Radev"
-      confference: "Proceedings of AAAI 2019"
+      conference: "Proceedings of AAAI 2019"
       pdf: "https://arxiv.org/pdf/1909.01716.pdf"
       code : "https://cs.stanford.edu/~myasu/projects/scisumm_net/"
       bibtex: "/bibtex/aaai2019_scisumm.txt"
