@@ -212,7 +212,8 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               RYANSQL + BERT
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Kakao Enterprise</p>
+                              <a class="link" href="https://arxiv.org/abs/2004.03125">(Choi et al., '20)</a>
                            </td>
                            <td>66.6</td>
                            <td>58.2</td>
