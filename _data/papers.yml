@@ -1,4 +1,14 @@
 papers:
+
+    - title: "Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering"
+      authors: "Alexander R. Fabbri, Patrick Ng, Zhiguo Wang, Ramesh Nallapati, Bing Xiang"
+      conference: "Proceedings of ACL 2020"
+      pdf: "https://arxiv.org/pdf/2004.11892.pdf"
+      image: /images/uqa.png
+      bibtex: "/bibtex/uqa.txt"
+    - title: "ESPRIT: Explaining Solutions to Physical ReasonIng Tasks"
+      authors: "Nazneen Fatema Rajani*, Rui Zhang*, Yi Chern Tan, Stephan Zheng, Jeremy Weiss, Aadit Vyas, Abhijit Gupta, Caiming Xiong, Richard Socher, Dragomir Radev"
+      conference: "Proceedings of ACL 2020"
     - title: "Extending Sparse Text with Induced Domain-Specific Lexicons and Embeddings: A Case Study on Predicting Donations"
       authors: "MeiXing Dong, Rada Mihalcea, and Dragomir Radev"
       conference: "Computer Speech & Language, 2019"
