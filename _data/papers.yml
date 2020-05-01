@@ -1,5 +1,17 @@
 papers:
 
+    - title: "What are We Depressed about When We Talk about COVID19: Mental Health Analysis on Tweets Using Natural Language Processing"
+      authors: "Irene Li, Yixin Li, Tianxiao Li, Sergio Alvarez-Napagao and Dario Garcia"
+      pdf: "https://arxiv.org/pdf/2004.10899.pdf"
+      code: "https://github.com/IreneZihuiLi/EmoCT"
+      conference: "ArXiv preprint"
+      image: /images/emoct.png
+    - title: "R-VGAE: Relational-variational Graph Autoencoder for Unsupervised Prerequisite Chain Learning"
+      authors: "Irene Li, Alexander Fabbri, Swapnil Hingmire and Dragomir Radev"
+      pdf: "https://arxiv.org/pdf/2004.10610.pdf"
+      conference: "ArXiv preprint"
+      image: /images/rvgae.png
+      code: "https://github.com/Yale-LILY/LectureBank/tree/master/LectureBank2"
     - title: "Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering"
       authors: "Alexander R. Fabbri, Patrick Ng, Zhiguo Wang, Ramesh Nallapati, Bing Xiang"
       conference: "Proceedings of ACL 2020"
