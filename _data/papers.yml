@@ -22,9 +22,9 @@ papers:
       authors: "Nazneen Fatema Rajani*, Rui Zhang*, Yi Chern Tan, Stephan Zheng, Jeremy Weiss, Aadit Vyas, Abhijit Gupta, Caiming Xiong, Richard Socher, Dragomir Radev"
       conference: "Proceedings of ACL 2020"
       pdf: "https://arxiv.org/pdf/2005.00730.pdf"
-      image: /images/espirit.png
-      code: "https://github.com/salesforce/esprit"
       bibtex: "/bibtex/espirit.txt"
+      image: /images/Phyre_Overview_Figure_smaller.png
+      code: "https://github.com/salesforce/esprit"
     - title: "Extending Sparse Text with Induced Domain-Specific Lexicons and Embeddings: A Case Study on Predicting Donations"
       authors: "MeiXing Dong, Rada Mihalcea, and Dragomir Radev"
       conference: "Computer Speech & Language, 2019"
