@@ -148,24 +148,48 @@ permalink: sparc
                         <tr>
                            <td>
                               <p>1</p>
-                              <span class="date label label-default">Sep 1, 2019</span>
+                              <span class="date label label-default">May 04, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              EditSQL
-                              <p class="institution">Yale University & Salesforce Research</p>
-                              <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al. EMNLP '19)</a>
-                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
+                              SubTreeSQL + BERT
+                              <p class="institution">Anonymous</p>
                            </td>
-                           <td><b>47.9</b></td>
-                           <td><b>25.3</b></td>
+                           <td>47.4</td>
+                           <td><b>25.5</b></td>
                         </tr>
                         <tr>
                            <td>
                               <p>2</p>
+                              <span class="date label label-default">Sep 1, 2019</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              EditSQL + BERT
+                              <p class="institution">Yale University & Salesforce Research</p>
+                              <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al. EMNLP '19)</a>
+                              <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
+                           </td>
+                           <td>47.9</td>
+                           <td>25.3</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>3</p>
+                              <span class="date label label-default">May 03, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              TreeSQL V2 + BERT
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td><b>48.1</b></td>
+                           <td>25.0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>4</p>
                               <span class="date label label-default">Jan 15, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              TreeSQL
+                              TreeSQL + BERT
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>46.3</td>
@@ -173,7 +197,31 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>5</p>
+                              <span class="date label label-default">Feb 13, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              ConcatSQL + BERT
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>46.3</td>
+                           <td>22.4</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>6</p>
+                              <span class="date label label-default">Feb 13, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              ConcatSQL
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>39.0</td>
+                           <td>16.3</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>7</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -185,7 +233,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>8</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -199,7 +247,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>9</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
