@@ -171,7 +171,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>1</p>
-                              <span class="date label label-default">May 02, 2019</span>
+                              <span class="date label label-default">May 02, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
                               RATSQL v3 + BERT (DB content used)
