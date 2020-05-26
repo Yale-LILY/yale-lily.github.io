@@ -159,6 +159,18 @@ permalink: cosql
                         <tr>
                            <td>
                               <p>1</p>
+                              <span class="date label label-default">May 26, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              IGSQL + BERT
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td><b>42.5</b></td>
+                           <td><b>15.0</b></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>2</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -167,12 +179,12 @@ permalink: cosql
                               <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al. EMNLP '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
                            </td>
-                           <td><b>40.8</b></td>
-                           <td><b>13.7</b></td>
+                           <td>40.8</td>
+                           <td>13.7</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>3</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -186,7 +198,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>4</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
