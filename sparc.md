@@ -198,6 +198,18 @@ permalink: sparc
                         <tr>
                            <td>
                               <p>5</p>
+                              <span class="date label label-default">May 22, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              MH-LTA + BERT
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>48.5</td>
+                           <td>24.7</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>6</p>
                               <span class="date label label-default">Jan 15, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -209,7 +221,19 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>7</p>
+                              <span class="date label label-default">May 21, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              GAZP
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>45.9</td>
+                           <td>23.5</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>8</p>
                               <span class="date label label-default">Feb 13, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -221,7 +245,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>9</p>
                               <span class="date label label-default">Feb 13, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -233,7 +257,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>10</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -245,7 +269,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>11</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -259,7 +283,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>12</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
