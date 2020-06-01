@@ -146,7 +146,7 @@ permalink: cosql
                        <h2>Leaderboard - SQL-grounded Dialogue State Tracking</h2>
                     </div>
                     <p align="left">
-                    <div class="left">In CoSQL, user dialogue states are grounded in SQL queries. Dialogue state tracking (DST) in this case is to predict the correct SQL query for each user utterance with <code>INFORM_SQL</code> label given the interaction context and the DB schema. Comparing to other context-dependent text-to-SQL tasks such as <a href="https://yale-lily.github.io/sparc"><i>SParC</i></a>, the DST task in CoSQL also includes the ambiguous questions if the user affirms the system clarification of them. In this case, the system clarification is also given as part of the interaction context to predict the SQL query corresponding to the question. As in <a href="https://yale-lily.github.io/spider"><i>Spider</i></a> and <a href="https://yale-lily.github.io/sparc"><i>SParC</i></a> tasks, we report results of Exact Set Match without Values here.
+                    <div class="left">In CoSQL, user dialogue states are grounded in SQL queries. Dialogue state tracking (DST) in this case is to predict the correct SQL query for each user utterance with <code>INFORM_SQL</code> label given the interaction context and the DB schema. Comparing to other context-dependent text-to-SQL tasks such as <a href="https://yale-lily.github.io/sparc"><i>SParC</i></a>, the DST task in CoSQL also includes the ambiguous questions if the user affirms the system clarification of them. In this case, the system clarification is also given as part of the interaction context to predict the SQL query corresponding to the question. As in <a href="https://yale-lily.github.io/spider"><i>Spider</i></a> and <a href="https://yale-lily.github.io/sparc"><i>SParC</i></a> tasks, we report results of <b>Exact Set Match without Values</b>:
                     </div>
                     </p>
                     <table class="table performanceTable">
@@ -185,6 +185,18 @@ permalink: cosql
                         <tr>
                            <td>
                               <p>3</p>
+                              <span class="date label label-default">May 21, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              GAZP
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>39.7</td>
+                           <td>12.8</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>4</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -198,7 +210,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>5</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -210,6 +222,28 @@ permalink: cosql
                            <td>14.1</td>
                            <td>2.2</td>
                         </tr>
+                    </table>
+                    <div class="left"> and Execution with Values</b>:
+                    </div>
+                    <table class="table performanceTable">
+                    <tr>
+                       <th>Rank</th>
+                       <th>Model</th>
+                       <th>Question Match</th>
+                       <th>Interaction Match</th>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>1</p>
+                          <span class="date label label-default">May 21, 2020</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          GAZP
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td><b>35.9</b></td>
+                       <td><b>8.4</b></td>
+                    </tr>
                     </table>
                  </div>
               </div>
