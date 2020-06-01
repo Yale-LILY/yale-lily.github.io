@@ -640,7 +640,7 @@ redirect_from: "/seq2sql/spider"
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
-                       <h2>Leaderboard - Execution with Value Selection</h2>
+                       <h2>Leaderboard - Execution with Values</h2>
                     </div>
                     <p align="left">
                     <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
@@ -650,17 +650,29 @@ redirect_from: "/seq2sql/spider"
                     <tr>
                        <th>Rank</th>
                        <th>Model</th>
-                       <th>Dev</th>
                        <th>Test</th>
                     </tr>
                     <tr>
                        <td>
-                          <p></p>
+                          <p>1</p>
+                          <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
+                          BRIDGE + BERT
+                          <p class="institution">Anonymous</p>
                        </td>
-                       <td></td>
-                       <td></td>
+                       <td><b>59.9</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>1</p>
+                          <span class="date label label-default">May 20, 2020</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          GAZP
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>53.5</td>
                     </tr>
                     </table>
                  </div>
