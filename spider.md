@@ -737,60 +737,6 @@ redirect_from: "/seq2sql/spider"
                     </table>
                  </div>
               </div>
-              <div class="infoCard">
-                 <div class="infoBody">
-                    <div class="infoHeadline">
-                       <h2>Example Split Results</h2>
-                    </div>
-                    <p align="left">
-                    <div class="left"> For comparison, the models achieve much higher results if we split the dataset based on data examples instead of databases since the systems don't need to generalize to new database schemas.
-                    </div>
-                    </p>
-                    <table class="table performanceTable">
-                    <tr>
-                       <th>Rank</th>
-                       <th>Model</th>
-                       <th>Exact Set Match</th>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>1</p>
-                          <span class="date label label-default">Sep 20, 2018</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          TypeSQL
-                          <p class="institution">Yale University</p>
-                          <a class="link" href="https://arxiv.org/abs/1804.09769">(Yu et al. NAACL '18)</a>
-                       </td>
-                       <td>33.0</td>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>2</p>
-                          <span class="date label label-default">Sep 20, 2018</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          SQLNet
-                          <p class="institution">Shanghai Jiao Tong University</p>
-                          <a class="link" href="https://arxiv.org/abs/1711.04436">(Xu et al. '18)</a>
-                       </td>
-                       <td>18.3</td>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>3</p>
-                          <span class="date label label-default">Sep 20, 2018</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          Seq2Seq + attention
-                          <p class="institution">University of Edinburgh</p>
-                          <a class="link" href="https://arxiv.org/abs/1601.01280">(Dong and Lapata, 2016)</a>
-                       </td>
-                       <td>15.9</td>
-                    </tr>
-                    </table>
-                 </div>
-              </div>
            </div>
         </div>
      </div>
