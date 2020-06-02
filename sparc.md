@@ -225,7 +225,7 @@ permalink: sparc
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              GAZP
+                              GAZP + BERT
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>45.9</td>
@@ -332,7 +332,7 @@ permalink: sparc
                           <span class="date label label-default">May 21, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
-                          GAZP
+                          GAZP + BERT
                           <p class="institution">Anonymous</p>
                        </td>
                        <td>44.6</td>
