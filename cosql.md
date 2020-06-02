@@ -174,7 +174,7 @@ permalink: cosql
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              EditSQL
+                              EditSQL + BERT
                               <p class="institution">Yale University & Salesforce Research</p>
                               <a class="link" href="https://arxiv.org/abs/1909.00786">(Zhang et al. EMNLP '19)</a>
                               <a class="link" href="https://github.com/ryanzhumich/editsql">code</a>
@@ -188,7 +188,7 @@ permalink: cosql
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              GAZP
+                              GAZP + BERT
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>39.7</td>
