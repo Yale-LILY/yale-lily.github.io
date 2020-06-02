@@ -227,7 +227,7 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">May 30, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              BRIDGE + BERT
+                              BRIDGE + BERT (DB content used)
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>-</td>
@@ -380,7 +380,7 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              GAZP
+                              GAZP + BERT
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>-</td>
@@ -718,7 +718,7 @@ redirect_from: "/seq2sql/spider"
                           <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
-                          BRIDGE + BERT
+                          BRIDGE + BERT (DB content used)
                           <p class="institution">Anonymous</p>
                        </td>
                        <td><b>59.9</b></td>
@@ -729,7 +729,7 @@ redirect_from: "/seq2sql/spider"
                           <span class="date label label-default">May 20, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
-                          GAZP
+                          GAZP + BERT
                           <p class="institution">Anonymous</p>
                        </td>
                        <td>53.5</td>
