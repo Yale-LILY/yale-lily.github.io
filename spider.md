@@ -756,7 +756,7 @@ redirect_from: "/seq2sql/spider"
                           BRIDGE + BERT (DB content used)
                           <p class="institution">Anonymous</p>
                        </td>
-                       <td><b>59.9</b></td>
+                       <td>59.9</td>
                     </tr>
                     <tr>
                        <td>
