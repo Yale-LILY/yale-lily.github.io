@@ -223,7 +223,7 @@ permalink: cosql
                            <td>2.2</td>
                         </tr>
                     </table>
-                    <div class="left"> and Execution with Values</b>:
+                    <div class="left"> and <b>Execution with Values</b>:
                     </div>
                     <table class="table performanceTable">
                     <tr>
