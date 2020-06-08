@@ -57,7 +57,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>06/07/2020</i></span>
-                             We corrected some annotation errors and label mismatches (not errors) in Spider dev and test sets (~4% of dev examples updated, click <a href="https://taolusi.github.io/CSpider-explorer/">here</a> for more details). Please download the Spider dataset from this page again.
+                             We corrected some annotation errors and label mismatches (not errors) in Spider dev and test sets (~4% of dev examples updated, click <a href="https://github.com/taoyds/spider/commit/25fcd85d9b6e94acaeb5e9172deadeefeed83f5e#diff-18b0a730a7b0d29b0a78a5070d971d49">here</a> for more details). Please download the Spider dataset from this page again.
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>01/16/2020</i></span>
                              For value prediction (in order to compute the execution accuracy), your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
