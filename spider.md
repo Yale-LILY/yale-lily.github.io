@@ -56,21 +56,24 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>06/07/2020</i></span>
+                             We corrected some annotation errors and label mismatches (not errors) in Spider dev and test sets (~4% of dev examples updated, click <a href="https://taolusi.github.io/CSpider-explorer/">here</a> for more details). Please download the Spider dataset from this page again.
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>01/16/2020</i></span>
                              For value prediction (in order to compute the execution accuracy), your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
-                          </li>
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>9/24/2019</i></span>
                              <a href="https://frcchang.github.io/pub/emnlp2019.2.pdf">(Min et al., EMNLP 2019)</a> translated Spider to Chinese! Check out <a href="https://taolusi.github.io/CSpider-explorer/">the Chinese challenge page</a>.
-                          </li>
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
                              Our paper <a href="https://arxiv.org/abs/1906.02285">SParC: Cross-Domain Semantic Parsing in Context</a> with Salesforce Research was accepted to ACL 2019! It introduces the context-dependent version of the Spider challenge: <a href="https://yale-lily.github.io/sparc">SParC</a>!
-                          </li>
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>5/17/2019</i></span>
                              Please report any <a href="https://github.com/taoyds/spider/issues/24">annotation errors here</a>, we really appreciate your help and will update the data release in this summer!
-                          </li>
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>1/14/2019</i></span>
                              The <a href="https://worksheets.codalab.org/worksheets/0x82150f426cb94c17b861ef4162817399/">submission tutorial</a> is out!.
-                          </li>
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>12/17/2018</i></span>
                              We updated 7 sqlite database files (<a href="https://github.com/taoyds/spider/issues/14">issue 14</a>). Please download the Spider dataset from this page again.
                           </li>
@@ -101,7 +104,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left"> The data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
                     </div>
                     </p>
-                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=11icoH_EA-NYb0OrPTdehRWm_d7-DIzWX" download>Spider Dataset</a>
+                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=1_AckYkinAnhqmRQtGsQgUKAnTHxxX5J0" download>Spider Dataset</a>
                     Details of baseline models and evaluation script can be found on the following GitHub site:
                     <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/spider" download>Spider GitHub Page</a>
                     <p align="left">
@@ -152,6 +155,57 @@ redirect_from: "/seq2sql/spider"
               </div>
            </div>
            <div class="col-md-7">
+              <div class="infoCard">
+                 <div class="infoBody">
+                    <div class="infoHeadline">
+                       <h2>Leaderboard - Execution with Values</h2>
+                    </div>
+                    <p align="left">
+                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
+                    </div>
+                    </p>
+                    <table class="table performanceTable">
+                    <tr>
+                       <th>Rank</th>
+                       <th>Model</th>
+                       <th>Test</th>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>1</p>
+                          <span class="date label label-default">May 30, 2020</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          AuxNet + BART (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td><b>62.6</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
+                          <span class="date label label-default">May 30, 2020</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          BRIDGE + BERT (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>59.9</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>3</p>
+                          <span class="date label label-default">May 20, 2020</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          GAZP + BERT
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>53.5</td>
+                    </tr>
+                    </table>
+                 </div>
+              </div>
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
@@ -719,57 +773,6 @@ redirect_from: "/seq2sql/spider"
                       </ol>
                     </div>
                     </p>
-                 </div>
-              </div>
-              <div class="infoCard">
-                 <div class="infoBody">
-                    <div class="infoHeadline">
-                       <h2>Leaderboard - Execution with Values</h2>
-                    </div>
-                    <p align="left">
-                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
-                    </div>
-                    </p>
-                    <table class="table performanceTable">
-                    <tr>
-                       <th>Rank</th>
-                       <th>Model</th>
-                       <th>Test</th>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>1</p>
-                          <span class="date label label-default">May 30, 2020</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          AuxNet + BART (DB content used)
-                          <p class="institution">Anonymous</p>
-                       </td>
-                       <td><b>62.6</b></td>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>2</p>
-                          <span class="date label label-default">May 30, 2020</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          BRIDGE + BERT (DB content used)
-                          <p class="institution">Anonymous</p>
-                       </td>
-                       <td>59.9</td>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>3</p>
-                          <span class="date label label-default">May 20, 2020</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          GAZP + BERT
-                          <p class="institution">Anonymous</p>
-                       </td>
-                       <td>53.5</td>
-                    </tr>
-                    </table>
                  </div>
               </div>
            </div>
