@@ -56,8 +56,8 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
-                         li><span class="label label-default" style="background-color: #286dc0"><i>08/03/2020</i></span>
-                             Corrected `column_name` and `column_name_original` mismatches in 2 dbs (`scholar` and `formula_1`) in `tables.json`, and reparsed SQL queries (this only affects some models (e.g. RATSQL) which use our parsed SQL as the SQL input). Please download the Spider dataset from [the page](https://yale-lily.github.io/spider) again.. Please download the Spider dataset from this page again.
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>08/03/2020</i></span>
+                             Corrected `column_name` and `column_name_original` mismatches in 2 dbs (`scholar` and `formula_1`) in `tables.json`, and reparsed SQL queries (this only affects some models (e.g. RATSQL) which use our parsed SQL as the SQL input). Please download the Spider dataset from this page again.
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>06/07/2020</i></span>
                              We corrected some annotation errors and label mismatches (not errors) in Spider dev and test sets (~4% of dev examples updated, click <a href="https://github.com/taoyds/spider/commit/25fcd85d9b6e94acaeb5e9172deadeefeed83f5e#diff-18b0a730a7b0d29b0a78a5070d971d49">here</a> for more details). Please download the Spider dataset from this page again.
