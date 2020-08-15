@@ -1,5 +1,5 @@
-- term: Upcoming Events
-  events:
+- term: Spring 2019 Events
+  events: 
     - date: "Apr. 5 @8:00am"
       location: "Yale on York"
       type: "The 1st Yale Workshop on AI, Ethics, and Society"
@@ -11,8 +11,6 @@
       presenter: "William Wang"
       website: "https://www.cs.ucsb.edu/~william/"
       event_website: "https://cpsc.yale.edu/event/cs-colloquium-william-wang"
-- term: Spring 2019 Events
-  events: 
     - date: "Feb. 5 @10:30am"
       location: "AKW 200"
       type: "Visual Question Answering and Beyond"

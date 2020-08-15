@@ -6,6 +6,9 @@
     - name: "CoSQL"
       description: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases
       url: "https://yale-lily.github.io/cosql"
+    - name: "DART"
+      description: "Open-Domain Structured Data Record to Text Generation"
+      url: "https://github.com/Yale-LILY/dart"
     - name: "LILY Blog"
       description: The LILY Lab's Medium blog
       url: "https://medium.com/lily-lab"
@@ -27,6 +30,9 @@
     - name: "Spider"
       description: Yale Complex and Cross-Domain Semantic Parsing and Text-to-SQL Challenge/Natural Language Interfaces to Databases
       url: "https://yale-lily.github.io/spider"
+    - name: "SummEval"
+      description: 'Data and code for the paper "SummEval: Re-evaluating Summarization Evaluation"'
+      url: "https://github.com/Yale-LILY/SummEval"
     - name: "Teaching at Yale"
       description: NLP courses taught at Yale and link to other ML-related courses
       url: "https://yale-lily.github.io/teaching"
