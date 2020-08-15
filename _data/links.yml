@@ -9,6 +9,9 @@
     - name: "DART"
       description: "Open-Domain Structured Data Record to Text Generation"
       url: "https://github.com/Yale-LILY/dart"
+    - name: "ESPRIT"
+      description: "Explaining Solutions to Physical ReasonIng Tasks"
+      url: "https://github.com/salesforce/esprit"
     - name: "LILY Blog"
       description: The LILY Lab's Medium blog
       url: "https://medium.com/lily-lab"
