@@ -148,18 +148,30 @@ permalink: sparc
                         <tr>
                            <td>
                               <p>1</p>
+                              <span class="date label label-default">Sep. 21, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RAT-SQL + SCoRe
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td><b>62.4</b></td>
+                           <td><b>38.1</b></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>2</p>
                               <span class="date label label-default">July 08, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
                               R²SQL + BERT
                               <p class="institution">Anonymous</p>
                            </td>
-                           <td><b>55.8</b></td>
-                           <td><b>30.8</b></td>
+                           <td>55.8</td>
+                           <td>30.8</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>3</p>
                               <span class="date label label-default">May 26, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -171,7 +183,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>4</p>
                               <span class="date label label-default">Jun. 02, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -183,7 +195,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>5</p>
                               <span class="date label label-default">May 04, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -195,7 +207,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>6</p>
                               <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -209,7 +221,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>7</p>
                               <span class="date label label-default">May 03, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -221,7 +233,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>8</p>
                               <span class="date label label-default">May 22, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -233,7 +245,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>9</p>
                               <span class="date label label-default">Jan 15, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -245,7 +257,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>10</p>
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -257,7 +269,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>11</p>
                               <span class="date label label-default">Feb 13, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -269,7 +281,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>11</p>
+                              <p>12</p>
                               <span class="date label label-default">Feb 13, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -281,7 +293,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>12</p>
+                              <p>13</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -293,7 +305,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>13</p>
+                              <p>14</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -307,7 +319,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>14</p>
+                              <p>15</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
