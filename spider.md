@@ -164,7 +164,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>Leaderboard - Execution with Values</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
+                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3"). <i>Notice: </i> Test results after May 02, 2020 are reported on the new release (collected some annotation errors).
                     </div>
                     </p>
                     <table class="table performanceTable">
