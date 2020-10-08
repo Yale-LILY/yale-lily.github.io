@@ -1,4 +1,12 @@
 papers:
+    - title: "GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing"
+      authors: "Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong"
+      pdf: "https://arxiv.org/pdf/2009.13845.pdf"
+      image: /images/grappa.png
+    - title: "Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start"
+      pdf: "https://arxiv.org/pdf/2010.02584.pdf"
+      image: /images/ufo.png
+      authors: "Wenpeng Yin, Nazneen Fatema Rajani, Dragomir Radev, Richard Socher, Caiming Xiong"
     - title: "DART: Open-Domain Structured Data Record to Text Generation"
       pdf: "https://arxiv.org/pdf/2007.02871.pdf"
       code: "https://github.com/Yale-LILY/dart"
