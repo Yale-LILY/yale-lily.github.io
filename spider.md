@@ -215,7 +215,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>Leaderboard - Exact Set Match without Values</h2>
                     </div>
                     <p align="left">
-                    <div class="left">For exact matching evaluation, instead of simply conducting string comparison between the predicted and gold SQL queries, we decompose each SQL into several clauses, and conduct set comparison in each SQL clause. Please refer to the paper and <a href="https://github.com/taoyds/spider/tree/master/evaluation_examples">the Github page</a> for more details.
+                    <div class="left">For exact matching evaluation, instead of simply conducting string comparison between the predicted and gold SQL queries, we decompose each SQL into several clauses, and conduct set comparison in each SQL clause. Please refer to the paper and <a href="https://github.com/taoyds/spider/tree/master/evaluation_examples">the Github page</a> for more details. <i>Notice: </i> Test results after May 02, 2020 are reported on the new release (collected some annotation errors).
                     </div>
                     </p>
                     <table class="table performanceTable">
