@@ -70,6 +70,11 @@
     - name: Qinying Sun
       photo: /photos/qinying.jpg
       title: 2021
+    - name: Xiangru Tang
+      photo: /photos/xiangru.jpg
+      title: 2020
+      url: https://xiangrutang.github.io/
+      github: tangxiangru
     - name: Will Taft
       photo: /photos/will_taft.jpg
       title: 2020
