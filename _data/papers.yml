@@ -3,28 +3,30 @@ papers:
       authors: "Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong"
       pdf: "https://arxiv.org/pdf/2009.13845.pdf"
       image: /images/grappa.png
+      conference: "ARXIV 2020"
     - title: "Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start"
       pdf: "https://arxiv.org/pdf/2010.02584.pdf"
       image: /images/ufo.png
       authors: "Wenpeng Yin, Nazneen Fatema Rajani, Dragomir Radev, Richard Socher, Caiming Xiong"
+      conference: "EMNLP 2020"
     - title: "DART: Open-Domain Structured Data Record to Text Generation"
       pdf: "https://arxiv.org/pdf/2007.02871.pdf"
       code: "https://github.com/Yale-LILY/dart"
       authors: "Dragomir Radev, Rui Zhang, Amrit Rau, Abhinand Sivaprasad, Chiachun Hsieh, Nazneen Fatema Rajani, Xiangru Tang, Aadit Vyas, Neha Verma, Pranav Krishna, Yangxiaokang Liu, Nadia Irwanto, Jessica Pan, Faiaz Rahman, Ahmad Zaidi, Murori Mutuma, Yasin Tarabar, Ankit Gupta, Tao Yu, Yi Chern Tan, Xi Victoria Lin, Caiming Xiong, Richard Socher"
-      conference: "ArXiv preprint"
+      conference: "ARXIV 2020"
       image: /images/dart.png
       bibtex: "/bibtex/dart.txt"
     - title: "SummEval: Re-evaluating Summarization Evaluation"
       pdf: "https://arxiv.org/pdf/2007.12626.pdf"
       code: "https://github.com/Yale-LILY/SummEval"
       authors: "Alexander R. Fabbri, Wojciech Kryscinski, Bryan McCann, Caiming Xiong, Richard Socher, Dragomir Radev"
-      conference: "ArXiv preprint"
+      conference: "ARXIV 2020"
       image: /images/summeval.png
       bibtex: "/bibtex/summeval.txt"
     - title: "CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization"
       authors: "Andre Esteva, Anuprit Kale, Romain Paulus, Kazuma Hashimoto, Wenpeng Yin, Dragomir Radev, Richard Socher"
       pdf: "https://arxiv.org/pdf/2006.09595.pdf"
-      conference: "ArXiv preprint"
+      conference: "ARXIV 2020"
       image: /images/cosearch.png
     - title: "AAN: Developing Educational Tools for Work Force Training"
       authors: "Alexander R. Fabbri, Irene Li, Swapnil Hingmire, Dragomir Radev"
@@ -35,12 +37,12 @@ papers:
       authors: "Irene Li, Yixin Li, Tianxiao Li, Sergio Alvarez-Napagao, Dario Garcia"
       pdf: "https://arxiv.org/pdf/2004.10899.pdf"
       code: "https://github.com/IreneZihuiLi/EmoCT"
-      conference: "ArXiv preprint"
+      conference: "ARXIV 2020"
       image: /images/emoct.png
     - title: "R-VGAE: Relational-variational Graph Autoencoder for Unsupervised Prerequisite Chain Learning"
       authors: "Irene Li, Alexander Fabbri, Swapnil Hingmire, Dragomir Radev"
       pdf: "https://arxiv.org/pdf/2004.10610.pdf"
-      conference: "ArXiv preprint"
+      conference: "ARXIV 2020"
       image: /images/rvgae.png
       code: "https://github.com/Yale-LILY/LectureBank/tree/master/LectureBank2"
     - title: "Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering"
