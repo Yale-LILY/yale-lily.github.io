@@ -245,7 +245,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               RATSQL + GraPPa (DB content used)
                               <p class="institution">Yale & Salesforce Research</p>
-                              <a class="link" href="https://arxiv.org/abs/2009.13845">(Yu et al., 2020)</a>
+                              <a class="link" href="https://arxiv.org/abs/2009.13845">(Yu et al., '20)</a>
                               <a class="link" href="">code</a>
                            </td>
                            <td>73.4</td>
