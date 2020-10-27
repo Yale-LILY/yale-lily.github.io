@@ -348,7 +348,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               SmBoP + BART
                               <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
-                              <a class="link" href="https://www.cs.tau.ac.il/~joberant/smbop.pdf">(Rubin and Berant '20)</a>
+                              <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant '20)</a>
                            </td>
                            <td>66.0</td>
                            <td>60.5</td>
