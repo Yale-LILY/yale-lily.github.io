@@ -187,7 +187,9 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               IGSQL + BERT
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Peking University</p>
+                              <a class="link" href="https://arxiv.org/abs/1909.00786">(Cai et al. EMNLP '20)</a>
+                              <a class="link" href="https://github.com/headacheboy/IGSQL">code</a>
                            </td>
                            <td>42.5</td>
                            <td>15.0</td>
