@@ -215,7 +215,8 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               GAZP + BERT
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">University of Washington & Facebook AI Research</p>
+                              <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
                            </td>
                            <td>39.7</td>
                            <td>12.8</td>
@@ -264,8 +265,9 @@ permalink: cosql
                           <span class="date label label-default">May 21, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
-                          GAZP
-                          <p class="institution">Anonymous</p>
+                          GAZP + BERT
+                          <p class="institution">University of Washington & Facebook AI Research</p>
+                          <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
                        </td>
                        <td><b>35.9</b></td>
                        <td><b>8.4</b></td>
