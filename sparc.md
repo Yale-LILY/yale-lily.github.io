@@ -276,7 +276,8 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               GAZP + BERT
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">University of Washington & Facebook AI Research</p>
+                              <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
                            </td>
                            <td>45.9</td>
                            <td>23.5</td>
@@ -383,7 +384,8 @@ permalink: sparc
                        </td>
                        <td style="word-break:break-word;">
                           GAZP + BERT
-                          <p class="institution">Anonymous</p>
+                          <p class="institution">University of Washington & Facebook AI Research</p>
+                          <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
                        </td>
                        <td>44.6</td>
                        <td>19.7</td>
