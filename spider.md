@@ -191,7 +191,9 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           BRIDGE + BERT (DB content used)
-                          <p class="institution">Anonymous</p>
+                          <p class="institution">Salesforce Research</p>
+                          <a class="link" href="https://www.aclweb.org/anthology/2020.findings-emnlp.438/">(Lin et al., EMNLP-Findings '20)</a>
+                          <a class="link" href="https://github.com/salesforce/TabularSemanticParsing">code</a>
                        </td>
                        <td>59.9</td>
                     </tr>
@@ -202,7 +204,8 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           GAZP + BERT
-                          <p class="institution">Anonymous</p>
+                          <p class="institution">University of Washington & Facebook AI Research</p>
+                          <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
                        </td>
                        <td>53.5</td>
                     </tr>
@@ -372,7 +375,9 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               BRIDGE + BERT (DB content used)
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Salesforce Research</p>
+                              <a class="link" href="https://www.aclweb.org/anthology/2020.findings-emnlp.438/">(Lin et al., EMNLP-Findings '20)</a>
+                              <a class="link" href="https://github.com/salesforce/TabularSemanticParsing">code</a>
                            </td>
                            <td>65.5</td>
                            <td>59.2</td>
@@ -410,8 +415,10 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
-                              RASQL + BERT
-                              <p class="institution">Anonymous</p>
+                              SLSQL + BERT + Data Annotation
+                              <p class="institution">National University of Singapore</p>
+                              <a class="link" href="https://www.aclweb.org/anthology/2020.emnlp-main.564/">(Lei and Wang et al., EMNLP '20)</a>
+                              <a class="link" href="https://github.com/WING-NUS/slsql">code</a>
                            </td>
                            <td>60.8</td>
                            <td>55.7</td>
@@ -525,7 +532,8 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               GAZP + BERT
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">University of Washington & Facebook AI Research</p>
+                              <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
                            </td>
                            <td>-</td>
                            <td>53.3</td>
