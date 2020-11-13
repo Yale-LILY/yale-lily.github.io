@@ -16,7 +16,7 @@
       url: https://alex-fabbri.github.io/
     - name: Irene Li 
       github: IreneZihuiLi
-      photo: /photos/irene_li.jpeg
+      photo: /photos/irene.png
       title: "PhD Student"
       url: https://ireneli.eu/
     - name: Linyong Nan 
@@ -26,7 +26,7 @@
     - name: Ansong Ni
       url: https://niansong1996.github.io/
       title: "PhD Student"
-      photo: /photos/ansong.jpg
+      photo: /photos/ansong.png
     - name: Borui Wang
       photo: /photos/borui.jpg
       title: "PhD Student"
@@ -95,6 +95,9 @@
     - name: Eric Xue
       photo: /photos/eric_xue.jpg
       title: 2022
+    - name: Vincent Zhang
+      photo: /photos/vincent_zhang.png
+      title: 2021
     - name: Jiangda Zhao (J.D.)
       photo: /photos/jd.jpg
       title: 2023

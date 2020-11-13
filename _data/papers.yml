@@ -1,4 +1,14 @@
 papers:
+    - title: "Semantic Evaluation for Text-to-SQL with Distilled Test Suites"
+      authors: "Ruiqi Zhong, Tao Yu, Dan Klein"
+      pdf: "https://arxiv.org/pdf/2010.02840.pdf"
+      conference: "ARXIV 2020"
+      image: /images/txt2sqleval.png
+    - title: "Understanding and Improving Word Embeddings through a Neuroscientific Lens"
+      authors: "Sam Fereidooni, Viola Mocz, Dragomir Radev, Marvin Chun"
+      pdf: "https://www.biorxiv.org/content/10.1101/2020.09.18.304436v1.full.pdf"
+      conference: "BIORXIV 2020"
+      image: /images/understandingword.png
     - title: "GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing"
       authors: "Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong"
       pdf: "https://arxiv.org/pdf/2009.13845.pdf"
