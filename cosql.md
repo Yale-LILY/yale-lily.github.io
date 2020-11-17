@@ -53,6 +53,9 @@ permalink: cosql
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>11/15/2020</i></span>
+                             We will use <a href="https://arxiv.org/abs/2010.02840">Test Suite Accuracy</a> as our official evaluation metric for Spider, SParC, and CoSQL. Please find the evaluation code from <a href="https://github.com/taoyds/test-suite-sql-eval">here</a>.
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>01/16/2020</i></span>
                              Added some supplemental files to the CoSQL dataset (No change to the data content for each task).
                           </li>
