@@ -56,6 +56,9 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>11/15/2020</i></span>
+                             We will use <a href="https://arxiv.org/abs/2010.02840">Test Suite Accuracy</a> as our official evaluation metric for Spider, SParC, and CoSQL. Please find the evaluation code from <a href="https://github.com/taoyds/test-suite-sql-eval">here</a>. Also, Notice that Test results after May 02, 2020 are reported on the new release (collected some annotation errors).
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>08/03/2020</i></span>
                              Corrected "column_name" and "column_name_original" mismatches in 2 dbs ("scholar" and "formula_1") in tables.json, and reparsed SQL queries (this only affects some models (e.g. RATSQL) which use our parsed SQL as the SQL input). Please download the Spider dataset from this page again.
                          </li>
