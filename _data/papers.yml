@@ -19,6 +19,7 @@ papers:
       pdf: "/pdfs/COLING2020pdf.pdf"
       conference: "COLING 2020"
       image: /images/rvgae.png
+      code: "https://github.com/Yale-LILY/LectureBank/tree/master/LectureBank2"
     - title: "Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start"
       pdf: "https://arxiv.org/pdf/2010.02584.pdf"
       image: /images/ufo.png
