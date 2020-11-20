@@ -4,11 +4,6 @@ papers:
       pdf: "https://arxiv.org/pdf/2010.02840.pdf"
       conference: "ARXIV 2020"
       image: /images/txt2sqleval.png
-    - title: "Semantic Evaluation for Text-to-SQL with Distilled Test Suites"
-      authors: "Ruiqi Zhong, Tao Yu, Dan Klein"
-      pdf: "https://arxiv.org/pdf/2010.02840.pdf"
-      conference: "ARXIV 2020"
-      image: /images/txt2sqleval.png
     - title: "Understanding and Improving Word Embeddings through a Neuroscientific Lens"
       authors: "Sam Fereidooni, Viola Mocz, Dragomir Radev, Marvin Chun"
       pdf: "https://www.biorxiv.org/content/10.1101/2020.09.18.304436v1.full.pdf"
