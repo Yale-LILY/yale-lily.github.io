@@ -14,6 +14,11 @@ papers:
       pdf: "https://arxiv.org/pdf/2009.13845.pdf"
       image: /images/grappa.png
       conference: "ARXIV 2020"
+    - title: "R-VGAE: Relational-variational Graph Autoencoder for Unsupervised Prerequisite Chain Learning"
+      authors: "Irene Li, Alexander Fabbri, Swapnil Hingmire, Dragomir Radev"
+      pdf: "/pdfs/COLING2020pdf.pdf"
+      conference: "COLING 2020"
+      image: /images/rvgae.png
     - title: "Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start"
       pdf: "https://arxiv.org/pdf/2010.02584.pdf"
       image: /images/ufo.png
@@ -38,11 +43,6 @@ papers:
       pdf: "https://arxiv.org/pdf/2006.09595.pdf"
       conference: "ARXIV 2020"
       image: /images/cosearch.png
-    - title: "R-VGAE: Relational-variational Graph Autoencoder for Unsupervised Prerequisite Chain Learning"
-      authors: "Irene Li, Alexander Fabbri, Swapnil Hingmire, Dragomir Radev"
-      pdf: "/pdfs/COLING2020pdf.pdf"
-      conference: "COLING 2020"
-      image: /images/rvgae.png
     - title: "AAN: Developing Educational Tools for Work Force Training"
       authors: "Alexander R. Fabbri, Irene Li, Swapnil Hingmire, Dragomir Radev"
       pdf: "https://scinlp.org/pdfs/aan-developing-educational-tools-for-work-force-training.pdf"
