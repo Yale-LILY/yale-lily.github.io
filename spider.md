@@ -187,7 +187,7 @@ redirect_from: "/seq2sql/spider"
                           <a class="link" href="https://arxiv.org/pdf/2012.12627.pdf">(Lin et al., EMNLP-Findings '20)</a>
                           <a class="link" href="https://github.com/salesforce/TabularSemanticParsing">code</a>
                        </td>
-                       <td>68.3</td>
+                       <td><b>68.3</b></td>
                     </tr>
                     <tr>
                        <td>
@@ -200,7 +200,7 @@ redirect_from: "/seq2sql/spider"
                           <a class="link" href="https://arxiv.org/pdf/2012.12627.pdf">(Lin et al., EMNLP-Findings '20)</a>
                           <a class="link" href="https://github.com/salesforce/TabularSemanticParsing">code</a>
                        </td>
-                       <td><b>64.3</b></td>
+                       <td>64.3</td>
                     </tr>
                     <tr>
                        <td>
