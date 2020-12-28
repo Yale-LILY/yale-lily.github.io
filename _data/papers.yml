@@ -1,4 +1,21 @@
 papers:
+    - title: "Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation"
+      authors: "Alexander R. Fabbri, Simeng Han, Haoyuan Li, Haoran Li, Marjan Ghazvininejad, Shafiq Joty, Dragomir Radev, Yashar Mehdad"
+      conference: "ARXIV 2020"
+      image: /images/wikitransfer.png
+      pdf: "https://arxiv.org/pdf/2010.12836.pdf"
+    - title: "Identification of patients with carotid stenosis using natural language processing"
+      authors: "Xiao Wu, Yuzhe Zhao, Dragomir Radev, Ajay Malhotra"
+      conference: "European Radiology 2020"
+      pdf: "https://pubmed.ncbi.nlm.nih.gov/32103365/"
+      image: /images/euro_rad.png
+    - title: "SummEval: Re-evaluating Summarization Evaluation"
+      pdf: "https://arxiv.org/pdf/2007.12626.pdf"
+      code: "https://github.com/Yale-LILY/SummEval"
+      authors: "Alexander R. Fabbri, Wojciech Kryscinski, Bryan McCann, Caiming Xiong, Richard Socher, Dragomir Radev"
+      conference: "TACL 2020"
+      image: /images/summeval.png
+      bibtex: "/bibtex/summeval.txt"
     - title: "Semantic Evaluation for Text-to-SQL with Distilled Test Suites"
       authors: "Ruiqi Zhong, Tao Yu, Dan Klein"
       pdf: "https://arxiv.org/pdf/2010.02840.pdf"
@@ -32,13 +49,6 @@ papers:
       conference: "ARXIV 2020"
       image: /images/dart.png
       bibtex: "/bibtex/dart.txt"
-    - title: "SummEval: Re-evaluating Summarization Evaluation"
-      pdf: "https://arxiv.org/pdf/2007.12626.pdf"
-      code: "https://github.com/Yale-LILY/SummEval"
-      authors: "Alexander R. Fabbri, Wojciech Kryscinski, Bryan McCann, Caiming Xiong, Richard Socher, Dragomir Radev"
-      conference: "ARXIV 2020"
-      image: /images/summeval.png
-      bibtex: "/bibtex/summeval.txt"
     - title: "CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization"
       authors: "Andre Esteva, Anuprit Kale, Romain Paulus, Kazuma Hashimoto, Wenpeng Yin, Dragomir Radev, Richard Socher"
       pdf: "https://arxiv.org/pdf/2006.09595.pdf"
