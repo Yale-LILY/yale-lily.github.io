@@ -178,7 +178,9 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               R²SQL + BERT
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Alibaba DAMO</p>
+                              <a class="link" href="http://arxiv.org/abs/2101.01686">(Hui et al. AAAI '21)</a>
+                              <a class="link" href="https://github.com/huybery/r2sql">code</a>
                            </td>
                            <td>46.8</td>
                            <td>17.0</td>
