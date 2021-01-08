@@ -264,7 +264,9 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               RATSQL + GAP (DB content used)
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">University of Waterloo & AWS AI Labs</p>
+                              <a class="link" href="https://arxiv.org/abs/2012.10309">(Shi et al., AAAI'21)</a>
+                              <a class="link" href="https://github.com/awslabs/gap-text2sql">code</a>
                            </td>
                            <td>71.8</td>
                            <td><b>69.7</b></td>
