@@ -276,7 +276,8 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               RATSQL + GraPPa + GP (DB content used)
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">OCFT Gamma Big Data Lab</p>
+                              <a class="link" href="https://arxiv.org/abs/2101.09901">(Zhao et al.,'21)</a>
                            </td>
                            <td>72.8</td>
                            <td>69.8</td>
