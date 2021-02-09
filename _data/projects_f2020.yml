@@ -8,7 +8,7 @@ projects:
       image: "/public/f2020/Borui_Wang-1.png"
       project_website: "/public/f2020/Borui_Wang.pdf"
     - topic: "Sentence-Level End-to-End Data-to-Text Generation"
-      members: "Tong Wong"
+      members: "Tony Wong"
       image: "/public/f2020/Tony_Wong-1.png"
       project_website: "/public/f2020/Tony_Wong.pdf"
     - topic: "Integrating Part-of-Speech Constraints in Cross-Lingual Information Retrieval"
