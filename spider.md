@@ -402,6 +402,18 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
+                              <p>11</p>
+                              <span class="date label label-default">Nov. 25, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RATSQL-HPFT + BERT (DB content used)
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>-</td>
+                           <td>64.4</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <p>12</p>
                               <span class="date label label-default">May 31, 2020</span>
                            </td>
