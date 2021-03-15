@@ -182,6 +182,18 @@ redirect_from: "/seq2sql/spider"
                     <tr>
                        <td>
                           <p>1</p>
+                          <span class="date label label-default">Mar 10, 2021</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          SmBoP + GraPPa
+                          <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
+                          <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant '20)</a>
+                       </td>
+                       <td><b>71.1</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
                           <span class="date label label-default">Nov 24, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -190,11 +202,23 @@ redirect_from: "/seq2sql/spider"
                           <a class="link" href="https://arxiv.org/pdf/2012.12627.pdf">(Lin et al., EMNLP-Findings '20)</a>
                           <a class="link" href="https://github.com/salesforce/TabularSemanticParsing">code</a>
                        </td>
-                       <td><b>68.3</b></td>
+                       <td>68.3</td>
                     </tr>
                     <tr>
                        <td>
                           <p>2</p>
+                          <span class="date label label-default">Jan 16, 2021</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          COMBINE (DB content used)
+                          <p class="institution">Novylab Research</p>
+                          <a class="link" href="https://novelisconsulting-my.sharepoint.com/personal/ymellah_novelis_io/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fymellah%5Fnovelis%5Fio%2FDocuments%2Farticles%2FCOMBINE%5FText%5Fto%5FSQL%2Epdf&parent=%2Fpersonal%2Fymellah%5Fnovelis%5Fio%2FDocuments%2Farticles&originalPath=aHR0cHM6Ly9ub3ZlbGlzY29uc3VsdGluZy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC95bWVsbGFoX25vdmVsaXNfaW8vRVdEeUgxM0s3ZnBNbG1TVGdvYnd2STBCOUpRSUJfOFgxVHcyTFJ1MkJVSndFUT9ydGltZT1LVDdMM2lQbDJFZw">(Youssef et al.,'21)</a>
+                       </td>
+                       <td>68.2</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>3</p>
                           <span class="date label label-default">Nov 24, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -207,7 +231,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>3</p>
+                          <p>4</p>
                           <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -218,7 +242,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>4</p>
+                          <p>5</p>
                           <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -231,7 +255,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>5</p>
+                          <p>6</p>
                           <span class="date label label-default">May 20, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -327,6 +351,19 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
+                              <p>3</p>
+                              <span class="date label label-default">Mar 10, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              SmBoP + GraPPa
+                              <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
+                              <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant '20)</a>
+                           </td>
+                           <td>74.7</td>
+                           <td>69.5</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <p>6</p>
                               <span class="date label label-default">Nov 20, 2020</span>
                            </td>
@@ -340,7 +377,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>7</p>
                               <span class="date label label-default">Jan 16, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -349,7 +386,7 @@ redirect_from: "/seq2sql/spider"
                               <a class="link" href="https://novelisconsulting-my.sharepoint.com/personal/ymellah_novelis_io/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fymellah%5Fnovelis%5Fio%2FDocuments%2Farticles%2FCOMBINE%5FText%5Fto%5FSQL%2Epdf&parent=%2Fpersonal%2Fymellah%5Fnovelis%5Fio%2FDocuments%2Farticles&originalPath=aHR0cHM6Ly9ub3ZlbGlzY29uc3VsdGluZy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC95bWVsbGFoX25vdmVsaXNfaW8vRVdEeUgxM0s3ZnBNbG1TVGdvYnd2STBCOUpRSUJfOFgxVHcyTFJ1MkJVSndFUT9ydGltZT1LVDdMM2lQbDJFZw">(Youssef et al.,'21)</a>
                            </td>
                            <td>71.4</td>
-                           <td>68.2</td>
+                           <td>67.7</td>
                         </tr>
                         <tr>
                            <td>
