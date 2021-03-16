@@ -211,7 +211,7 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           COMBINE (DB content used)
-                          <p class="institution">Novylab Research</p>
+                          <p class="institution">Novelis.io Research</p>
                           <a class="link" href="https://novelisconsulting-my.sharepoint.com/personal/ymellah_novelis_io/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fymellah%5Fnovelis%5Fio%2FDocuments%2Farticles%2FCOMBINE%5FText%5Fto%5FSQL%2Epdf&parent=%2Fpersonal%2Fymellah%5Fnovelis%5Fio%2FDocuments%2Farticles&originalPath=aHR0cHM6Ly9ub3ZlbGlzY29uc3VsdGluZy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC95bWVsbGFoX25vdmVsaXNfaW8vRVdEeUgxM0s3ZnBNbG1TVGdvYnd2STBCOUpRSUJfOFgxVHcyTFJ1MkJVSndFUT9ydGltZT1LVDdMM2lQbDJFZw">(Youssef et al.,'21)</a>
                        </td>
                        <td>68.2</td>
@@ -382,7 +382,7 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               COMBINE (DB content used)
-                              <p class="institution">Novylab Research</p>
+                              <p class="institution">Novelis.io Research</p>
                               <a class="link" href="https://novelisconsulting-my.sharepoint.com/personal/ymellah_novelis_io/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fymellah%5Fnovelis%5Fio%2FDocuments%2Farticles%2FCOMBINE%5FText%5Fto%5FSQL%2Epdf&parent=%2Fpersonal%2Fymellah%5Fnovelis%5Fio%2FDocuments%2Farticles&originalPath=aHR0cHM6Ly9ub3ZlbGlzY29uc3VsdGluZy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC95bWVsbGFoX25vdmVsaXNfaW8vRVdEeUgxM0s3ZnBNbG1TVGdvYnd2STBCOUpRSUJfOFgxVHcyTFJ1MkJVSndFUT9ydGltZT1LVDdMM2lQbDJFZw">(Youssef et al.,'21)</a>
                            </td>
                            <td>71.4</td>
