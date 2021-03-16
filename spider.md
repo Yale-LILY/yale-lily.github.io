@@ -185,7 +185,7 @@ redirect_from: "/seq2sql/spider"
                           <span class="date label label-default">Mar 10, 2021</span>
                        </td>
                        <td style="word-break:break-word;">
-                          SmBoP + GraPPa
+                          SmBoP + GraPPa (DB content used)
                           <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
                           <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant '20)</a>
                        </td>
@@ -355,7 +355,7 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Mar 10, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
-                              SmBoP + GraPPa
+                              SmBoP + GraPPa (DB content used)
                               <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
                               <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant '20)</a>
                            </td>
