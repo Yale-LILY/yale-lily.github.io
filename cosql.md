@@ -227,7 +227,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p6</p>
+                              <p>6</p>
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
