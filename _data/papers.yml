@@ -11,7 +11,7 @@ papers:
     - title: "DART: Open-Domain Structured Data Record to Text Generation"
       pdf: "https://arxiv.org/pdf/2007.02871.pdf"
       code: "https://github.com/Yale-LILY/dart"
-      authors: "Dragomir Radev, Rui Zhang, Amrit Rau, Abhinand Sivaprasad, Chiachun Hsieh, Nazneen Fatema Rajani, Xiangru Tang, Aadit Vyas, Neha Verma, Pranav Krishna, Yangxiaokang Liu, Nadia Irwanto, Jessica Pan, Faiaz Rahman, Ahmad Zaidi, Murori Mutuma, Yasin Tarabar, Ankit Gupta, Tao Yu, Yi Chern Tan, Xi Victoria Lin, Caiming Xiong, Richard Socher"
+      authors: "Linyong Nan, Dragomir Radev, Rui Zhang, Amrit Rau, Abhinand Sivaprasad, Chiachun Hsieh, Xiangru Tang, Aadit Vyas, Neha Verma, Pranav Krishna, Yangxiaokang Liu, Nadia Irwanto, Jessica Pan, Faiaz Rahman, Ahmad Zaidi, Mutethia Mutuma, Yasin Tarabar, Ankit Gupta, Tao Yu, Yi Chern Tan, Xi Victoria Lin, Caiming Xiong, Richard Socher and Nazneen Fatema Rajani "
       conference: "NAACL 2021"
       image: /images/dart.png
       bibtex: "/bibtex/dart.txt"
@@ -19,12 +19,12 @@ papers:
       authors: "Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong"
       pdf: "https://arxiv.org/pdf/2009.13845.pdf"
       image: /images/grappa.png
-      conference: "ICLR 2020"
+      conference: "ICLR 2021"
     - title: "SCoRe: Pre-Training for Context Representation in Conversational Semantic Parsing"
       authors: "Tao Yu, Rui Zhang, Alex Polozov, Christopher Meek, Ahmed Hassan Awadallah"
       pdf: "https://openreview.net/forum?id=oyZxhRI2RiE"
       image: /images/score.png
-      conference: "ICLR 2020"
+      conference: "ICLR 2021"
     - title: "Identification of patients with carotid stenosis using natural language processing"
       authors: "Xiao Wu, Yuzhe Zhao, Dragomir Radev, Ajay Malhotra"
       conference: "European Radiology 2020"
