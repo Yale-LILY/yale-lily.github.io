@@ -192,7 +192,7 @@ permalink: sparc
                               <span class="date label label-default">Jan 26, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
-                              IST + BERT
+                              IST-SQL + BERT
                               <p class="institution">University of Science and Technology of China</p>
                               <a class="link" href="https://arxiv.org/pdf/2012.04995.pdf">(Wang et al. AAAI '21)</a>
                               <a class="link" href="https://github.com/runzewang/IST-SQL">code</a>
