@@ -19,3 +19,4 @@ github_username: Yale-LILY
 markdown: kramdown
 plugins:
   - jekyll-redirect-from
+future: true
