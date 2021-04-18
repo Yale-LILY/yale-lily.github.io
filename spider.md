@@ -187,7 +187,8 @@ redirect_from: "/seq2sql/spider"
                        <td style="word-break:break-word;">
                           SmBoP + GraPPa (DB content used)
                           <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
-                          <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant '20)</a>
+                          <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant, NAACL'21)</a>
+                          <a class="link" href="https://github.com/OhadRubin/SmBop">code</a>
                        </td>
                        <td><b>71.1</b></td>
                     </tr>
@@ -357,7 +358,8 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               SmBoP + GraPPa (DB content used)
                               <p class="institution">Tel-Aviv University & Allen Institute for AI</p>
-                              <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant '20)</a>
+                              <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant, NAACL'21)</a>
+                              <a class="link" href="https://github.com/OhadRubin/SmBop">code</a>
                            </td>
                            <td>74.7</td>
                            <td>69.5</td>
