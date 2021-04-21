@@ -155,7 +155,8 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               RAT-SQL + SCoRe
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Yale & Microsoft Research & PSU</p>
+                              <a class="link" href="https://openreview.net/forum?id=oyZxhRI2RiE">(Yu et al. ICLR '21)</a>
                            </td>
                            <td><b>62.4</b></td>
                            <td><b>38.1</b></td>
