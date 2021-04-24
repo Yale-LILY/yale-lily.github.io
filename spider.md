@@ -462,10 +462,11 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Sep. 8, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              ShadowGNN (DB content used)
-                              <p class="institution">Anonymous</p>
+                              ShadowGNN + RoBERTa (DB content used) 
+                              <p class="institution">SJTU XLANCE Lab & AI Speech</p>
+                              <a class="link" href="https://arxiv.org/pdf/2104.04689.pdf">(Chen et al., NAACL'21)</a>
                            </td>
-                           <td>-</td>
+                           <td>72.3</td>
                            <td>64.8</td>
                         </tr>
                         <tr>
