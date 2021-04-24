@@ -407,6 +407,19 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>9</p>
+                              <span class="date label label-default">Sep. 8, 2020</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              ShadowGNN + RoBERTa (DB content used) 
+                              <p class="institution">SJTU XLANCE Lab & AI Speech</p>
+                              <a class="link" href="https://arxiv.org/pdf/2104.04689.pdf">(Chen et al., NAACL'21)</a>
+                           </td>
+                           <td>72.3</td>
+                           <td>64.8</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>10</p>
                               <span class="date label label-default">May 02, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -420,7 +433,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>11</p>
                               <span class="date label label-default">Dec. 07, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -432,7 +445,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>12</p>
                               <span class="date label label-default">Sep. 8, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -444,7 +457,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>12</p>
+                              <p>13</p>
                               <span class="date label label-default">Nov 24, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -455,19 +468,6 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td>70.0</td>
                            <td>65.0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <p>13</p>
-                              <span class="date label label-default">Sep. 8, 2020</span>
-                           </td>
-                           <td style="word-break:break-word;">
-                              ShadowGNN + RoBERTa (DB content used) 
-                              <p class="institution">SJTU XLANCE Lab & AI Speech</p>
-                              <a class="link" href="https://arxiv.org/pdf/2104.04689.pdf">(Chen et al., NAACL'21)</a>
-                           </td>
-                           <td>72.3</td>
-                           <td>64.8</td>
                         </tr>
                         <tr>
                            <td>
