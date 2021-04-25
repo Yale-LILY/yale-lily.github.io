@@ -411,7 +411,7 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               ShadowGNN + RoBERTa (DB content used) 
-                              <p class="institution">SJTU XLANCE Lab & AI Speech</p>
+                              <p class="institution">SJTU X-LANCE Lab & AISpeech</p>
                               <a class="link" href="https://arxiv.org/pdf/2104.04689.pdf">(Chen et al., NAACL'21)</a>
                            </td>
                            <td>72.3</td>
