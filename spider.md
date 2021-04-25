@@ -415,7 +415,7 @@ redirect_from: "/seq2sql/spider"
                               <a class="link" href="https://arxiv.org/pdf/2104.04689.pdf">(Chen et al., NAACL'21)</a>
                            </td>
                            <td>72.3</td>
-                           <td>64.8</td>
+                           <td>66.1</td>
                         </tr>
                         <tr>
                            <td>
