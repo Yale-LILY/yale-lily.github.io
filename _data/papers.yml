@@ -1,4 +1,13 @@
 papers:
+    - title: "BookSum: A Collection of Datasets for Long-form Narrative Summarization"
+      authors: "Wojciech Kryściński, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong, Dragomir Radev"
+      conference: "ACL 2021"
+      image: /images/booksum.png
+      pdf: "https://arxiv.org/pdf/2105.08209.pdf"
+    - title: "ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining"
+      authors: " Alexander Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad and Dragomir Radev"
+      conference: "ACL 2021"
+      image: /images/Alex-ACL-2021.png
     - title: "Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders"
       authors: "Irene Li, Vanessa Yan, Tianxiao Li, Rihao Qu, Dragomir Radev"
       conference: "ACL 2021"
