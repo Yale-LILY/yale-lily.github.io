@@ -1,4 +1,8 @@
 papers:
+    - title: "Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders"
+      authors: "Irene Li, Vanessa Yan, Tianxiao Li, Rihao Qu, Dragomir Radev"
+      conference: "ACL 2021"
+      image: /images/qmsum.png
     - title: "QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization"
       authors: "Ming Zhong, Da Yin, Tao Yu, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu and Dragomir Radev"
       conference: "NAACL 2021"
