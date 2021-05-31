@@ -316,7 +316,7 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Nov 19, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              SGASQL + GAP (DB content used)
+                              SADGA + GAP (DB content used)
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>73.1</td>
