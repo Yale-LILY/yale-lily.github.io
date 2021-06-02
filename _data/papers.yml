@@ -1,5 +1,5 @@
 papers:
-    - title: "BookSumm: A Collection of Datasets for Long-form Narrative Summarization"
+    - title: "BookSum: A Collection of Datasets for Long-form Narrative Summarization"
       authors: "Wojciech Kryściński, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong, Dragomir Radev"
       conference: "ACL 2021"
       image: /images/booksum.png
