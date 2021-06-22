@@ -308,6 +308,7 @@ redirect_from: "/seq2sql/spider"
                               DT-Fixup SQL-SP + RoBERTa (DB content used)
                               <p class="institution">Borealis AI</p>
                               <a class="link" href="http://arxiv.org/abs/2012.15355">(Xu et al., ACL'21)</a>
+                              <a class="link" href="https://github.com/BorealisAI/DT-Fixup">code</a>
                            </td>
                            <td>75.0</td>
                            <td>70.9</td>
