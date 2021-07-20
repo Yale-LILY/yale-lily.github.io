@@ -182,6 +182,17 @@ redirect_from: "/seq2sql/spider"
                     <tr>
                        <td>
                           <p>1</p>
+                          <span class="date label label-default">Jul 14, 2021</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          T5-3B+PICARD (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td><b>75.1</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
                           <span class="date label label-default">Mar 10, 2021</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -190,11 +201,11 @@ redirect_from: "/seq2sql/spider"
                           <a class="link" href="https://arxiv.org/abs/2010.12412">(Rubin and Berant, NAACL'21)</a>
                           <a class="link" href="https://github.com/OhadRubin/SmBop">code</a>
                        </td>
-                       <td><b>71.1</b></td>
+                       <td>71.1</td>
                     </tr>
                     <tr>
                        <td>
-                          <p>2</p>
+                          <p>3</p>
                           <span class="date label label-default">Nov 24, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -207,7 +218,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>2</p>
+                          <p>3</p>
                           <span class="date label label-default">Jan 16, 2021</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -219,7 +230,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>3</p>
+                          <p>4</p>
                           <span class="date label label-default">Nov 24, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -232,7 +243,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>4</p>
+                          <p>5</p>
                           <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -243,7 +254,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>5</p>
+                          <p>6</p>
                           <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -256,7 +267,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>6</p>
+                          <p>7</p>
                           <span class="date label label-default">May 20, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -299,6 +310,18 @@ redirect_from: "/seq2sql/spider"
                            <td>75.1</td>
                            <td><b>72.0</b></td>
                         </tr>
+                        <tr>
+                           <td>
+                              <p>1</p>
+                              <span class="date label label-default">Jul 14, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              T5-3B+PICARD (DB content used)
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>75.5</td>
+                           <td><b>71.9</b></td>
+                        </tr>              
                         <tr>
                            <td>
                               <p>2</p>
