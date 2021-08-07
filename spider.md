@@ -206,6 +206,18 @@ redirect_from: "/seq2sql/spider"
                     <tr>
                        <td>
                           <p>3</p>
+                          <span class="date label label-default">Aug 05, 2021</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          RaSaP + ELECTRA (DB content used)
+                          <p class="institution">Ant Group, ZhiXiaoBao & Ada</p>
+                          <a class="link" href="https://arxiv.org/abs/2108.00804">(Huang et al.,'21)</a>
+                       </td>
+                       <td>70.0</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>4</p>
                           <span class="date label label-default">Nov 24, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -218,7 +230,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>3</p>
+                          <p>5</p>
                           <span class="date label label-default">Jan 16, 2021</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -230,7 +242,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>4</p>
+                          <p>6</p>
                           <span class="date label label-default">Nov 24, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -243,7 +255,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>5</p>
+                          <p>7</p>
                           <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -254,7 +266,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>6</p>
+                          <p>8</p>
                           <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -267,7 +279,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>7</p>
+                          <p>9</p>
                           <span class="date label label-default">May 20, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -414,6 +426,19 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td>74.7</td>
                            <td>69.5</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>5</p>
+                              <span class="date label label-default">Aug 05, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RaSaP + ELECTRA (DB content used)
+                              <p class="institution">Ant Group, ZhiXiaoBao & Ada</p>
+                              <a class="link" href="https://arxiv.org/abs/2108.00804">(Huang et al.,'21)</a>
+                           </td>
+                           <td>74.7</td>
+                           <td>69.0</td>
                         </tr>
                         <tr>
                            <td>
