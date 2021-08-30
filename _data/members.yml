@@ -9,11 +9,6 @@
 
 - group: Graduate Students
   people:
-    - name: Alex Fabbri
-      photo: /photos/fabbri_alex.jpg
-      title: "PhD Student"
-      github: Alex-Fabbri
-      url: https://alex-fabbri.github.io/
     - name: Irene Li 
       github: IreneZihuiLi
       photo: /photos/irene.png
@@ -31,15 +26,15 @@
       photo: /photos/borui.jpg
       title: "PhD Student"
       url: https://wbr0605.github.io/
-    - name: Tao Yu
-      title: "PhD Student"
-      photo: /photos/tao_yu.jpg
-      github: taoyds
-      url: https://taoyds.github.io/
     - name: Simeng Han
       title: "PhD Student"
       photo: /photos/simeng_han.png
       url: https://shirleyhan6.github.io/
+    - name: Yixin Liu
+      photo: /photos/yixin_liu.jpg
+      title: "PhD Student"
+      github: yixinL7
+      url: https://yixinl7.github.io/
 
 
 - group: Undergraduate Students
@@ -108,6 +103,16 @@
 
 - group: Graduate Alumni
   people:
+    - name: Alex Fabbri
+      photo: /photos/fabbri_alex.jpg
+      title: "PhD Student"
+      github: Alex-Fabbri
+      url: https://alex-fabbri.github.io/
+    - name: Tao Yu
+      title: "PhD Student"
+      photo: /photos/tao_yu.jpg
+      github: taoyds
+      url: https://taoyds.github.io/
     - name: Rui Zhang
       title: "PhD Student"
       photo: /photos/rui_zhang.jpg
