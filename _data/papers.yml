@@ -1,7 +1,29 @@
 papers:
+    - title: "Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization"
+      authors: "Ansong Ni, Matt Gardner, and Pradeep Dasigi"
+      conference: "EMNLP 2021"
+      image: /images/mitigating.png
+      pdf: "https://arxiv.org/pdf/2103.12235.pdf"
+    - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What’s Next"
+      authors: "Yusen Zhang*, Ansong Ni*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, and Dragomir Radev"
+      conference: "EMNLP 2021 Findings"
+      image: /images/longdiasum.png
+    - title: "SummerTime: Text Summarization Toolkit for Non-experts"
+      authors: "Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, and Dragomir Radev"
+      conference: "EMNLP 2021 (Demo Track)"
+      image: /images/summertime.png
+      pdf: "https://arxiv.org/pdf/2108.12738.pdf"
+    - title: "Neural Natural Language Processing for Unstructured Data in Electronic Health Records: a Review"
+      authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M. Krumholz, Dragomir Radev"
+      image: /images/nnlp.png
+      pdf: "https://arxiv.org/pdf/2107.02975.pdf"
+    - title: "FeTaQA: Free-form Table Question Answering"
+      authors: "Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev"
+      conference: "TACL"
+      image: /images/fetaqa.png
+      pdf: "https://arxiv.org/pdf/2104.00369.pdf"
     - title: "BookSum: A Collection of Datasets for Long-form Narrative Summarization"
       authors: "Wojciech Kryściński, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong, Dragomir Radev"
-      conference: "ACL 2021"
       image: /images/booksum.png
       pdf: "https://arxiv.org/pdf/2105.08209.pdf"
     - title: "ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining"
