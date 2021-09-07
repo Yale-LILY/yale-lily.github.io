@@ -2,12 +2,10 @@ papers:
     - title: "Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization"
       authors: "Ansong Ni, Matt Gardner, and Pradeep Dasigi"
       conference: "EMNLP 2021"
-      image: /images/mitigating.png
       pdf: "https://arxiv.org/pdf/2103.12235.pdf"
     - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What’s Next"
       authors: "Yusen Zhang*, Ansong Ni*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, and Dragomir Radev"
       conference: "EMNLP 2021 Findings"
-      image: /images/longdiasum.png
     - title: "SummerTime: Text Summarization Toolkit for Non-experts"
       authors: "Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, and Dragomir Radev"
       conference: "EMNLP 2021 (Demo Track)"
@@ -25,6 +23,7 @@ papers:
     - title: "BookSum: A Collection of Datasets for Long-form Narrative Summarization"
       authors: "Wojciech Kryściński, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong, Dragomir Radev"
       image: /images/booksum.png
+      conference: "arXiv"
       pdf: "https://arxiv.org/pdf/2105.08209.pdf"
     - title: "ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining"
       authors: " Alexander Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad and Dragomir Radev"
