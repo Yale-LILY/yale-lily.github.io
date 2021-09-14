@@ -186,7 +186,9 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           T5-3B+PICARD (DB content used)
-                          <p class="institution">Anonymous</p>
+                          <p class="institution">Element AI, a ServiceNow company</p>
+                          <a class="link" href="https://arxiv.org/abs/2109.05093">(Scholak et al., EMNLP'21)</a>
+                          <a class="link" href="https://github.com/ElementAI/picard">code</a>
                        </td>
                        <td><b>75.1</b></td>
                     </tr>
@@ -329,7 +331,9 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               T5-3B+PICARD (DB content used)
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Element AI, a ServiceNow company</p>
+                              <a class="link" href="https://arxiv.org/abs/2109.05093">(Scholak et al., EMNLP'21)</a>
+                              <a class="link" href="https://github.com/ElementAI/picard">code</a>
                            </td>
                            <td>75.5</td>
                            <td><b>71.9</b></td>
