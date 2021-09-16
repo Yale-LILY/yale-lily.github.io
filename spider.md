@@ -203,7 +203,7 @@ redirect_from: "/seq2sql/spider"
                           <a class="link" href="https://arxiv.org/abs/2109.05153">(Gan et al., EMNLP Findings'21)</a>
                           <a class="link" href="https://github.com/ygan/NatSQL">code</a>
                        </td>
-                       <td>73.7</td>
+                       <td>73.3</td>
                     </tr>
                     <tr>
                        <td>
