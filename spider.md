@@ -188,7 +188,7 @@ redirect_from: "/seq2sql/spider"
                           T5-3B+PICARD (DB content used)
                           <p class="institution">Element AI, a ServiceNow company</p>
                           <a class="link" href="https://arxiv.org/abs/2109.05093">(Scholak et al., EMNLP'21)</a>
-                          <a class="link" href="https://github.com/ygan/NatSQL">code</a>
+                          <a class="link" href="https://github.com/ElementAI/picard">code</a>
                        </td>
                        <td><b>75.1</b></td>
                     </tr>
@@ -203,7 +203,7 @@ redirect_from: "/seq2sql/spider"
                           <a class="link" href="https://arxiv.org/abs/2109.05153">(Gan et al., EMNLP Findings'21)</a>
                           <a class="link" href="https://github.com/ygan/NatSQL">code</a>
                        </td>
-                       <td><b>73.7</b></td>
+                       <td>73.7</td>
                     </tr>
                     <tr>
                        <td>
