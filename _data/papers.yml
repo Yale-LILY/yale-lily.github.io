@@ -2,7 +2,7 @@ papers:
     - title: "Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization"
       authors: "Ansong Ni, Matt Gardner, and Pradeep Dasigi"
       conference: "EMNLP 2021"
-      image: /images/fetaqa.png.png
+      image: /images/fetaqa.png
       pdf: "https://arxiv.org/pdf/2103.12235.pdf"
     - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What’s Next"
       authors: "Yusen Zhang*, Ansong Ni*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, and Dragomir Radev"
