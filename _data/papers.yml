@@ -2,10 +2,13 @@ papers:
     - title: "Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization"
       authors: "Ansong Ni, Matt Gardner, and Pradeep Dasigi"
       conference: "EMNLP 2021"
+      image: /images/ansong-emnlp-2021.png
       pdf: "https://arxiv.org/pdf/2103.12235.pdf"
     - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What’s Next"
       authors: "Yusen Zhang*, Ansong Ni*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, and Dragomir Radev"
       conference: "EMNLP 2021 Findings"
+      image: /images/yusen-emnlp-2021.png
+      pdf: "https://arxiv.org/pdf/2109.04609.pdf"
     - title: "SummerTime: Text Summarization Toolkit for Non-experts"
       authors: "Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, and Dragomir Radev"
       conference: "EMNLP 2021 (Demo Track)"
