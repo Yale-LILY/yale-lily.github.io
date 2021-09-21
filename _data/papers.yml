@@ -4,6 +4,26 @@ papers:
       conference: "RepL4NLP Workshop, ACL, 2021"
       image: /images/irene-improving.png
       pdf: "https://aclanthology.org/2021.repl4nlp-1.1/"
+    - title: "Heterogeneous Graph Neural Networks for Multi-label Text Classification"
+      authors: "Irene Li, Tianxiao Li, Yixin Li, Ruihai Dong and Toyotaro Suzumura"
+      conference: "arXiv"
+      image: /images/irene-heterogeneous.png
+      pdf: "https://arxiv.org/abs/2103.14620"
+    - title: "Detecting Bias in Transfer Learning Approaches for Text Classification"
+      authors: "Irene Li"
+      conference: "arXiv"
+      image: /images/irene-detecting.png
+      pdf: "https://arxiv.org/pdf/2102.02114.pdf"
+    - title: "Global Data Science Project for COVID-19 Summary Report"
+      authors: "Dario Garcia-Gasulla, Sergio Alvarez Napagao, Irene Li, Hiroshi Maruyama, Hiroki Kanezashi, Raquel P’erez-Arnal, Kunihiko Miyoshi, Euma Ishii, Keita Suzuki, Sayaka Shiba, Mariko Kurokawa, Yuta Kanzawa, Naomi Nakagawa, Masatoshi Hanai, Yixin Li, Tianxiao Li"
+      conference: "arXiv"
+      image: /images/irene-global.png
+      pdf: "https://arxiv.org/abs/2006.05573"
+    - title: "Efficient Variational Graph Autoencoders for Unsupervised Cross-domain Prerequisite Chains"
+      authors: "Irene Li, Vanessa Yan, Dragomir Radev"
+      conference: "arXiv"
+      image: /images/irene-efficient.png
+      pdf: "https://arxiv.org/pdf/2109.08722.pdf"
     - title: "Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization"
       authors: "Ansong Ni, Matt Gardner, and Pradeep Dasigi"
       conference: "EMNLP 2021"
