@@ -1,4 +1,9 @@
 papers:
+    - title: "Improving Cross-lingual Text Classification with Zero-shot Instance-Weighting"
+      authors: "Irene Li, Prithviraj Sen, Huaiyu Zhu, Yunyao Li and Dragomir Radev"
+      conference: "RepL4NLP Workshop, ACL, 2021"
+      image: /images/irene-improving.png
+      pdf: "https://aclanthology.org/2021.repl4nlp-1.1/"
     - title: "Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization"
       authors: "Ansong Ni, Matt Gardner, and Pradeep Dasigi"
       conference: "EMNLP 2021"
