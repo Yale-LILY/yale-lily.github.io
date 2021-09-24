@@ -1,4 +1,14 @@
 papers:
+    - title: "DocNLI: A Large-scale Dataset for Document-level Natural Language Inference"
+      authors: "Wenpeng Yin, Dragomir Radev, Caiming Xiong"
+      conference: "ACL'21 Findings"
+      image: /images/docnli.png
+      pdf: "https://arxiv.org/pdf/2106.09449.pdf"
+    - title: "Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries"
+      authors: "Xiangru Tang, Alexander R. Fabbri, Ziming Mao, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev"
+      conference: "arXiv"
+      image: /images/xiangru-investigating.png
+      pdf: "https://arxiv.org/pdf/2109.09195.pdf"
     - title: "Improving Cross-lingual Text Classification with Zero-shot Instance-Weighting"
       authors: "Irene Li, Prithviraj Sen, Huaiyu Zhu, Yunyao Li and Dragomir Radev"
       conference: "RepL4NLP Workshop, ACL, 2021"
