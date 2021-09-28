@@ -162,6 +162,20 @@ permalink: cosql
                         <tr>
                            <td>
                               <p>1</p>
+                              <span class="date label label-default">Jul 14, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              T5-3B+PICARD (DB content used)
+                              <p class="institution">Element AI, a ServiceNow company</p>
+                              <a class="link" href="https://arxiv.org/abs/2109.05093">(Scholak et al., EMNLP'21)</a>
+                              <a class="link" href="https://github.com/ElementAI/picard">code</a>
+                           </td>
+                           <td><b>54.6</b></td>
+                           <td><b>23.7</b></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>2</p>
                               <span class="date label label-default">Sep. 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -169,12 +183,12 @@ permalink: cosql
                               <p class="institution">Yale & Microsoft Research & PSU</p>
                               <a class="link" href="https://openreview.net/forum?id=oyZxhRI2RiE">(Yu et al. ICLR '21)</a>
                            </td>
-                           <td><b>51.6</b></td>
-                           <td><b>21.2</b></td>
+                           <td>51.6</td>
+                           <td>21.2</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>3</p>
                               <span class="date label label-default">Aug 24, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -188,7 +202,7 @@ permalink: cosql
                         </tr> 
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>4</p>
                               <span class="date label label-default">Jan 26, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -202,7 +216,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>5</p>
                               <span class="date label label-default">Nov. 16, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -214,7 +228,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>6</p>
                               <span class="date label label-default">May 26, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -228,7 +242,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>7</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -242,7 +256,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>8</p>
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -255,7 +269,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>9</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -269,7 +283,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>10</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
