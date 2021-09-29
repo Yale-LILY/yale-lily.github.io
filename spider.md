@@ -361,7 +361,7 @@ redirect_from: "/seq2sql/spider"
                               <a class="link" href="https://github.com/ElementAI/picard">code</a>
                            </td>
                            <td>75.5</td>
-                           <td>71.9</td>
+                           <td><b>71.9</b></td>
                         </tr>              
                         <tr>
                            <td>
