@@ -159,9 +159,21 @@ permalink: cosql
                            <th>Question Match</th>
                            <th>Interaction Match</th>
                         </tr>
-                        <tr>
+			<tr>
                            <td>
                               <p>1</p>
+                              <span class="date label label-default">Oct 5, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              HIE-SQL + GraPPa
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>53.9</td>
+                           <td>24.6</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>2</p>
                               <span class="date label label-default">Jul 14, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -175,7 +187,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>3</p>
                               <span class="date label label-default">Sep. 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -188,7 +200,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>4</p>
                               <span class="date label label-default">Aug 24, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -202,7 +214,7 @@ permalink: cosql
                         </tr> 
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>5</p>
                               <span class="date label label-default">Jan 26, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -216,7 +228,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>6</p>
                               <span class="date label label-default">Nov. 16, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -228,7 +240,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>7</p>
                               <span class="date label label-default">May 26, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -242,7 +254,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>8</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -256,7 +268,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>9</p>
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -269,7 +281,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>10</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -283,7 +295,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>11</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
