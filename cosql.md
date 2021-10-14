@@ -165,11 +165,11 @@ permalink: cosql
                               <span class="date label label-default">Oct 5, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
-                              HIE-SQL + GraPPa
+                              HIE-SQL + GraPPa 
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>53.9</td>
-                           <td>24.6</td>
+                           <td><b>24.6</b></td>
                         </tr>
                         <tr>
                            <td>
@@ -177,13 +177,13 @@ permalink: cosql
                               <span class="date label label-default">Jul 14, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
-                              T5-3B+PICARD (DB content used)
+                              T5-3B+PICARD 
                               <p class="institution">Element AI, a ServiceNow company</p>
                               <a class="link" href="https://arxiv.org/abs/2109.05093">(Scholak et al., EMNLP'21)</a>
                               <a class="link" href="https://github.com/ElementAI/picard">code</a>
                            </td>
                            <td><b>54.6</b></td>
-                           <td><b>23.7</b></td>
+                           <td>23.7</td>
                         </tr>
                         <tr>
                            <td>
@@ -191,7 +191,7 @@ permalink: cosql
                               <span class="date label label-default">Sep. 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              RAT-SQL + SCoRe
+                              RAT-SQL + SCoRe 
                               <p class="institution">Yale & Microsoft Research & PSU</p>
                               <a class="link" href="https://openreview.net/forum?id=oyZxhRI2RiE">(Yu et al. ICLR '21)</a>
                            </td>
