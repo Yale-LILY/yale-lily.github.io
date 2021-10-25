@@ -41,7 +41,7 @@ papers:
       pdf: "https://arxiv.org/abs/2006.05573"
     - title: "Efficient Variational Graph Autoencoders for Unsupervised Cross-domain Prerequisite Chains"
       authors: "Irene Li, Vanessa Yan, Dragomir Radev"
-      conference: "arXiv"
+      conference: "Efficient Natural Language and Speech Processing (ENLSP) Workshop, NeurIPS 2021"
       image: /images/irene-efficient.png
       pdf: "https://arxiv.org/pdf/2109.08722.pdf"
     - title: "Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization"
