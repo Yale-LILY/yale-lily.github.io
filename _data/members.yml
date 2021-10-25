@@ -35,10 +35,24 @@
       title: "PhD Student"
       github: yixinL7
       url: https://yixinl7.github.io/
+    - name: Xiangru Tang
+      photo: /photos/xiangru.jpg
+      title: "Master Student"
+      url: https://xiangrutang.github.io/
+      github: tangxiangru
+    - name: Arjun Nair
+      photo: /photos/arjunnair.png
+      title: "Master Student"
+      github: arjunvnair
+      url: https://arjunvnair.github.io/
 
 
 - group: Undergraduate Students
   people:
+    - name: Lorenzo Flores
+      photo: /photos/lorenzoflores.jpg
+      email: lj.flores@yale.edu
+      title: 2022
     - name: SK Bong
       photo: /photos/sk.jpg
       email: seungkyoon.bong@yale.edu
@@ -68,11 +82,6 @@
     - name: Qinying Sun
       photo: /photos/qinying.jpg
       title: 2021
-    - name: Xiangru Tang
-      photo: /photos/xiangru.jpg
-      title: 2020
-      url: https://xiangrutang.github.io/
-      github: tangxiangru
     - name: Will Taft
       photo: /photos/will_taft.jpg
       title: 2020
