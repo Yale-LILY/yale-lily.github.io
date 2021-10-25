@@ -1,4 +1,14 @@
 papers:
+    - title: "3D-Transformer: Molecular Representation with Transformer in 3D Space"
+      authors: "Fang Wu, Qiang Zhang, Dragomir Radev, Jiyu Cui, Wen Zhang, Huabin Xing, Ningyu Zhang, Huajun Chen"
+      conference: "arXiv"
+      image: /images/3d-transformer.png
+      pdf: "https://arxiv.org/pdf/2110.01191.pdf"
+    - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
+      authors: "Ziming Mao, Chen Henry Wu, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev"
+      conference: "arXiv"
+      image: /images/dyle.png
+      pdf: "https://arxiv.org/pdf/2110.08168.pdf"
     - title: "DocNLI: A Large-scale Dataset for Document-level Natural Language Inference"
       authors: "Wenpeng Yin, Dragomir Radev, Caiming Xiong"
       conference: "ACL'21 Findings"
