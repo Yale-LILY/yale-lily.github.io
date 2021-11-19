@@ -1,4 +1,14 @@
 papers:
+    - title: "AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization"
+      authors: "Alexander R. Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona Diab"
+      conference: "arXiv"
+      image: /images/answersumm.png
+      pdf: "https://arxiv.org/pdf/2111.06474.pdf"
+    - title: "Testing Cross-Database Semantic Parsers Using Canonical Utterances"
+      authors: "Heather Lent, Semih Yavuz, Tao Yu, Tong Niu, Yingbo Zhou, Dragomir Radev, Xi Victoria Lin"
+      conference: "Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems (Eval4NLP 2021)"
+      image: /images/lent2021.png
+      pdf: "https://aclanthology.org/2021.eval4nlp-1.8.pdf.pdf"    
     - title: "3D-Transformer: Molecular Representation with Transformer in 3D Space"
       authors: "Fang Wu, Qiang Zhang, Dragomir Radev, Jiyu Cui, Wen Zhang, Huabin Xing, Ningyu Zhang, Huajun Chen"
       conference: "arXiv"
