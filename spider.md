@@ -597,7 +597,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               ETA + BERT (DB content used)
                               <p class="institution">Microsoft Research Asia</p>
-                              <a class="link" href="https://aclanthology.org/2021.findings-acl.100.pdf">(Liu et al., ACL-Findings'21)</a>
+                              <a class="link" href="https://aclanthology.org/2021.findings-acl.100.pdf">(Liu et al., ACL-Findings '21)</a>
                            </td>
                            <td>70.8</td>
                            <td>65.3</td>
