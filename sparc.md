@@ -155,7 +155,7 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               RAT-SQL-TC + GAP
-                              <p class="institution">Meituan & PKU</p>
+                              <p class="institution">Anonymous</p>
                            </td>  
                            <td><b>65.7</b></td>
                            <td><b>43.2</b></td>
