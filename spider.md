@@ -398,6 +398,7 @@ redirect_from: "/seq2sql/spider"
                               SADGA + GAP (DB content used)
                               <p class="institution">DMIR Lab</p>
                               <a class="link" href="https://arxiv.org/abs/2111.00653">(Cai and Yuan et al., NeurIPS'21)</a>
+                              <a class="link" href="https://github.com/DMIRLAB-Group/SADGA">code</a>
                            </td>
                            <td>73.1</td>
                            <td>70.1</td>
