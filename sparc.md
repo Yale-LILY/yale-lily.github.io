@@ -155,7 +155,7 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               CQR-SQL
-                              <p class="institution">Tencent Cloud Xiaowei</p>
+                              <p class="institution">Anonymous</p>
                            </td>  
                            <td><b>67.3</b></td>
                            <td><b>43.9</b></td>
