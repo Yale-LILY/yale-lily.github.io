@@ -1,27 +1,27 @@
 papers:
     - title: "CLICKER: A Computational LInguistics Classification Scheme for Educational Resources"
       authors: "Swapnil Hingmire, Irene Li, Rena Kawamura, Benjamin Chen, Alexander Fabbri, Xiangru Tang, Yixin Liu, Thomas George, Tammy Liao, Wai Pan Wong, Vanessa Yan, Richard Zhou, Girish K. Palshikar, Dragomir Radev"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/clicker.png
       pdf: "https://arxiv.org/pdf/2112.08578.pdf"
     - title: "KAT: A Knowledge Augmented Transformer for Vision-and-Language"
       authors: "Liangke Gui, Borui Wang, Qiuyuan Huang, Alex Hauptmann, Yonatan Bisk, Jianfeng Gao"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/kat.png
       pdf: "https://arxiv.org/pdf/2112.08614.pdf"
     - title: "Surfer100: Generating Surveys From Web Resources on Wikipedia-style"
       authors: "Irene Li, Alexander Fabbri, Rina Kawamura, Yixin Liu, Xiangru Tang, Jaesung Tae, Chang Shen, Sally Ma, Tomoe Mizutani, Dragomir Radev"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/surfer100.png
       pdf: "https://arxiv.org/pdf/2112.06377.pdf"
     - title: "CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning"
       authors: "Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/confit.png
       pdf: "https://arxiv.org/pdf/2112.08713.pdf"
     - title: "AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization"
       authors: "Alexander R. Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona Diab"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/answersumm.png
       pdf: "https://arxiv.org/pdf/2111.06474.pdf"
     - title: "Testing Cross-Database Semantic Parsers Using Canonical Utterances"
@@ -31,12 +31,12 @@ papers:
       pdf: "https://aclanthology.org/2021.eval4nlp-1.8.pdf.pdf"    
     - title: "3D-Transformer: Molecular Representation with Transformer in 3D Space"
       authors: "Fang Wu, Qiang Zhang, Dragomir Radev, Jiyu Cui, Wen Zhang, Huabin Xing, Ningyu Zhang, Huajun Chen"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/3d-transformer.png
       pdf: "https://arxiv.org/pdf/2110.01191.pdf"
     - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
       authors: "Ziming Mao, Chen Henry Wu, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/dyle.png
       pdf: "https://arxiv.org/pdf/2110.08168.pdf"
     - title: "DocNLI: A Large-scale Dataset for Document-level Natural Language Inference"
@@ -46,7 +46,7 @@ papers:
       pdf: "https://arxiv.org/pdf/2106.09449.pdf"
     - title: "Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries"
       authors: "Xiangru Tang, Alexander R. Fabbri, Ziming Mao, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/xiangru-investigating.png
       pdf: "https://arxiv.org/pdf/2109.09195.pdf"
     - title: "Improving Cross-lingual Text Classification with Zero-shot Instance-Weighting"
@@ -56,17 +56,17 @@ papers:
       pdf: "https://aclanthology.org/2021.repl4nlp-1.1/"
     - title: "Heterogeneous Graph Neural Networks for Multi-label Text Classification"
       authors: "Irene Li, Tianxiao Li, Yixin Li, Ruihai Dong and Toyotaro Suzumura"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/irene-heterogeneous.png
       pdf: "https://arxiv.org/abs/2103.14620"
     - title: "Detecting Bias in Transfer Learning Approaches for Text Classification"
       authors: "Irene Li"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/irene-detecting.png
       pdf: "https://arxiv.org/pdf/2102.02114.pdf"
     - title: "Global Data Science Project for COVID-19 Summary Report"
       authors: "Dario Garcia-Gasulla, Sergio Alvarez Napagao, Irene Li, Hiroshi Maruyama, Hiroki Kanezashi, Raquel P’erez-Arnal, Kunihiko Miyoshi, Euma Ishii, Keita Suzuki, Sayaka Shiba, Mariko Kurokawa, Yuta Kanzawa, Naomi Nakagawa, Masatoshi Hanai, Yixin Li, Tianxiao Li"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/irene-global.png
       pdf: "https://arxiv.org/abs/2006.05573"
     - title: "Efficient Variational Graph Autoencoders for Unsupervised Cross-domain Prerequisite Chains"
@@ -92,7 +92,7 @@ papers:
     - title: "Neural Natural Language Processing for Unstructured Data in Electronic Health Records: a Review"
       authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M. Krumholz, Dragomir Radev"
       image: /images/nnlp.png
-      conference: "arXiv"
+      conference: "arXiv 2021"
       pdf: "https://arxiv.org/pdf/2107.02975.pdf"
     - title: "FeTaQA: Free-form Table Question Answering"
       authors: "Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev"
