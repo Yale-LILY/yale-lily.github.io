@@ -19,11 +19,6 @@ papers:
       conference: "arXiv"
       image: /images/confit.png
       pdf: "https://arxiv.org/pdf/2112.08713.pdf"
-    - title: "CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning"
-      authors: "Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev"
-      conference: "arXiv"
-      image: /images/confit.png
-      pdf: "https://arxiv.org/pdf/2112.08713.pdf"
     - title: "AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization"
       authors: "Alexander R. Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona Diab"
       conference: "arXiv"
