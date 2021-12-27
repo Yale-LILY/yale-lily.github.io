@@ -1,4 +1,9 @@
 papers:
+    - title: "Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents"
+      authors: "Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed H. Awadallah, Dragomir Radev, Rui Zhang"
+      conference: "arXiv 2021"
+      image: /images/summn.png
+      pdf: "https://arxiv.org/pdf/2110.10150.pdf"
     - title: "Surfer100: Generating Surveys From Web Resources on Wikipedia-style"
       authors: "Irene Li, Alexander Fabbri, Rina Kawamura, Yixin Liu, Xiangru Tang, Jaesung Tae, Chang Shen, Sally Ma, Tomoe Mizutani, Dragomir Radev"
       conference: "arXiv 2021"
