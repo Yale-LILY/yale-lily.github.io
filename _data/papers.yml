@@ -1,4 +1,14 @@
 papers:
+    - title: "CLICKER: A Computational LInguistics Classification Scheme for Educational Resources"
+      authors: "Swapnil Hingmire, Irene Li, Rena Kawamura, Benjamin Chen, Alexander Fabbri, Xiangru Tang, Yixin Liu, Thomas George, Tammy Liao, Wai Pan Wong, Vanessa Yan, Richard Zhou, Girish K. Palshikar, Dragomir Radev"
+      conference: "arXiv 2021"
+      image: /images/clicker.png
+      pdf: "https://arxiv.org/pdf/2112.08578.pdf"
+    - title: "A Transfer Learning Pipeline for Educational Resource Discovery with Application in Leading Paragraph Generation" 
+      authors: Irene Li, Thomas George, Alexander Fabbri, Tammy Liao, Benjamin Chen, Rina Kawamura, Richard Zhou, Vanessa Yan, Swapnil Hingmire and Dragomir Radev
+      conference: "arXiv 2021"
+      image: /images/irene-a-transfer.png
+      pdf: "https://arxiv.org/abs/2201.02312.pdf"
     - title: "Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents"
       authors: "Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed H. Awadallah, Dragomir Radev, Rui Zhang"
       conference: "arXiv 2021"
