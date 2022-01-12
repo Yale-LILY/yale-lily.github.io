@@ -53,6 +53,54 @@
       photo: /photos/lorenzoflores.png
       email: lj.flores@yale.edu
       title: 2022
+    
+
+- group: Graduate Alumni
+  people:
+    - name: Alex Fabbri
+      photo: /photos/fabbri_alex.jpg
+      title: "PhD Student"
+      github: Alex-Fabbri
+      url: https://alex-fabbri.github.io/
+    - name: Tao Yu
+      title: "PhD Student"
+      photo: /photos/tao_yu.jpg
+      github: taoyds
+      url: https://taoyds.github.io/
+    - name: Rui Zhang
+      title: "PhD Student"
+      photo: /photos/rui_zhang.jpg
+      github: ryanzhumich
+      url: https://ryanzhumich.github.io/
+    - name: Junjie Jiang
+      photo: /photos/junjie.png
+      title: "Master's Student"
+    - name: Suyi Li
+      github:  Suyi32
+      photo: /photos/suyi.jpg
+      title: "Master's Student"
+    - name: Nikhil Maddirala
+      github: nikhilmaddirala
+      photo: /photos/nikhil.jpg
+      title: "MBA Student"
+      url: https://nikhilmaddirala.com/
+    - name: Tianwei She
+      github: Tianwei-She
+      title: "Master's Student"
+      photo: /photos/tianwei_she.jpeg
+    - name: Dongxu Wang
+      title: "Master's Student"
+      photo: /photos/dongxu_wang.jpg
+      masters: true
+      github: IsaWdx
+    - name: Kai Yang
+      title: "Master's Student"
+      photo: /photos/kai_yang.JPG
+      masters:
+      github: yangkai2g7k
+
+- group: Undergraduate Alumni
+  people:
     - name: SK Bong
       photo: /photos/sk.jpg
       email: seungkyoon.bong@yale.edu
@@ -109,53 +157,6 @@
       photo: /photos/jd.jpg
       title: 2023
       github: JiangdaZhao
-
-- group: Graduate Alumni
-  people:
-    - name: Alex Fabbri
-      photo: /photos/fabbri_alex.jpg
-      title: "PhD Student"
-      github: Alex-Fabbri
-      url: https://alex-fabbri.github.io/
-    - name: Tao Yu
-      title: "PhD Student"
-      photo: /photos/tao_yu.jpg
-      github: taoyds
-      url: https://taoyds.github.io/
-    - name: Rui Zhang
-      title: "PhD Student"
-      photo: /photos/rui_zhang.jpg
-      github: ryanzhumich
-      url: https://ryanzhumich.github.io/
-    - name: Junjie Jiang
-      photo: /photos/junjie.png
-      title: "Master's Student"
-    - name: Suyi Li
-      github:  Suyi32
-      photo: /photos/suyi.jpg
-      title: "Master's Student"
-    - name: Nikhil Maddirala
-      github: nikhilmaddirala
-      photo: /photos/nikhil.jpg
-      title: "MBA Student"
-      url: https://nikhilmaddirala.com/
-    - name: Tianwei She
-      github: Tianwei-She
-      title: "Master's Student"
-      photo: /photos/tianwei_she.jpeg
-    - name: Dongxu Wang
-      title: "Master's Student"
-      photo: /photos/dongxu_wang.jpg
-      masters: true
-      github: IsaWdx
-    - name: Kai Yang
-      title: "Master's Student"
-      photo: /photos/kai_yang.JPG
-      masters:
-      github: yangkai2g7k
-
-- group: Undergraduate Alumni
-  people:
     - name: Garrett Bingham
       photo: /photos/garrett.jpg
       email: garrett.bingham@yale.edu
