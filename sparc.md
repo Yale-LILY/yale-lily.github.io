@@ -167,7 +167,8 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               RAT-SQL-TC + GAP
-                              <p class="institution">Anonymous</p>
+			      <p class="institution">Meituan & PKU</p>
+                              <a class="link" href="https://arxiv.org/abs/2112.08735">(Li et al.,'21)</a>
                            </td>  
                            <td>65.7</td>
                            <td>43.2</td>
