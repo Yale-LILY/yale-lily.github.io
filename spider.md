@@ -329,7 +329,7 @@ redirect_from: "/seq2sql/spider"
                                 <span class="date label label-default">Sep 1, 2021</span>
                              </td>
                              <td style="word-break:break-word;">
-                                S²SQL + ELECTRA (DB content used)
+                                SSSQL + ELECTRA (DB content used)
                                 <p class="institution">Anonymous</p>
                              </td>
                              <td>76.4</td>
