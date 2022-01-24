@@ -1,4 +1,9 @@
 papers:
+    - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
+      authors: "Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu"
+      conference: "arXiv 2022"
+      image: /images/skg.png
+      pdf: "https://arxiv.org/pdf/2201.05966.pdf"
     - title: "CLICKER: A Computational LInguistics Classification Scheme for Educational Resources"
       authors: "Swapnil Hingmire, Irene Li, Rena Kawamura, Benjamin Chen, Alexander Fabbri, Xiangru Tang, Yixin Liu, Thomas George, Tammy Liao, Wai Pan Wong, Vanessa Yan, Richard Zhou, Girish K. Palshikar, Dragomir Radev"
       conference: "arXiv 2021"
