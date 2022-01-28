@@ -14,7 +14,7 @@ permalink: /publications/
 
 
   <tr><td style="padding:10px">
-{% if paper.image %}<img width="250px" src="{{paper.image}}"> {% endif %}
+{% if paper.image %}<img width="500px" src="{{paper.image}}"> {% endif %}
 </td><td style="padding:10px">
 <a class="paper" href="{{paper.pdf}}">
 {{paper.title}}
