@@ -1,4 +1,10 @@
 papers:
+    - title: "FeTaQA: Free-form Table Question Answering"
+      authors: "Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev"
+      conference: "TACL 2022"
+      image: /images/fetaqa.png
+      pdf: "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering"
+      code: https://github.com/Yale-LILY/FeTaQA
     - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
       authors: "Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu"
       conference: "arXiv 2022"
@@ -99,11 +105,6 @@ papers:
       image: /images/nnlp.png
       conference: "arXiv 2021"
       pdf: "https://arxiv.org/pdf/2107.02975.pdf"
-    - title: "FeTaQA: Free-form Table Question Answering"
-      authors: "Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev"
-      conference: "TACL"
-      image: /images/fetaqa.png
-      pdf: "https://arxiv.org/pdf/2104.00369.pdf"
     - title: "BookSum: A Collection of Datasets for Long-form Narrative Summarization"
       authors: "Wojciech Kryściński, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong, Dragomir Radev"
       image: /images/booksum.png
