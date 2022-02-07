@@ -1,4 +1,10 @@
 papers:
+    - title: "PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts"
+      authors: "Stephen H. Bach, Victor Sanh, Zheng-Xin Yong, Albert Webson, Colin Raffel, Nihal V. Nayak, Abheesht Sharma, Taewoon Kim, M Saiful Bari, Thibault Fevry, Zaid Alyafeai, Manan Dey, Andrea Santilli, Zhiqing Sun, Srulik Ben-David, Canwen Xu, Gunjan Chhablani, Han Wang, Jason Alan Fries, Maged S. Al-shaibani, Shanya Sharma, Urmish Thakker, Khalid Almubarak, Xiangru Tang, Dragomir Radev, Mike Tian-Jian Jiang, Alexander M. Rush"
+      conference: "arXiv"
+      image: /images/promptsource.png
+      pdf: "https://arxiv.org/pdf/2202.01279.pdf"
+      code: https://github.com/bigscience-workshop/promptsource
     - title: "FeTaQA: Free-form Table Question Answering"
       authors: "Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev"
       conference: "TACL 2022"
