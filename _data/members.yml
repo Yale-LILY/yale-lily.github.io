@@ -25,7 +25,7 @@
     - name: Borui Wang
       photo: /photos/borui.jpg
       title: "PhD Student"
-      url: https://wbr0605.github.io/
+      url: https://borui-wang.github.io/
     - name: Simeng Han
       title: "PhD Student"
       photo: /photos/simeng_han.png
@@ -56,6 +56,10 @@
     - name: Lorenzo Flores
       photo: /photos/lorenzoflores.png
       email: lj.flores@yale.edu
+      title: 2022
+    - name: Ziming Mao
+      photo: /photos/ziming_mao.png
+      url: https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en
       title: 2022
     
 
