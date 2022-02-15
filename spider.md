@@ -1217,6 +1217,7 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left"> <b>Other papers used Spider (evaluated on the dev but not test set):</b>
                       <ol>
+                        <li><a class="link" href="http://vldb.org/pvldb/vol15/p569-ma.pdf">(Ma et al., VLDB 2022)</a>, HKUST</li>
                         <li><a class="link" href="https://frcchang.github.io/pub/emnlp2019.2.pdf">(Min et al., EMNLP 2019)</a>, Westlake University, Spider in Chinese</li>
                         <li><a class="link" href="http://web.cse.ohio-state.edu/~sun.397/docs/MISP.pdf">(Yao et al., EMNLP 2019)</a>, OSU & Facebook AI Research</li>
                         <li><a class="link" href="https://arxiv.org/abs/1905.08407">(Shaw et al., ACL 2019)</a>, Google</li>
