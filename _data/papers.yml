@@ -13,6 +13,9 @@ papers:
       conference: "ACL 2022"
       image: /images/dyle.png
       pdf: "https://arxiv.org/pdf/2110.08168.pdf"
+    - title: "Bringing Order to Abstractive Neural Summarization"
+      authors: "Yixin Liu, Pengfei Liu, Dragomir Radev, Graham Neubig"
+      conference: "ACL 2022"
     - title: "PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts"
       authors: "Stephen H. Bach, Victor Sanh, Zheng-Xin Yong, Albert Webson, Colin Raffel, Nihal V. Nayak, Abheesht Sharma, Taewoon Kim, M Saiful Bari, Thibault Fevry, Zaid Alyafeai, Manan Dey, Andrea Santilli, Zhiqing Sun, Srulik Ben-David, Canwen Xu, Gunjan Chhablani, Han Wang, Jason Alan Fries, Maged S. Al-shaibani, Shanya Sharma, Urmish Thakker, Khalid Almubarak, Xiangru Tang, Dragomir Radev, Mike Tian-Jian Jiang, Alexander M. Rush"
       conference: "arXiv"
@@ -59,12 +62,7 @@ papers:
       authors: "Heather Lent, Semih Yavuz, Tao Yu, Tong Niu, Yingbo Zhou, Dragomir Radev, Xi Victoria Lin"
       conference: "Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems (Eval4NLP 2021)"
       image: /images/lent2021.png
-      pdf: "https://aclanthology.org/2021.eval4nlp-1.8.pdf.pdf"       
-    - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
-      authors: "Ziming Mao, Chen Henry Wu, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev"
-      conference: "arXiv 2021"
-      image: /images/dyle.png
-      pdf: "https://arxiv.org/pdf/2110.08168.pdf"
+      pdf: "https://aclanthology.org/2021.eval4nlp-1.8.pdf.pdf"      
     - title: "DocNLI: A Large-scale Dataset for Document-level Natural Language Inference"
       authors: "Wenpeng Yin, Dragomir Radev, Caiming Xiong"
       conference: "ACL'21 Findings"
