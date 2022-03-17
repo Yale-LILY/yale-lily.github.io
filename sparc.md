@@ -193,7 +193,8 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               HIE-SQL + GraPPa
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Alibaba Group</p>
+                              <a class="link" href="https://openreview.net/pdf?id=xQaTGWqyfUg">(Zheng et al. ACL-Findings '22)</a>
                            </td>
                            <td>64.6</td>
                            <td>42.9</td>
