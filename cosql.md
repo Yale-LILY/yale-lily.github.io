@@ -179,7 +179,8 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               HIE-SQL + GraPPa 
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Alibaba Group</p>
+                              <a class="link" href="https://openreview.net/pdf?id=xQaTGWqyfUg">(Zheng et al. ACL-Findings '22)</a>
                            </td>
                            <td>53.9</td>
                            <td>24.6</td>
