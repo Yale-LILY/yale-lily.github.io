@@ -58,7 +58,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>01/18/2022</i></span>
-                             Please check out our recent work <a href="https://arxiv.org/pdf/2201.05966.pdf">UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models</a>!
+                             :+1: Please check out our recent work <a href="https://arxiv.org/abs/2201.05966">UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models</a>. We open-sourced simple but SOTA/strong models for 21 tasks including text-to-SQL! Please check out our code in the [UnifiedSKG repo](https://github.com/hkunlp/unifiedskg)!!
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>03/11/2021</i></span>
                              Please check out <a href="https://arxiv.org/abs/2010.12725">a nice work</a> from Google Research (including <a href="https://github.com/google-research/language/tree/master/language/nqg">new Spider splits</a>) for studying compositional generalization in semantic parsing!
