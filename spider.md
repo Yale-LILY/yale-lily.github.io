@@ -334,7 +334,8 @@ redirect_from: "/seq2sql/spider"
                              </td>
                              <td style="word-break:break-word;">
                                 SSSQL + ELECTRA (DB content used)
-                                <p class="institution">Anonymous</p>
+                                <p class="institution">Alibaba DAMO</p>
+                                <a class="link" href="https://arxiv.org/abs/2203.06958">(Hui et al., ACL-Findings '22)</a>
                              </td>
                              <td>76.4</td>
                              <td><b>72.1</b></td>
