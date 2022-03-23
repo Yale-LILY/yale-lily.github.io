@@ -333,8 +333,9 @@ redirect_from: "/seq2sql/spider"
                                 <span class="date label label-default">Sep 1, 2021</span>
                              </td>
                              <td style="word-break:break-word;">
-                                SSSQL + ELECTRA (DB content used)
-                                <p class="institution">Anonymous</p>
+                                S²SQL + ELECTRA (DB content used)
+                                <p class="institution">Alibaba DAMO</p>
+                                <a class="link" href="https://arxiv.org/abs/2203.06958">(Hui et al., ACL-Findings '22)</a>
                              </td>
                              <td>76.4</td>
                              <td><b>72.1</b></td>
