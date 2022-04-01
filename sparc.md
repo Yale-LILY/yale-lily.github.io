@@ -193,7 +193,7 @@ permalink: sparc
                            </td>
                            <td style="word-break:break-word;">
                               HIE-SQL + GraPPa
-                              <p class="institution">Alibaba Group</p>
+                              <p class="institution">Alibaba DAMO</p>
                               <a class="link" href="https://arxiv.org/abs/2203.07376">(Zheng et al. ACL-Findings '22)</a>
                            </td>
                            <td>64.6</td>
