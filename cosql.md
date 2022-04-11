@@ -184,8 +184,8 @@ permalink: cosql
                               STAR
                               <p class="institution">Anonymous</p>
                            </td>
-			   <td><b>56.9</b></td>
-                           <td><b>25.4</b></td>
+			   <td>56.9</td>
+                           <td>25.4</td>
                         </tr>
 			<tr>
                            <td>
