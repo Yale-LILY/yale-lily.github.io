@@ -36,6 +36,7 @@ papers:
       conference: "ACL 2022"
       image: /images/summn.png
       pdf: "https://arxiv.org/pdf/2110.10150.pdf"
+      code: https://github.com/psunlpgroup/Summ-N
     - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
       authors: "Ziming Mao, Chen Henry Wu, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev"
       conference: "ACL 2022"
