@@ -9,11 +9,13 @@ papers:
       conference: "arXiv 2022"
       image: /images/surfer100.png
       pdf: "https://arxiv.org/pdf/2112.06377.pdf"
+      code: https://github.com/IreneZihuiLi/Surfer100
     - title: "EHRKit: A Python Natural Language Processing Toolkit for Electronic Health Record Texts"
       authors: "Irene Li, Keen You, Xiangru Tang, Yujie Qiao, Lucas Huang, Chia-Chun Hsieh, Benjamin Rosand, Dragomir Radev"
       conference: "arXiv 2022"
       image: /images/ehrkit.png
       pdf: "https://arxiv.org/pdf/2204.06604.pdf"
+      code: https://github.com/Yale-LILY/EHRKit-2022
     - title: "CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning"
       authors: "Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev"
       conference: "NAACL 2022"
@@ -38,6 +40,7 @@ papers:
       conference: "ACL 2022"
       image: /images/dyle.png
       pdf: "https://arxiv.org/pdf/2110.08168.pdf"
+      code: https://github.com/Yale-LILY/DYLE
     - title: "BRIO: Bringing Order to Abstractive Summarization"
       authors: "Yixin Liu, Pengfei Liu, Dragomir Radev, Graham Neubig"
       conference: "ACL 2022"
@@ -61,11 +64,13 @@ papers:
       conference: "arXiv 2022"
       image: /images/skg.png
       pdf: "https://arxiv.org/pdf/2201.05966.pdf"
+      code: https://github.com/Yale-LILY/UnifiedSKG
     - title: "CLICKER: A Computational LInguistics Classification Scheme for Educational Resources"
       authors: "Swapnil Hingmire, Irene Li, Rena Kawamura, Benjamin Chen, Alexander Fabbri, Xiangru Tang, Yixin Liu, Thomas George, Tammy Liao, Wai Pan Wong, Vanessa Yan, Richard Zhou, Girish K. Palshikar, Dragomir Radev"
       conference: "arXiv 2021"
       image: /images/clicker.png
       pdf: "https://arxiv.org/pdf/2112.08578.pdf"
+      code: https://github.com/Yale-LILY/CLICKER
     - title: "A Transfer Learning Pipeline for Educational Resource Discovery with Application in Leading Paragraph Generation" 
       authors: Irene Li, Thomas George, Alexander Fabbri, Tammy Liao, Benjamin Chen, Rina Kawamura, Richard Zhou, Vanessa Yan, Swapnil Hingmire and Dragomir Radev
       conference: "arXiv 2021"
