@@ -4,6 +4,7 @@ papers:
       conference: "arXiv 2022"
       image: /images/kasai-beam.png
       pdf: "https://arxiv.org/pdf/2204.05424.pdf"
+      code: https://github.com/Yale-LILY/beam_with_patience
     - title: "Surfer100: Generating Surveys From Web Resources on Wikipedia-style"
       authors: "Irene Li, Alexander Fabbri, Rina Kawamura, Yixin Liu, Xiangru Tang, Jaesung Tae, Chang Shen, Sally Ma, Tomoe Mizutani, Dragomir Radev"
       conference: "arXiv 2022"
