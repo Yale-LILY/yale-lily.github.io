@@ -38,7 +38,7 @@ papers:
       conference: "ACL 2022"
       image: /images/dyle.png
       pdf: "https://arxiv.org/pdf/2110.08168.pdf"
-    - title: "Bringing Order to Abstractive Neural Summarization"
+    - title: "BRIO: Bringing Order to Abstractive Summarization"
       authors: "Yixin Liu, Pengfei Liu, Dragomir Radev, Graham Neubig"
       conference: "ACL 2022"
       image: /images/yixin-acl-2022.png
