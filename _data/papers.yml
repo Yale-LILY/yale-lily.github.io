@@ -1,4 +1,12 @@
 papers:
+    - title: "Pre-training of Deep Protein Models with Molecular Dynamics Simulations for Drug Binding"
+      authors: "Fang Wu, Qiang Zhang, Dragomir Radev, Yuyang Wang, Xurui Jin, Yinghui Jiang, Zhangming Niu, Stan Z. Li"
+      conference: "arXiv 2022"
+      image: /images/wu-2022-pretraining
+      pdf: "https://arxiv.org/pdf/2204.08663.pdf"
+    - title: "Data Governance in the Age of Large-Scale Data-Driven Language Technology"
+      authors: "Yacine Jernite, Huu Nguyen, Stella Biderman, Anna Rogers, Maraim Masoud, Valentin Danchev, Samson Tan, Alexandra Sasha Luccioni, Nishant Subramani, Isaac Johnson, Gérard Dupont, Jesse Dodge, Kyle Lo, Zeerak Talat, Dragomir Radev, Aaron Gokaslan, Somaieh Nikpoor, Peter Henderson, Rishi Bommasani, Margaret Mitchell"
+      conference: "arXiv 2022"
     - title: "Beam Decoding with Controlled Patience"
       authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Dragomir Radev, Yejin Choi, Noah A. Smith"
       conference: "arXiv 2022"
