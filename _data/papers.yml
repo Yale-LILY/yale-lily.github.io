@@ -25,6 +25,11 @@ papers:
       image: /images/ehrkit.png
       pdf: "https://arxiv.org/pdf/2204.06604.pdf"
       code: https://github.com/Yale-LILY/EHRKit-2022
+    - title: "KAT: A Knowledge Augmented Transformer for Vision-and-Language"
+      authors: "Liangke Gui, Borui Wang, Qiuyuan Huang, Alex Hauptmann, Yonatan Bisk, Jianfeng Gao"
+      conference: "NAACL"
+      image: /images/kat.png
+      pdf: "https://arxiv.org/pdf/2112.08614.pdf"
     - title: "CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning"
       authors: "Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev"
       conference: "NAACL 2022"
