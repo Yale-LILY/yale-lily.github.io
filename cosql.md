@@ -170,7 +170,8 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               CQR-SQL
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Tencent Cloud Xiaowei</p>
+                              <a class="link" href="https://arxiv.org/abs/2205.07686">(Xiao et al.,'22)</a>
                            </td>
 			   <td><b>58.3</b></td>
                            <td><b>27.4</b></td>

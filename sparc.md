@@ -155,26 +155,27 @@ permalink: sparc
 			<tr>
                            <td>
                               <p>1</p>
+                              <span class="date label label-default">Apr 27, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              CQR-SQL
+                              <p class="institution">Tencent Cloud Xiaowei</p>
+                              <a class="link" href="https://arxiv.org/abs/2205.07686">(Xiao et al.,'22)</a>
+                           </td>  
+                           <td><b>68.2<b></td>
+                           <td>44.4</td>
+                        </tr>
+         <tr>
+                           <td>
+                              <p>2</p>
                               <span class="date label label-default">Feb 14, 2022</span>
                            </td>
                            <td style="word-break:break-word;">
                               STAR
                               <p class="institution">Anonymous</p>
                            </td>  
-                           <td><b>68.0</b></td>
+                           <td>68.0</td>
                            <td><b>45.4</b></td>
-                        </tr>
-			<tr>
-                           <td>
-                              <p>2</p>
-                              <span class="date label label-default">Dec 4, 2021</span>
-                           </td>
-                           <td style="word-break:break-word;">
-                              CQR-SQL
-                              <p class="institution">Anonymous</p>
-                           </td>  
-                           <td>67.3</td>
-                           <td>43.9</td>
                         </tr>
                         <tr>
                            <td>
