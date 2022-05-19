@@ -1,4 +1,9 @@
 papers:
+    - title: "Discovering the Representation Bottleneck of Graph Neural Networks from Multi-order Interactions"
+      authors: "Fang Wu, Siyuan Li, Lirong Wu, Stan Z. Li, Dragomir Radev, Qiang Zhang"
+      conference: "arXiv 2022"
+      image: /images/wu-2022-discovering.png
+      pdf: "https://arxiv.org/pdf/2205.07266.pdf"
     - title: "Pre-training of Deep Protein Models with Molecular Dynamics Simulations for Drug Binding"
       authors: "Fang Wu, Qiang Zhang, Dragomir Radev, Yuyang Wang, Xurui Jin, Yinghui Jiang, Zhangming Niu, Stan Z. Li"
       conference: "arXiv 2022"
