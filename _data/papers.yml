@@ -1,4 +1,14 @@
 papers:
+    - title: "Twist Decoding: Diverse Generators Guide Each Other"
+      authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Hao Peng, Ximing Lu, Dragomir Radev, Yejin Choi, Noah A. Smith"
+      conference: "arXiv 2022"
+      image: /images/twist-decoding.png
+      pdf: "https://arxiv.org/pdf/2205.09273.pdf"
+    - title: "You reap what you sow: On the Challenges of Bias Evaluation Under Multilingual Settings"
+      authors: "Zeerak Talat, Aurélie Névéol, Stella Biderman, Miruna Clinciu, Manan Dey, Shayne Longpre, Sasha Luccioni, Maraim Masoud, Margaret Mitchell, Dragomir Radev, Shanya Sharma, Arjun Subramonian, Jaesung Tae, Samson Tan, Deepak Tunuguntla, Oskar Van Der Wal"
+      conference: "Proceedings of BigScience Episode #5 -- Workshop on Challenges & Perspectives in Creating Large Language Models"
+      image: /images/reap.png
+      pdf: "https://aclanthology.org/2022.bigscience-1.3.pdf"
     - title: "Discovering the Representation Bottleneck of Graph Neural Networks from Multi-order Interactions"
       authors: "Fang Wu, Siyuan Li, Lirong Wu, Stan Z. Li, Dragomir Radev, Qiang Zhang"
       conference: "arXiv 2022"
@@ -11,7 +21,9 @@ papers:
       pdf: "https://arxiv.org/pdf/2204.08663.pdf"
     - title: "Data Governance in the Age of Large-Scale Data-Driven Language Technology"
       authors: "Yacine Jernite, Huu Nguyen, Stella Biderman, Anna Rogers, Maraim Masoud, Valentin Danchev, Samson Tan, Alexandra Sasha Luccioni, Nishant Subramani, Isaac Johnson, Gérard Dupont, Jesse Dodge, Kyle Lo, Zeerak Talat, Dragomir Radev, Aaron Gokaslan, Somaieh Nikpoor, Peter Henderson, Rishi Bommasani, Margaret Mitchell"
-      conference: "arXiv 2022"
+      conference: "FAccT 2022"
+      image: /images/data-governance.png
+      pdf: "https://yjernite.github.io/content/LangDataGov.pdf"
     - title: "Beam Decoding with Controlled Patience"
       authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Dragomir Radev, Yejin Choi, Noah A. Smith"
       conference: "arXiv 2022"

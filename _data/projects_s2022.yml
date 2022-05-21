@@ -11,3 +11,7 @@ projects:
       members: "Xiangru"
       image: "/public/s2022/xiangru.png"
       project_website: "/public/s2022/xiangru.pdf"
+    - topic: " Explicit Knowledge Transfer for Weakly Supervised Code Generation"
+      members: "Zhangir"
+      image: "/public/s2022/zhangir.png"
+      project_website: "/public/s2022/zhangir.pdf"
