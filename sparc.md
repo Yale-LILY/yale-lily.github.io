@@ -162,7 +162,7 @@ permalink: sparc
                               <p class="institution">Tencent Cloud Xiaowei</p>
                               <a class="link" href="https://arxiv.org/abs/2205.07686">(Xiao et al.,'22)</a>
                            </td>  
-                           <td><b>68.2<b></td>
+                           <td><b>68.2</b></td>
                            <td>44.4</td>
                         </tr>
          <tr>
