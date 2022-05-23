@@ -334,7 +334,7 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">May 23, 2022</span>
                            </td>
                            <td style="word-break:break-word;">
-                              G^3R + LGESQL + ELECTRA (DB content used)
+                              G³R + LGESQL + ELECTRA (DB content used)
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>77.2</td>
