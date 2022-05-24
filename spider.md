@@ -328,6 +328,18 @@ redirect_from: "/seq2sql/spider"
                            <th>Test</th>
                         </tr>
                         <tr>
+                          <tr>
+                           <td>
+                              <p>1</p>
+                              <span class="date label label-default">May 23, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              G³R + LGESQL + ELECTRA (DB content used)
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>77.2</td>
+                           <td><b>72.6</b></td>
+                        </tr>
                              <td>
                                 <p>1</p>
                                 <span class="date label label-default">Sep 1, 2021</span>

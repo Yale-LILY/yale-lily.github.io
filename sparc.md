@@ -167,14 +167,15 @@ permalink: sparc
 			<tr>
                            <td>
                               <p>2</p>
-                              <span class="date label label-default">Dec 4, 2021</span>
+                              <span class="date label label-default">Apr 27, 2022</span>
                            </td>
                            <td style="word-break:break-word;">
                               CQR-SQL
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Tencent Cloud Xiaowei</p>
+                              <a class="link" href="https://arxiv.org/abs/2205.07686">(Xiao et al.,'22)</a>
                            </td>  
-                           <td>67.3</td>
-                           <td>43.9</td>
+                           <td><b>68.2</b></td>
+                           <td>44.4</td>
                         </tr>
                         <tr>
                            <td>
@@ -369,6 +370,19 @@ permalink: sparc
                         <tr>
                            <td>
                               <p>18</p>
+                              <span class="date label label-default">Apr 21, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              MemCE
+                              <p class="institution">UoE</p>
+                              <a class="link" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00422/108200/Memory-Based-Semantic-Parsing">(Jain et al., TACL '21)</a>
+                           </td>
+                           <td>40.3</td>
+                           <td>16.7</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>19</p>
                               <span class="date label label-default">Feb 13, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -380,7 +394,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>19</p>
+                              <p>20</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -392,7 +406,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>20</p>
+                              <p>21</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -406,7 +420,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>21</p>
+                              <p>22</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">

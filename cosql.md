@@ -170,7 +170,8 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               CQR-SQL
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Tencent Cloud Xiaowei</p>
+                              <a class="link" href="https://arxiv.org/abs/2205.07686">(Xiao et al.,'22)</a>
                            </td>
 			   <td><b>58.3</b></td>
                            <td><b>27.4</b></td>
@@ -323,6 +324,19 @@ permalink: cosql
                         <tr>
                            <td>
                               <p>13</p>
+                              <span class="date label label-default">Apr 21, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              MemCE
+                              <p class="institution">UoE</p>
+                              <a class="link" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00422/108200/Memory-Based-Semantic-Parsing">(Jain et al., TACL '21)</a>
+                           </td>
+                           <td>28.4</td>
+                           <td>6.2</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>14</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -336,7 +350,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>14</p>
+                              <p>15</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
