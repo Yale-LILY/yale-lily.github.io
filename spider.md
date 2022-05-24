@@ -338,7 +338,7 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>77.2</td>
-                           <td>72.6</td>
+                           <td><b>72.6</b></td>
                         </tr>
                              <td>
                                 <p>1</p>
