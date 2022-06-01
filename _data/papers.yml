@@ -1,4 +1,19 @@
 papers:
+    - title: "Leveraging Locality in Abstractive Text Summarization"
+      authors: "Yixin Liu, Ansong Ni, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev"
+      conference: "arXiv 2022"
+      image: /images/yixin-2022-leveraging.png
+      pdf: "https://arxiv.org/pdf/2205.12476.pdf"
+    - title: "R2D2: Robust Data-to-Text with Replacement Detection"
+      authors: "Linyong Nan, Lorenzo Jaime Yu Flores, Yilun Zhao, Yixin Liu, Luke Benson, Weijin Zou, Dragomir Radev"
+      conference: "arXiv 2022"
+      image: /images/r2d2.png
+      pdf: "https://arxiv.org/pdf/2205.12467.pdf"
+    - title: "Learning from Self-Sampled Correct and Partially-Correct Programs"
+      authors: "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Oleksandr Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao"
+      conference: "arXiv 2022"
+      image: /images/ansong-2022-learning.png
+      pdf: "https://arxiv.org/pdf/2205.14318.pdf"
     - title: "Twist Decoding: Diverse Generators Guide Each Other"
       authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Hao Peng, Ximing Lu, Dragomir Radev, Yejin Choi, Noah A. Smith"
       conference: "arXiv 2022"
