@@ -353,7 +353,7 @@ redirect_from: "/seq2sql/spider"
                           </tr>
                           <tr>
                              <td>
-                                <p>1</p>
+                                <p>2</p>
                                 <span class="date label label-default">Sep 1, 2021</span>
                              </td>
                              <td style="word-break:break-word;">
@@ -362,11 +362,11 @@ redirect_from: "/seq2sql/spider"
                                 <a class="link" href="https://arxiv.org/abs/2203.06958">(Hui et al., ACL-Findings '22)</a>
                              </td>
                              <td>76.4</td>
-                             <td><b>72.1</b></td>
+                             <td>72.1</td>
                          </tr>
                          <tr>
                            <td>
-                              <p>1</p>
+                              <p>2</p>
                               <span class="date label label-default">Jun 1, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -376,11 +376,11 @@ redirect_from: "/seq2sql/spider"
                               <a class="link" href="https://github.com/rhythmcao/text2sql-lgesql">code</a>
                            </td>
                            <td>75.1</td>
-                           <td><b>72.0</b></td>
+                           <td>72.0</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>1</p>
+                              <p>2</p>
                               <span class="date label label-default">Jul 14, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -390,7 +390,7 @@ redirect_from: "/seq2sql/spider"
                               <a class="link" href="https://github.com/ElementAI/picard">code</a>
                            </td>
                            <td>75.5</td>
-                           <td><b>71.9</b></td>
+                           <td>71.9</td>
                         </tr>
                         <tr>
                            <td>
