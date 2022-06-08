@@ -352,7 +352,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                              <td>
-                                <p>2</p>
+                                <p>1</p>
                                 <span class="date label label-default">May 8, 2022</span>
                              </td>
                              <td style="word-break:break-word;">
