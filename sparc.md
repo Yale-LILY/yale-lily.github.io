@@ -161,8 +161,8 @@ permalink: sparc
                               STAR
                               <p class="institution">Anonymous</p>
                            </td>  
-                           <td><b>68.0</b></td>
-                           <td><b>45.4</b></td>
+                           <td>67.4</td>
+                           <td><b>46.6</b></td>
                         </tr>
 			<tr>
                            <td>
