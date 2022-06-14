@@ -51,6 +51,9 @@ permalink: sparc
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+			 <li><span class="label label-default" style="background-color: #FF7F50"><i>02/15/2022</i></span>
+			   Please check out our recent work <a href="https://arxiv.org/abs/2201.05966">UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models</a>. We open-sourced simple but SOTA/strong models for 21 tasks including text-to-SQL! Please check out our code in the <a href="https://github.com/hkunlp/unifiedskg">UnifiedSKG repo</a>!!
+		         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>11/15/2020</i></span>
                              We will use <a href="https://arxiv.org/abs/2010.02840">Test Suite Accuracy</a> as our official evaluation metric for Spider, SParC, and CoSQL. Please find the evaluation code from <a href="https://github.com/taoyds/test-suite-sql-eval">here</a>.
                          </li>
@@ -149,21 +152,34 @@ permalink: sparc
                            <th>Question Match</th>
                            <th>Interaction Match</th>
                         </tr>
-			               <tr>
+			<tr>
                            <td>
                               <p>1</p>
-                              <span class="date label label-default">Dec 4, 2021</span>
+                              <span class="date label label-default">Feb 14, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              STAR
+                              <p class="institution">Anonymous</p>
+                           </td>  
+                           <td>67.4</td>
+                           <td><b>46.6</b></td>
+                        </tr>
+			<tr>
+                           <td>
+                              <p>2</p>
+                              <span class="date label label-default">Apr 27, 2022</span>
                            </td>
                            <td style="word-break:break-word;">
                               CQR-SQL
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Tencent Cloud Xiaowei</p>
+                              <a class="link" href="https://arxiv.org/abs/2205.07686">(Xiao et al.,'22)</a>
                            </td>  
-                           <td><b>67.3</b></td>
-                           <td><b>43.9</b></td>
+                           <td><b>68.2</b></td>
+                           <td>44.4</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>3</p>
                               <span class="date label label-default">Oct 8, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -176,19 +192,32 @@ permalink: sparc
                         </tr>
 			               <tr>
                            <td>
-                              <p>3</p>
+                              <p>4</p>
                               <span class="date label label-default">Oct 18, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
                               HIE-SQL + GraPPa
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Alibaba DAMO</p>
+                              <a class="link" href="https://arxiv.org/abs/2203.07376">(Zheng et al. ACL-Findings '22)</a>
                            </td>
                            <td>64.6</td>
                            <td>42.9</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>5</p>
+                              <span class="date label label-default">Mar 31, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RASAT
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>65.3</td>
+                           <td>42.1</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>6</p>
                               <span class="date label label-default">Sep. 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -201,7 +230,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>7</p>
                               <span class="date label label-default">Oct 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -213,7 +242,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>8</p>
                               <span class="date label label-default">July 08, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -227,7 +256,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>9</p>
                               <span class="date label label-default">May 26, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -241,7 +270,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>10</p>
                               <span class="date label label-default">Jun. 02, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -253,7 +282,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>11</p>
                               <span class="date label label-default">May 04, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -265,7 +294,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>12</p>
                               <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -279,7 +308,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>11</p>
+                              <p>13</p>
                               <span class="date label label-default">May 03, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -291,7 +320,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>12</p>
+                              <p>14</p>
                               <span class="date label label-default">May 22, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -303,7 +332,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>13</p>
+                              <p>15</p>
                               <span class="date label label-default">Jan 15, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -315,7 +344,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>14</p>
+                              <p>16</p>
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -328,7 +357,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>15</p>
+                              <p>17</p>
                               <span class="date label label-default">Feb 13, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -340,7 +369,20 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>16</p>
+                              <p>18</p>
+                              <span class="date label label-default">Apr 21, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              MemCE
+                              <p class="institution">UoE</p>
+                              <a class="link" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00422/108200/Memory-Based-Semantic-Parsing">(Jain et al., TACL '21)</a>
+                           </td>
+                           <td>40.3</td>
+                           <td>16.7</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>19</p>
                               <span class="date label label-default">Feb 13, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -352,7 +394,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>17</p>
+                              <p>20</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -364,7 +406,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>18</p>
+                              <p>21</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -378,7 +420,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>19</p>
+                              <p>22</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
