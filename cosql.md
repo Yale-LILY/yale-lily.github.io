@@ -166,6 +166,18 @@ permalink: cosql
 			<tr>
                            <td>
                               <p>1</p>
+                              <span class="date label label-default">Feb 14, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              STAR
+                              <p class="institution">Anonymous</p>
+                           </td>
+			   <td>57.8</td>
+                           <td><b>28.2</b></td>
+                        </tr>
+			<tr>
+                           <td>
+                              <p>2</p>
                               <span class="date label label-default">Apr 2, 2022</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -174,19 +186,7 @@ permalink: cosql
                               <a class="link" href="https://arxiv.org/abs/2205.07686">(Xiao et al.,'22)</a>
                            </td>
 			   <td><b>58.3</b></td>
-                           <td><b>27.4</b></td>
-                        </tr>
-         <tr>
-                           <td>
-                              <p>2</p>
-                              <span class="date label label-default">Feb 14, 2022</span>
-                           </td>
-                           <td style="word-break:break-word;">
-                              STAR
-                              <p class="institution">Anonymous</p>
-                           </td>
-			   <td>56.9</td>
-                           <td>25.4</td>
+                           <td>27.4</td>
                         </tr>
 			<tr>
                            <td>
