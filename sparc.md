@@ -170,7 +170,7 @@ permalink: sparc
                               <span class="date label label-default">Jun 4, 2022</span>
                            </td>
                            <td style="word-break:break-word;">
-                              RASAT+PICARD
+                              RASAT + PICARD
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>67.7</td>
