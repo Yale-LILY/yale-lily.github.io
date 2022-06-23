@@ -136,6 +136,62 @@ permalink: sparc
               </div>
            </div>
            <div class="col-md-7">
+               <div class="infoCard">
+                 <div class="infoBody">
+                    <div class="infoHeadline">
+                       <h2>Leaderboard - Execution with Values</h2>
+                    </div>
+                    <p align="left">
+                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
+                    </div>
+                    </p>
+                    <table class="table performanceTable">
+                    <tr>
+                       <th>Rank</th>
+                       <th>Model</th>
+                       <th>Question Match</th>
+                       <th>Interaction Match</th>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>1</p>
+                          <span class="date label label-default">Jun 4, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          RASAT + PICARD
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td><b>74.0</b></td>
+                       <td><b>52.6</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
+                          <span class="date label label-default">May 24, 2020</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          TreeSQL V2 + BERT
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>48.5</td>
+                       <td>21.6</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>3</p>
+                          <span class="date label label-default">May 21, 2020</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          GAZP + BERT
+                          <p class="institution">University of Washington & Facebook AI Research</p>
+                          <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
+                       </td>
+                       <td>44.6</td>
+                       <td>19.7</td>
+                    </tr>
+                    </table>
+                 </div>
+              </div>
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
@@ -432,50 +488,6 @@ permalink: sparc
                            <td>20.2</td>
                            <td>5.2</td>
                         </tr>
-                    </table>
-                 </div>
-              </div>
-              <div class="infoCard">
-                 <div class="infoBody">
-                    <div class="infoHeadline">
-                       <h2>Leaderboard - Execution with Values</h2>
-                    </div>
-                    <p align="left">
-                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
-                    </div>
-                    </p>
-                    <table class="table performanceTable">
-                    <tr>
-                       <th>Rank</th>
-                       <th>Model</th>
-                       <th>Question Match</th>
-                       <th>Interaction Match</th>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>1</p>
-                          <span class="date label label-default">May 24, 2020</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          TreeSQL V2 + BERT
-                          <p class="institution">Anonymous</p>
-                       </td>
-                       <td><b>48.5</b></td>
-                       <td><b>21.6</b></td>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>2</p>
-                          <span class="date label label-default">May 21, 2020</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          GAZP + BERT
-                          <p class="institution">University of Washington & Facebook AI Research</p>
-                          <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
-                       </td>
-                       <td>44.6</td>
-                       <td>19.7</td>
-                    </tr>
                     </table>
                  </div>
               </div>
