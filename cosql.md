@@ -198,7 +198,7 @@ permalink: cosql
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>55.7</td>
-                           <td>26.3</td>
+                           <td>26.5</td>
                         </tr>
 			<tr>
                            <td>
@@ -387,6 +387,18 @@ permalink: cosql
                     <tr>
                        <td>
                           <p>1</p>
+                          <span class="date label label-default">Jun 4, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          RASAT + PICARD
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td><b>66.3</b></td>
+                       <td><b>37.4</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
                           <span class="date label label-default">May 21, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -394,8 +406,8 @@ permalink: cosql
                           <p class="institution">University of Washington & Facebook AI Research</p>
                           <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
                        </td>
-                       <td><b>35.9</b></td>
-                       <td><b>8.4</b></td>
+                       <td>35.9</td>
+                       <td>8.4</td>
                     </tr>
                     </table>
                  </div>
