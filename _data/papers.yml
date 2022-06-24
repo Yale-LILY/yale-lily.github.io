@@ -52,7 +52,7 @@ papers:
       code: https://github.com/jungokasai/beam_with_patience
     - title: "Surfer100: Generating Surveys From Web Resources on Wikipedia-style"
       authors: "Irene Li, Alexander Fabbri, Rina Kawamura, Yixin Liu, Xiangru Tang, Jaesung Tae, Chang Shen, Sally Ma, Tomoe Mizutani, Dragomir Radev"
-      conference: "arXiv 2022"
+      conference: "LREC 2022"
       image: /images/surfer100.png
       pdf: "https://arxiv.org/pdf/2112.06377.pdf"
       code: https://github.com/IreneZihuiLi/Surfer100
