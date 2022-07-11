@@ -1,4 +1,9 @@
 papers:
+    - title: "LiGCN: Label-interpretable Graph Convolutional Networks for Multi-label Text Classification"
+      authors: "Irene Li, Aosong Feng, Hao Wu, Tianxiao Li, Toyotaro Suzumura, Ruihai Dong"
+      conference: "DLG4NLP Workshop, NAACL 2022"
+      image: /images/ligcn.png
+      pdf: "https://aclanthology.org/2022.dlg4nlp-1.7.pdf"
     - title: "GEMv2: Multilingual NLG Benchmarking in a Single Line of Code"
       authors: "Sebastian Gehrmann, Abhik Bhattacharjee, Abinaya Mahendiran, Alex Wang, Alexandros Papangelis, Aman Madaan, Angelina McMillan-Major, Anna Shvets, Ashish Upadhyay, Bingsheng Yao, Bryan Wilie, Chandra Bhagavatula, Chaobin You, Craig Thomson, Cristina Garbacea, Dakuo Wang, Daniel Deutsch, Deyi Xiong, Di Jin, Dimitra Gkatzia, Dragomir Radev, Elizabeth Clark, Esin Durmus, Faisal Ladhak, Filip Ginter, Genta Indra Winata, Hendrik Strobelt, Hiroaki Hayashi, Jekaterina Novikova, Jenna Kanerva, Jenny Chim, Jiawei Zhou, Jordan Clive, Joshua Maynez, João Sedoc, Juraj Juraska, Kaustubh Dhole, Khyathi Raghavi Chandu, Laura Perez-Beltrachini, Leonardo F. R. Ribeiro, Lewis Tunstall, Li Zhang, Mahima Pushkarna, Mathias Creutz, Michael White, Mihir Sanjay Kale, Moussa Kamal Eddine, Nico Daheim, Nishant Subramani, Ondrej Dusek, Paul Pu Liang, Pawan Sasanka Ammanamanchi, Qi Zhu, Ratish Puduppully, Reno Kriz, Rifat Shahriyar, Ronald Cardenas, Saad Mahamood, Salomey Osei, Samuel Cahyawijaya, Sanja Štajner, Sebastien Montella, Shailza Jolly, Simon Mille, Tahmid Hasan, Tianhao Shen, Tosin Adewumi, Vikas Raunak, Vipul Raheja, Vitaly Nikolaev, Vivian Tsai, Yacine Jernite, Ying Xu, Yisi Sang, Yixin Liu, Yufang Hou"
       conference: "arXiv 2022"
@@ -77,6 +82,11 @@ papers:
       conference: "NAACL 2022"
       image: /images/xiangru-investigating.png
       pdf: "https://aclanthology.org/2022.naacl-main.417.pdf"
+    - title: "AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization"
+      authors: "Alexander R. Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona Diab"
+      conference: "NAACL 2022"
+      image: /images/answersumm.png
+      pdf: "https://aclanthology.org/2022.naacl-main.180.pdf"
     - title: "Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution"
       authors: "Irene Li, Linfeng Song, Kun Xu and Dong Yu"
       conference: "ACL 2022"
