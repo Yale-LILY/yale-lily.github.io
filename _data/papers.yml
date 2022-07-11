@@ -66,17 +66,17 @@ papers:
       authors: "Liangke Gui, Borui Wang, Qiuyuan Huang, Alex Hauptmann, Yonatan Bisk, Jianfeng Gao"
       conference: "NAACL 2022"
       image: /images/kat.png
-      pdf: "https://arxiv.org/pdf/2112.08614.pdf"
+      pdf: "https://aclanthology.org/2022.naacl-main.70.pdf"
     - title: "CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning"
       authors: "Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev"
       conference: "NAACL 2022"
       image: /images/confit.png
-      pdf: "https://arxiv.org/pdf/2112.08713.pdf"
+      pdf: "https://aclanthology.org/2022.naacl-main.415.pdf"
     - title: "Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries"
       authors: "Xiangru Tang, Alexander R. Fabbri, Ziming Mao, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev"
       conference: "NAACL 2022"
       image: /images/xiangru-investigating.png
-      pdf: "https://arxiv.org/pdf/2109.09195.pdf"
+      pdf: "https://aclanthology.org/2022.naacl-main.417.pdf"
     - title: "Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution"
       authors: "Irene Li, Linfeng Song, Kun Xu and Dong Yu"
       conference: "ACL 2022"
