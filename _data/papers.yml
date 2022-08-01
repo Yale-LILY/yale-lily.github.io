@@ -1,4 +1,9 @@
 papers:
+    - title: "RealTime QA: What's the Answer Right Now?"
+      authors: "Jungo Kasai, Keisuke Sakaguchi, Yoichi Takahashi, Ronan Le Bras, Akari Asai, Xinyan Yu, Dragomir Radev, Noah A. Smith, Yejin Choi, Kentaro Inui"
+      conference: "arXiv"
+      image: /images/realtimeqa.png
+      pdf: "https://arxiv.org/pdf/2207.13332.pdf"
     - title: "LiGCN: Label-interpretable Graph Convolutional Networks for Multi-label Text Classification"
       authors: "Irene Li, Aosong Feng, Hao Wu, Tianxiao Li, Toyotaro Suzumura, Ruihai Dong"
       conference: "DLG4NLP Workshop, NAACL 2022"
