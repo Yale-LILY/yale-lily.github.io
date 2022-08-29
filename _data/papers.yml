@@ -96,6 +96,7 @@ papers:
       authors: "Irene Li, Linfeng Song, Kun Xu and Dong Yu"
       conference: "ACL 2022"
       image: /images/irene-acl2022.png
+      pdf: "https://aclanthology.org/2022.acl-long.199.pdf"
     - title: "Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents"
       authors: "Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed H. Awadallah, Dragomir Radev, Rui Zhang"
       conference: "ACL 2022"
