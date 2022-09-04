@@ -186,7 +186,7 @@ redirect_from: "/seq2sql/spider"
                     <tr>
                        <td>
                           <p>1</p>
-                          <span class="date label label-default">Jun 4, 2022</span>
+                          <span class="date label label-default">Sep 1, 2022</span>
                        </td>
                        <td style="word-break:break-word;">
                           SHiP+PICARD (DB content used)
@@ -407,7 +407,7 @@ redirect_from: "/seq2sql/spider"
                        <tr>
                            <td>
                               <p>1</p>
-                              <span class="date label label-default">May 23, 2022</span>
+                              <span class="date label label-default">Sep 1, 2022</span>
                            </td>
                            <td style="word-break:break-word;">
                               SHiP + PICARD (DB content used)
