@@ -203,7 +203,7 @@ redirect_from: "/seq2sql/spider"
                           RASAT+PICARD (DB content used)
                           <p class="institution">Anonymous</p>
                        </td>
-                       <td><b>75.5</b></td>
+                       <td>75.5</td>
                     </tr>
                     <tr>
                        <td>
@@ -426,7 +426,7 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>77.2</td>
-                           <td><b>72.6</b></td>
+                           <td>72.6</td>
                         </tr>
                         <tr>
                            <td>
@@ -438,7 +438,7 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>78.1</td>
-                           <td><b>72.4</b></td>
+                           <td>72.4</td>
                         </tr>
                         <tr>
                              <td>
@@ -450,7 +450,7 @@ redirect_from: "/seq2sql/spider"
                                 <p class="institution">Anonymous</p>
                              </td>
                              <td>77.2</td>
-                             <td><b>72.4</b></td>
+                             <td>72.4</td>
                           </tr>
                           <tr>
                              <td>
