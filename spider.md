@@ -203,7 +203,7 @@ redirect_from: "/seq2sql/spider"
                           SHiP+PICARD (DB content used)
                           <p class="institution">Anonymous</p>
                        </td>
-                       <td><b>76.6</b></td>
+                       <td>76.6</td>
                     </tr>
                      <tr>
                        <td>
@@ -437,7 +437,7 @@ redirect_from: "/seq2sql/spider"
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>77.2</td>
-                           <td><b>73.1</b></td>
+                           <td>73.1</td>
                         </tr>
                         <tr>
                            <td>
