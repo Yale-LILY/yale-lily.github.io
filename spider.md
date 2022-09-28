@@ -444,7 +444,7 @@ redirect_from: "/seq2sql/spider"
                               <span class="date label label-default">Sep 14, 2022</span>
                            </td>
                            <td style="word-break:break-word;">
-                              Graphix-3B + PICARD (DB content used)
+                              CatSQL + GraPPa (DB content used)
                               <p class="institution">Anonymous</p>
                            </td>
                            <td>78.6</td>
