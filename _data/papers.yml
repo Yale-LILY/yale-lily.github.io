@@ -1,4 +1,7 @@
 papers:
+    - title: "Neural Natural Language Processing for unstructured data in electronic health records: A review"
+      authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M.Krumholz, Dragomir Radev"
+      conference: "Computer Science Review"
     - title: "Binding Language Models in Symbolic Languages"
       authors: "Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu"
       conference: "arXiv"
