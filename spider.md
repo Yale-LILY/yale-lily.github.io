@@ -1036,7 +1036,8 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>48 class="date label label-default">Sep 20, 2019</span>
+                              <p>48</p>
+                              <span class="date label label-default">Sep 20, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
                               GIRN + BERT
