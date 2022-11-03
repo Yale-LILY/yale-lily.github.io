@@ -45,51 +45,68 @@ papers:
     - title: "Neural Natural Language Processing for unstructured data in electronic health records: A review"
       authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M.Krumholz, Dragomir Radev"
       conference: "Computer Science Review"
+
     - title: "Binding Language Models in Symbolic Languages"
       authors: "Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu"
       conference: "arXiv"
       image: /images/binder.png
+      code: https://github.com/hkunlp/binder
       pdf: "https://arxiv.org/pdf/2210.02875.pdf"
+
     - title: "FOLIO: Natural Language Reasoning with First-Order Logic"
       authors: "Simeng Han, Hailey Schoelkopf, Yilun Zhao, Zhenting Qi, Martin Riddell, Luke Benson, Lucy Sun, Ekaterina Zubova, Yujie Qiao, Matthew Burtell, David Peng, Jonathan Fan, Yixin Liu, Brian Wong, Malcolm Sailor, Ansong Ni, Linyong Nan, Jungo Kasai, Tao Yu, Rui Zhang, Shafiq Joty, Alexander R. Fabbri, Wojciech Kryscinski, Xi Victoria Lin, Caiming Xiong, Dragomir Radev"
       conference: "arXiv"
       image: /images/folio.png
+      code: https://github.com/Yale-LILY/FOLIO
       pdf: "https://arxiv.org/pdf/2209.00840.pdf"
+
     - title: "RealTime QA: What's the Answer Right Now?"
       authors: "Jungo Kasai, Keisuke Sakaguchi, Yoichi Takahashi, Ronan Le Bras, Akari Asai, Xinyan Yu, Dragomir Radev, Noah A. Smith, Yejin Choi, Kentaro Inui"
       conference: "arXiv"
       image: /images/realtimeqa.png
+      code: https://realtimeqa.github.io/
       pdf: "https://arxiv.org/pdf/2207.13332.pdf"
+
     - title: "LiGCN: Label-interpretable Graph Convolutional Networks for Multi-label Text Classification"
       authors: "Irene Li, Aosong Feng, Hao Wu, Tianxiao Li, Toyotaro Suzumura, Ruihai Dong"
       conference: "DLG4NLP Workshop, NAACL 2022"
       image: /images/ligcn.png
+      code: https://github.com/IreneZihuiLi/LiGCN
       pdf: "https://aclanthology.org/2022.dlg4nlp-1.7.pdf"
+
     - title: "GEMv2: Multilingual NLG Benchmarking in a Single Line of Code"
       authors: "Sebastian Gehrmann, Abhik Bhattacharjee, Abinaya Mahendiran, Alex Wang, Alexandros Papangelis, Aman Madaan, Angelina McMillan-Major, Anna Shvets, Ashish Upadhyay, Bingsheng Yao, Bryan Wilie, Chandra Bhagavatula, Chaobin You, Craig Thomson, Cristina Garbacea, Dakuo Wang, Daniel Deutsch, Deyi Xiong, Di Jin, Dimitra Gkatzia, Dragomir Radev, Elizabeth Clark, Esin Durmus, Faisal Ladhak, Filip Ginter, Genta Indra Winata, Hendrik Strobelt, Hiroaki Hayashi, Jekaterina Novikova, Jenna Kanerva, Jenny Chim, Jiawei Zhou, Jordan Clive, Joshua Maynez, João Sedoc, Juraj Juraska, Kaustubh Dhole, Khyathi Raghavi Chandu, Laura Perez-Beltrachini, Leonardo F. R. Ribeiro, Lewis Tunstall, Li Zhang, Mahima Pushkarna, Mathias Creutz, Michael White, Mihir Sanjay Kale, Moussa Kamal Eddine, Nico Daheim, Nishant Subramani, Ondrej Dusek, Paul Pu Liang, Pawan Sasanka Ammanamanchi, Qi Zhu, Ratish Puduppully, Reno Kriz, Rifat Shahriyar, Ronald Cardenas, Saad Mahamood, Salomey Osei, Samuel Cahyawijaya, Sanja Štajner, Sebastien Montella, Shailza Jolly, Simon Mille, Tahmid Hasan, Tianhao Shen, Tosin Adewumi, Vikas Raunak, Vipul Raheja, Vitaly Nikolaev, Vivian Tsai, Yacine Jernite, Ying Xu, Yisi Sang, Yixin Liu, Yufang Hou"
       conference: "arXiv 2022"
       image: /images/gemv2.png
+      code: https://gem-benchmark.com/
       pdf: "https://arxiv.org/pdf/2206.11249.pdf"
+
     - title: "Learning from Self-Sampled Correct and Partially-Correct Programs"
       authors: "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Oleksandr Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao"
       conference: "arXiv 2022"
       image: /images/ansong-2022-learning.png
       pdf: "https://arxiv.org/pdf/2205.14318.pdf"
+
     - title: "You reap what you sow: On the Challenges of Bias Evaluation Under Multilingual Settings"
       authors: "Zeerak Talat, Aurélie Névéol, Stella Biderman, Miruna Clinciu, Manan Dey, Shayne Longpre, Sasha Luccioni, Maraim Masoud, Margaret Mitchell, Dragomir Radev, Shanya Sharma, Arjun Subramonian, Jaesung Tae, Samson Tan, Deepak Tunuguntla, Oskar Van Der Wal"
       conference: "Proceedings of BigScience Episode #5 -- Workshop on Challenges & Perspectives in Creating Large Language Models"
       image: /images/reap.png
       pdf: "https://aclanthology.org/2022.bigscience-1.3.pdf"
+
     - title: "Discovering the Representation Bottleneck of Graph Neural Networks from Multi-order Interactions"
       authors: "Fang Wu, Siyuan Li, Lirong Wu, Stan Z. Li, Dragomir Radev, Qiang Zhang"
       conference: "arXiv 2022"
       image: /images/wu-2022-discovering.png
+      code: https://github.com/smiles724/bottleneck
       pdf: "https://arxiv.org/pdf/2205.07266.pdf"
+
     - title: "Pre-training of Deep Protein Models with Molecular Dynamics Simulations for Drug Binding"
       authors: "Fang Wu, Qiang Zhang, Dragomir Radev, Yuyang Wang, Xurui Jin, Yinghui Jiang, Zhangming Niu, Stan Z. Li"
       conference: "arXiv 2022"
       image: /images/wu-2022-pretraining.png
+      code: https://github.com/smiles724/ProtMD
       pdf: "https://arxiv.org/pdf/2204.08663.pdf"
+
     - title: "Data Governance in the Age of Large-Scale Data-Driven Language Technology"
       authors: "Yacine Jernite, Huu Nguyen, Stella Biderman, Anna Rogers, Maraim Masoud, Valentin Danchev, Samson Tan, Alexandra Sasha Luccioni, Nishant Subramani, Isaac Johnson, Gérard Dupont, Jesse Dodge, Kyle Lo, Zeerak Talat, Dragomir Radev, Aaron Gokaslan, Somaieh Nikpoor, Peter Henderson, Rishi Bommasani, Margaret Mitchell"
       conference: "FAccT 2022"
@@ -113,11 +130,14 @@ papers:
       image: /images/ehrkit.png
       pdf: "https://arxiv.org/pdf/2204.06604.pdf"
       code: https://github.com/Yale-LILY/EHRKit-2022
+
     - title: "KAT: A Knowledge Augmented Transformer for Vision-and-Language"
       authors: "Liangke Gui, Borui Wang, Qiuyuan Huang, Alex Hauptmann, Yonatan Bisk, Jianfeng Gao"
       conference: "NAACL 2022"
       image: /images/kat.png
+      code: https://github.com/guilk/KAT
       pdf: "https://aclanthology.org/2022.naacl-main.70.pdf"
+
     - title: "CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning"
       authors: "Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev"
       conference: "NAACL 2022"
@@ -132,6 +152,7 @@ papers:
       authors: "Alexander R. Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona Diab"
       conference: "NAACL 2022"
       image: /images/answersumm.png
+      code: https://github.com/Alex-Fabbri/AnswerSumm
       pdf: "https://aclanthology.org/2022.naacl-main.180.pdf"
     - title: "Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution"
       authors: "Irene Li, Linfeng Song, Kun Xu and Dong Yu"
@@ -188,11 +209,13 @@ papers:
       authors: "Heather Lent, Semih Yavuz, Tao Yu, Tong Niu, Yingbo Zhou, Dragomir Radev, Xi Victoria Lin"
       conference: "Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems (Eval4NLP 2021)"
       image: /images/lent2021.png
-      pdf: "https://aclanthology.org/2021.eval4nlp-1.8.pdf.pdf"      
+      code: https://github.com/hclent/BehaviorCheckingSemPar
+      pdf: "https://aclanthology.org/2021.eval4nlp-1.8.pdf"      
     - title: "DocNLI: A Large-scale Dataset for Document-level Natural Language Inference"
       authors: "Wenpeng Yin, Dragomir Radev, Caiming Xiong"
       conference: "ACL'21 Findings"
       image: /images/docnli.png
+      code: https://github.com/salesforce/DocNLI
       pdf: "https://arxiv.org/pdf/2106.09449.pdf"
     - title: "Improving Cross-lingual Text Classification with Zero-shot Instance-Weighting"
       authors: "Irene Li, Prithviraj Sen, Huaiyu Zhu, Yunyao Li and Dragomir Radev"
@@ -223,6 +246,7 @@ papers:
       authors: "Ansong Ni, Matt Gardner, and Pradeep Dasigi"
       conference: "EMNLP 2021"
       image: /images/ansong-emnlp-2021.png
+      code: https://github.com/niansong1996/retrieval_marginalization
       pdf: "https://arxiv.org/pdf/2103.12235.pdf"
     - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What’s Next"
       authors: "Yusen Zhang*, Ansong Ni*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, and Dragomir Radev"
@@ -233,6 +257,7 @@ papers:
       authors: "Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, and Dragomir Radev"
       conference: "EMNLP 2021 (Demo Track)"
       image: /images/summertime.png
+      code: https://github.com/Yale-LILY/SummerTime
       pdf: "https://arxiv.org/pdf/2108.12738.pdf"
     - title: "Neural Natural Language Processing for Unstructured Data in Electronic Health Records: a Review"
       authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M. Krumholz, Dragomir Radev"
@@ -243,7 +268,8 @@ papers:
       authors: " Alexander Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad and Dragomir Radev"
       conference: "ACL 2021"
       image: /images/Alex-ACL-2021.png
-      pdf: "https://arxiv.org/pdf/2106.00737.pdf"
+      code: https://github.com/Yale-LILY/ConvoSumm
+      pdf: "https://aclanthology.org/2021.acl-long.535.pdf"
     - title: "Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders"
       authors: "Irene Li, Vanessa Yan, Tianxiao Li, Rihao Qu, Dragomir Radev"
       conference: "ACL 2021"
@@ -253,6 +279,7 @@ papers:
       authors: "Ming Zhong, Da Yin, Tao Yu, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu and Dragomir Radev"
       conference: "NAACL 2021"
       image: /images/qmsum.png
+      code: https://github.com/Yale-LILY/QMSum
       pdf: "https://arxiv.org/pdf/2104.05938.pdf"
     - title: "Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation"
       authors: "Alexander R. Fabbri, Simeng Han, Haoyuan Li, Haoran Li, Marjan Ghazvininejad, Shafiq Joty, Dragomir Radev, Yashar Mehdad"
