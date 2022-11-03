@@ -1,4 +1,36 @@
 papers:
+    - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
+      authors: "Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer and Tao Yu"
+      conference: "EMNLP 2022"
+
+    - title: "Twist Decoding: Diverse Generators Guide Each Other"
+      authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Hao Peng, Ximing Lu, Dragomir Radev, Yejin Choi and Noah A. Smith"
+      conference: "EMNLP 2022"
+
+    - title: "STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension"
+      authors: "Borui Wang, Chengcheng Feng, Arjun Nair, Madelyn Mao, Jai Desai, Asli Celikyilmaz, Haoran Li, Yashar Mehdad and Dragomir Radev"
+      conference: "EMNLP 2022"
+
+    - title: "Leveraging Locality in Abstractive Text Summarization"
+      authors: "Yixin Liu, Ansong Ni, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah and Dragomir Radev"
+      conference: "EMNLP 2022"
+
+    - title: "R2D2: Robust Data-to-Text with Replacement Detection"
+      authors: "Linyong Nan, Lorenzo Jaime Flores, Yilun Zhao, Yixin Liu, Luke Benson, Weijin Zou and Dragomir Radev"
+      conference: "EMNLP 2022"
+
+    - title: "Uni-Parser: Unified Semantic Parser on Knowledge Base and Data Base Question Answering"
+      authors: "Ye Liu, Semih Yavuz, Rui Meng, Dragomir Radev, Caiming Xiong and Yingbo Zhou"
+      conference: "EMNLP 2022"
+
+    - title: "ReasTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples"
+      authors: "Yilun Zhao, Linyong Nan, Zhenting Qi, Rui Zhang and Dragomir Radev"
+      conference: "EMNLP 2022"
+
+    - title: "BOOKSUM: A Collection of Datasets for Long-form Narrative Summarization"
+      authors: "Wojciech Kryscinski, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong and Dragomir Radev"
+      conference: "EMNLP 2022 Findings"
+
     - title: "Neural Natural Language Processing for unstructured data in electronic health records: A review"
       authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M.Krumholz, Dragomir Radev"
       conference: "Computer Science Review"
