@@ -1,10 +1,15 @@
 papers:
     - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
       authors: "Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer and Tao Yu"
+      image: /images/skg.png
+      pdf: "https://arxiv.org/pdf/2201.05966.pdf"
+      code: https://github.com/Yale-LILY/UnifiedSKG
       conference: "EMNLP 2022"
 
     - title: "Twist Decoding: Diverse Generators Guide Each Other"
       authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Hao Peng, Ximing Lu, Dragomir Radev, Yejin Choi and Noah A. Smith"
+      image: /images/twist-decoding.png
+      pdf: "https://arxiv.org/pdf/2205.09273.pdf"
       conference: "EMNLP 2022"
 
     - title: "STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension"
@@ -13,10 +18,14 @@ papers:
 
     - title: "Leveraging Locality in Abstractive Text Summarization"
       authors: "Yixin Liu, Ansong Ni, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah and Dragomir Radev"
+      image: /images/yixin-2022-leveraging.png
+      pdf: "https://arxiv.org/pdf/2205.12476.pdf"
       conference: "EMNLP 2022"
 
     - title: "R2D2: Robust Data-to-Text with Replacement Detection"
       authors: "Linyong Nan, Lorenzo Jaime Flores, Yilun Zhao, Yixin Liu, Luke Benson, Weijin Zou and Dragomir Radev"
+      image: /images/r2d2.png
+      pdf: "https://arxiv.org/pdf/2205.12467.pdf"
       conference: "EMNLP 2022"
 
     - title: "Uni-Parser: Unified Semantic Parser on Knowledge Base and Data Base Question Answering"
@@ -29,6 +38,8 @@ papers:
 
     - title: "BOOKSUM: A Collection of Datasets for Long-form Narrative Summarization"
       authors: "Wojciech Kryscinski, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong and Dragomir Radev"
+      image: /images/booksum.png
+      pdf: "https://arxiv.org/pdf/2105.08209.pdf"
       conference: "EMNLP 2022 Findings"
 
     - title: "Neural Natural Language Processing for unstructured data in electronic health records: A review"
@@ -59,26 +70,11 @@ papers:
       conference: "arXiv 2022"
       image: /images/gemv2.png
       pdf: "https://arxiv.org/pdf/2206.11249.pdf"
-    - title: "Leveraging Locality in Abstractive Text Summarization"
-      authors: "Yixin Liu, Ansong Ni, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev"
-      conference: "arXiv 2022"
-      image: /images/yixin-2022-leveraging.png
-      pdf: "https://arxiv.org/pdf/2205.12476.pdf"
-    - title: "R2D2: Robust Data-to-Text with Replacement Detection"
-      authors: "Linyong Nan, Lorenzo Jaime Yu Flores, Yilun Zhao, Yixin Liu, Luke Benson, Weijin Zou, Dragomir Radev"
-      conference: "arXiv 2022"
-      image: /images/r2d2.png
-      pdf: "https://arxiv.org/pdf/2205.12467.pdf"
     - title: "Learning from Self-Sampled Correct and Partially-Correct Programs"
       authors: "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Oleksandr Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao"
       conference: "arXiv 2022"
       image: /images/ansong-2022-learning.png
       pdf: "https://arxiv.org/pdf/2205.14318.pdf"
-    - title: "Twist Decoding: Diverse Generators Guide Each Other"
-      authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Hao Peng, Ximing Lu, Dragomir Radev, Yejin Choi, Noah A. Smith"
-      conference: "arXiv 2022"
-      image: /images/twist-decoding.png
-      pdf: "https://arxiv.org/pdf/2205.09273.pdf"
     - title: "You reap what you sow: On the Challenges of Bias Evaluation Under Multilingual Settings"
       authors: "Zeerak Talat, Aurélie Névéol, Stella Biderman, Miruna Clinciu, Manan Dey, Shayne Longpre, Sasha Luccioni, Maraim Masoud, Margaret Mitchell, Dragomir Radev, Shanya Sharma, Arjun Subramonian, Jaesung Tae, Samson Tan, Deepak Tunuguntla, Oskar Van Der Wal"
       conference: "Proceedings of BigScience Episode #5 -- Workshop on Challenges & Perspectives in Creating Large Language Models"
@@ -172,12 +168,6 @@ papers:
       image: /images/fetaqa.png
       pdf: "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering"
       code: https://github.com/Yale-LILY/FeTaQA
-    - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
-      authors: "Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu"
-      conference: "arXiv 2022"
-      image: /images/skg.png
-      pdf: "https://arxiv.org/pdf/2201.05966.pdf"
-      code: https://github.com/Yale-LILY/UnifiedSKG
     - title: "CLICKER: A Computational LInguistics Classification Scheme for Educational Resources"
       authors: "Swapnil Hingmire, Irene Li, Rena Kawamura, Benjamin Chen, Alexander Fabbri, Xiangru Tang, Yixin Liu, Thomas George, Tammy Liao, Wai Pan Wong, Vanessa Yan, Richard Zhou, Girish K. Palshikar, Dragomir Radev"
       conference: "arXiv 2021"
@@ -249,11 +239,6 @@ papers:
       image: /images/nnlp.png
       conference: "arXiv 2021"
       pdf: "https://arxiv.org/pdf/2107.02975.pdf"
-    - title: "BookSum: A Collection of Datasets for Long-form Narrative Summarization"
-      authors: "Wojciech Kryściński, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong, Dragomir Radev"
-      image: /images/booksum.png
-      conference: "arXiv"
-      pdf: "https://arxiv.org/pdf/2105.08209.pdf"
     - title: "ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining"
       authors: " Alexander Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad and Dragomir Radev"
       conference: "ACL 2021"
