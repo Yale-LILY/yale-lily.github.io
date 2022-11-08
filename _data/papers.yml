@@ -17,16 +17,19 @@ papers:
     
     - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
       authors: "Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer and Tao Yu"
-      # image: /images/skg.png
-      # pdf: "https://arxiv.org/pdf/2201.05966.pdf"
-      # code: https://github.com/Yale-LILY/UnifiedSKG
+      image: /images/skg.png
+      pdf: "https://arxiv.org/pdf/2201.05966.pdf"
+      code: https://github.com/Yale-LILY/UnifiedSKG
       conference: "EMNLP 2022"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2201-05966.html?view=bibtex"
 
     - title: "Twist Decoding: Diverse Generators Guide Each Other"
       authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Hao Peng, Ximing Lu, Dragomir Radev, Yejin Choi and Noah A. Smith"
-      # image: /images/twist-decoding.png
-      # pdf: "https://arxiv.org/pdf/2205.09273.pdf"
+      image: /images/twist-decoding.png
+      code: https://github.com/jungokasai/twist_decoding
+      pdf: "https://arxiv.org/pdf/2205.09273.pdf"
       conference: "EMNLP 2022"
+      bibtex: "https://www.semanticscholar.org/paper/Twist-Decoding%3A-Diverse-Generators-Guide-Each-Other-Kasai-Sakaguchi/ded0cd920c145ca0ae68acf306d54926cad5388c"
 
     - title: "STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension"
       authors: "Borui Wang, Chengcheng Feng, Arjun Nair, Madelyn Mao, Jai Desai, Asli Celikyilmaz, Haoran Li, Yashar Mehdad and Dragomir Radev"
@@ -34,15 +37,19 @@ papers:
 
     - title: "Leveraging Locality in Abstractive Text Summarization"
       authors: "Yixin Liu, Ansong Ni, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah and Dragomir Radev"
-      # image: /images/yixin-2022-leveraging.png
-      # pdf: "https://arxiv.org/pdf/2205.12476.pdf"
+      image: /images/yixin-2022-leveraging.png
+      pdf: "https://arxiv.org/pdf/2205.12476.pdf"
       conference: "EMNLP 2022"
+      code: https://github.com/yixinL7/PageSum
+      bibtex: "https://www.semanticscholar.org/paper/Leveraging-Locality-in-Abstractive-Text-Liu-Ni/81fa9a9e3e0c868e4d2fee2efed5e1d9ad62395e"
 
     - title: "R2D2: Robust Data-to-Text with Replacement Detection"
       authors: "Linyong Nan, Lorenzo Jaime Flores, Yilun Zhao, Yixin Liu, Luke Benson, Weijin Zou and Dragomir Radev"
-      # image: /images/r2d2.png
-      # pdf: "https://arxiv.org/pdf/2205.12467.pdf"
+      image: /images/r2d2.png
+      pdf: "https://arxiv.org/pdf/2205.12467.pdf"
       conference: "EMNLP 2022"
+      code: https://github.com/Yale-LILY/r2d2
+      bibtex: "https://www.semanticscholar.org/paper/R2D2%3A-Robust-Data-to-Text-with-Replacement-Nan-Flores/4c9c07ae5d81e067d3b1ecaf18a0ddcbea213fa3"
 
     - title: "Uni-Parser: Unified Semantic Parser on Knowledge Base and Data Base Question Answering"
       authors: "Ye Liu, Semih Yavuz, Rui Meng, Dragomir Radev, Caiming Xiong and Yingbo Zhou"
@@ -51,16 +58,25 @@ papers:
     - title: "ReasTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples"
       authors: "Yilun Zhao, Linyong Nan, Zhenting Qi, Rui Zhang and Dragomir Radev"
       conference: "EMNLP 2022"
+      image: /images/reastap.png
+      pdf: "https://arxiv.org/pdf/2210.12374.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/ReasTAP%3A-Injecting-Table-Reasoning-Skills-During-Zhao-Nan/e1801f68d42f4a1a96d580b73706733883bf6af8"
+      code: "https://github.com/Yale-LILY/ReasTAP"
 
     - title: "BOOKSUM: A Collection of Datasets for Long-form Narrative Summarization"
       authors: "Wojciech Kryscinski, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong and Dragomir Radev"
-      # image: /images/booksum.png
-      # pdf: "https://arxiv.org/pdf/2105.08209.pdf"
+      image: /images/booksum.png
+      pdf: "https://arxiv.org/pdf/2105.08209.pdf"
       conference: "EMNLP 2022 Findings"
+      code: https://github.com/salesforce/booksum
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2105-08209.html?view=bibtex"
 
     - title: "Neural Natural Language Processing for unstructured data in electronic health records: A review"
       authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M.Krumholz, Dragomir Radev"
       conference: "Computer Science Review"
+      image: /images/nnlp.png
+      pdf: "https://arxiv.org/pdf/2107.02975.pdf"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2107-02975.html?view=bibtex"
 
     - title: "Binding Language Models in Symbolic Languages"
       authors: "Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu"
