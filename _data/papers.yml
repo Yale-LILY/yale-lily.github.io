@@ -14,9 +14,6 @@ papers:
       code: https://github.com/bigscience-workshop/xmtf
       pdf: "https://arxiv.org/pdf/2211.01786.pdf"
       bibtex: "https://www.semanticscholar.org/paper/Crosslingual-Generalization-through-Multitask-Muennighoff-Wang/6fc01ddb5b38b021800dc652f0fbff0a898b133c"
-
-    - title: "Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database"
-      authors: "Ye Liu, Semih Yavuz, Rui Meng, Dragomir Radev, Caiming Xiong, Yingbo Zhou"
     
     - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
       authors: "Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer and Tao Yu"
