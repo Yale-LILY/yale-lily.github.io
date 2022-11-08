@@ -1,4 +1,23 @@
 papers:
+    - title: "Look Ma, Only 400 Samples! Revisiting the Effectiveness of Automatic N-Gram Rule Generation for Spelling Normalization in Filipino"
+      authors: "Lorenzo Jaime Yu Flores, Dragomir Radev"
+      conference: "EMNLP 2022 Third Workshop on Simple and Efficient Natural Language Processing"
+      image: /images/lookma.png
+      code: https://github.com/ljyflores/Filipino-Slang
+      pdf: "https://arxiv.org/pdf/2210.02675.pdf"
+      bibtex: "https://arxiv.org/abs/2210.02675"
+
+    - title: "Crosslingual Generalization through Multitask Finetuning"
+      authors: "Niklas Muennighoff, Thomas Wang, Lintang Sutawika, Adam Roberts, Stella Biderman, Teven Le Scao, M Saiful Bari, Sheng Shen, Zheng-Xin Yong, Hailey Schoelkopf, Xiangru Tang, Dragomir Radev, Alham Fikri Aji, Khalid Almubarak, Samuel Albanie, Zaid Alyafeai, Albert Webson, Edward Raff, Colin Raffel"
+      conference: "arXiv 2022"
+      image: /images/Muennighoff-2022.png
+      code: https://github.com/bigscience-workshop/xmtf
+      pdf: "https://arxiv.org/pdf/2211.01786.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/Crosslingual-Generalization-through-Multitask-Muennighoff-Wang/6fc01ddb5b38b021800dc652f0fbff0a898b133c"
+
+    - title: "Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database"
+      authors: "Ye Liu, Semih Yavuz, Rui Meng, Dragomir Radev, Caiming Xiong, Yingbo Zhou"
+    
     - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
       authors: "Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer and Tao Yu"
       # image: /images/skg.png
