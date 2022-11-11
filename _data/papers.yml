@@ -1,4 +1,20 @@
 papers:
+    - title: "MACSum: Controllable Summarization with Mixed Attributes"
+      authors: "Yusen Zhang, Yang Liu, Ziyi Yang, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang"
+      conference: "arXiv 2022"
+      image: /images/macsum.png
+      code: https://github.com/psunlpgroup/MACSum
+      pdf: "https://arxiv.org/pdf/2211.05041.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/MACSum%3A-Controllable-Summarization-with-Mixed-Zhang-Liu/a83d62cda440d62ff8b2d4cbcac775ca7445c080"
+
+    - title: "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model"
+      authors: "Teven Le Scao, Angela Fan, Christopher Akiki, Ellie Pavlick, Suzana Ilić, Daniel Hesslow, Roman Castagné, et al."
+      conference: "arXiv 2022"
+      image: /images/bloom.png
+      code: https://huggingface.co/bigscience/bloom
+      pdf: "https://arxiv.org/pdf/2211.05100.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/BLOOM%3A-A-176B-Parameter-Open-Access-Multilingual-Scao-Fan/c84d2f81ee065f32f0222495330a1c51e620e141"
+    
     - title: "Look Ma, Only 400 Samples! Revisiting the Effectiveness of Automatic N-Gram Rule Generation for Spelling Normalization in Filipino"
       authors: "Lorenzo Jaime Yu Flores, Dragomir Radev"
       conference: "EMNLP 2022 Third Workshop on Simple and Efficient Natural Language Processing"
