@@ -1,4 +1,12 @@
 papers:
+    - title: "CREATIVESUMM: Shared Task on Automatic Summarization for Creative Writing"
+      authors: "Divyansh Agarwal, Alexander R. Fabbri, Simeng Han, Wojciech Kryscinski, Faisal Ladhak, Bryan Li, Kathleen McKeown, Dragomir Radev, Tianyi Zhang, Sam Wiseman"
+      conference: "arXiv 2022"
+      image: /images/creativesumm.png
+      code: https://github.com/fladhak/creative-summ-data
+      pdf: "http://128.84.21.203/pdf/2211.05886"
+      bibtex: "https://www.semanticscholar.org/paper/CREATIVESUMM%3A-Shared-Task-on-Automatic-for-Creative-Agarwal-Fabbri/4aafb522d20f570211324f4054761f146da80800"
+    
     - title: "MACSum: Controllable Summarization with Mixed Attributes"
       authors: "Yusen Zhang, Yang Liu, Ziyi Yang, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang"
       conference: "arXiv 2022"
