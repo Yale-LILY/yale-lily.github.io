@@ -242,7 +242,9 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           RASAT+PICARD (DB content used)
-                          <p class="institution">Anonymous</p>
+                          <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                          <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                          <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
                        </td>
                        <td>75.5</td>
                     </tr>
@@ -577,7 +579,9 @@ redirect_from: "/seq2sql/spider"
                              </td>
                              <td style="word-break:break-word;">
                                 RASAT+PICARD (DB content used)
-                                <p class="institution">Anonymous</p>
+                              <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                              <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                              <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
                              </td>
                              <td>75.3</td>
                              <td>70.9</td>

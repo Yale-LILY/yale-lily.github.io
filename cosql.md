@@ -203,7 +203,9 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               RASAT + PICARD 
-                              <p class="institution">Anonymous</p>
+                          <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                          <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                          <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
                            </td>
                            <td>55.7</td>
                            <td>26.5</td>
@@ -399,7 +401,9 @@ permalink: cosql
                        </td>
                        <td style="word-break:break-word;">
                           RASAT + PICARD
-                          <p class="institution">Anonymous</p>
+                          <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                          <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                          <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
                        </td>
                        <td><b>66.3</b></td>
                        <td><b>37.4</b></td>
