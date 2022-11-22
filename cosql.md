@@ -178,7 +178,10 @@ permalink: cosql
                            </td>
                            <td style="word-break:break-word;">
                               STAR
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Alibaba DAMO & SIAT</p>
+			      <a class="link" href="https://arxiv.org/abs/2210.11888">(Cai and Li et al., EMNLP-Findings '22)</a>
+			      <a class="link" href="https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/star">code</a>
+			      <a class="link" href="https://modelscope.cn/models/damo/nlp_star_conversational-text-to-sql/summary">demo</a>
                            </td>
 			   <td>57.8</td>
                            <td><b>28.2</b></td>
