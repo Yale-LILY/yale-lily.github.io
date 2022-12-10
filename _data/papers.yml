@@ -3,6 +3,8 @@ papers:
     - title: "ProofNet: A Benchmark for Autoformalizing and Formally Proving Undergraduate-Level Mathematics Problems"
       authors: "Zhangir Azerbayev, Bartosz Piotrowski, Jeremy Avigad"
       conference: "2nd MATH-AI Workshop at NeurIPS 2022"
+      pdf: "https://mathai2022.github.io/papers/20.pdf"
+      image: /images/proofnet.png
 
     - title: "Explicit Knowledge Transfer for Weakly-Supervised Code Generation"
       authors: "Zhangir Azerbayev, Ansong Ni, Hailey Schoelkopf, Dragomir Radev"
@@ -365,13 +367,6 @@ papers:
       code: https://github.com/Yale-LILY/SummerTime
       pdf: "https://aclanthology.org/2021.emnlp-demo.37.pdf"
       bibtex: "https://aclanthology.org/2021.emnlp-demo.37"
-
-    - title: "Neural Natural Language Processing for Unstructured Data in Electronic Health Records: a Review"
-      authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M. Krumholz, Dragomir Radev"
-      image: /images/nnlp.png
-      conference: "arXiv 2021"
-      pdf: "https://arxiv.org/pdf/2107.02975.pdf"
-      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2107-02975.html?view=bibtex"
 
     - title: "DocNLI: A Large-scale Dataset for Document-level Natural Language Inference"
       authors: "Wenpeng Yin, Dragomir Radev, Caiming Xiong"
