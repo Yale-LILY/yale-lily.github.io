@@ -72,6 +72,8 @@ papers:
     - title: "STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension"
       authors: "Borui Wang, Chengcheng Feng, Arjun Nair, Madelyn Mao, Jai Desai, Asli Celikyilmaz, Haoran Li, Yashar Mehdad and Dragomir Radev"
       conference: "EMNLP 2022"
+      pdf: "https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.329.pdf"
+      image: /images/strudel.png
 
     - title: "Leveraging Locality in Abstractive Text Summarization"
       authors: "Yixin Liu, Ansong Ni, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah and Dragomir Radev"
@@ -92,6 +94,9 @@ papers:
     - title: "Uni-Parser: Unified Semantic Parser on Knowledge Base and Data Base Question Answering"
       authors: "Ye Liu, Semih Yavuz, Rui Meng, Dragomir Radev, Caiming Xiong and Yingbo Zhou"
       conference: "EMNLP 2022"
+      image: /images/uniparser.png
+      pdf: "https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.605.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/Uni-Parser%3A-Unified-Semantic-Parser-for-Question-on-Liu-Yavuz/4dbd5febea8968acda097642e3daf2c312618bed"
 
     - title: "ReasTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples"
       authors: "Yilun Zhao, Linyong Nan, Zhenting Qi, Rui Zhang and Dragomir Radev"
