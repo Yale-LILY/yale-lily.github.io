@@ -1,4 +1,10 @@
 papers:
+    - title: "BLOOM+1: Adding Language Support to BLOOM for Zero-Shot Prompting"
+      authors: "Zheng-Xin Yong, Hailey Schoelkopf, Niklas Muennighoff, Alham Fikri Aji, David Ifeoluwa Adelani, Khalid Almubarak, M Saiful Bari, Lintang Sutawika, Jungo Kasai, Ahmed Baruwa, Genta Indra Winata, Stella Biderman, Dragomir Radev, Vassilina Nikoulina"
+      conference: "arXiv 2022"
+      pdf: "https://arxiv.org/pdf/2212.09535v1.pdf"
+      image: /images/bloom1.png
+      code: https://github.com/bigscience-workshop/multilingual-modeling/
 
     - title: "Revisiting the Gold Standard: Grounding Summarization Evaluation with Robust Human Evaluation"
       authors: "Yixin Liu, Alexander R. Fabbri, Pengfei Liu, Yilun Zhao, Linyong Nan, Ruilin Han, Simeng Han, Shafiq Joty, Chien-Sheng Wu, Caiming Xiong, Dragomir Radev"
