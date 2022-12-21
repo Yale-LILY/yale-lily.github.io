@@ -1,10 +1,19 @@
 papers:
+    - title: "On Improving Summarization Factual Consistency from Natural Language Feedback"
+      authors: "Yixin Liu, Budhaditya Deb, Milagro Teruel, Aaron Halfaker, Dragomir Radev, Ahmed H. Awadallah"
+      conference: "arXiv 2022"
+      pdf: "https://arxiv.org/pdf/2212.09968v1.pdf"
+      image: /images/yixin-on-improving.png
+      code: https://github.com/microsoft/DeFacto
+      bibtex: https://www.semanticscholar.org/paper/On-Improving-Summarization-Factual-Consistency-from-Liu-Deb/ffc8a0e3779ce0d772c46b55e78a2c51bd8bcc23
+    
     - title: "BLOOM+1: Adding Language Support to BLOOM for Zero-Shot Prompting"
       authors: "Zheng-Xin Yong, Hailey Schoelkopf, Niklas Muennighoff, Alham Fikri Aji, David Ifeoluwa Adelani, Khalid Almubarak, M Saiful Bari, Lintang Sutawika, Jungo Kasai, Ahmed Baruwa, Genta Indra Winata, Stella Biderman, Dragomir Radev, Vassilina Nikoulina"
       conference: "arXiv 2022"
       pdf: "https://arxiv.org/pdf/2212.09535v1.pdf"
       image: /images/bloom1.png
       code: https://github.com/bigscience-workshop/multilingual-modeling/
+      bibtex: https://www.semanticscholar.org/paper/BLOOM%2B1%3A-Adding-Language-Support-to-BLOOM-for-Yong-Schoelkopf/507cc9b8e499c903efc3d94517b0d362c18f4a72
 
     - title: "Revisiting the Gold Standard: Grounding Summarization Evaluation with Robust Human Evaluation"
       authors: "Yixin Liu, Alexander R. Fabbri, Pengfei Liu, Yilun Zhao, Linyong Nan, Ruilin Han, Simeng Han, Shafiq Joty, Chien-Sheng Wu, Caiming Xiong, Dragomir Radev"
