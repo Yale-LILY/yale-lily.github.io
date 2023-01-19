@@ -220,7 +220,9 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           Graphix-3B+PICARD (DB content used)
-                          <p class="institution">Anonymous</p>
+                          <p class="institution">Alibaba DAMO & HKU STAR & SIAT</p>
+                          <a class="link" href="https://arxiv.org/abs/2301.07507">(Li et al., AAAI'2023)</a>
+                          <a class="link" href="https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/graphix">code</a>
                        </td>
                        <td>77.6</td>
                     </tr>
@@ -466,7 +468,9 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               Graphix-3B + PICARD (DB content used)
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Alibaba DAMO & HKU STAR & SIAT</p>
+                              <a class="link" href="https://arxiv.org/abs/2301.07507">(Li et al., AAAI'2023)</a>
+                              <a class="link" href="https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/graphix">code</a>
                            </td>
                            <td>77.1</td>
                            <td><b>74.0</b></td>
