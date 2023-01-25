@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects_s2022/
+permalink: /projects_f2022/
 ---
 
 <center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
