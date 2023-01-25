@@ -1,4 +1,28 @@
 papers:
+
+    - title: "Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions"
+      authors: "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Alex Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao"
+      conference: "ICLR 2023"
+      # image: /images/ansong-learning-2023.png
+
+    - title: "Binding Language Models in Symbolic Languages"
+      authors: "Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu"
+      conference: "ICLR 2023"
+      # image: /images/binding.png
+
+    - title: "LOFT: Enhancing Faithfulness and Diversity for Table-to-Text Generation via Logic Form Control"
+      authors: "Yilun Zhao, Zhenting Qi, Linyong Nan, Lorenzo Jaime Yu Flores and Dragomir Radev"
+      conference: "EACL 2023"
+      # image: /images/loft.png
+
+    - title: "Molformer: Motif-based Transformer on 3D Heterogeneous Molecular Graph"
+      authors: "Fang Wu, Dragomir Radev, and Stan Z. Li"
+      conference: "AAAI 2023"
+      image: /images/molformer.png
+      pdf: https://arxiv.org/pdf/2110.01191.pdf
+      bibtex: https://www.semanticscholar.org/paper/Molformer%3A-Motif-based-Transformer-on-3D-Molecular-Wu-Zhang/540ed994eb00b5279748d1f26d04371e3a67ec0d
+      code: https://github.com/smiles724/Molformer
+    
     - title: "On Improving Summarization Factual Consistency from Natural Language Feedback"
       authors: "Yixin Liu, Budhaditya Deb, Milagro Teruel, Aaron Halfaker, Dragomir Radev, Ahmed H. Awadallah"
       conference: "arXiv 2022"
