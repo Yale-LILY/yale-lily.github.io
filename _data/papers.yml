@@ -1,5 +1,4 @@
 papers:
-
     - title: "Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions"
       authors: "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Alex Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao"
       conference: "ICLR 2023"
