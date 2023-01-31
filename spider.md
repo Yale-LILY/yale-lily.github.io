@@ -504,8 +504,8 @@ redirect_from: "/seq2sql/spider"
                               G³R + LGESQL + ELECTRA (DB content used)
                               <p class="institution">Anonymous</p>
                            </td>
-                           <td>77.2</td>
-                           <td>72.6</td>
+                           <td>78.1</td>
+                           <td>72.9</td>
                         </tr>
                         <tr>
                            <td>
