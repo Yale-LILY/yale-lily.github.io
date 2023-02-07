@@ -2,12 +2,16 @@ papers:
     - title: "Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions"
       authors: "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Alex Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao"
       conference: "ICLR 2023"
-      # image: /images/ansong-learning-2023.png
+      pdf: https://openreview.net/pdf?id=4D4TSJE6-K
+      image: /images/ansong-learning-2023.png
 
     - title: "Binding Language Models in Symbolic Languages"
       authors: "Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu"
       conference: "ICLR 2023"
-      # image: /images/binding.png
+      image: /images/binding.png
+      pdf: https://arxiv.org/pdf/2210.02875.pdf
+      code: https://github.com/HKUNLP/Binder
+      bibtex: https://www.semanticscholar.org/paper/Binding-Language-Models-in-Symbolic-Languages-Cheng-Xie/c140fe515de2f20d0c85c813c7b3ec1defc41f9d
 
     - title: "LOFT: Enhancing Faithfulness and Diversity for Table-to-Text Generation via Logic Form Control"
       authors: "Yilun Zhao, Zhenting Qi, Linyong Nan, Lorenzo Jaime Yu Flores and Dragomir Radev"
