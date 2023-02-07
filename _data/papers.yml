@@ -4,6 +4,7 @@ papers:
       conference: "ICLR 2023"
       pdf: https://openreview.net/pdf?id=4D4TSJE6-K
       image: /images/ansong-learning-2023.png
+      bibtex: "https://www.semanticscholar.org/paper/Learning-from-Self-Sampled-Correct-and-Programs-Ni-Inala/35afb74de9660962ebac2843d26de22a6fac2ef6"
 
     - title: "Binding Language Models in Symbolic Languages"
       authors: "Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu"
@@ -171,14 +172,6 @@ papers:
       pdf: "https://arxiv.org/pdf/2107.02975.pdf"
       bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2107-02975.html?view=bibtex"
 
-    - title: "Binding Language Models in Symbolic Languages"
-      authors: "Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu"
-      conference: "arXiv"
-      image: /images/binder.png
-      code: https://github.com/hkunlp/binder
-      bibtex: https://www.semanticscholar.org/paper/Binding-Language-Models-in-Symbolic-Languages-Cheng-Xie/c140fe515de2f20d0c85c813c7b3ec1defc41f9d
-      pdf: "https://arxiv.org/pdf/2210.02875.pdf"
-
     - title: "FOLIO: Natural Language Reasoning with First-Order Logic"
       authors: "Simeng Han, Hailey Schoelkopf, Yilun Zhao, Zhenting Qi, Martin Riddell, Luke Benson, Lucy Sun, Ekaterina Zubova, Yujie Qiao, Matthew Burtell, David Peng, Jonathan Fan, Yixin Liu, Brian Wong, Malcolm Sailor, Ansong Ni, Linyong Nan, Jungo Kasai, Tao Yu, Rui Zhang, Shafiq Joty, Alexander R. Fabbri, Wojciech Kryscinski, Xi Victoria Lin, Caiming Xiong, Dragomir Radev"
       conference: "arXiv"
@@ -210,13 +203,6 @@ papers:
       code: https://gem-benchmark.com/
       pdf: "https://arxiv.org/pdf/2206.11249.pdf"
       bibtex: "https://www.semanticscholar.org/paper/GEMv2%3A-Multilingual-NLG-Benchmarking-in-a-Single-of-Gehrmann-Bhattacharjee/9ed047bb4ef6ddc296d473bf4f3b55488aeba350"
-
-    - title: "Learning from Self-Sampled Correct and Partially-Correct Programs"
-      authors: "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Oleksandr Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao"
-      conference: "arXiv 2022"
-      image: /images/ansong-2022-learning.png
-      pdf: "https://arxiv.org/pdf/2205.14318.pdf"
-      bibtex: "https://www.semanticscholar.org/paper/Learning-from-Self-Sampled-Correct-and-Programs-Ni-Inala/35afb74de9660962ebac2843d26de22a6fac2ef6"
 
     - title: "You reap what you sow: On the Challenges of Bias Evaluation Under Multilingual Settings"
       authors: "Zeerak Talat, Aurélie Névéol, Stella Biderman, Miruna Clinciu, Manan Dey, Shayne Longpre, Sasha Luccioni, Maraim Masoud, Margaret Mitchell, Dragomir Radev, Shanya Sharma, Arjun Subramonian, Jaesung Tae, Samson Tan, Deepak Tunuguntla, Oskar Van Der Wal"
