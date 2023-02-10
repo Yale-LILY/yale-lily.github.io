@@ -17,7 +17,10 @@ papers:
     - title: "LOFT: Enhancing Faithfulness and Diversity for Table-to-Text Generation via Logic Form Control"
       authors: "Yilun Zhao, Zhenting Qi, Linyong Nan, Lorenzo Jaime Yu Flores and Dragomir Radev"
       conference: "EACL 2023"
-      # image: /images/loft.png
+      image: /images/loft.png
+      pdf: https://arxiv.org/pdf/2302.02962.pdf
+      code: https://github.com/Yale-LILY/LoFT
+      bibtex: https://www.semanticscholar.org/paper/LoFT%3A-Enhancing-Faithfulness-and-Diversity-for-via-Zhao-Qi/05c3a61c5106793dbc0ca4c6d81be888234a13d8
 
     - title: "Molformer: Motif-based Transformer on 3D Heterogeneous Molecular Graph"
       authors: "Fang Wu, Dragomir Radev, and Stan Z. Li"
