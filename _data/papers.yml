@@ -1,4 +1,12 @@
 papers:
+    - title: "LEVER: Learning to Verify Language-to-Code Generation with Execution"
+      authors: "Ansong Ni, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, Xi Victoria Lin"
+      conference: "arXiv"
+      pdf: https://arxiv.org/pdf/2302.08468.pdf
+      code: https://github.com/niansong1996/lever
+      image: /images/lever.png
+      bibtex: "https://www.semanticscholar.org/paper/LEVER%3A-Learning-to-Verify-Language-to-Code-with-Ni-Iyer/6d269364de402d4a72ac30b0c8d81324f6849807"
+    
     - title: "Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions"
       authors: "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Alex Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao"
       conference: "ICLR 2023"
