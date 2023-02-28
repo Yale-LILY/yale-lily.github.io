@@ -1,4 +1,12 @@
 papers:
+    - title: "ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics"
+      authors: "Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers, Dragomir Radev, Jeremy Avigad"
+      conference: "arXiv"
+      pdf: "https://arxiv.org/pdf/2302.12433.pdf"
+      image: /images/proofnet.png
+      code: https://github.com/zhangir-azerbayev/ProofNet
+      bibtex: https://www.semanticscholar.org/paper/ProofNet%3A-Autoformalizing-and-Formally-Proving-Azerbayev-Piotrowski/272afc28d03890160b1f2808cc551c962ea9138c
+    
     - title: "LEVER: Learning to Verify Language-to-Code Generation with Execution"
       authors: "Ansong Ni, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, Xi Victoria Lin"
       conference: "arXiv"
@@ -61,12 +69,6 @@ papers:
       image: /images/yixin-revisiting.png
       code: https://github.com/Yale-LILY/ROSE
       bibtex: https://www.semanticscholar.org/paper/Revisiting-the-Gold-Standard%3A-Grounding-Evaluation-Liu-Fabbri/2bff7efafc7a07cc6c8402c595cb469bb90fea3d
-
-    - title: "ProofNet: A Benchmark for Autoformalizing and Formally Proving Undergraduate-Level Mathematics Problems"
-      authors: "Zhangir Azerbayev, Bartosz Piotrowski, Jeremy Avigad"
-      conference: "2nd MATH-AI Workshop at NeurIPS 2022"
-      pdf: "https://mathai2022.github.io/papers/20.pdf"
-      image: /images/proofnet.png
 
     - title: "Explicit Knowledge Transfer for Weakly-Supervised Code Generation"
       authors: "Zhangir Azerbayev, Ansong Ni, Hailey Schoelkopf, Dragomir Radev"
