@@ -246,7 +246,8 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           SHiP+PICARD (DB content used)
-                          <p class="institution">Anonymous</p>
+                          <p class="institution">AWS AI Labs</p>
+                          <a class="link" href="https://arxiv.org/pdf/2212.08785.pdf">(Zhao et al.,'22)</a>
                        </td>
                        <td>76.6</td>
                     </tr>
@@ -507,7 +508,8 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               SHiP + PICARD (DB content used)
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">AWS AI Labs</p>
+                              <a class="link" href="https://arxiv.org/pdf/2212.08785.pdf">(Zhao et al.,'22)</a>
                            </td>
                            <td>77.2</td>
                            <td>73.1</td>
