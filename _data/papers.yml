@@ -1,4 +1,12 @@
 papers:
+    - title: "Towards Interpretable and Efficient Automatic Reference-Based Summarization Evaluation"
+      authors: "Yixin Liu, Alexander R. Fabbri, Yilun Zhao, Pengfei Liu, Shafiq Joty, Chien-Sheng Wu, Caiming Xiong, Dragomir Radev"
+      conference: "arXiv"
+      pdf: "https://arxiv.org/pdf/2303.03608.pdf"
+      image: /images/yixin-towards.png
+      code: https://github.com/Yale-LILY/AutoACU
+      bibtex: https://www.semanticscholar.org/paper/Towards-Interpretable-and-Efficient-Automatic-Liu-Fabbri/3bc6ca15f66dbd4038aabd6a1016d3d838eeb084
+    
     - title: "ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics"
       authors: "Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers, Dragomir Radev, Jeremy Avigad"
       conference: "arXiv"
