@@ -221,6 +221,7 @@ permalink: cosql
                            <td style="word-break:break-word;">
                               MT Training + N-best List Rerankers + PICARD
                               <p class="institution">Alexa AI</p>
+			      <a class="link" href="https://www.amazon.science/publications/conversational-text-to-sql-an-odyssey-into-state-of-the-art-and-challenges-ahead">(Parthasarathi et al., ICASSP'23)</a>
                            </td>
                            <td>55.8</td>
                            <td>24.8</td>
