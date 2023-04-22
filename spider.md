@@ -219,18 +219,6 @@ redirect_from: "/seq2sql/spider"
                     <tr>
                        <td>
                           <p>3</p>
-                          <span class="date label label-default">Apr 21, 2023</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          DIN-SQL + CodeX
-                          <p class="institution">University of Alberta</p> 
-                          <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
-                       </td>
-                       <td><b>85.3</b></td>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>4</p>
                           <span class="date label label-default">Nov 21, 2022</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -238,6 +226,18 @@ redirect_from: "/seq2sql/spider"
                           <p class="institution">Anonymous</p>
                        </td>
                        <td>78.5</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>4</p>
+                          <span class="date label label-default">Apr 21, 2023</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          DIN-SQL + CodeX
+                          <p class="institution">University of Alberta</p> 
+                          <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
+                       </td>
+                       <td><b>78.2</b></td>
                     </tr>
                     <tr>
                        <td>
