@@ -1117,7 +1117,7 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>48</p>
-                              <span class="date label label-default">Dec 13, 2019</span>
+                              <span class="date label label-default">Apr 21, 2023</span>
                            </td>
                            <td style="word-break:break-word;">
                               DIN-SQL + CodeX
