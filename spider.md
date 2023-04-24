@@ -199,6 +199,7 @@ redirect_from: "/seq2sql/spider"
                        <td style="word-break:break-word;">
                           DIN-SQL + GPT-4
                           <p class="institution">University of Alberta</p> 
+                          <a class="link" href="https://arxiv.org/abs/2304.11015">(Pourreza et al.,'2023)</a>
                           <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
                        </td>
                        <td><b>85.3</b></td>
@@ -234,7 +235,8 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           DIN-SQL + CodeX
-                          <p class="institution">University of Alberta</p> 
+                          <p class="institution">University of Alberta</p>
+                          <a class="link" href="https://arxiv.org/abs/2304.11015">(Pourreza et al.,'2023)</a>
                           <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
                        </td>
                        <td><b>78.2</b></td>
@@ -1068,6 +1070,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               DIN-SQL + GPT-4
                              <p class="institution">University of Alberta</p>
+                             <a class="link" href="https://arxiv.org/abs/2304.11015">(Pourreza et al.,'2023)</a>
                              <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
                            </td>
                            <td>60.1</td>
@@ -1122,6 +1125,7 @@ redirect_from: "/seq2sql/spider"
                            <td style="word-break:break-word;">
                               DIN-SQL + CodeX
                               <p class="institution">University of Alberta</p>
+                              <a class="link" href="https://arxiv.org/abs/2304.11015">(Pourreza et al.,'2023)</a>
                               <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
                            </td>
                            <td>57.2</td>
