@@ -598,6 +598,7 @@ redirect_from: "/seq2sql/spider"
                                 S²SQL + ELECTRA (DB content used)
                                 <p class="institution">Alibaba DAMO</p>
                                 <a class="link" href="https://arxiv.org/abs/2203.06958">(Hui et al., ACL-Findings '22)</a>
+                                <a class="link" href="https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/s2sql">code</a>
                              </td>
                              <td>76.4</td>
                              <td>72.1</td>
@@ -1560,7 +1561,9 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left"> <b>Other papers used Spider (evaluated on the dev but not test set):</b>
                       <ol>
+                        <li><a class="link" href="https://arxiv.org/abs/2206.14017">(Wang et al., KDD 2022)</a>, Alibaba DAMO</li>
                         <li><a class="link" href="http://vldb.org/pvldb/vol15/p569-ma.pdf">(Ma et al., VLDB 2022)</a>, HKUST</li>
+                        <li><a class="link" href="https://aclanthology.org/2022.coling-1.471/">(Qin et al., COLING 2022)</a>, Alibaba DAMO</li>
                         <li><a class="link" href="https://dl.acm.org/doi/10.14778/3446095.3446103">(Usta et al., VLDB 2021)</a>, Bilkent University</li>
                         <li><a class="link" href="https://frcchang.github.io/pub/emnlp2019.2.pdf">(Min et al., EMNLP 2019)</a>, Westlake University, Spider in Chinese</li>
                         <li><a class="link" href="http://web.cse.ohio-state.edu/~sun.397/docs/MISP.pdf">(Yao et al., EMNLP 2019)</a>, OSU & Facebook AI Research</li>
