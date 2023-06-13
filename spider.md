@@ -214,8 +214,7 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           C3 + ChatGPT
-                          <p class="institution">Zhejiang University & HUNDSUN</p> 
-                          <a class="link" href="https://github.com/bigbigwatermalon/C3SQL">code</a>
+                          <p class="institution">Anonymous</p> 
                        </td>
                        <td><b>82.3</b></td>
                     </tr>
