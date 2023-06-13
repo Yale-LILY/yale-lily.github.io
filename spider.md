@@ -59,6 +59,9 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>05/27/2023</i></span>
+                             Please check out <a href="https://openreview.net/pdf?id=Wc5bmZZU9cy">Dr.Spider, a robustness evaluation benchmark based on Spider, </a> from AWS AI Lab for studying robustness in semantic parsing!
+                         </li>
                          <li><span class="label label-default" style="background-color: #FF7F50"><i>11/20/2022</i></span>
                              Please check out our recent work <a href="https://ds1000-code-gen.github.io/">DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</a>. Please check out examples, data, and code on the <a href="https://ds1000-code-gen.github.io/">DS-1000 project site</a>!!
                          </li>
