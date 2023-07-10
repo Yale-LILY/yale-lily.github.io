@@ -561,7 +561,8 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               G³R + LGESQL + ELECTRA (DB content used)
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Southeast University & Tencent Cloud Xiaowe</p>
+                              <a class="link" href="https://aclanthology.org/2023.findings-acl.23/">(Xiang et al., ACL-Findings '23)</a>
                            </td>
                            <td>78.1</td>
                            <td>72.9</td>
