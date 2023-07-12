@@ -214,8 +214,8 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           Hindsight Chain of Thought with GPT-4
-                          <p class="institution">Kainos Software</p> 
-                          <a class="link" href="https://github.com/KainosSoftwareLtd/spider-challenge/">(Hindsight Chain of Thought)</a>
+                          <p class="institution">Kainos Software Ltd.</p> 
+                          <a class="link" href="https://github.com/KainosSoftwareLtd/spider-challenge/">Hindsight Chain of Thought</a>
                           <a class="link" href="https://github.com/KainosSoftwareLtd/spider-challenge/">code</a>
                        </td>
                        <td><b>83.9</b></td>
@@ -238,7 +238,7 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           Hindsight Chain of Thought with GPT-4 and Instructions
-                          <p class="institution">Kainos Software</p> 
+                          <p class="institution">Kainos Software Ltd.</p> 
                        </td>
                        <td><b>80.8</b></td>
                     </tr>
