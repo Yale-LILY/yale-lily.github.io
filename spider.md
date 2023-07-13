@@ -215,6 +215,7 @@ redirect_from: "/seq2sql/spider"
                        <td style="word-break:break-word;">
                           Hindsight Chain of Thought with GPT-4
                           <p class="institution">Kainos Software Ltd.</p> 
+                          <span>Code and paper coming soon</span>
                        </td>
                        <td><b>83.9</b></td>
                     </tr>
@@ -236,7 +237,8 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           Hindsight Chain of Thought with GPT-4 and Instructions
-                          <p class="institution">Kainos Software Ltd.</p> 
+                          <p class="institution">Kainos Software Ltd.</p>
+                          <span>Code and paper coming soon</span>
                        </td>
                        <td><b>80.8</b></td>
                     </tr>
