@@ -213,8 +213,10 @@ redirect_from: "/seq2sql/spider"
                           <span class="date label label-default">Jun 1, 2023</span>
                        </td>
                        <td style="word-break:break-word;">
-                          C3 + ChatGPT
-                          <p class="institution">Anonymous</p> 
+                          C3 + ChatGPT + Zero-Shot
+                          <p class="institution">Zhejiang University & Hundsun</p> 
+                          <a class="link" href="https://arxiv.org/abs/2307.07306">(Dong et al.,'2023)</a>
+                          <a class="link" href="https://github.com/bigbigwatermalon/C3SQL">code</a>
                        </td>
                        <td><b>82.3</b></td>
                     </tr>
