@@ -62,6 +62,7 @@ redirect_from: "/seq2sql/spider"
                        <ul>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
                              Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>05/27/2023</i></span>
                              Please check out <a href="https://openreview.net/pdf?id=Wc5bmZZU9cy">Dr.Spider, a robustness evaluation benchmark based on Spider, </a> from AWS AI Lab for studying robustness in semantic parsing!
                          </li>
