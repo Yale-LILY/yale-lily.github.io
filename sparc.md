@@ -56,6 +56,7 @@ permalink: sparc
                        <ul>
 			 <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
                              Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
+                         </li>
 			 <li><span class="label label-default" style="background-color: #FF7F50"><i>11/20/2022</i></span>
                              Please check out our recent work <a href="https://ds1000-code-gen.github.io/">DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</a>. Please check out examples, data, and code on the <a href="https://ds1000-code-gen.github.io/">DS-1000 project site</a>!!
                          </li>
