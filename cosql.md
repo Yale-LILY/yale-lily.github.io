@@ -41,7 +41,8 @@ permalink: cosql
                     <p align="left">
                     <div class="left"><b><i>CoSQL</i></b> is a corpus for building cross-domain <b>Co</b>nversational text-to-<b>SQL</b> systems. It is the dialogue version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> tasks. CoSQL consists of 30k+ turns plus 10k+ annotated SQL queries, obtained from a <a href="https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment">Wizard-of-Oz</a> collection of 3k dialogues querying 200 complex databases spanning 138 domains. Each dialogue simulates a real-world DB query scenario with a crowd worker as a user exploring the database and a SQL expert retrieving answers with SQL, clarifying ambiguous questions, or otherwise informing of unanswerable questions.
                     </div>
-                    <a class="btn actionBtn" href="https://arxiv.org/abs/1909.05378">CoSQL Paper (EMNLP'19)</a>
+                    <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLang Lab for building LM agents! </a>
+		    <a class="btn actionBtn" href="https://arxiv.org/abs/1909.05378">CoSQL Paper (EMNLP'19)</a>
                     <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">CoSQL Post</a>
                     <hr><b>Related works</b>: <a href="https://ds1000-code-gen.github.io/"><b><i>DS-1000</i></b></a>, <a href="https://lm-code-binder.github.io/"><b><i>Binder</i></b></a>, <a href="https://unifiedskg.com/"><b><i>UnifiedSKG</i></b></a>, single-turn <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and multi-turn <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> text-to-SQL tasks
 			<a class="btn actionBtn2" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge ('22)</a>
@@ -56,6 +57,8 @@ permalink: cosql
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+			 <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
+                             Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
 			 <li><span class="label label-default" style="background-color: #FF7F50"><i>11/20/2022</i></span>
                              Please check out our recent work <a href="https://ds1000-code-gen.github.io/">DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</a>. Please check out examples, data, and code on the <a href="https://ds1000-code-gen.github.io/">DS-1000 project site</a>!!
                          </li>
