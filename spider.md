@@ -289,7 +289,7 @@ redirect_from: "/seq2sql/spider"
                        <td style="word-break:break-word;">
                           T5-3B+NatSQL+Token Preprocessing (DB content used)
                           <p class="institution">George Mason University & MIT</p>
-                          <a class="link" href=" https://arxiv.org/abs/2305.17378">(Rai et al., ACL '23)</a>
+                          <a class="link" href="https://arxiv.org/abs/2305.17378">(Rai et al., ACL '23)</a>
                           <a class="link" href="https://github.com/Dakingrai/ood-generalization-semantic-boundary-techniques">code</a>
                        </td>
                        <td>78.0</td>
@@ -433,7 +433,7 @@ redirect_from: "/seq2sql/spider"
                        <td style="word-break:break-word;">
                           T5-Base+NatSQL+Token Preprocessing (DB content used)
                           <p class="institution">George Mason University & MIT</p>
-                          <a class="link" href=" https://arxiv.org/abs/2305.17378">(Rai et al., ACL '23)</a>
+                          <a class="link" href="https://arxiv.org/abs/2305.17378">(Rai et al., ACL '23)</a>
                           <a class="link" href="https://github.com/Dakingrai/ood-generalization-semantic-boundary-techniques">code</a>
                        </td>
                        <td>71.1</td>
