@@ -1,89 +1,473 @@
 papers:
-    - title: "DocNLI: A Large-scale Dataset for Document-level Natural Language Inference"
-      authors: "Wenpeng Yin, Dragomir Radev, Caiming Xiong"
-      conference: "ACL'21 Findings"
-      image: /images/docnli.png
-      pdf: "https://arxiv.org/pdf/2106.09449.pdf"
+    - title: "Towards Interpretable and Efficient Automatic Reference-Based Summarization Evaluation"
+      authors: "Yixin Liu, Alexander R. Fabbri, Yilun Zhao, Pengfei Liu, Shafiq Joty, Chien-Sheng Wu, Caiming Xiong, Dragomir Radev"
+      conference: "arXiv"
+      pdf: "https://arxiv.org/pdf/2303.03608.pdf"
+      image: /images/yixin-towards.png
+      code: https://github.com/Yale-LILY/AutoACU
+      bibtex: https://www.semanticscholar.org/paper/Towards-Interpretable-and-Efficient-Automatic-Liu-Fabbri/3bc6ca15f66dbd4038aabd6a1016d3d838eeb084
+    
+    - title: "ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics"
+      authors: "Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers, Dragomir Radev, Jeremy Avigad"
+      conference: "arXiv"
+      pdf: "https://arxiv.org/pdf/2302.12433.pdf"
+      image: /images/proofnet.png
+      code: https://github.com/zhangir-azerbayev/ProofNet
+      bibtex: https://www.semanticscholar.org/paper/ProofNet%3A-Autoformalizing-and-Formally-Proving-Azerbayev-Piotrowski/272afc28d03890160b1f2808cc551c962ea9138c
+    
+    - title: "LEVER: Learning to Verify Language-to-Code Generation with Execution"
+      authors: "Ansong Ni, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, Xi Victoria Lin"
+      conference: "arXiv"
+      pdf: https://arxiv.org/pdf/2302.08468.pdf
+      code: https://github.com/niansong1996/lever
+      image: /images/lever.png
+      bibtex: "https://www.semanticscholar.org/paper/LEVER%3A-Learning-to-Verify-Language-to-Code-with-Ni-Iyer/6d269364de402d4a72ac30b0c8d81324f6849807"
+    
+    - title: "Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions"
+      authors: "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Alex Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao"
+      conference: "ICLR 2023"
+      pdf: https://openreview.net/pdf?id=4D4TSJE6-K
+      image: /images/ansong-learning-2023.png
+      bibtex: "https://www.semanticscholar.org/paper/Learning-from-Self-Sampled-Correct-and-Programs-Ni-Inala/35afb74de9660962ebac2843d26de22a6fac2ef6"
+
+    - title: "Binding Language Models in Symbolic Languages"
+      authors: "Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu"
+      conference: "ICLR 2023"
+      image: /images/binding.png
+      pdf: https://arxiv.org/pdf/2210.02875.pdf
+      code: https://github.com/HKUNLP/Binder
+      bibtex: https://www.semanticscholar.org/paper/Binding-Language-Models-in-Symbolic-Languages-Cheng-Xie/c140fe515de2f20d0c85c813c7b3ec1defc41f9d
+
+    - title: "LOFT: Enhancing Faithfulness and Diversity for Table-to-Text Generation via Logic Form Control"
+      authors: "Yilun Zhao, Zhenting Qi, Linyong Nan, Lorenzo Jaime Yu Flores and Dragomir Radev"
+      conference: "EACL 2023"
+      image: /images/loft.png
+      pdf: https://arxiv.org/pdf/2302.02962.pdf
+      code: https://github.com/Yale-LILY/LoFT
+      bibtex: https://www.semanticscholar.org/paper/LoFT%3A-Enhancing-Faithfulness-and-Diversity-for-via-Zhao-Qi/05c3a61c5106793dbc0ca4c6d81be888234a13d8
+
+    - title: "Molformer: Motif-based Transformer on 3D Heterogeneous Molecular Graph"
+      authors: "Fang Wu, Dragomir Radev, and Stan Z. Li"
+      conference: "AAAI 2023"
+      image: /images/molformer.png
+      pdf: https://arxiv.org/pdf/2110.01191.pdf
+      bibtex: https://www.semanticscholar.org/paper/Molformer%3A-Motif-based-Transformer-on-3D-Molecular-Wu-Zhang/540ed994eb00b5279748d1f26d04371e3a67ec0d
+      code: https://github.com/smiles724/Molformer
+    
+    - title: "On Improving Summarization Factual Consistency from Natural Language Feedback"
+      authors: "Yixin Liu, Budhaditya Deb, Milagro Teruel, Aaron Halfaker, Dragomir Radev, Ahmed H. Awadallah"
+      conference: "arXiv 2022"
+      pdf: "https://arxiv.org/pdf/2212.09968v1.pdf"
+      image: /images/yixin-on-improving.png
+      code: https://github.com/microsoft/DeFacto
+      bibtex: https://www.semanticscholar.org/paper/On-Improving-Summarization-Factual-Consistency-from-Liu-Deb/ffc8a0e3779ce0d772c46b55e78a2c51bd8bcc23
+    
+    - title: "BLOOM+1: Adding Language Support to BLOOM for Zero-Shot Prompting"
+      authors: "Zheng-Xin Yong, Hailey Schoelkopf, Niklas Muennighoff, Alham Fikri Aji, David Ifeoluwa Adelani, Khalid Almubarak, M Saiful Bari, Lintang Sutawika, Jungo Kasai, Ahmed Baruwa, Genta Indra Winata, Stella Biderman, Dragomir Radev, Vassilina Nikoulina"
+      conference: "arXiv 2022"
+      pdf: "https://arxiv.org/pdf/2212.09535v1.pdf"
+      image: /images/bloom1.png
+      code: https://github.com/bigscience-workshop/multilingual-modeling/
+      bibtex: https://www.semanticscholar.org/paper/BLOOM%2B1%3A-Adding-Language-Support-to-BLOOM-for-Yong-Schoelkopf/507cc9b8e499c903efc3d94517b0d362c18f4a72
+
+    - title: "Revisiting the Gold Standard: Grounding Summarization Evaluation with Robust Human Evaluation"
+      authors: "Yixin Liu, Alexander R. Fabbri, Pengfei Liu, Yilun Zhao, Linyong Nan, Ruilin Han, Simeng Han, Shafiq Joty, Chien-Sheng Wu, Caiming Xiong, Dragomir Radev"
+      conference: "arXiv 2022"
+      pdf: "https://arxiv.org/pdf/2212.07981.pdf"
+      image: /images/yixin-revisiting.png
+      code: https://github.com/Yale-LILY/ROSE
+      bibtex: https://www.semanticscholar.org/paper/Revisiting-the-Gold-Standard%3A-Grounding-Evaluation-Liu-Fabbri/2bff7efafc7a07cc6c8402c595cb469bb90fea3d
+
+    - title: "Explicit Knowledge Transfer for Weakly-Supervised Code Generation"
+      authors: "Zhangir Azerbayev, Ansong Ni, Hailey Schoelkopf, Dragomir Radev"
+      conference: "arXiv 2022"
+      image: /images/zhangir-explicit-2022.png
+      pdf: https://arxiv.org/pdf/2211.16740.pdf
+      bibtex: "https://www.semanticscholar.org/paper/Explicit-Knowledge-Transfer-for-Weakly-Supervised-Azerbayev-Ni/32b58766a1bfcef7ebba07070a272687aa518206"
+
+    - title: "CREATIVESUMM: Shared Task on Automatic Summarization for Creative Writing"
+      authors: "Divyansh Agarwal, Alexander R. Fabbri, Simeng Han, Wojciech Kryscinski, Faisal Ladhak, Bryan Li, Kathleen McKeown, Dragomir Radev, Tianyi Zhang, Sam Wiseman"
+      conference: "arXiv 2022"
+      image: /images/creativesumm.png
+      code: https://github.com/fladhak/creative-summ-data
+      pdf: "http://128.84.21.203/pdf/2211.05886"
+      bibtex: "https://www.semanticscholar.org/paper/CREATIVESUMM%3A-Shared-Task-on-Automatic-for-Creative-Agarwal-Fabbri/4aafb522d20f570211324f4054761f146da80800"
+    
+    - title: "MACSum: Controllable Summarization with Mixed Attributes"
+      authors: "Yusen Zhang, Yang Liu, Ziyi Yang, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang"
+      conference: "arXiv 2022"
+      image: /images/macsum.png
+      code: https://github.com/psunlpgroup/MACSum
+      pdf: "https://arxiv.org/pdf/2211.05041.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/MACSum%3A-Controllable-Summarization-with-Mixed-Zhang-Liu/a83d62cda440d62ff8b2d4cbcac775ca7445c080"
+
+    - title: "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model"
+      authors: "Teven Le Scao, Angela Fan, Christopher Akiki, Ellie Pavlick, Suzana Ilić, Daniel Hesslow, Roman Castagné, et al."
+      conference: "arXiv 2022"
+      image: /images/bloom.png
+      code: https://huggingface.co/bigscience/bloom
+      pdf: "https://arxiv.org/pdf/2211.05100.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/BLOOM%3A-A-176B-Parameter-Open-Access-Multilingual-Scao-Fan/c84d2f81ee065f32f0222495330a1c51e620e141"
+    
+    - title: "Look Ma, Only 400 Samples! Revisiting the Effectiveness of Automatic N-Gram Rule Generation for Spelling Normalization in Filipino"
+      authors: "Lorenzo Jaime Yu Flores, Dragomir Radev"
+      conference: "EMNLP 2022 Third Workshop on Simple and Efficient Natural Language Processing"
+      image: /images/lookma.png
+      code: https://github.com/ljyflores/Filipino-Slang
+      pdf: "https://arxiv.org/pdf/2210.02675.pdf"
+      bibtex: "https://arxiv.org/abs/2210.02675"
+
+    - title: "Crosslingual Generalization through Multitask Finetuning"
+      authors: "Niklas Muennighoff, Thomas Wang, Lintang Sutawika, Adam Roberts, Stella Biderman, Teven Le Scao, M Saiful Bari, Sheng Shen, Zheng-Xin Yong, Hailey Schoelkopf, Xiangru Tang, Dragomir Radev, Alham Fikri Aji, Khalid Almubarak, Samuel Albanie, Zaid Alyafeai, Albert Webson, Edward Raff, Colin Raffel"
+      conference: "arXiv 2022"
+      image: /images/Muennighoff-2022.png
+      code: https://github.com/bigscience-workshop/xmtf
+      pdf: "https://arxiv.org/pdf/2211.01786.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/Crosslingual-Generalization-through-Multitask-Muennighoff-Wang/6fc01ddb5b38b021800dc652f0fbff0a898b133c"
+    
+    - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
+      authors: "Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer and Tao Yu"
+      image: /images/skg.png
+      pdf: "https://arxiv.org/pdf/2201.05966.pdf"
+      code: https://github.com/Yale-LILY/UnifiedSKG
+      conference: "EMNLP 2022"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2201-05966.html?view=bibtex"
+
+    - title: "Twist Decoding: Diverse Generators Guide Each Other"
+      authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Hao Peng, Ximing Lu, Dragomir Radev, Yejin Choi and Noah A. Smith"
+      image: /images/twist-decoding.png
+      code: https://github.com/jungokasai/twist_decoding
+      pdf: "https://arxiv.org/pdf/2205.09273.pdf"
+      conference: "EMNLP 2022"
+      bibtex: "https://www.semanticscholar.org/paper/Twist-Decoding%3A-Diverse-Generators-Guide-Each-Other-Kasai-Sakaguchi/ded0cd920c145ca0ae68acf306d54926cad5388c"
+
+    - title: "STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension"
+      authors: "Borui Wang, Chengcheng Feng, Arjun Nair, Madelyn Mao, Jai Desai, Asli Celikyilmaz, Haoran Li, Yashar Mehdad and Dragomir Radev"
+      conference: "EMNLP 2022"
+      pdf: "https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.329.pdf"
+      image: /images/strudel.png
+
+    - title: "Leveraging Locality in Abstractive Text Summarization"
+      authors: "Yixin Liu, Ansong Ni, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah and Dragomir Radev"
+      image: /images/yixin-2022-leveraging.png
+      pdf: "https://arxiv.org/pdf/2205.12476.pdf"
+      conference: "EMNLP 2022"
+      code: https://github.com/yixinL7/PageSum
+      bibtex: "https://www.semanticscholar.org/paper/Leveraging-Locality-in-Abstractive-Text-Liu-Ni/81fa9a9e3e0c868e4d2fee2efed5e1d9ad62395e"
+
+    - title: "R2D2: Robust Data-to-Text with Replacement Detection"
+      authors: "Linyong Nan, Lorenzo Jaime Flores, Yilun Zhao, Yixin Liu, Luke Benson, Weijin Zou and Dragomir Radev"
+      image: /images/r2d2.png
+      pdf: "https://arxiv.org/pdf/2205.12467.pdf"
+      conference: "EMNLP 2022"
+      code: https://github.com/Yale-LILY/r2d2
+      bibtex: "https://www.semanticscholar.org/paper/R2D2%3A-Robust-Data-to-Text-with-Replacement-Nan-Flores/4c9c07ae5d81e067d3b1ecaf18a0ddcbea213fa3"
+
+    - title: "Uni-Parser: Unified Semantic Parser on Knowledge Base and Data Base Question Answering"
+      authors: "Ye Liu, Semih Yavuz, Rui Meng, Dragomir Radev, Caiming Xiong and Yingbo Zhou"
+      conference: "EMNLP 2022"
+      image: /images/uniparser.png
+      pdf: "https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.605.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/Uni-Parser%3A-Unified-Semantic-Parser-for-Question-on-Liu-Yavuz/4dbd5febea8968acda097642e3daf2c312618bed"
+
+    - title: "ReasTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples"
+      authors: "Yilun Zhao, Linyong Nan, Zhenting Qi, Rui Zhang and Dragomir Radev"
+      conference: "EMNLP 2022"
+      image: /images/reastap.png
+      pdf: "https://arxiv.org/pdf/2210.12374.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/ReasTAP%3A-Injecting-Table-Reasoning-Skills-During-Zhao-Nan/e1801f68d42f4a1a96d580b73706733883bf6af8"
+      code: "https://github.com/Yale-LILY/ReasTAP"
+
+    - title: "BOOKSUM: A Collection of Datasets for Long-form Narrative Summarization"
+      authors: "Wojciech Kryscinski, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong and Dragomir Radev"
+      image: /images/booksum.png
+      pdf: "https://arxiv.org/pdf/2105.08209.pdf"
+      conference: "EMNLP 2022 Findings"
+      code: https://github.com/salesforce/booksum
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2105-08209.html?view=bibtex"
+
+    - title: "Neural Natural Language Processing for unstructured data in electronic health records: A review"
+      authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M.Krumholz, Dragomir Radev"
+      conference: "Computer Science Review"
+      image: /images/nnlp.png
+      pdf: "https://arxiv.org/pdf/2107.02975.pdf"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2107-02975.html?view=bibtex"
+
+    - title: "FOLIO: Natural Language Reasoning with First-Order Logic"
+      authors: "Simeng Han, Hailey Schoelkopf, Yilun Zhao, Zhenting Qi, Martin Riddell, Luke Benson, Lucy Sun, Ekaterina Zubova, Yujie Qiao, Matthew Burtell, David Peng, Jonathan Fan, Yixin Liu, Brian Wong, Malcolm Sailor, Ansong Ni, Linyong Nan, Jungo Kasai, Tao Yu, Rui Zhang, Shafiq Joty, Alexander R. Fabbri, Wojciech Kryscinski, Xi Victoria Lin, Caiming Xiong, Dragomir Radev"
+      conference: "arXiv"
+      image: /images/folio.png
+      code: https://github.com/Yale-LILY/FOLIO
+      bibtex: https://www.semanticscholar.org/paper/FOLIO%3A-Natural-Language-Reasoning-with-First-Order-Han-Schoelkopf/5581bf85386737bd3378eec68189759a05280bea
+      pdf: "https://arxiv.org/pdf/2209.00840.pdf"
+
+    - title: "RealTime QA: What's the Answer Right Now?"
+      authors: "Jungo Kasai, Keisuke Sakaguchi, Yoichi Takahashi, Ronan Le Bras, Akari Asai, Xinyan Yu, Dragomir Radev, Noah A. Smith, Yejin Choi, Kentaro Inui"
+      conference: "arXiv"
+      image: /images/realtimeqa.png
+      code: https://realtimeqa.github.io/
+      pdf: "https://arxiv.org/pdf/2207.13332.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/RealTime-QA%3A-What's-the-Answer-Right-Now-Kasai-Sakaguchi/dc5518e1db565a8c52084f27353461df474403d8"
+
+    - title: "LiGCN: Label-interpretable Graph Convolutional Networks for Multi-label Text Classification"
+      authors: "Irene Li, Aosong Feng, Hao Wu, Tianxiao Li, Toyotaro Suzumura, Ruihai Dong"
+      conference: "DLG4NLP Workshop, NAACL 2022"
+      image: /images/ligcn.png
+      code: https://github.com/IreneZihuiLi/LiGCN
+      pdf: "https://aclanthology.org/2022.dlg4nlp-1.7.pdf"
+      bibtex: "https://aclanthology.org/2022.dlg4nlp-1.7/"
+
+    - title: "GEMv2: Multilingual NLG Benchmarking in a Single Line of Code"
+      authors: "Sebastian Gehrmann, Abhik Bhattacharjee, Abinaya Mahendiran, Alex Wang, Alexandros Papangelis, Aman Madaan, Angelina McMillan-Major, Anna Shvets, Ashish Upadhyay, Bingsheng Yao, Bryan Wilie, Chandra Bhagavatula, Chaobin You, Craig Thomson, Cristina Garbacea, Dakuo Wang, Daniel Deutsch, Deyi Xiong, Di Jin, Dimitra Gkatzia, Dragomir Radev, Elizabeth Clark, Esin Durmus, Faisal Ladhak, Filip Ginter, Genta Indra Winata, Hendrik Strobelt, Hiroaki Hayashi, Jekaterina Novikova, Jenna Kanerva, Jenny Chim, Jiawei Zhou, Jordan Clive, Joshua Maynez, João Sedoc, Juraj Juraska, Kaustubh Dhole, Khyathi Raghavi Chandu, Laura Perez-Beltrachini, Leonardo F. R. Ribeiro, Lewis Tunstall, Li Zhang, Mahima Pushkarna, Mathias Creutz, Michael White, Mihir Sanjay Kale, Moussa Kamal Eddine, Nico Daheim, Nishant Subramani, Ondrej Dusek, Paul Pu Liang, Pawan Sasanka Ammanamanchi, Qi Zhu, Ratish Puduppully, Reno Kriz, Rifat Shahriyar, Ronald Cardenas, Saad Mahamood, Salomey Osei, Samuel Cahyawijaya, Sanja Štajner, Sebastien Montella, Shailza Jolly, Simon Mille, Tahmid Hasan, Tianhao Shen, Tosin Adewumi, Vikas Raunak, Vipul Raheja, Vitaly Nikolaev, Vivian Tsai, Yacine Jernite, Ying Xu, Yisi Sang, Yixin Liu, Yufang Hou"
+      conference: "arXiv 2022"
+      image: /images/gemv2.png
+      code: https://gem-benchmark.com/
+      pdf: "https://arxiv.org/pdf/2206.11249.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/GEMv2%3A-Multilingual-NLG-Benchmarking-in-a-Single-of-Gehrmann-Bhattacharjee/9ed047bb4ef6ddc296d473bf4f3b55488aeba350"
+
+    - title: "You reap what you sow: On the Challenges of Bias Evaluation Under Multilingual Settings"
+      authors: "Zeerak Talat, Aurélie Névéol, Stella Biderman, Miruna Clinciu, Manan Dey, Shayne Longpre, Sasha Luccioni, Maraim Masoud, Margaret Mitchell, Dragomir Radev, Shanya Sharma, Arjun Subramonian, Jaesung Tae, Samson Tan, Deepak Tunuguntla, Oskar Van Der Wal"
+      conference: "Proceedings of BigScience Episode #5 -- Workshop on Challenges & Perspectives in Creating Large Language Models"
+      image: /images/reap.png
+      pdf: "https://aclanthology.org/2022.bigscience-1.3.pdf"
+      bibtex: "https://aclanthology.org/2022.bigscience-1.3/"
+
+    - title: "Discovering the Representation Bottleneck of Graph Neural Networks from Multi-order Interactions"
+      authors: "Fang Wu, Siyuan Li, Lirong Wu, Stan Z. Li, Dragomir Radev, Qiang Zhang"
+      conference: "arXiv 2022"
+      image: /images/wu-2022-discovering.png
+      code: https://github.com/smiles724/bottleneck
+      pdf: "https://arxiv.org/pdf/2205.07266.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/Discovering-the-Representation-Bottleneck-of-Graph-Wu-Li/a88f6f280f0e63b56c672f24370114f58d4330f0"
+
+    - title: "Pre-training of Deep Protein Models with Molecular Dynamics Simulations for Drug Binding"
+      authors: "Fang Wu, Qiang Zhang, Dragomir Radev, Yuyang Wang, Xurui Jin, Yinghui Jiang, Zhangming Niu, Stan Z. Li"
+      conference: "arXiv 2022"
+      image: /images/wu-2022-pretraining.png
+      code: https://github.com/smiles724/ProtMD
+      pdf: "https://arxiv.org/pdf/2204.08663.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/Pre-Training-of-Equivariant-Graph-Matching-Networks-Wu-Jin/70c24ed0fca5097fbc2d2970475b494dd57ec1ef"
+
+    - title: "Data Governance in the Age of Large-Scale Data-Driven Language Technology"
+      authors: "Yacine Jernite, Huu Nguyen, Stella Biderman, Anna Rogers, Maraim Masoud, Valentin Danchev, Samson Tan, Alexandra Sasha Luccioni, Nishant Subramani, Isaac Johnson, Gérard Dupont, Jesse Dodge, Kyle Lo, Zeerak Talat, Dragomir Radev, Aaron Gokaslan, Somaieh Nikpoor, Peter Henderson, Rishi Bommasani, Margaret Mitchell"
+      conference: "FAccT 2022"
+      image: /images/data-governance.png
+      pdf: "https://yjernite.github.io/content/LangDataGov.pdf"
+      bibtex: "https://www.semanticscholar.org/paper/Data-Governance-in-the-Age-of-Large-Scale-Language-Jernite-Nguyen/3ae3716f125d71e9daccac3dafa4fab7482fb16a"
+
+    - title: "Beam Decoding with Controlled Patience"
+      authors: "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Dragomir Radev, Yejin Choi, Noah A. Smith"
+      conference: "arXiv 2022"
+      image: /images/kasai-beam.png
+      pdf: "https://arxiv.org/pdf/2204.05424.pdf"
+      code: https://github.com/jungokasai/beam_with_patience
+      bibtex: "https://www.semanticscholar.org/paper/Beam-Decoding-with-Controlled-Patience-Kasai-Sakaguchi/26c345d3fd0a42765112fa3eb83902efe9894ea6"
+
+    - title: "Surfer100: Generating Surveys From Web Resources on Wikipedia-style"
+      authors: "Irene Li, Alexander Fabbri, Rina Kawamura, Yixin Liu, Xiangru Tang, Jaesung Tae, Chang Shen, Sally Ma, Tomoe Mizutani, Dragomir Radev"
+      conference: "LREC 2022"
+      image: /images/surfer100.png
+      pdf: "https://aclanthology.org/2022.lrec-1.576.pdf"
+      code: https://github.com/IreneZihuiLi/Surfer100
+      bibtex: "https://aclanthology.org/2022.lrec-1.576/"
+
+    - title: "EHRKit: A Python Natural Language Processing Toolkit for Electronic Health Record Texts"
+      authors: "Irene Li, Keen You, Xiangru Tang, Yujie Qiao, Lucas Huang, Chia-Chun Hsieh, Benjamin Rosand, Dragomir Radev"
+      conference: "arXiv 2022"
+      image: /images/ehrkit.png
+      pdf: "https://arxiv.org/pdf/2204.06604.pdf"
+      code: https://github.com/Yale-LILY/EHRKit-2022
+      bibtex: "https://www.semanticscholar.org/paper/EHRKit%3A-A-Python-Natural-Language-Processing-for-Li-You/13946197a704d6cdc3424dc2e95421ce549ca888"
+
+    - title: "KAT: A Knowledge Augmented Transformer for Vision-and-Language"
+      authors: "Liangke Gui, Borui Wang, Qiuyuan Huang, Alex Hauptmann, Yonatan Bisk, Jianfeng Gao"
+      conference: "NAACL 2022"
+      image: /images/kat.png
+      code: https://github.com/guilk/KAT
+      pdf: "https://aclanthology.org/2022.naacl-main.70.pdf"
+      bibtex: "https://aclanthology.org/2022.naacl-main.70/"
+
+    - title: "CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning"
+      authors: "Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev"
+      conference: "NAACL 2022"
+      image: /images/confit.png
+      pdf: "https://aclanthology.org/2022.naacl-main.415.pdf"
+      bibtex: "https://aclanthology.org/2022.naacl-main.415/"
+
     - title: "Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries"
       authors: "Xiangru Tang, Alexander R. Fabbri, Ziming Mao, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev"
-      conference: "arXiv"
+      conference: "NAACL 2022"
       image: /images/xiangru-investigating.png
-      pdf: "https://arxiv.org/pdf/2109.09195.pdf"
+      pdf: "https://aclanthology.org/2022.naacl-main.417.pdf"
+      bibtex: "https://aclanthology.org/2022.naacl-main.417"
+
+    - title: "AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization"
+      authors: "Alexander R. Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona Diab"
+      conference: "NAACL 2022"
+      image: /images/answersumm.png
+      code: https://github.com/Alex-Fabbri/AnswerSumm
+      pdf: "https://aclanthology.org/2022.naacl-main.180.pdf"
+      bibtex: "https://aclanthology.org/2022.naacl-main.180"
+
+    - title: "Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution"
+      authors: "Irene Li, Linfeng Song, Kun Xu and Dong Yu"
+      conference: "ACL 2022"
+      image: /images/irene-acl2022.png
+      pdf: "https://aclanthology.org/2022.acl-long.199.pdf"
+      bibtex: "https://aclanthology.org/2022.acl-long.199"
+
+    - title: "Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents"
+      authors: "Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed H. Awadallah, Dragomir Radev, Rui Zhang"
+      conference: "ACL 2022"
+      image: /images/summn.png
+      pdf: "https://aclanthology.org/2022.acl-long.112.pdf"
+      code: https://github.com/psunlpgroup/Summ-N
+      bibtex: "https://aclanthology.org/2022.acl-long.112"
+
+    - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
+      authors: "Ziming Mao, Chen Henry Wu, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev"
+      conference: "ACL 2022"
+      image: /images/dyle.png
+      pdf: "https://aclanthology.org/2022.acl-long.118.pdf"
+      code: https://github.com/Yale-LILY/DYLE
+      bibtex: "https://aclanthology.org/2022.acl-long.118"
+
+    - title: "BRIO: Bringing Order to Abstractive Summarization"
+      authors: "Yixin Liu, Pengfei Liu, Dragomir Radev, Graham Neubig"
+      conference: "ACL 2022"
+      image: /images/yixin-acl-2022.png
+      pdf: https://aclanthology.org/2022.acl-long.207.pdf
+      code: https://github.com/yixinL7/BRIO
+      bibtex: "https://aclanthology.org/2022.acl-long.207"
+
+    - title: "PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts"
+      authors: "Stephen H. Bach, Victor Sanh, Zheng-Xin Yong, Albert Webson, Colin Raffel, Nihal V. Nayak, Abheesht Sharma, Taewoon Kim, M Saiful Bari, Thibault Fevry, Zaid Alyafeai, Manan Dey, Andrea Santilli, Zhiqing Sun, Srulik Ben-David, Canwen Xu, Gunjan Chhablani, Han Wang, Jason Alan Fries, Maged S. Al-shaibani, Shanya Sharma, Urmish Thakker, Khalid Almubarak, Xiangru Tang, Dragomir Radev, Mike Tian-Jian Jiang, Alexander M. Rush"
+      conference: "ACL 2022 Demo Track"
+      image: /images/promptsource.png
+      pdf: "https://aclanthology.org/2022.acl-demo.9.pdf"
+      code: https://github.com/bigscience-workshop/promptsource
+      bibtex: "https://aclanthology.org/2022.acl-demo.9"
+
+    - title: "FeTaQA: Free-form Table Question Answering"
+      authors: "Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev"
+      conference: "TACL 2022"
+      image: /images/fetaqa.png
+      pdf: "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00446/2012156/tacl_a_00446.pdf"
+      code: https://github.com/Yale-LILY/FeTaQA
+      bibtex: "https://aclanthology.org/2022.tacl-1.3/"
+
+    - title: "CLICKER: A Computational LInguistics Classification Scheme for Educational Resources"
+      authors: "Swapnil Hingmire, Irene Li, Rena Kawamura, Benjamin Chen, Alexander Fabbri, Xiangru Tang, Yixin Liu, Thomas George, Tammy Liao, Wai Pan Wong, Vanessa Yan, Richard Zhou, Girish K. Palshikar, Dragomir Radev"
+      conference: "arXiv 2021"
+      image: /images/clicker.png
+      pdf: "https://arxiv.org/pdf/2112.08578.pdf"
+      code: https://github.com/Yale-LILY/CLICKER
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2112-08578.html?view=bibtex"
+
+    - title: "A Transfer Learning Pipeline for Educational Resource Discovery with Application in Leading Paragraph Generation" 
+      authors: Irene Li, Thomas George, Alexander Fabbri, Tammy Liao, Benjamin Chen, Rina Kawamura, Richard Zhou, Vanessa Yan, Swapnil Hingmire and Dragomir Radev
+      conference: "arXiv 2021"
+      image: /images/irene-a-transfer.png
+      pdf: "https://arxiv.org/pdf/2201.02312.pdf"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2201-02312.html?view=bibtex"
+
+    - title: "Testing Cross-Database Semantic Parsers Using Canonical Utterances"
+      authors: "Heather Lent, Semih Yavuz, Tao Yu, Tong Niu, Yingbo Zhou, Dragomir Radev, Xi Victoria Lin"
+      conference: "Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems (Eval4NLP 2021)"
+      image: /images/lent2021.png
+      code: https://github.com/hclent/BehaviorCheckingSemPar
+      pdf: "https://aclanthology.org/2021.eval4nlp-1.8.pdf"
+      bibtex: "https://aclanthology.org/2021.eval4nlp-1.8"
+
     - title: "Improving Cross-lingual Text Classification with Zero-shot Instance-Weighting"
       authors: "Irene Li, Prithviraj Sen, Huaiyu Zhu, Yunyao Li and Dragomir Radev"
       conference: "RepL4NLP Workshop, ACL, 2021"
       image: /images/irene-improving.png
-      pdf: "https://aclanthology.org/2021.repl4nlp-1.1/"
-    - title: "Heterogeneous Graph Neural Networks for Multi-label Text Classification"
-      authors: "Irene Li, Tianxiao Li, Yixin Li, Ruihai Dong and Toyotaro Suzumura"
-      conference: "arXiv"
-      image: /images/irene-heterogeneous.png
-      pdf: "https://arxiv.org/abs/2103.14620"
+      pdf: "https://aclanthology.org/2021.repl4nlp-1.1.pdf"
+      bibtex: "https://aclanthology.org/2021.repl4nlp-1.1/"
+
     - title: "Detecting Bias in Transfer Learning Approaches for Text Classification"
       authors: "Irene Li"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/irene-detecting.png
       pdf: "https://arxiv.org/pdf/2102.02114.pdf"
-    - title: "Global Data Science Project for COVID-19 Summary Report"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2102-02114.html?view=bibtex"
+
+    - title: "Global Data Science Project for COVID-19"
       authors: "Dario Garcia-Gasulla, Sergio Alvarez Napagao, Irene Li, Hiroshi Maruyama, Hiroki Kanezashi, Raquel P’erez-Arnal, Kunihiko Miyoshi, Euma Ishii, Keita Suzuki, Sayaka Shiba, Mariko Kurokawa, Yuta Kanzawa, Naomi Nakagawa, Masatoshi Hanai, Yixin Li, Tianxiao Li"
-      conference: "arXiv"
+      conference: "arXiv 2021"
       image: /images/irene-global.png
-      pdf: "https://arxiv.org/abs/2006.05573"
+      pdf: "https://arxiv.org/pdf/2006.05573.pdf"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2006-05573.html?view=bibtex"
+
     - title: "Efficient Variational Graph Autoencoders for Unsupervised Cross-domain Prerequisite Chains"
       authors: "Irene Li, Vanessa Yan, Dragomir Radev"
-      conference: "arXiv"
+      conference: "Efficient Natural Language and Speech Processing (ENLSP) Workshop, NeurIPS 2021"
       image: /images/irene-efficient.png
       pdf: "https://arxiv.org/pdf/2109.08722.pdf"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2109-08722.html?view=bibtex"
+
     - title: "Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization"
       authors: "Ansong Ni, Matt Gardner, and Pradeep Dasigi"
       conference: "EMNLP 2021"
       image: /images/ansong-emnlp-2021.png
+      code: https://github.com/niansong1996/retrieval_marginalization
       pdf: "https://arxiv.org/pdf/2103.12235.pdf"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2103-12235.html?view=bibtex"
+
     - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What’s Next"
       authors: "Yusen Zhang*, Ansong Ni*, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, and Dragomir Radev"
       conference: "EMNLP 2021 Findings"
       image: /images/yusen-emnlp-2021.png
-      pdf: "https://arxiv.org/pdf/2109.04609.pdf"
+      pdf: "https://aclanthology.org/2021.findings-emnlp.377.pdf"
+      bibtex: "https://aclanthology.org/2021.findings-emnlp.377"
+
     - title: "SummerTime: Text Summarization Toolkit for Non-experts"
       authors: "Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, and Dragomir Radev"
-      conference: "EMNLP 2021 (Demo Track)"
+      conference: "EMNLP 2021 Demo Track"
       image: /images/summertime.png
-      pdf: "https://arxiv.org/pdf/2108.12738.pdf"
-    - title: "Neural Natural Language Processing for Unstructured Data in Electronic Health Records: a Review"
-      authors: "Irene Li, Jessica Pan, Jeremy Goldwasser, Neha Verma, Wai Pan Wong, Muhammed Yavuz Nuzumlalı, Benjamin Rosand, Yixin Li, Matthew Zhang, David Chang, R. Andrew Taylor, Harlan M. Krumholz, Dragomir Radev"
-      image: /images/nnlp.png
-      conference: "arXiv"
-      pdf: "https://arxiv.org/pdf/2107.02975.pdf"
-    - title: "FeTaQA: Free-form Table Question Answering"
-      authors: "Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev"
-      conference: "TACL"
-      image: /images/fetaqa.png
-      pdf: "https://arxiv.org/pdf/2104.00369.pdf"
-    - title: "BookSum: A Collection of Datasets for Long-form Narrative Summarization"
-      authors: "Wojciech Kryściński, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong, Dragomir Radev"
-      image: /images/booksum.png
-      conference: "arXiv"
-      pdf: "https://arxiv.org/pdf/2105.08209.pdf"
+      code: https://github.com/Yale-LILY/SummerTime
+      pdf: "https://aclanthology.org/2021.emnlp-demo.37.pdf"
+      bibtex: "https://aclanthology.org/2021.emnlp-demo.37"
+
+    - title: "DocNLI: A Large-scale Dataset for Document-level Natural Language Inference"
+      authors: "Wenpeng Yin, Dragomir Radev, Caiming Xiong"
+      conference: "ACL 2021 Findings"
+      image: /images/docnli.png
+      code: https://github.com/salesforce/DocNLI
+      pdf: "https://aclanthology.org/2021.findings-acl.435.pdf"
+      bibtex: "https://aclanthology.org/2021.findings-acl.435/"
+
     - title: "ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining"
       authors: " Alexander Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad and Dragomir Radev"
       conference: "ACL 2021"
       image: /images/Alex-ACL-2021.png
-      pdf: "https://arxiv.org/pdf/2106.00737.pdf"
+      code: https://github.com/Yale-LILY/ConvoSumm
+      pdf: "https://aclanthology.org/2021.acl-long.535.pdf"
+      bibtex: "https://aclanthology.org/2021.acl-long.535"
+
     - title: "Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders"
       authors: "Irene Li, Vanessa Yan, Tianxiao Li, Rihao Qu, Dragomir Radev"
       conference: "ACL 2021"
       image: /images/Irene-ACL-2021.png
-      pdf: "https://arxiv.org/pdf/2105.03505.pdf"
+      pdf: "https://aclanthology.org/2021.acl-short.127.pdf"
+      bibtex: "https://aclanthology.org/2021.acl-short.127"
+
     - title: "QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization"
       authors: "Ming Zhong, Da Yin, Tao Yu, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu and Dragomir Radev"
       conference: "NAACL 2021"
       image: /images/qmsum.png
-      pdf: "https://arxiv.org/pdf/2104.05938.pdf"
+      code: https://github.com/Yale-LILY/QMSum
+      pdf: "https://aclanthology.org/2021.naacl-main.472.pdf"
+      bibtex: "https://aclanthology.org/2021.naacl-main.472"
+
     - title: "Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation"
       authors: "Alexander R. Fabbri, Simeng Han, Haoyuan Li, Haoran Li, Marjan Ghazvininejad, Shafiq Joty, Dragomir Radev, Yashar Mehdad"
       conference: "NAACL 2021"
       image: /images/wikitransfer.png
-      pdf: "https://arxiv.org/pdf/2010.12836.pdf"
+      pdf: "https://aclanthology.org/2021.naacl-main.57.pdf"
+      bibtex: "https://aclanthology.org/2021.naacl-main.57"
+
     - title: "DART: Open-Domain Structured Data Record to Text Generation"
       pdf: "https://arxiv.org/pdf/2007.02871.pdf"
       code: "https://github.com/Yale-LILY/dart"
@@ -91,59 +475,78 @@ papers:
       conference: "NAACL 2021"
       image: /images/dart.png
       bibtex: "/bibtex/dart.txt"
+
     - title: "GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing"
       authors: "Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong"
-      pdf: "https://arxiv.org/pdf/2009.13845.pdf"
+      pdf: "https://openreview.net/pdf?id=kyaIeYj4zZ"
       image: /images/grappa.png
       conference: "ICLR 2021"
+      bibtex: "https://openreview.net/forum?id=kyaIeYj4zZ"
+
     - title: "SCoRe: Pre-Training for Context Representation in Conversational Semantic Parsing"
       authors: "Tao Yu, Rui Zhang, Alex Polozov, Christopher Meek, Ahmed Hassan Awadallah"
-      pdf: "https://openreview.net/forum?id=oyZxhRI2RiE"
+      pdf: "https://openreview.net/pdf?id=oyZxhRI2RiE"
       image: /images/score.png
       conference: "ICLR 2021"
+      bibtex: "https://openreview.net/forum?id=oyZxhRI2RiE"
+
     - title: "Identification of patients with carotid stenosis using natural language processing"
       authors: "Xiao Wu, Yuzhe Zhao, Dragomir Radev, Ajay Malhotra"
       conference: "European Radiology 2020"
       pdf: "https://pubmed.ncbi.nlm.nih.gov/32103365/"
       image: /images/euro_rad.png
+      bibtex: "https://pubmed.ncbi.nlm.nih.gov/32103365/"
+
     - title: "SummEval: Re-evaluating Summarization Evaluation"
-      pdf: "https://arxiv.org/pdf/2007.12626.pdf"
+      pdf: "https://watermark.silverchair.com/tacl_a_00373.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsswggLHBgkqhkiG9w0BBwagggK4MIICtAIBADCCAq0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMp-FPtZhntqgXRbbDAgEQgIICfvTn7WA6GHY2ZVQofnLSGHiXELGkBlPyZO4IG4J1mtdSOVtd4SwZrET0L1HWECmooiWKZm3uXqd_98N8EvnykA44EU_jZZWC67_PAvB6j_uJHdH0HeY_cgCQI1sBOfH35fN-gheddcBvuVUQAHMHfjYvnBFcfSNsCX4lP3LqbK47v7L5o-1ZNPfT8bWVVnDWfVGBo4slbXhROkDcpKhMQEvw-mMzZOlR0hFD0UIvLA2NZ8M-d_-VB_Mfe50AuXi-0-300_617-F-QDoDEfOO5C1RhdYu70ES1vonbQ31PodySDlYZBpJzwSgQkj_eYrJ6DXhWKVuzqM8VOd3sVDxD1A2FDUEmsHNtbYq0pb8FuRqvTqp_4ODDvdXJsqva_mdYhzQ83bfz830M894m7w6_mTmQ2Ov8UFDE_l6a5MQsVGj7GGxc_N3FNQfg0NYXr8iJxf_emMUvEa9Lc9HhHDBk7V7rZmeDVnYhmEc3bsT8UMUeV8w9gHnB1sGavpIsL9PmE0AxcYBFt4Z0aHFQBno5-y7z0LIbMb0CmZwVTirQFIbZijzsIdMGqr400RazqvRjtjRyCuLfqn27GdHyDNkq67ZnFnnvg2gfTpW-YomEnTBmC2f3uVQ0L-5JyI4cMEqdnkKJtCATGMEONcXamLH2TkH-GiLdtyDfEFXxu83PZ-lxRVZ7jF4QBB6c8NyHnGYsnyR37KaVoVbVc5iOjg3lqCJAqs4NgMo5uZ91XduZeTl6p_KFX7xtg8-61EzOZvcVmx0yv0rk8kGtSerXLVUNscpbr9P7EKijBcLWtgc9G-aDs2Pk0RH4h8vqFVrIXa_3nDC7QTUhFHZNt01uKlg"
       code: "https://github.com/Yale-LILY/SummEval"
       authors: "Alexander R. Fabbri, Wojciech Kryscinski, Bryan McCann, Caiming Xiong, Richard Socher, Dragomir Radev"
       conference: "TACL 2020"
       image: /images/summeval.png
       bibtex: "/bibtex/summeval.txt"
+
     - title: "Semantic Evaluation for Text-to-SQL with Distilled Test Suites"
       authors: "Ruiqi Zhong, Tao Yu, Dan Klein"
-      pdf: "https://arxiv.org/pdf/2010.02840.pdf"
+      pdf: "https://aclanthology.org/2020.emnlp-main.29.pdf"
       conference: "EMNLP 2020"
       image: /images/txt2sqleval.png
+      bibtex: "https://aclanthology.org/2020.emnlp-main.29"
+
     - title: "Understanding and Improving Word Embeddings through a Neuroscientific Lens"
       authors: "Sam Fereidooni, Viola Mocz, Dragomir Radev, Marvin Chun"
       pdf: "https://www.biorxiv.org/content/10.1101/2020.09.18.304436v1.full.pdf"
       conference: "BIORXIV 2020"
       image: /images/understandingword.png
+      bibtex: "https://www.biorxiv.org/content/10.1101/2020.09.18.304436v1"
+
     - title: "R-VGAE: Relational-variational Graph Autoencoder for Unsupervised Prerequisite Chain Learning"
       authors: "Irene Li, Alexander Fabbri, Swapnil Hingmire, Dragomir Radev"
-      pdf: "/pdfs/COLING2020pdf.pdf"
+      pdf: "https://aclanthology.org/2020.coling-main.99.pdf"
       conference: "COLING 2020"
       image: /images/rvgae.png
       code: "https://github.com/Yale-LILY/LectureBank/tree/master/LectureBank2"
+      bibtex: "https://aclanthology.org/2020.coling-main.99"
+
     - title: "Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start"
-      pdf: "https://arxiv.org/pdf/2010.02584.pdf"
+      pdf: "https://aclanthology.org/2020.emnlp-main.660.pdf"
       image: /images/ufo.png
       authors: "Wenpeng Yin, Nazneen Fatema Rajani, Dragomir Radev, Richard Socher, Caiming Xiong"
       conference: "EMNLP 2020"
+      bibtex: "https://aclanthology.org/2020.emnlp-main.660"
+
     - title: "CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization"
       authors: "Andre Esteva, Anuprit Kale, Romain Paulus, Kazuma Hashimoto, Wenpeng Yin, Dragomir Radev, Richard Socher"
       pdf: "https://arxiv.org/pdf/2006.09595.pdf"
       conference: "ARXIV 2020"
       image: /images/cosearch.png
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2006-09595.html?view=bibtex"
+
     - title: "AAN: Developing Educational Tools for Work Force Training"
       authors: "Alexander R. Fabbri, Irene Li, Swapnil Hingmire, Dragomir Radev"
       pdf: "https://scinlp.org/pdfs/aan-developing-educational-tools-for-work-force-training.pdf"
       conference: "SciNLP workshop at AKBC 2020"
       image: /images/aan_scinlp.png
+
     - title: "What are We Depressed about When We Talk about COVID19: Mental Health Analysis on Tweets Using Natural Language Processing"
       authors: "Irene Li, Yixin Li, Tianxiao Li, Sergio Alvarez-Napagao, Dario Garcia"
       pdf: "https://arxiv.org/pdf/2004.10899.pdf"
@@ -151,12 +554,15 @@ papers:
       conference: "ARXIV 2020"
       image: /images/emoct.png
       code: "https://github.com/Yale-LILY/LectureBank/tree/master/LectureBank2"
+      bibtex: "https://dblp.uni-trier.de/rec/journals/corr/abs-2004-10899.html?view=bibtex"
+
     - title: "Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering"
       authors: "Alexander R. Fabbri, Patrick Ng, Zhiguo Wang, Ramesh Nallapati, Bing Xiang"
       conference: "Proceedings of ACL 2020"
       pdf: "https://arxiv.org/pdf/2004.11892.pdf"
       image: /images/uqa.png
       bibtex: "/bibtex/uqa.txt"
+
     - title: "ESPRIT: Explaining Solutions to Physical ReasonIng Tasks"
       authors: "Nazneen Fatema Rajani*, Rui Zhang*, Yi Chern Tan, Stephan Zheng, Jeremy Weiss, Aadit Vyas, Abhijit Gupta, Caiming Xiong, Richard Socher, Dragomir Radev"
       conference: "Proceedings of ACL 2020"
@@ -173,7 +579,7 @@ papers:
       authors: "Irene Li, Michihiro Yasunaga, Muhammed Yavuz Nuzumlalı, Cesar Caraballo, Shiwani Mahajan, Harlan Krumholz, Dragomir Radev"
       conference: "Machine Learning for Health Workshop at NeurIPS 2019"
       image: /images/neural_top_att.png
-      pdf: "https://arxiv.org/abs/1910.14076"
+      pdf: "https://arxiv.org/pdf/1910.14076.pdf"
       code: "https://github.com/IreneZihuiLi/TopicAttentionMedicalAD"
       bibtex: "/bibtex/neurips2019.txt"
     - title: "CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases"
@@ -241,7 +647,7 @@ papers:
       conference: "Proceedings of AAAI 2019"
       bibtex: "/bibtex/aaai2019_topic_eq.txt"
       image : "/images/aaai19_topiceq-2.png"
-      pdf : "https://arxiv.org/abs/1902.06034"
+      pdf : "https://arxiv.org/pdf/1902.06034.pdf"
     - title: "The CL-SciSumm Shared Task 2018: Results and Key Insights"
       authors: "Kokil Jaidka, Michihiro Yasunaga, Muthu Kumar Chandrasekaran, Dragomir Radev, Min-Yen Kan"
       conference: "Proceedings of the 3rd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL)"
@@ -253,12 +659,12 @@ papers:
       conference: "Proceedings of EMNLP 2018"
       bibtex : "/bibtex/spider.txt"
       image : "/images/emnlp18-data-2.png"
-      pdf : "https://arxiv.org/abs/1809.08887"
+      pdf : "https://arxiv.org/pdf/1809.08887.pdf"
       code: "https://yale-lily.github.io/spider"
     - title: "SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task"
       authors: "Tao Yu, Michihiro Yasunaga, Kai Yang, Rui Zhang, Dongxu Wang, Zifan Li, Dragomir Radev"
       conference: "Proceedings of EMNLP 2018"
-      pdf : "https://arxiv.org/abs/1810.05237"
+      pdf : "https://arxiv.org/pdf/1810.05237.pdf"
       bibtex : "/bibtex/syntaxsqlnet.txt"
       code: "https://github.com/taoyds/syntaxSQL"
       image : "/images/emnlp18-syntaxSQLNet-2.png"
@@ -285,21 +691,21 @@ papers:
     - title: "TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation"
       authors: "Tao Yu, Zifan Li, Zilin Zhang, Rui Zhang, Dragomir Radev"
       conference: "Proceedings of NAACL 2018, Short"
-      pdf: "https://arxiv.org/abs/1804.09769"
+      pdf: "https://arxiv.org/pdf/1804.09769.pdf"
       image: "/images/typesql.png"
       bibtex: "/bibtex/naacl18-typesql.txt"
       code: "https://github.com/taoyds/typesql"
     - title: "Robust Multilingual Part-of-Speech Tagging via Adversarial Training"
       authors: "Michihiro Yasunaga, Jungo Kasai, Dragomir Radev"
       conference: "Proceedings of NAACL 2018"
-      pdf: "https://arxiv.org/abs/1711.04903"
+      pdf: "https://arxiv.org/pdf/1711.04903.pdf"
       image: "/images/naacl18-posadv-5.png"
       bibtex: "/bibtex/naacl18-posadv.txt"
       code: "https://github.com/michiyasunaga/pos_adv"
     - title: "End-to-end Graph-based TAG Parsing with Neural Networks"
       authors: "Jungo Kasai, Robert Frank, Pauli Xu, William Merrill, Owen Rambow"
       conference: "Proceedings of NAACL 2018"
-      pdf : "https://arxiv.org/abs/1804.06610"
+      pdf : "https://arxiv.org/pdf/1804.06610.pdf"
       image: "/images/biaffine_parsing.png"
       bibtex: ""
       code: "https://github.com/jungokasai/graph_parser"
@@ -325,7 +731,7 @@ papers:
     - title: "Graph-based Neural Multi-Document Summarization"
       authors: "Michihiro Yasunaga, Rui Zhang, Kshitijh Meelu, Ayush Pareek, Krishnan Srinivasan, Dragomir Radev"
       conference: "Proceedings of Computational Natural Language Learning (CoNLL-2017)"
-      pdf : "https://arxiv.org/abs/1706.06681"
+      pdf : "https://arxiv.org/pdf/1706.06681.pdf"
       image : /images/conll17_gnmds.png
       bibtex: /bibtex/conll17_gnmds.txt
       slides: "https://michiyasunaga.github.io/files/conll17_slides.pdf"

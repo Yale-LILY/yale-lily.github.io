@@ -25,7 +25,7 @@
     - name: Borui Wang
       photo: /photos/borui.jpg
       title: "PhD Student"
-      url: https://wbr0605.github.io/
+      url: https://borui-wang.github.io/
     - name: Simeng Han
       title: "PhD Student"
       photo: /photos/simeng_han.png
@@ -35,71 +35,37 @@
       title: "PhD Student"
       github: yixinL7
       url: https://yixinl7.github.io/
+    - name: Xiangru Tang
+      photo: /photos/xiangru.jpg
+      title: "Master Student"
+      url: https://xiangrutang.github.io/
+      github: tangxiangru
+    - name: Arjun Nair
+      photo: /photos/arjunnair.png
+      title: "Master Student"
+      github: arjunvnair
+      url: https://arjunvnair.github.io/
+    - name: Yilun Zhao
+      photo: /photos/yilunzhao.jpg
+      title: "Master Student"
+      url: https://github.com/yilunzhao
 
 
 - group: Undergraduate Students
   people:
-    - name: SK Bong
-      photo: /photos/sk.jpg
-      email: seungkyoon.bong@yale.edu
-      title: 2021
-      github: seungkyoon
-    - name: Jeremy Goldwasser
-      photo: /photos/jeremyg.png
-      title: 2021
-    - name : William Hu
-      photo: /photos/william.jpg
-      email: william.hun@yale.edu
-      title: 2021
-    - name: Sally Ma
-      photo: /photos/sally_ma.jpg
-      email: sally.ma@yale.edu 
-      title: 2021
-      github: xm83
-    - name: Tomoe Mizutani
-      photo: /photos/tomoe.png
-      title: 2020
-    - name: Sanya Nijhawan
-      photo: /photos/sanya.png
-      url: https://github.com/sanya301
-    - name: Amrit Rau
-      photo: /photos/amrit.jpeg
-      title: 2020
-    - name: Qinying Sun
-      photo: /photos/qinying.jpg
-      title: 2021
-    - name: Xiangru Tang
-      photo: /photos/xiangru.jpg
-      title: 2020
-      url: https://xiangrutang.github.io/
-      github: tangxiangru
-    - name: Will Taft
-      photo: /photos/will_taft.jpg
-      title: 2020
-    - name: Neha Verma
-      photo: /photos/neha.jpg
-      title: 2021
-    - name: Aadit Vyas
-      photo: /photos/aadit.jpg
-      title: 2020
-      url: https://www.aadit.ai/
-    - name: Jeremy Weiss
-      photo: /photos/jeremy.jpg
+    - name: Lorenzo Flores
+      photo: /photos/lorenzoflores.png
+      email: lj.flores@yale.edu
       title: 2022
-    - name: Caitlin Westerfield
-      photo: /photos/caitlin_westerfield.jpg
-      title: 2020
-      github: CMWesterfield16
-    - name: Eric Xue
-      photo: /photos/eric_xue.jpg
+    - name: Ziming Mao
+      photo: /photos/ziming_mao.jpeg
+      url: https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en
       title: 2022
-    - name: Vincent Zhang
-      photo: /photos/vincent_zhang.png
-      title: 2021
-    - name: Jiangda Zhao (J.D.)
-      photo: /photos/jd.jpg
-      title: 2023
-      github: JiangdaZhao
+    - name: Luke Benson
+      photo: /photos/luke_benson.jpg
+      url: https://github.com/lukegbenson
+      title: 2022
+    
 
 - group: Graduate Alumni
   people:
@@ -147,6 +113,62 @@
 
 - group: Undergraduate Alumni
   people:
+    - name: SK Bong
+      photo: /photos/sk.jpg
+      email: seungkyoon.bong@yale.edu
+      title: 2021
+      github: seungkyoon
+    - name: Jeremy Goldwasser
+      photo: /photos/jeremyg.png
+      title: 2021
+    - name : William Hu
+      photo: /photos/william.jpg
+      email: william.hun@yale.edu
+      title: 2021
+    - name: Sally Ma
+      photo: /photos/sally_ma.jpg
+      email: sally.ma@yale.edu 
+      title: 2021
+      github: xm83
+    - name: Tomoe Mizutani
+      photo: /photos/tomoe.png
+      title: 2020
+    - name: Sanya Nijhawan
+      photo: /photos/sanya.png
+      url: https://github.com/sanya301
+    - name: Amrit Rau
+      photo: /photos/amrit.jpeg
+      title: 2020
+    - name: Qinying Sun
+      photo: /photos/qinying.jpg
+      title: 2021
+    - name: Will Taft
+      photo: /photos/will_taft.jpg
+      title: 2020
+    - name: Neha Verma
+      photo: /photos/neha.jpg
+      title: 2021
+    - name: Aadit Vyas
+      photo: /photos/aadit.jpg
+      title: 2020
+      url: https://www.aadit.ai/
+    - name: Jeremy Weiss
+      photo: /photos/jeremy.jpg
+      title: 2022
+    - name: Caitlin Westerfield
+      photo: /photos/caitlin_westerfield.jpg
+      title: 2020
+      github: CMWesterfield16
+    - name: Eric Xue
+      photo: /photos/eric_xue.jpg
+      title: 2022
+    - name: Vincent Zhang
+      photo: /photos/vincent_zhang.png
+      title: 2021
+    - name: Jiangda Zhao (J.D.)
+      photo: /photos/jd.jpg
+      title: 2023
+      github: JiangdaZhao
     - name: Garrett Bingham
       photo: /photos/garrett.jpg
       email: garrett.bingham@yale.edu

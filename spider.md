@@ -43,9 +43,13 @@ redirect_from: "/seq2sql/spider"
                        In Spider 1.0, different complex SQL queries and databases appear in train and test sets.
                        To do well on it, systems must <i>generalize well to not only new SQL queries but also new database schemas</i>.
                       <hr>Why we call it "Spider"? It is because our dataset is complex and cross-domain like a spider crawling across mutiple complex(with many foreign keys) nests(databases).
+                       <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLang Lab for building LM agents! </a>
                        <a class="btn actionBtn" href="https://arxiv.org/abs/1809.08887">Spider Paper (EMNLP'18)</a>
                        <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">Spider Post</a>
-                      <hr><b>Related challenges:</b> multi-turn <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> and conversational <a href="https://yale-lily.github.io/cosql"><b><i>CoSQL</i></b></a> text-to-SQL tasks.
+                      <hr><b>Related works:</b> <a href="https://ds1000-code-gen.github.io/"><b><i>DS-1000</i></b></a>, <a href="https://lm-code-binder.github.io/"><b><i>Binder</i></b></a>, <a href="https://unifiedskg.com/"><b><i>UnifiedSKG</i></b></a>, multi-turn <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> and conversational <a href="https://yale-lily.github.io/cosql"><b><i>CoSQL</i></b></a> text-to-SQL tasks.
+                       <a class="btn actionBtn2" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge ('22)</a>
+                       <a class="btn actionBtn2" href="https://lm-code-binder.github.io/">Binder Framework (ICLR '23)</a>
+                       <a class="btn actionBtn2" href="https://github.com/hkunlp/unifiedskg">UnifiedSKG Framework (EMNLP'22)</a>
                        <a class="btn actionBtn2" href="https://yale-lily.github.io/sparc">SParC Challenge (ACL'19)</a>
                        <a class="btn actionBtn2" href="https://yale-lily.github.io/cosql">CoSQL Challenge (EMNLP'19)</a>
                     </div>
@@ -56,6 +60,21 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
+                             Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
+                         </li>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>05/27/2023</i></span>
+                             Please check out <a href="https://openreview.net/pdf?id=Wc5bmZZU9cy">Dr.Spider, a robustness evaluation benchmark based on Spider, </a> from AWS AI Lab for studying robustness in semantic parsing!
+                         </li>
+                         <li><span class="label label-default" style="background-color: #FF7F50"><i>11/20/2022</i></span>
+                             Please check out our recent work <a href="https://ds1000-code-gen.github.io/">DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</a>. Please check out examples, data, and code on the <a href="https://ds1000-code-gen.github.io/">DS-1000 project site</a>!!
+                         </li>
+                         <li><span class="label label-default" style="background-color: #FF7F50"><i>10/18/2022</i></span>
+                             Please check out our recent work <a href="https://lm-code-binder.github.io/">Binder: an easy but sota neural-symbolic built on GPT-3 Codex & SQL/Python interpreter</a>. It injects GPT-3 Codex prompt API calls in programming languages! Please check out Binder demo, code, paper, and video on the <a href="[https://github.com/hkunlp/unifiedskg](https://lm-code-binder.github.io/)">Binder project site</a>!!
+                         </li>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>01/18/2022</i></span>
+                             Please check out our recent work <a href="https://arxiv.org/abs/2201.05966">UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models</a>. We open-sourced simple but SOTA/strong models for 21 tasks including text-to-SQL! Please check out our code in the <a href="https://github.com/hkunlp/unifiedskg">UnifiedSKG repo</a>!!
+                         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>03/11/2021</i></span>
                              Please check out <a href="https://arxiv.org/abs/2010.12725">a nice work</a> from Google Research (including <a href="https://github.com/google-research/language/tree/master/language/nqg">new Spider splits</a>) for studying compositional generalization in semantic parsing!
                          </li>
@@ -113,7 +132,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left"> The data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
                     </div>
                     </p>
-                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=1_AckYkinAnhqmRQtGsQgUKAnTHxxX5J0" download>Spider Dataset</a>
+                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=1TqleXec_OykOYFREKKtschzY29dUcVAQ" download>Spider Dataset</a>
                     Details of baseline models and evaluation script can be found on the following GitHub site:
                     <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/spider" download>Spider GitHub Page</a>
                     <p align="left">
@@ -182,6 +201,189 @@ redirect_from: "/seq2sql/spider"
                     <tr>
                        <td>
                           <p>1</p>
+                          <span class="date label label-default">Apr 21, 2023</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          DIN-SQL + GPT-4
+                          <p class="institution">University of Alberta</p> 
+                          <a class="link" href="https://arxiv.org/abs/2304.11015">(Pourreza et al.,'2023)</a>
+                          <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
+                       </td>
+                       <td><b>85.3</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
+                          <span class="date label label-default">July 5, 2023</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          Hindsight Chain of Thought with GPT-4
+                          <p class="institution">Kainos Software Ltd.</p> 
+                          <span>Code and paper coming soon</span>
+                       </td>
+                       <td><b>83.9</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>3</p>
+                          <span class="date label label-default">Jun 1, 2023</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          C3 + ChatGPT + Zero-Shot
+                          <p class="institution">Zhejiang University & Hundsun</p> 
+                          <a class="link" href="https://arxiv.org/abs/2307.07306">(Dong et al.,'2023)</a>
+                          <a class="link" href="https://github.com/bigbigwatermalon/C3SQL">code</a>
+                       </td>
+                       <td><b>82.3</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>4</p>
+                          <span class="date label label-default">July 5, 2023</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          Hindsight Chain of Thought with GPT-4 and Instructions
+                          <p class="institution">Kainos Software Ltd.</p>
+                          <span>Code and paper coming soon</span>
+                       </td>
+                       <td><b>80.8</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>5</p>
+                          <span class="date label label-default">Feb 7, 2023</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          RESDSQL-3B + NatSQL (DB content used)
+                          <p class="institution">Renmin University of China</p>
+                          <a class="link" href="https://arxiv.org/abs/2302.05965">(Li et al., AAAI'23)</a>
+                          <a class="link" href="https://github.com/RUCKBReasoning/RESDSQL">code</a>
+                       </td>
+                       <td><b>79.9</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>6</p>
+                          <span class="date label label-default">Nov 21, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          SeaD + PQL (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>78.5</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>7</p>
+                          <span class="date label label-default">Apr 21, 2023</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          DIN-SQL + CodeX
+                          <p class="institution">University of Alberta</p>
+                          <a class="link" href="https://arxiv.org/abs/2304.11015">(Pourreza et al.,'2023)</a>
+                          <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
+                       </td>
+                       <td><b>78.2</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>8</p>
+                          <span class="date label label-default">August 10, 2023</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          T5-3B+NatSQL+Token Preprocessing (DB content used)
+                          <p class="institution">George Mason University & MIT</p>
+                          <a class="link" href="https://arxiv.org/abs/2305.17378">(Rai et al., ACL '23)</a>
+                          <a class="link" href="https://github.com/Dakingrai/ood-generalization-semantic-boundary-techniques">code</a>
+                       </td>
+                       <td>78.0</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>9</p>
+                          <span class="date label label-default">Sep 14, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          CatSQL + GraPPa (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>78.0</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>10</p>
+                          <span class="date label label-default">Sep 13, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          Graphix-3B+PICARD (DB content used)
+                          <p class="institution">Alibaba DAMO & HKU STAR & SIAT</p>
+                          <a class="link" href="https://arxiv.org/abs/2301.07507">(Li et al., AAAI'2023)</a>
+                          <a class="link" href="https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/graphix">code</a>
+                       </td>
+                       <td>77.6</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>11</p>
+                          <span class="date label label-default">Sep 1, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          SHiP+PICARD (DB content used)
+                          <p class="institution">AWS AI Labs</p>
+                          <a class="link" href="https://arxiv.org/pdf/2212.08785.pdf">(Zhao et al.,'22)</a>
+                       </td>
+                       <td>76.6</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>12</p>
+                          <span class="date label label-default">Dec 15, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          N-best List Rerankers + PICARD (DB content used)
+                          <p class="institution">Alexa AI</p>
+                          <a class="link" href="https://arxiv.org/abs/2210.10668">(Zeng et al., IEEE SLT 2023)</a>
+                       </td>
+                       <td>75.9</td>
+                    </tr>
+                     <tr>
+                       <td>
+                          <p>13</p>
+                          <span class="date label label-default">Jun 4, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          RASAT+PICARD (DB content used)
+                          <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                          <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                          <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
+                       </td>
+                       <td>75.5</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>14</p>
+                          <span class="date label label-default">May 8, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          T5-SR (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>75.2</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>15</p>
+                          <span class="date label label-default">Aug 12, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          RESDSQL+T5-1.1-lm100k-xl (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>75.1</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>16</p>
                           <span class="date label label-default">Jul 14, 2021</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -190,11 +392,33 @@ redirect_from: "/seq2sql/spider"
                           <a class="link" href="https://arxiv.org/abs/2109.05093">(Scholak et al., EMNLP'21)</a>
                           <a class="link" href="https://github.com/ElementAI/picard">code</a>
                        </td>
-                       <td><b>75.1</b></td>
+                       <td>75.1</td>
                     </tr>
                     <tr>
                        <td>
-                          <p>2</p>
+                          <p>17</p>
+                          <span class="date label label-default">Aug 12, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          RESDSQL+T5-1.1-lm100k-large (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>74.8</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>18</p>
+                          <span class="date label label-default">May 18, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          SeaD + SP (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>74.1</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>19</p>
                           <span class="date label label-default">May 4, 2021</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -207,7 +431,20 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>3</p>
+                          <p>20</p>
+                          <span class="date label label-default">August 10, 2021</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          T5-Base+NatSQL+Token Preprocessing (DB content used)
+                          <p class="institution">George Mason University & MIT</p>
+                          <a class="link" href="https://arxiv.org/abs/2305.17378">(Rai et al., ACL '23)</a>
+                          <a class="link" href="https://github.com/Dakingrai/ood-generalization-semantic-boundary-techniques">code</a>
+                       </td>
+                       <td>71.1</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>21</p>
                           <span class="date label label-default">Mar 10, 2021</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -220,7 +457,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>4</p>
+                          <p>22</p>
                           <span class="date label label-default">Aug 05, 2021</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -232,7 +469,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>5</p>
+                          <p>23</p>
                           <span class="date label label-default">Nov 24, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -245,7 +482,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>6</p>
+                          <p>24</p>
                           <span class="date label label-default">Jan 16, 2021</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -257,7 +494,18 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>7</p>
+                          <p>25</p>
+                          <span class="date label label-default">Jul 22, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          T5QL-Base (DB content used)
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>66.8</td>
+                    </tr>  
+                    <tr>
+                       <td>
+                          <p>26</p>
                           <span class="date label label-default">Nov 24, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -270,7 +518,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>8</p>
+                          <p>27</p>
                           <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -281,7 +529,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>9</p>
+                          <p>28</p>
                           <span class="date label label-default">May 30, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -294,7 +542,7 @@ redirect_from: "/seq2sql/spider"
                     </tr>
                     <tr>
                        <td>
-                          <p>10</p>
+                          <p>29</p>
                           <span class="date label label-default">May 20, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -323,21 +571,126 @@ redirect_from: "/seq2sql/spider"
                            <th>Dev</th>
                            <th>Test</th>
                         </tr>
+                      <tr>
+                           <td>
+                              <p>1</p>
+                              <span class="date label label-default">Sep 13, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              Graphix-3B + PICARD (DB content used)
+                              <p class="institution">Alibaba DAMO & HKU STAR & SIAT</p>
+                              <a class="link" href="https://arxiv.org/abs/2301.07507">(Li et al., AAAI'2023)</a>
+                              <a class="link" href="https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/graphix">code</a>
+                           </td>
+                           <td>77.1</td>
+                           <td><b>74.0</b></td>
+                       </tr>
+                       <tr>
+                           <td>
+                              <p>1</p>
+                              <span class="date label label-default">Sep 14, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              CatSQL + GraPPa (DB content used)
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>78.6</td>
+                           <td>73.9</td>
+                       </tr>
+                       <tr>
+                           <td>
+                              <p>3</p>
+                              <span class="date label label-default">Sep 1, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              SHiP + PICARD (DB content used)
+                              <p class="institution">AWS AI Labs</p>
+                              <a class="link" href="https://arxiv.org/pdf/2212.08785.pdf">(Zhao et al.,'22)</a>
+                           </td>
+                           <td>77.2</td>
+                           <td>73.1</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>4</p>
+                              <span class="date label label-default">May 23, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              G³R + LGESQL + ELECTRA (DB content used)
+                              <p class="institution">Southeast University & Tencent Cloud Xiaowei</p>
+                              <a class="link" href="https://aclanthology.org/2023.findings-acl.23/">(Xiang et al., ACL-Findings '23)</a>
+                           </td>
+                           <td>78.1</td>
+                           <td>72.9</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>6</p>
+                              <span class="date label label-default">Aug 12, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RESDSQL+T5-1.1-lm100k-xl (DB content used)
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>78.1</td>
+                           <td>72.4</td>
+                        </tr>
                         <tr>
                              <td>
-                                <p>1</p>
+                                <p>6</p>
+                                <span class="date label label-default">May 8, 2022</span>
+                             </td>
+                             <td style="word-break:break-word;">
+                                T5-SR (DB content used)
+                                <p class="institution">Anonymous</p>
+                             </td>
+                             <td>77.2</td>
+                             <td>72.4</td>
+                          </tr>
+                        <tr>
+                           <td>
+                              <p>7</p>
+                              <span class="date label label-default">Dec 15, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              N-best List Rerankers + PICARD (DB content used)
+                              <p class="institution">Alexa AI</p>
+                              <a class="link" href="https://arxiv.org/abs/2210.10668">(Zeng et al., IEEE SLT 2023)</a>
+                           </td>
+                           <td>76.4</td>
+                           <td>72.2</td>
+                         </tr>
+                          <tr>
+                             <td>
+                                <p>8</p>
                                 <span class="date label label-default">Sep 1, 2021</span>
                              </td>
                              <td style="word-break:break-word;">
-                                S²SQL + ELECTRA (DB content used) 
-                                <p class="institution">Anonymous</p>
+                                S²SQL + ELECTRA (DB content used)
+                                <p class="institution">Alibaba DAMO</p>
+                                <a class="link" href="https://arxiv.org/abs/2203.06958">(Hui et al., ACL-Findings '22)</a>
+                                <a class="link" href="https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/s2sql">code</a>
                              </td>
                              <td>76.4</td>
-                             <td><b>72.1</b></td>
+                             <td>72.1</td>
                          </tr>
                          <tr>
                            <td>
-                              <p>1</p>
+                              <p>9</p>
+                              <span class="date label label-default">Feb 7, 2023</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RESDSQL-3B + NatSQL (DB content used)
+                              <p class="institution">Renmin University of China</p>
+                              <a class="link" href="https://arxiv.org/abs/2302.05965">(Li et al., AAAI'23)</a>
+                              <a class="link" href="https://github.com/RUCKBReasoning/RESDSQL">code</a>
+                           </td>
+                           <td>80.5</td>
+                           <td>72.0</td>
+                        </tr>
+                         <tr>
+                           <td>
+                              <p>10</p>
                               <span class="date label label-default">Jun 1, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -347,11 +700,11 @@ redirect_from: "/seq2sql/spider"
                               <a class="link" href="https://github.com/rhythmcao/text2sql-lgesql">code</a>
                            </td>
                            <td>75.1</td>
-                           <td><b>72.0</b></td>
+                           <td>72.0</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>1</p>
+                              <p>11</p>
                               <span class="date label label-default">Jul 14, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -361,11 +714,37 @@ redirect_from: "/seq2sql/spider"
                               <a class="link" href="https://github.com/ElementAI/picard">code</a>
                            </td>
                            <td>75.5</td>
-                           <td><b>71.9</b></td>
-                        </tr>              
+                           <td>71.9</td>
+                        </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>12</p>
+                              <span class="date label label-default">Aug 12, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RESDSQL+T5-1.1-lm100k-large (DB content used)
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>76.6</td>
+                           <td>71.1</td>
+                        </tr>
+                        <tr>
+                             <td>
+                                <p>13</p>
+                                <span class="date label label-default">Jun 4, 2022</span>
+                             </td>
+                             <td style="word-break:break-word;">
+                                RASAT+PICARD (DB content used)
+                              <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                              <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                              <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
+                             </td>
+                             <td>75.3</td>
+                             <td>70.9</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>14</p>
                               <span class="date label label-default">Nov 19, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -379,7 +758,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>15</p>
                               <span class="date label label-default">Nov 19, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -391,19 +770,33 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>16</p>
+                              <span class="date label label-default">Oct 18, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RATSQL++ + ELECTRA (DB content used)
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>75.7</td>
+                           <td>70.3</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>17</p>
                               <span class="date label label-default">Nov 19, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
                               SADGA + GAP (DB content used)
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">DMIR Lab</p>
+                              <a class="link" href="https://arxiv.org/abs/2111.00653">(Cai and Yuan et al., NeurIPS'21)</a>
+                              <a class="link" href="https://github.com/DMIRLAB-Group/SADGA">code</a>
                            </td>
                            <td>73.1</td>
                            <td>70.1</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>18</p>
                               <span class="date label label-default">Dec 25, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -416,7 +809,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>19</p>
                               <span class="date label label-default">Sep 08, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -430,7 +823,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>20</p>
                               <span class="date label label-default">Aug 18, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -444,7 +837,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>21</p>
                               <span class="date label label-default">Mar 10, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -458,7 +851,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>11</p>
+                              <p>22</p>
                               <span class="date label label-default">Aug 05, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -471,7 +864,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                          <td>
-                            <p>12</p>
+                            <p>23</p>
                             <span class="date label label-default">May 4, 2021</span>
                          </td>
                          <td style="word-break:break-word;">
@@ -485,7 +878,7 @@ redirect_from: "/seq2sql/spider"
                       </tr>
                         <tr>
                            <td>
-                              <p>13</p>
+                              <p>24</p>
                               <span class="date label label-default">Nov 20, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -498,7 +891,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>14</p>
+                              <p>25</p>
                               <span class="date label label-default">Jun 1, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -512,7 +905,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>15</p>
+                              <p>26</p>
                               <span class="date label label-default">Jan 16, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -525,7 +918,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>16</p>
+                              <p>27</p>
                               <span class="date label label-default">Nov 24, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -539,11 +932,11 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>17</p>
+                              <p>28</p>
                               <span class="date label label-default">Sep. 8, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
-                              ShadowGNN + RoBERTa (DB content used) 
+                              ShadowGNN + RoBERTa (DB content used)
                               <p class="institution">SJTU X-LANCE Lab & AISpeech</p>
                               <a class="link" href="https://arxiv.org/pdf/2104.04689.pdf">(Chen et al., NAACL'21)</a>
                            </td>
@@ -552,7 +945,19 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>18</p>
+                              <p>29</p>
+                              <span class="date label label-default">Jul. 22, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              T5QL-Base (DB content used)
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>69.3</td>
+                           <td>65.9</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>30</p>
                               <span class="date label label-default">May 02, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -566,7 +971,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>19</p>
+                              <p>31</p>
                               <span class="date label label-default">Dec. 07, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -578,7 +983,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>20</p>
+                              <p>32</p>
                               <span class="date label label-default">Sep. 8, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -590,7 +995,20 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>21</p>
+                              <p>33</p>
+                              <span class="date label label-default">Jan. 29, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              ETA + BERT (DB content used)
+                              <p class="institution">Microsoft Research Asia</p>
+                              <a class="link" href="https://aclanthology.org/2021.findings-acl.100.pdf">(Liu et al., ACL-Findings '21)</a>
+                           </td>
+                           <td>70.8</td>
+                           <td>65.3</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>34</p>
                               <span class="date label label-default">Nov 24, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -604,7 +1022,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>22</p>
+                              <p>35</p>
                               <span class="date label label-default">Sep. 8, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -616,7 +1034,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>23</p>
+                              <p>36</p>
                               <span class="date label label-default">Nov. 25, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -628,7 +1046,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>24</p>
+                              <p>37</p>
                               <span class="date label label-default">Feb 2, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -642,7 +1060,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>25</p>
+                              <p>38</p>
                               <span class="date label label-default">May 31, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -654,7 +1072,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>26</p>
+                              <p>39</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -668,7 +1086,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>27</p>
+                              <p>40</p>
                               <span class="date label label-default">May 31, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -680,7 +1098,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>28</p>
+                              <p>41</p>
                               <span class="date label label-default">Feb 18, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -693,7 +1111,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>29</p>
+                              <p>42</p>
                               <span class="date label label-default">Oct 19, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -706,7 +1124,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>30</p>
+                              <p>43</p>
                               <span class="date label label-default">Dec 18, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -718,7 +1136,21 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>31</p>
+                              <p>44</p>
+                              <span class="date label label-default">Apr 21, 2023</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              DIN-SQL + GPT-4
+                             <p class="institution">University of Alberta</p>
+                             <a class="link" href="https://arxiv.org/abs/2304.11015">(Pourreza et al.,'2023)</a>
+                             <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
+                           </td>
+                           <td>60.1</td>
+                           <td>60</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>45</p>
                               <span class="date label label-default">May 30, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -732,7 +1164,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>32</p>
+                              <p>46</p>
                               <span class="date label label-default">Nov 12, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -745,7 +1177,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>33</p>
+                              <p>47</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -759,7 +1191,21 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>34</p>
+                              <p>48</p>
+                              <span class="date label label-default">Apr 21, 2023</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              DIN-SQL + CodeX
+                              <p class="institution">University of Alberta</p>
+                              <a class="link" href="https://arxiv.org/abs/2304.11015">(Pourreza et al.,'2023)</a>
+                              <a class="link" href="https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting">code</a>
+                           </td>
+                           <td>57.2</td>
+                           <td>57</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>49</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -773,7 +1219,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>35</p>
+                              <p>50</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -785,7 +1231,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>36</p>
+                              <p>51</p>
                               <span class="date label label-default">June 24, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -797,7 +1243,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>37</p>
+                              <p>52</p>
                               <span class="date label label-default">Sep 20, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -809,7 +1255,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>38</p>
+                              <p>53</p>
                               <span class="date label label-default">May 19, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -823,7 +1269,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>39</p>
+                              <p>54</p>
                               <span class="date label label-default">Nov 4, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -837,7 +1283,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>40</p>
+                              <p>55</p>
                               <span class="date label label-default">Apr 8, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -849,7 +1295,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>41</p>
+                              <p>56</p>
                               <span class="date label label-default">Sep 19, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -861,7 +1307,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>42</p>
+                              <p>57</p>
                               <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -875,7 +1321,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>43</p>
+                              <p>58</p>
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -888,7 +1334,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>44</p>
+                              <p>59</p>
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -900,7 +1346,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>45</p>
+                              <p>60</p>
                               <span class="date label label-default">May 28, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -912,7 +1358,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>46</p>
+                              <p>61</p>
                               <span class="date label label-default">June 24, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -924,7 +1370,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>47</p>
+                              <p>62</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -938,7 +1384,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>48</p>
+                              <p>63</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -950,7 +1396,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>49</p>
+                              <p>64</p>
                               <span class="date label label-default">Apr 5, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -962,7 +1408,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>50</p>
+                              <p>65</p>
                               <span class="date label label-default">May 19, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -976,7 +1422,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>51</p>
+                              <p>66</p>
                               <span class="date label label-default">Mar 17, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -988,7 +1434,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>52</p>
+                              <p>67</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1000,7 +1446,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>53</p>
+                              <p>68</p>
                               <span class="date label label-default">June 11, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1012,7 +1458,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>54</p>
+                              <p>69</p>
                               <span class="date label label-default">June 12, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1024,7 +1470,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>55</p>
+                              <p>70</p>
                               <span class="date label label-default">Aug 31, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1036,7 +1482,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>56</p>
+                              <p>71</p>
                               <span class="date label label-default">May 16, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1050,7 +1496,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>57</p>
+                              <p>72</p>
                               <span class="date label label-default">Feb 25, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1062,7 +1508,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>58</p>
+                              <p>73</p>
                               <span class="date label label-default">May 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1075,7 +1521,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>59</p>
+                              <p>74</p>
                               <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1089,7 +1535,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>50</p>
+                              <p>75</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1101,7 +1547,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>61</p>
+                              <p>76</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1115,7 +1561,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>62</p>
+                              <p>77</p>
                               <span class="date label label-default">April 18, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1128,7 +1574,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>63</p>
+                              <p>78</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1142,7 +1588,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>64</p>
+                              <p>79</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1156,7 +1602,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>65</p>
+                              <p>80</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1170,7 +1616,7 @@ redirect_from: "/seq2sql/spider"
                         </tr>
                         <tr>
                            <td>
-                              <p>66</p>
+                              <p>81</p>
                               <span class="date label label-default">Sep 20, 2018</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -1186,6 +1632,10 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left"> <b>Other papers used Spider (evaluated on the dev but not test set):</b>
                       <ol>
+                        <li><a class="link" href="https://arxiv.org/abs/2206.14017">(Wang et al., KDD 2022)</a>, Alibaba DAMO</li>
+                        <li><a class="link" href="http://vldb.org/pvldb/vol15/p569-ma.pdf">(Ma et al., VLDB 2022)</a>, HKUST</li>
+                        <li><a class="link" href="https://aclanthology.org/2022.coling-1.471/">(Qin et al., COLING 2022)</a>, Alibaba DAMO</li>
+                        <li><a class="link" href="https://dl.acm.org/doi/10.14778/3446095.3446103">(Usta et al., VLDB 2021)</a>, Bilkent University</li>
                         <li><a class="link" href="https://frcchang.github.io/pub/emnlp2019.2.pdf">(Min et al., EMNLP 2019)</a>, Westlake University, Spider in Chinese</li>
                         <li><a class="link" href="http://web.cse.ohio-state.edu/~sun.397/docs/MISP.pdf">(Yao et al., EMNLP 2019)</a>, OSU & Facebook AI Research</li>
                         <li><a class="link" href="https://arxiv.org/abs/1905.08407">(Shaw et al., ACL 2019)</a>, Google</li>

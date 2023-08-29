@@ -38,9 +38,13 @@ permalink: sparc
                     <p align="left">
                     <div class="left"><b><i>SParC</i></b> is a dataset for cross-domain <b>S</b>emantic <b>Par</b>sing in <b>C</b>ontext. It is the context-dependent/multi-turn version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider task</i></b></a>, a complex and cross-domain text-to-SQL challenge. SParC consists of 4,298 coherent question sequences (12k+ unique individual questions annotated with SQL queries annotated by 14 Yale students), obtained from user interactions with 200 complex databases over 138 domains.
                     </div>
-                    <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">SParC Paper (ACL'19)</a>
+                    <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLang Lab for building LM agents! </a>
+		    <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">SParC Paper (ACL'19)</a>
                     <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">SParC Post</a>
-                    <hr><b>Related challenges:</b> single-turn <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and conversational <a href="https://yale-lily.github.io/cosql"><b><i>CoSQL</i></b></a> text-to-SQL tasks.
+                    <hr><b>Related works:</b> <a href="https://ds1000-code-gen.github.io/"><b><i>DS-1000</i></b></a>, <a href="https://lm-code-binder.github.io/"><b><i>Binder</i></b></a>, <a href="https://unifiedskg.com/"><b><i>UnifiedSKG</i></b></a>, single-turn <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and conversational <a href="https://yale-lily.github.io/cosql"><b><i>CoSQL</i></b></a> text-to-SQL tasks.
+	            <a class="btn actionBtn2" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge ('22)</a>
+	            <a class="btn actionBtn2" href="https://lm-code-binder.github.io/">Binder Framework (ICLR '23)</a>
+	            <a class="btn actionBtn2" href="https://github.com/hkunlp/unifiedskg">UnifiedSKG Framework (EMNLP '22)</a>
                     <a class="btn actionBtn2" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
                     <a class="btn actionBtn2" href="https://yale-lily.github.io/cosql">CoSQL Chanllenge (EMNLP'19)</a>
                     </p>
@@ -50,6 +54,18 @@ permalink: sparc
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+			 <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
+                             Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
+                         </li>
+			 <li><span class="label label-default" style="background-color: #FF7F50"><i>11/20/2022</i></span>
+                             Please check out our recent work <a href="https://ds1000-code-gen.github.io/">DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</a>. Please check out examples, data, and code on the <a href="https://ds1000-code-gen.github.io/">DS-1000 project site</a>!!
+                         </li>
+			 <li><span class="label label-default" style="background-color: #FF7F50"><i>10/18/2022</i></span>
+                             Please check out our recent work <a href="https://lm-code-binder.github.io/">Binder: an easy but sota neural-symbolic built on GPT-3 Codex & SQL/Python interpreter</a>. It injects GPT-3 Codex prompt API calls in programming languages! Please check out Binder demo, code, paper, and video on the <a href="https://github.com/hkunlp/unifiedskg">Binder project site</a>!!
+                         </li>
+			 <li><span class="label label-default" style="background-color: #FF7F50"><i>02/15/2022</i></span>
+			   Please check out our recent work <a href="https://arxiv.org/abs/2201.05966">UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models</a>. We open-sourced simple but SOTA/strong models for 21 tasks including text-to-SQL! Please check out our code in the <a href="https://github.com/hkunlp/unifiedskg">UnifiedSKG repo</a>!!
+		         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>11/15/2020</i></span>
                              We will use <a href="https://arxiv.org/abs/2010.02840">Test Suite Accuracy</a> as our official evaluation metric for Spider, SParC, and CoSQL. Please find the evaluation code from <a href="https://github.com/taoyds/test-suite-sql-eval">here</a>.
                          </li>
@@ -79,7 +95,7 @@ permalink: sparc
                     <div class="left"> The data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
                     </div>
                     </p>
-                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=13Abvu5SUMSP3SJM-ZIj66mOkeyAquR73" download>SParC Dataset</a>
+                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=1Uu7NMHTR1tdQw1t7bAuM7OPU4LElVKfg" download>SParC Dataset</a>
                     Details of baseline models and evaluation script can be found on the following GitHub site:
                     <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/sparc" download>SParC GitHub Page</a>
                     <p align="left">
@@ -132,6 +148,64 @@ permalink: sparc
               </div>
            </div>
            <div class="col-md-7">
+               <div class="infoCard">
+                 <div class="infoBody">
+                    <div class="infoHeadline">
+                       <h2>Leaderboard - Execution with Values</h2>
+                    </div>
+                    <p align="left">
+                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
+                    </div>
+                    </p>
+                    <table class="table performanceTable">
+                    <tr>
+                       <th>Rank</th>
+                       <th>Model</th>
+                       <th>Question Match</th>
+                       <th>Interaction Match</th>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>1</p>
+                          <span class="date label label-default">Jun 4, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          RASAT + PICARD
+                          <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                          <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                          <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
+                       </td>
+                       <td><b>74.0</b></td>
+                       <td><b>52.6</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
+                          <span class="date label label-default">May 24, 2020</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          TreeSQL V2 + BERT
+                          <p class="institution">Anonymous</p>
+                       </td>
+                       <td>48.5</td>
+                       <td>21.6</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>3</p>
+                          <span class="date label label-default">May 21, 2020</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          GAZP + BERT
+                          <p class="institution">University of Washington & Facebook AI Research</p>
+                          <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
+                       </td>
+                       <td>44.6</td>
+                       <td>19.7</td>
+                    </tr>
+                    </table>
+                 </div>
+              </div>
               <div class="infoCard">
                  <div class="infoBody">
                     <div class="infoHeadline">
@@ -151,18 +225,74 @@ permalink: sparc
 			<tr>
                            <td>
                               <p>1</p>
+                              <span class="date label label-default">Feb 14, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              STAR
+                              <p class="institution">Alibaba DAMO & SIAT</p>
+			      <a class="link" href="https://arxiv.org/abs/2210.11888">(Cai and Li et al., EMNLP-Findings '22)</a>
+			      <a class="link" href="https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/star">code</a>
+			      <a class="link" href="https://modelscope.cn/models/damo/nlp_star_conversational-text-to-sql/summary">demo</a>
+                           </td>  
+                           <td>67.4</td>
+                           <td><b>46.6</b></td>
+                        </tr>
+         <tr>
+                           <td>
+                              <p>2</p>
+                              <span class="date label label-default">Jun 4, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RASAT + PICARD
+                          <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                          <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                          <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
+                           </td>
+                           <td>67.7</td>
+                           <td>45.2</td>
+                        </tr>
+			<tr>
+                           <td>
+                              <p>3</p>
+                              <span class="date label label-default">Apr 27, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              CQR-SQL
+                              <p class="institution">Tencent Cloud Xiaowei</p>
+                              <a class="link" href="https://arxiv.org/abs/2205.07686">(Xiao et al.,'22)</a>
+                           </td>  
+                           <td><b>68.2</b></td>
+                           <td>44.4</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>4</p>
+                              <span class="date label label-default">Oct 8, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RAT-SQL-TC + GAP
+			      <p class="institution">Meituan & PKU</p>
+                              <a class="link" href="https://arxiv.org/abs/2112.08735">(Li et al.,'21)</a>
+                           </td>  
+                           <td>65.7</td>
+                           <td>43.2</td>
+                        </tr>
+			               <tr>
+                           <td>
+                              <p>5</p>
                               <span class="date label label-default">Oct 18, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
                               HIE-SQL + GraPPa
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Alibaba DAMO</p>
+                              <a class="link" href="https://arxiv.org/abs/2203.07376">(Zheng et al. ACL-Findings '22)</a>
                            </td>
-                           <td><b>64.6</b></td>
-                           <td><b>42.9</b></td>
+                           <td>64.6</td>
+                           <td>42.9</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>6</p>
                               <span class="date label label-default">Sep. 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -175,7 +305,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>7</p>
                               <span class="date label label-default">Oct 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -187,7 +317,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>8</p>
                               <span class="date label label-default">July 08, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -201,7 +331,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>9</p>
                               <span class="date label label-default">May 26, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -215,7 +345,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>10</p>
                               <span class="date label label-default">Jun. 02, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -227,7 +357,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>11</p>
                               <span class="date label label-default">May 04, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -239,7 +369,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>12</p>
                               <span class="date label label-default">Sep 1, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -253,7 +383,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>13</p>
                               <span class="date label label-default">May 03, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -265,7 +395,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>14</p>
                               <span class="date label label-default">May 22, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -277,7 +407,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>11</p>
+                              <p>15</p>
                               <span class="date label label-default">Jan 15, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -289,7 +419,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>12</p>
+                              <p>16</p>
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -302,7 +432,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>13</p>
+                              <p>17</p>
                               <span class="date label label-default">Feb 13, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -314,7 +444,20 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>14</p>
+                              <p>18</p>
+                              <span class="date label label-default">Apr 21, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              MemCE
+                              <p class="institution">UoE</p>
+                              <a class="link" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00422/108200/Memory-Based-Semantic-Parsing">(Jain et al., TACL '21)</a>
+                           </td>
+                           <td>40.3</td>
+                           <td>16.7</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>19</p>
                               <span class="date label label-default">Feb 13, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -326,7 +469,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>15</p>
+                              <p>20</p>
                               <span class="date label label-default">Dec 13, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -338,7 +481,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>16</p>
+                              <p>21</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -352,7 +495,7 @@ permalink: sparc
                         </tr>
                         <tr>
                            <td>
-                              <p>17</p>
+                              <p>22</p>
                               <span class="date label label-default">May 17, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -364,50 +507,6 @@ permalink: sparc
                            <td>20.2</td>
                            <td>5.2</td>
                         </tr>
-                    </table>
-                 </div>
-              </div>
-              <div class="infoCard">
-                 <div class="infoBody">
-                    <div class="infoHeadline">
-                       <h2>Leaderboard - Execution with Values</h2>
-                    </div>
-                    <p align="left">
-                    <div class="left"> Our current models do not predict any value in SQL conditions so that we do not provide execution accuracies. However, we encourage you to provide it in the future submissions. For value prediction, your model should be able to 1) copy from the question inputs, 2) retrieve from the database content (database content is available), or 3) generate numbers (e.g. 3 in "LIMIT 3").
-                    </div>
-                    </p>
-                    <table class="table performanceTable">
-                    <tr>
-                       <th>Rank</th>
-                       <th>Model</th>
-                       <th>Question Match</th>
-                       <th>Interaction Match</th>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>1</p>
-                          <span class="date label label-default">May 24, 2020</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          TreeSQL V2 + BERT
-                          <p class="institution">Anonymous</p>
-                       </td>
-                       <td><b>48.5</b></td>
-                       <td><b>21.6</b></td>
-                    </tr>
-                    <tr>
-                       <td>
-                          <p>2</p>
-                          <span class="date label label-default">May 21, 2020</span>
-                       </td>
-                       <td style="word-break:break-word;">
-                          GAZP + BERT
-                          <p class="institution">University of Washington & Facebook AI Research</p>
-                          <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
-                       </td>
-                       <td>44.6</td>
-                       <td>19.7</td>
-                    </tr>
                     </table>
                  </div>
               </div>

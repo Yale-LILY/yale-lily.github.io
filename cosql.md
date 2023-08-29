@@ -2,7 +2,7 @@
 layout: cosql
 permalink: cosql
 ---
-
+ 
   <div class="navbar navbar-default navbar-fixed-top" id="topNavbar" role="navigation">
      <div class="container clearfix">
         <div class="leftNav">
@@ -41,9 +41,13 @@ permalink: cosql
                     <p align="left">
                     <div class="left"><b><i>CoSQL</i></b> is a corpus for building cross-domain <b>Co</b>nversational text-to-<b>SQL</b> systems. It is the dialogue version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> tasks. CoSQL consists of 30k+ turns plus 10k+ annotated SQL queries, obtained from a <a href="https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment">Wizard-of-Oz</a> collection of 3k dialogues querying 200 complex databases spanning 138 domains. Each dialogue simulates a real-world DB query scenario with a crowd worker as a user exploring the database and a SQL expert retrieving answers with SQL, clarifying ambiguous questions, or otherwise informing of unanswerable questions.
                     </div>
-                    <a class="btn actionBtn" href="https://arxiv.org/abs/1909.05378">CoSQL Paper (EMNLP'19)</a>
+                    <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLang Lab for building LM agents! </a>
+		    <a class="btn actionBtn" href="https://arxiv.org/abs/1909.05378">CoSQL Paper (EMNLP'19)</a>
                     <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">CoSQL Post</a>
-                    <hr><b>Related challenges</b>: single-turn <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and multi-turn <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> text-to-SQL tasks
+                    <hr><b>Related works</b>: <a href="https://ds1000-code-gen.github.io/"><b><i>DS-1000</i></b></a>, <a href="https://lm-code-binder.github.io/"><b><i>Binder</i></b></a>, <a href="https://unifiedskg.com/"><b><i>UnifiedSKG</i></b></a>, single-turn <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and multi-turn <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> text-to-SQL tasks
+			<a class="btn actionBtn2" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge ('22)</a>
+			<a class="btn actionBtn2" href="https://lm-code-binder.github.io/">Binder Framework (ICLR '23)</a>
+			<a class="btn actionBtn2" href="https://github.com/hkunlp/unifiedskg">UnifiedSKG Framework (EMNLP '22)</a>
                         <a class="btn actionBtn2" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
                         <a class="btn actionBtn2" href="https://yale-lily.github.io/sparc">SParC Chanllenge (ACL'19)</a>
                     </p>
@@ -53,6 +57,18 @@ permalink: cosql
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+			 <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
+                             Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
+                         </li>
+			 <li><span class="label label-default" style="background-color: #FF7F50"><i>11/20/2022</i></span>
+                             Please check out our recent work <a href="https://ds1000-code-gen.github.io/">DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</a>. Please check out examples, data, and code on the <a href="https://ds1000-code-gen.github.io/">DS-1000 project site</a>!!
+                         </li>
+			 <li><span class="label label-default" style="background-color: #FF7F50"><i>10/18/2022</i></span>
+                             Please check out our recent work <a href="https://lm-code-binder.github.io/">Binder: an easy but sota neural-symbolic built on GPT-3 Codex & SQL/Python interpreter</a>. It injects GPT-3 Codex prompt API calls in programming languages! Please check out Binder demo, code, paper, and video on the <a href="https://github.com/hkunlp/unifiedskg">Binder project site</a>!!
+                         </li>
+			 <li><span class="label label-default" style="background-color: #286dc0"><i>02/15/2022</i></span>
+			   Please check out our recent work <a href="https://arxiv.org/abs/2201.05966">UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models</a>. We open-sourced simple but SOTA/strong models for 21 tasks including text-to-SQL! Please check out our code in the <a href="https://github.com/hkunlp/unifiedskg">UnifiedSKG repo</a>!!
+		         </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>11/15/2020</i></span>
                              We will use <a href="https://arxiv.org/abs/2010.02840">Test Suite Accuracy</a> as our official evaluation metric for Spider, SParC, and CoSQL. Please find the evaluation code from <a href="https://github.com/taoyds/test-suite-sql-eval">here</a>.
                          </li>
@@ -96,7 +112,7 @@ permalink: cosql
                     <div class="left"> The data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
                     </div>
                     </p>
-                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=14x6lsWqlu6gR-aYxa6cemslDN3qT3zxP" download>CoSQL Dataset</a>
+                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=1Y3ydpFiQQ3FC0bzdfy3groV95O_f1nXF" download>CoSQL Dataset</a>
                     Details of baseline models and evaluation script can be found on the following GitHub site:
                     <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/cosql" download>CoSQL GitHub Page</a>
                     <p align="left">
@@ -162,18 +178,74 @@ permalink: cosql
 			<tr>
                            <td>
                               <p>1</p>
+                              <span class="date label label-default">Feb 14, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              STAR
+                              <p class="institution">Alibaba DAMO & SIAT</p>
+			      <a class="link" href="https://arxiv.org/abs/2210.11888">(Cai and Li et al., EMNLP-Findings '22)</a>
+			      <a class="link" href="https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/star">code</a>
+			      <a class="link" href="https://modelscope.cn/models/damo/nlp_star_conversational-text-to-sql/summary">demo</a>
+                           </td>
+			   <td>57.8</td>
+                           <td><b>28.2</b></td>
+                        </tr>
+			<tr>
+                           <td>
+                              <p>2</p>
+                              <span class="date label label-default">Apr 2, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              CQR-SQL
+                              <p class="institution">Tencent Cloud Xiaowei</p>
+                              <a class="link" href="https://arxiv.org/abs/2205.07686">(Xiao et al.,'22)</a>
+                           </td>
+			   <td><b>58.3</b></td>
+                           <td>27.4</td>
+                        </tr>
+			<tr>
+                           <td>
+                              <p>3</p>
+                              <span class="date label label-default">Jun 4, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RASAT + PICARD 
+                          <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                          <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                          <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
+                           </td>
+                           <td>55.7</td>
+                           <td>26.5</td>
+                        </tr>
+			<tr>
+                           <td>
+                              <p>4</p>
+                              <span class="date label label-default">Dec 26, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              MT Training + N-best List Rerankers + PICARD
+                              <p class="institution">Alexa AI</p>
+			      <a class="link" href="https://www.amazon.science/publications/conversational-text-to-sql-an-odyssey-into-state-of-the-art-and-challenges-ahead">(Parthasarathi et al., ICASSP'23)</a>
+                           </td>
+                           <td>55.8</td>
+                           <td>24.8</td>
+                        </tr>
+			<tr>
+                           <td>
+                              <p>5</p>
                               <span class="date label label-default">Oct 5, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
                               HIE-SQL + GraPPa 
-                              <p class="institution">Anonymous</p>
+                              <p class="institution">Alibaba DAMO</p>
+                              <a class="link" href="https://arxiv.org/abs/2203.07376">(Zheng et al. ACL-Findings '22)</a>
                            </td>
                            <td>53.9</td>
-                           <td><b>24.6</b></td>
+                           <td>24.6</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>2</p>
+                              <p>6</p>
                               <span class="date label label-default">Jul 14, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -182,12 +254,24 @@ permalink: cosql
                               <a class="link" href="https://arxiv.org/abs/2109.05093">(Scholak et al., EMNLP'21)</a>
                               <a class="link" href="https://github.com/ElementAI/picard">code</a>
                            </td>
-                           <td><b>54.6</b></td>
+                           <td>54.6</td>
                            <td>23.7</td>
+                        </tr>
+			<tr>
+                           <td>
+                              <p>7</p>
+                              <span class="date label label-default">Jan 7, 2022</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              RATSQL++ + ELECTRA
+                              <p class="institution">Anonymous</p>
+                           </td>
+                           <td>53.8</td>
+                           <td>22.1</td>
                         </tr>
                         <tr>
                            <td>
-                              <p>3</p>
+                              <p>8</p>
                               <span class="date label label-default">Sep. 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -200,7 +284,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>4</p>
+                              <p>9</p>
                               <span class="date label label-default">Aug 24, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -214,7 +298,7 @@ permalink: cosql
                         </tr> 
                         <tr>
                            <td>
-                              <p>5</p>
+                              <p>10</p>
                               <span class="date label label-default">Jan 26, 2021</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -228,7 +312,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>6</p>
+                              <p>11</p>
                               <span class="date label label-default">Nov. 16, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -240,7 +324,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>7</p>
+                              <p>12</p>
                               <span class="date label label-default">May 26, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -254,7 +338,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>8</p>
+                              <p>13</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -268,7 +352,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>9</p>
+                              <p>14</p>
                               <span class="date label label-default">May 21, 2020</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -281,7 +365,20 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>10</p>
+                              <p>15</p>
+                              <span class="date label label-default">Apr 21, 2021</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              MemCE
+                              <p class="institution">UoE</p>
+                              <a class="link" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00422/108200/Memory-Based-Semantic-Parsing">(Jain et al., TACL '21)</a>
+                           </td>
+                           <td>28.4</td>
+                           <td>6.2</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>16</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -295,7 +392,7 @@ permalink: cosql
                         </tr>
                         <tr>
                            <td>
-                              <p>11</p>
+                              <p>17</p>
                               <span class="date label label-default">Aug 30, 2019</span>
                            </td>
                            <td style="word-break:break-word;">
@@ -320,6 +417,20 @@ permalink: cosql
                     <tr>
                        <td>
                           <p>1</p>
+                          <span class="date label label-default">Jun 4, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          RASAT + PICARD
+                          <p class="institution">SJTU LUMIA & Netmind.AI </p>
+                          <a class="link" href="https://arxiv.org/abs/2205.06983">(Qi et al., EMNLP'22)</a>
+                          <a class="link" href="https://github.com/JiexingQi/RASAT">code</a>
+                       </td>
+                       <td><b>66.3</b></td>
+                       <td><b>37.4</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
                           <span class="date label label-default">May 21, 2020</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -327,8 +438,8 @@ permalink: cosql
                           <p class="institution">University of Washington & Facebook AI Research</p>
                           <a class="link" href="https://arxiv.org/abs/2009.07396">(Zhong et al., EMNLP '20)</a>
                        </td>
-                       <td><b>35.9</b></td>
-                       <td><b>8.4</b></td>
+                       <td>35.9</td>
+                       <td>8.4</td>
                     </tr>
                     </table>
                  </div>
@@ -353,6 +464,19 @@ permalink: cosql
                     <tr>
                        <td>
                           <p>1</p>
+                          <span class="date label label-default">Dec 15, 2022</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          Complexity Aware Prompts + T5
+			  <p class="institution">Alexa AI</p>
+                       </td>
+                       <td>28.1</td>
+                       <td>-</td>
+                       <td>-</td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>2</p>
                           <span class="date label label-default">Aug 30, 2019</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -364,7 +488,7 @@ permalink: cosql
                     </tr>
                     <tr>
                        <td>
-                          <p>2</p>
+                          <p>3</p>
                           <span class="date label label-default">Aug 30, 2019</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -376,7 +500,7 @@ permalink: cosql
                     </tr>
                     <tr>
                        <td>
-                          <p>3</p>
+                          <p>4</p>
                           <span class="date label label-default">Aug 30, 2019</span>
                        </td>
                        <td style="word-break:break-word;">
