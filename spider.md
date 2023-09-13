@@ -204,7 +204,7 @@ redirect_from: "/seq2sql/spider"
                           <span class="date label label-default">Aug 20, 2023</span>
                        </td>
                        <td style="word-break:break-word;">
-                          DAIL-SQL + GPT-4 + Self-consistency
+                          DAIL-SQL + GPT-4 + Self-Consistency
                           <p class="institution">Alibaba Group</p> 
                           <a class="link" href="https://arxiv.org/abs/2308.15363">(Gao and Wang et al.,'2023)</a>
                           <a class="link" href="https://github.com/BeachWang/DAIL-SQL">code</a>
