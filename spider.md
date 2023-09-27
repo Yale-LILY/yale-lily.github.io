@@ -363,11 +363,11 @@ redirect_from: "/seq2sql/spider"
                     <tr>
                        <td>
                           <p>14</p>
-                          <span class="date label label-default">Sep 23, 2023</span>
+                          <span class="date label label-default">Apr 4, 2023</span>
                        </td>
                        <td style="word-break:break-word;">
                           RASAT + NatSQL + Reranker (DB content used)
-                          <p class="institution">ADAPT Centre</p>
+                          <p class="institution">ADAPT Centre & Huawei Ireland</p>
                           <span>Paper coming soon</span>
                        </td>
                        <td>76.5</td>
@@ -862,11 +862,11 @@ redirect_from: "/seq2sql/spider"
                         <tr>
                            <td>
                               <p>20</p>
-                              <span class="date label label-default">Sep 23, 2023</span>
+                              <span class="date label label-default">Apr 4, 2023</span>
                            </td>
                            <td style="word-break:break-word;">
                               RASAT + NatSQL + Reranker (DB content used)
-                              <p class="institution">ADAPT Centre</p>
+                              <p class="institution">ADAPT Centre & Huawei Ireland</p>
                               <span>Paper coming soon</span>
                            </td>
                            <td>73.6</td>
