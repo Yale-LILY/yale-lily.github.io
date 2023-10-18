@@ -1094,7 +1094,7 @@ redirect_from: "/seq2sql/spider"
                               <span>Code and paper coming soon</span>
                            </td>
                            <td>-</td>
-                           <td>65.7</td>
+                           <td>64.7</td>
                         </tr>
                         <tr>
                            <td>
