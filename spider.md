@@ -201,6 +201,18 @@ redirect_from: "/seq2sql/spider"
                     <tr>
                        <td>
                           <p>1</p>
+                          <span class="date label label-default">Nov 2, 2023</span>
+                       </td>
+                       <td style="word-break:break-word;">
+                          MiniSeek
+                          <p class="institution">Seek AI</p> 
+                          <span>Code and paper coming soon</span>
+                       </td>
+                       <td><b>91.2</b></td>
+                    </tr>
+                    <tr>
+                       <td>
+                          <p>1</p>
                           <span class="date label label-default">Aug 20, 2023</span>
                        </td>
                        <td style="word-break:break-word;">
@@ -609,6 +621,19 @@ redirect_from: "/seq2sql/spider"
                            <th>Dev</th>
                            <th>Test</th>
                         </tr>
+                      <tr>
+                           <td>
+                              <p>1</p>
+                              <span class="date label label-default">Nov 2, 2023</span>
+                           </td>
+                           <td style="word-break:break-word;">
+                              MiniSeek
+                              <p class="institution">Seek AI</p>
+                              <span>Code and paper coming soon</span>
+                           </td>
+                           <td>80.3</td>
+                           <td><b>81.5</b></td>
+                       </tr>
                       <tr>
                            <td>
                               <p>1</p>
