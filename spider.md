@@ -391,7 +391,7 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           RASAT + NatSQL + Reranker (DB content used)
-                          <p class="institution">ADAPT Centre & Huawei Ireland</p>
+                          <p class="institution">Anonymous</p>
                           <span>Paper coming soon</span>
                        </td>
                        <td>76.5</td>
@@ -640,7 +640,7 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               MiniSeek
-                              <p class="institution">Seek AI</p>
+                              <p class="institution">Anonymous</p>
                               <span>Code and paper coming soon</span>
                            </td>
                            <td>80.3</td>
@@ -903,7 +903,7 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               RASAT + NatSQL + Reranker (DB content used)
-                              <p class="institution">ADAPT Centre & Huawei Ireland</p>
+                              <p class="institution">Anonymous</p>
                               <span>Paper coming soon</span>
                            </td>
                            <td>73.6</td>
@@ -1115,7 +1115,7 @@ redirect_from: "/seq2sql/spider"
                            </td>
                            <td style="word-break:break-word;">
                               DPG-SQL + GPT-4 + Self-Correction
-                              <p class="institution">Wuhan University & Shanghai Lanma Technology Co., Ltd.</p>
+                              <p class="institution">Anonymous</p>
                               <span>Code and paper coming soon</span>
                            </td>
                            <td>-</td>
