@@ -205,7 +205,7 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           MiniSeek
-                          <p class="institution">Seek AI</p> 
+                          <p class="institution">Anonymous</p> 
                           <span>Code and paper coming soon</span>
                        </td>
                        <td><b>91.2</b></td>
@@ -243,7 +243,7 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           DPG-SQL + GPT-4 + Self-Correction
-                          <p class="institution">Wuhan University & Shanghai Lanma Technology Co., Ltd.</p>
+                          <p class="institution">Anonymous</p>
                           <span>Code and paper coming soon</span>
                        </td>
                        <td>85.6</td>
@@ -268,7 +268,7 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           Hindsight Chain of Thought with GPT-4
-                          <p class="institution">Kainos Software Ltd.</p> 
+                          <p class="institution">Anonymous</p> 
                           <span>Code and paper coming soon</span>
                        </td>
                        <td>83.9</td>
@@ -293,7 +293,7 @@ redirect_from: "/seq2sql/spider"
                        </td>
                        <td style="word-break:break-word;">
                           Hindsight Chain of Thought with GPT-4 and Instructions
-                          <p class="institution">Kainos Software Ltd.</p>
+                          <p class="institution">Anonymous</p>
                           <span>Code and paper coming soon</span>
                        </td>
                        <td>80.8</td>
