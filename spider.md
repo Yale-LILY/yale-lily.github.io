@@ -129,13 +129,14 @@ redirect_from: "/seq2sql/spider"
                        <h2>Getting Started</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> The data is split into training, development, and unreleased test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
+                    <div class="left"> The data is split into training, development, and test sets. Download a copy of the dataset (distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> license):
                     </div>
                     </p>
-                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/uc?export=download&id=1TqleXec_OykOYFREKKtschzY29dUcVAQ" download>Spider Dataset</a>
+                    <a class="btn actionBtn inverseBtn" href="https://drive.google.com/u/0/uc?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download" download>Spider Dataset</a>
                     Details of baseline models and evaluation script can be found on the following GitHub site:
                     <a class="btn actionBtn inverseBtn" href="https://github.com/taoyds/spider" download>Spider GitHub Page</a>
-                    <p align="left">
+                   <!---- 
+                   <p align="left">
                     <div class="left">Once you have built a model that works to your expectations on the dev set,
                        you can submit it to get official scores on the dev and a hidden test set. To preserve the
                        integrity of test results, we do not release the test set to the public. Instead, we request
@@ -143,6 +144,7 @@ redirect_from: "/seq2sql/spider"
                     </div>
                     </p>
                     <a class="btn actionBtn inverseBtn" href="https://worksheets.codalab.org/worksheets/0x82150f426cb94c17b861ef4162817399/" download>Submission Tutorial</a>
+                   ----->
                     <div class="infoHeadline">
                        <h2>Data Examples</h2>
                     </div>
