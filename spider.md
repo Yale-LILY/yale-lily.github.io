@@ -233,7 +233,7 @@ redirect_from: "/seq2sql/spider"
                        <td style="word-break:break-word;">
                           Chat2Query + GPT-4 + Data-Entity-Modeling
                           <p class="institution">PingCAP</p> 
-                          <a class="link" href="https://github.com/tidbcloud/spider_chat2query">code</a>
+                          <span>Code and paper coming soon</span>
                        </td>
                        <td><b>86.3</b></td>
                     </tr>                      
