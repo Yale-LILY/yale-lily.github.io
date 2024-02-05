@@ -62,7 +62,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #FF7F50"><i>02/05/2024</i></span>
-                             <p style="color:red;">We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this March. Stay tuned!</p>
+                             <p style="color:red;">We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. The test set of Spider 1.0 has already been released (check the Spider dataset link below). Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this March. Stay tuned!</p>
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
                              Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
