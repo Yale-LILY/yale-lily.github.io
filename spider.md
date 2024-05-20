@@ -37,7 +37,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>What is Spider?</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> <p style="color:red;">Feb. 5th, 2024: We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> June. Stay tuned!</p>
+                    <div class="left"> <p style="color:red;">Feb. 5th, 2024: We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> <b>June</b>. Stay tuned!</p>
                       Spider is a large-scale <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c"><i>complex and cross-domain</i></a> semantic parsing and text-to-SQL dataset annotated by 11 Yale students.
                       The goal of the Spider challenge is to develop natural language interfaces to cross-domain databases.
                        It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
@@ -62,7 +62,7 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #FF7F50"><i>02/05/2024</i></span>
-                             <p style="color:red;">We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. The test set of Spider 1.0 has already been released (check the Spider dataset link below). Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this March. Stay tuned!</p>
+                             <p style="color:red;">We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. The test set of Spider 1.0 has already been released (check the Spider dataset link below). Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> <b>June</b>. Stay tuned!</p>
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
                              Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
