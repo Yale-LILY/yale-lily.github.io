@@ -37,7 +37,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>What is Spider?</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> <p style="color:red;">Feb. 5th, 2024: We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this March. Stay tuned!</p>
+                    <div class="left"> <p style="color:red;">Feb. 5th, 2024: We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this ~~March~~ June. Stay tuned!</p>
                       Spider is a large-scale <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c"><i>complex and cross-domain</i></a> semantic parsing and text-to-SQL dataset annotated by 11 Yale students.
                       The goal of the Spider challenge is to develop natural language interfaces to cross-domain databases.
                        It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
