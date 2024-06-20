@@ -224,7 +224,7 @@ redirect_from: "/seq2sql/spider"
                        <td style="word-break:break-word;">
                           DAIL-SQL + GPT-4 + Self-Consistency
                           <p class="institution">Alibaba Group</p> 
-                          <a class="link" href="https://arxiv.org/abs/2308.15363">(Gao and Wang et al.,'2023)</a>
+                          <a class="link" href="https://arxiv.org/abs/2308.15363">(Gao and Wang et al., VLDB'24)</a>
                           <a class="link" href="https://github.com/BeachWang/DAIL-SQL">code</a>
                        </td>
                        <td><b>86.6</b></td>
@@ -237,7 +237,7 @@ redirect_from: "/seq2sql/spider"
                        <td style="word-break:break-word;">
                           DAIL-SQL + GPT-4
                           <p class="institution">Alibaba Group</p> 
-                          <a class="link" href="https://arxiv.org/abs/2308.15363">(Gao and Wang et al.,'2023)</a>
+                          <a class="link" href="https://arxiv.org/abs/2308.15363">(Gao and Wang et al., VLDB'24)</a>
                           <a class="link" href="https://github.com/BeachWang/DAIL-SQL">code</a>
                        </td>
                        <td><b>86.2</b></td>
