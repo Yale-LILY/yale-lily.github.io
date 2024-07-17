@@ -53,7 +53,8 @@ permalink: cosql
 	            <a class="btn actionBtn" href="https://github.com/hkunlp/unifiedskg">UnifiedSKG Framework (EMNLP'22)</a>
                     <a class="btn actionBtn" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
                     <a class="btn actionBtn" href="https://yale-lily.github.io/sparc">SParC Chanllenge (ACL'19)</a>
-                    </p>
+                    </div>
+		    </p>
                     <div class="infoHeadline">
                        <h2>News</h2>
                     </div>
