@@ -58,7 +58,7 @@ permalink: sparc
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
 			 <li><span class="label label-default" style="background-color: #FF7F50"><i>07/15/2024</i></span>
-                             <p style="color:red;"><a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.</p>
+                             <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
                              Please check out <a href="https://xlang.ai/">XLANG Lab for Building LLM/VLM Agents</a>!
