@@ -37,22 +37,25 @@ redirect_from: "/seq2sql/spider"
                        <h2>What is Spider?</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> <p style="color:red;">Feb. 5th, 2024: We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> <b>June</b>. Stay tuned!</p>
+                    <div class="left"> <p style="color:red;">July 15th, 2024: <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.</p>
+                    <div class="left"> <p style="color:#286dc0;">Feb. 5th, 2024: We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> <b>June</b>. Stay tuned!</p>
                       Spider is a large-scale <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c"><i>complex and cross-domain</i></a> semantic parsing and text-to-SQL dataset annotated by 11 Yale students.
                       The goal of the Spider challenge is to develop natural language interfaces to cross-domain databases.
                        It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
                        In Spider 1.0, different complex SQL queries and databases appear in train and test sets.
                        To do well on it, systems must <i>generalize well to not only new SQL queries but also new database schemas</i>.
                       <hr>Why we call it "Spider"? It is because our dataset is complex and cross-domain like a spider crawling across mutiple complex(with many foreign keys) nests(databases).
-                       <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLang Lab for building LM agents! </a>
+                       <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLANG Lab for Building LLM/VLM Agents</a>
                        <a class="btn actionBtn" href="https://arxiv.org/abs/1809.08887">Spider Paper (EMNLP'18)</a>
                        <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">Spider Post</a>
-                      <hr><b>Related works:</b> <a href="https://ds1000-code-gen.github.io/"><b><i>DS-1000</i></b></a>, <a href="https://lm-code-binder.github.io/"><b><i>Binder</i></b></a>, <a href="https://unifiedskg.com/"><b><i>UnifiedSKG</i></b></a>, multi-turn <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> and conversational <a href="https://yale-lily.github.io/cosql"><b><i>CoSQL</i></b></a> text-to-SQL tasks.
-                       <a class="btn actionBtn2" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge ('22)</a>
-                       <a class="btn actionBtn2" href="https://lm-code-binder.github.io/">Binder Framework (ICLR '23)</a>
-                       <a class="btn actionBtn2" href="https://github.com/hkunlp/unifiedskg">UnifiedSKG Framework (EMNLP'22)</a>
-                       <a class="btn actionBtn2" href="https://yale-lily.github.io/sparc">SParC Challenge (ACL'19)</a>
-                       <a class="btn actionBtn2" href="https://yale-lily.github.io/cosql">CoSQL Challenge (EMNLP'19)</a>
+                      <hr><b>Related Works from XLANG Lab:</b>
+                       <a class="btn actionBtn2" href="https://spider2-v.github.io/">Spider2-V ('24)</a>
+                       <a class="btn actionBtn2" href="https://os-world.github.io/">OSWorld ('24)</a>
+                       <a class="btn actionBtn" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge (ICML'23)</a>
+                       <a class="btn actionBtn" href="https://lm-code-binder.github.io/">Binder Framework (ICLR '23)</a>
+                       <a class="btn actionBtn" href="https://github.com/hkunlp/unifiedskg">UnifiedSKG Framework (EMNLP'22)</a>
+                       <a class="btn actionBtn" href="https://yale-lily.github.io/sparc">SParC Challenge (ACL'19)</a>
+                       <a class="btn actionBtn" href="https://yale-lily.github.io/cosql">CoSQL Challenge (EMNLP'19)</a>
                     </div>
                     </p>
                     <div class="infoHeadline">
@@ -61,11 +64,14 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
-                         <li><span class="label label-default" style="background-color: #FF7F50"><i>02/05/2024</i></span>
+                         <li><span class="label label-default" style="background-color: #FF7F50"><i>07/15/2024</i></span>
+                             <p style="color:red;"><a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.</p>
+                         </li>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>02/05/2024</i></span>
                              <p style="color:red;">We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. The test set of Spider 1.0 has already been released (check the Spider dataset link below). Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> <b>June</b>. Stay tuned!</p>
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
-                             Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
+                             Please check out <a href="https://xlang.ai/">XLANG Lab for Building LLM/VLM Agents</a>!
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>05/27/2023</i></span>
                              Please check out <a href="https://openreview.net/pdf?id=Wc5bmZZU9cy">Dr.Spider, a robustness evaluation benchmark based on Spider, </a> from AWS AI Lab for studying robustness in semantic parsing!
