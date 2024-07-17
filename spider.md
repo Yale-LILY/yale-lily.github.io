@@ -38,7 +38,7 @@ redirect_from: "/seq2sql/spider"
                     </div>
                     <p align="left">
                     <div class="left"> <p style="color:red;">July 15th, 2024: <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.</p>
-                    <div class="left"> <p style="color:#286dc0;">Feb. 5th, 2024: We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> <b>June</b>. Stay tuned!</p>
+                    <div class="left">Feb. 5th, 2024: We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> <b>June</b>. Stay tuned!
                       Spider is a large-scale <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c"><i>complex and cross-domain</i></a> semantic parsing and text-to-SQL dataset annotated by 11 Yale students.
                       The goal of the Spider challenge is to develop natural language interfaces to cross-domain databases.
                        It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
@@ -65,10 +65,10 @@ redirect_from: "/seq2sql/spider"
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
                          <li><span class="label label-default" style="background-color: #FF7F50"><i>07/15/2024</i></span>
-                             <p style="color:red;"><a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.</p>
+                             <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>02/05/2024</i></span>
-                             <p style="color:red;">We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. The test set of Spider 1.0 has already been released (check the Spider dataset link below). Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> <b>June</b>. Stay tuned!</p>
+                             We will no longer accept submissions for Spider 1.0 evaluations or update its leaderboard. The test set of Spider 1.0 has already been released (check the Spider dataset link below). Look forward to the release of Spider 2.0, a more realistic and challenging benchmark in the era of LLMs, expected this <s>March</s> <b>June</b>. Stay tuned!
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
                              Please check out <a href="https://xlang.ai/">XLANG Lab for Building LLM/VLM Agents</a>!
