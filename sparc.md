@@ -36,17 +36,20 @@ permalink: sparc
                        <h2>What is SParC?</h2>
                     </div>
                     <p align="left">
+	            <div class="left"> <p style="color:red;">July 15th, 2024: <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.</p>
                     <div class="left"><b><i>SParC</i></b> is a dataset for cross-domain <b>S</b>emantic <b>Par</b>sing in <b>C</b>ontext. It is the context-dependent/multi-turn version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider task</i></b></a>, a complex and cross-domain text-to-SQL challenge. SParC consists of 4,298 coherent question sequences (12k+ unique individual questions annotated with SQL queries annotated by 14 Yale students), obtained from user interactions with 200 complex databases over 138 domains.
                     </div>
-                    <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLang Lab for building LM agents! </a>
+                    <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLANG Lab for Building LLM/VLM Agents</a>
 		    <a class="btn actionBtn" href="https://arxiv.org/abs/1906.02285">SParC Paper (ACL'19)</a>
                     <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">SParC Post</a>
-                    <hr><b>Related works:</b> <a href="https://ds1000-code-gen.github.io/"><b><i>DS-1000</i></b></a>, <a href="https://lm-code-binder.github.io/"><b><i>Binder</i></b></a>, <a href="https://unifiedskg.com/"><b><i>UnifiedSKG</i></b></a>, single-turn <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and conversational <a href="https://yale-lily.github.io/cosql"><b><i>CoSQL</i></b></a> text-to-SQL tasks.
-	            <a class="btn actionBtn2" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge ('22)</a>
-	            <a class="btn actionBtn2" href="https://lm-code-binder.github.io/">Binder Framework (ICLR '23)</a>
-	            <a class="btn actionBtn2" href="https://github.com/hkunlp/unifiedskg">UnifiedSKG Framework (EMNLP '22)</a>
-                    <a class="btn actionBtn2" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
-                    <a class="btn actionBtn2" href="https://yale-lily.github.io/cosql">CoSQL Chanllenge (EMNLP'19)</a>
+                    <hr><b>Related Works from XLANG Lab:</b>
+	            <a class="btn actionBtn2" href="https://spider2-v.github.io/">Spider2-V ('24)</a>
+	       	    <a class="btn actionBtn2" href="https://os-world.github.io/">OSWorld ('24)</a>
+	            <a class="btn actionBtn" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge (ICML'23)</a>
+	            <a class="btn actionBtn" href="https://lm-code-binder.github.io/">Binder Framework (ICLR '23)</a>
+	            <a class="btn actionBtn" href="https://github.com/hkunlp/unifiedskg">UnifiedSKG Framework (EMNLP'22)</a>
+                    <a class="btn actionBtn" href="https://yale-lily.github.io/spider">Spider Chanllenge (EMNLP'18)</a>
+                    <a class="btn actionBtn" href="https://yale-lily.github.io/cosql">CoSQL Chanllenge (EMNLP'19)</a>
                     </p>
                     <div class="infoHeadline">
                        <h2>News</h2>
@@ -54,8 +57,11 @@ permalink: sparc
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
-			 <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
-                             Please check out <a href="https://chat.xlang.ai/">XLang language model agents</a>!
+			 <li><span class="label label-default" style="background-color: #FF7F50"><i>07/15/2024</i></span>
+                             <p style="color:red;"><a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.</p>
+                         </li>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
+                             Please check out <a href="https://xlang.ai/">XLANG Lab for Building LLM/VLM Agents</a>!
                          </li>
 			 <li><span class="label label-default" style="background-color: #FF7F50"><i>11/20/2022</i></span>
                              Please check out our recent work <a href="https://ds1000-code-gen.github.io/">DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</a>. Please check out examples, data, and code on the <a href="https://ds1000-code-gen.github.io/">DS-1000 project site</a>!!
