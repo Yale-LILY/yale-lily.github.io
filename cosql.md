@@ -39,14 +39,15 @@ permalink: cosql
                        <h2>What is CoSQL?</h2>
                     </div>
                     <p align="left">
-	            <div class="left"> <p style="color:red;">July 15th, 2024: <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.</p>
+	            <div class="left"> <p style="color:red;">Aug 28, 2024: The early access version of <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> (a more realistic and challenging text-to-SQL task) is now available! We expect to release the whole dataset in 1-2 weeks. As this is a preliminary release, there may be errors. Your feedback would be invaluable in refining the dataset!</p>
                     <div class="left"><b><i>CoSQL</i></b> is a corpus for building cross-domain <b>Co</b>nversational text-to-<b>SQL</b> systems. It is the dialogue version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider</i></b></a> and <a href="https://yale-lily.github.io/sparc"><b><i>SParC</i></b></a> tasks. CoSQL consists of 30k+ turns plus 10k+ annotated SQL queries, obtained from a <a href="https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment">Wizard-of-Oz</a> collection of 3k dialogues querying 200 complex databases spanning 138 domains. Each dialogue simulates a real-world DB query scenario with a crowd worker as a user exploring the database and a SQL expert retrieving answers with SQL, clarifying ambiguous questions, or otherwise informing of unanswerable questions.
                     </div>
                     <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLANG Lab for Building LLM/VLM Agents</a>
 		    <a class="btn actionBtn" href="https://arxiv.org/abs/1909.05378">CoSQL Paper (EMNLP'19)</a>
                     <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">CoSQL Post</a>
                     <hr><b>Related Works from XLANG Lab:</b>
-	            <a class="btn actionBtn2" href="https://spider2-v.github.io/">Spider2-V ('24)</a>
+	            <a class="btn actionBtn2" href="https://spider2-sql.github.io/">Spider 2.0 Text-to-SQL ('24)</a>
+		    <a class="btn actionBtn2" href="https://spider2-v.github.io/">Spider2-V ('24)</a>
 	       	    <a class="btn actionBtn2" href="https://os-world.github.io/">OSWorld ('24)</a>
 	            <a class="btn actionBtn" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge (ICML'23)</a>
 	            <a class="btn actionBtn" href="https://lm-code-binder.github.io/">Binder Framework (ICLR '23)</a>
@@ -61,16 +62,19 @@ permalink: cosql
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
-			 <li><span class="label label-default" style="background-color: #FF7F50"><i>07/15/2024</i></span>
+			<li><span class="label label-default" style="background-color: #FF7F50"><i>28/8/2022</i></span>
+                             The early access version of <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> (a more realistic and challenging text-to-SQL task) is now available! We expect to release the whole dataset in 1-2 weeks. As this is a preliminary release, there may be errors. Your feedback would be invaluable in refining the dataset!
+                         </li> 
+			<li><span class="label label-default" style="background-color: #286dc0"><i>07/15/2024</i></span>
                              <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>08/10/2023</i></span>
                              Please check out <a href="https://xlang.ai/">XLANG Lab for Building LLM/VLM Agents</a>!
                          </li>
-			 <li><span class="label label-default" style="background-color: #FF7F50"><i>11/20/2022</i></span>
+			 <li><span class="label label-default" style="background-color: #286dc0"><i>11/20/2022</i></span>
                              Please check out our recent work <a href="https://ds1000-code-gen.github.io/">DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</a>. Please check out examples, data, and code on the <a href="https://ds1000-code-gen.github.io/">DS-1000 project site</a>!!
                          </li>
-			 <li><span class="label label-default" style="background-color: #FF7F50"><i>10/18/2022</i></span>
+			 <li><span class="label label-default" style="background-color: #286dc0"><i>10/18/2022</i></span>
                              Please check out our recent work <a href="https://lm-code-binder.github.io/">Binder: an easy but sota neural-symbolic built on GPT-3 Codex & SQL/Python interpreter</a>. It injects GPT-3 Codex prompt API calls in programming languages! Please check out Binder demo, code, paper, and video on the <a href="https://github.com/hkunlp/unifiedskg">Binder project site</a>!!
                          </li>
 			 <li><span class="label label-default" style="background-color: #286dc0"><i>02/15/2022</i></span>
