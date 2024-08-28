@@ -37,7 +37,7 @@ redirect_from: "/seq2sql/spider"
                        <h2>What is Spider?</h2>
                     </div>
                     <p align="left">
-                    <div class="left"> <p style="color:red;">July 15th, 2024: <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.</p>
+                    <div class="left"> <p style="color:red;">Aug 28, 2024: The early access version of <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> (a more realistic and challenging text-to-SQL task) is now available! We expect to release the whole dataset in 1-2 weeks. As this is a preliminary release, there may be errors. Your feedback would be invaluable in refining the dataset!</p>
                       Spider is a large-scale <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c"><i>complex and cross-domain</i></a> semantic parsing and text-to-SQL dataset annotated by 11 Yale students.
                       The goal of the Spider challenge is to develop natural language interfaces to cross-domain databases.
                        It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains.
@@ -48,6 +48,7 @@ redirect_from: "/seq2sql/spider"
                        <a class="btn actionBtn" href="https://arxiv.org/abs/1809.08887">Spider Paper (EMNLP'18)</a>
                        <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">Spider Post</a>
                       <hr><b>Related Works from XLANG Lab:</b>
+                       <a class="btn actionBtn2" href="https://spider2-sql.github.io/">Spider 2.0 Text-to-SQL ('24)</a>
                        <a class="btn actionBtn2" href="https://spider2-v.github.io/">Spider2-V ('24)</a>
                        <a class="btn actionBtn2" href="https://os-world.github.io/">OSWorld ('24)</a>
                        <a class="btn actionBtn" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge (ICML'23)</a>
@@ -63,6 +64,9 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
+                         <li><span class="label label-default" style="background-color: #FF7F50"><i>28/8/2022</i></span>
+                             The early access version of <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> (a more realistic and challenging text-to-SQL task) is now available! We expect to release the whole dataset in 1-2 weeks. As this is a preliminary release, there may be errors. Your feedback would be invaluable in refining the dataset!
+                         </li> 
                          <li><span class="label label-default" style="background-color: #FF7F50"><i>07/15/2024</i></span>
                              <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.
                          </li>
@@ -78,7 +82,7 @@ redirect_from: "/seq2sql/spider"
                          <li><span class="label label-default" style="background-color: #286dc0"><i>11/20/2022</i></span>
                              Please check out our recent work <a href="https://ds1000-code-gen.github.io/">DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</a>. Please check out examples, data, and code on the <a href="https://ds1000-code-gen.github.io/">DS-1000 project site</a>!!
                          </li>
-                         <li><span class="label label-default" style="background-color: #FF7F50"><i>10/18/2022</i></span>
+                         <li><span class="label label-default" style="background-color: #286dc0"><i>10/18/2022</i></span>
                              Please check out our recent work <a href="https://lm-code-binder.github.io/">Binder: an easy but sota neural-symbolic built on GPT-3 Codex & SQL/Python interpreter</a>. It injects GPT-3 Codex prompt API calls in programming languages! Please check out Binder demo, code, paper, and video on the <a href="[https://github.com/hkunlp/unifiedskg](https://lm-code-binder.github.io/)">Binder project site</a>!!
                          </li>
                          <li><span class="label label-default" style="background-color: #286dc0"><i>01/18/2022</i></span>
