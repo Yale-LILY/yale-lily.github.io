@@ -64,7 +64,7 @@ redirect_from: "/seq2sql/spider"
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
-                         <li><span class="label label-default" style="background-color: #FF7F50"><i>28/8/2022</i></span>
+                         <li><span class="label label-default" style="background-color: #FF7F50"><i>08/28/2022</i></span>
                              The early access version of <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> (a more realistic and challenging text-to-SQL task) is now available! We expect to release the whole dataset in 1-2 weeks. As this is a preliminary release, there may be errors. Your feedback would be invaluable in refining the dataset!
                          </li> 
                          <li><span class="label label-default" style="background-color: #FF7F50"><i>07/15/2024</i></span>
