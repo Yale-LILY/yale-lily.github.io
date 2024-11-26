@@ -36,7 +36,8 @@ permalink: sparc
                        <h2>What is SParC?</h2>
                     </div>
                     <p align="left">
-	            <div class="left"> <p style="color:red;">Aug 28, 2024: The early access version of <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> (a more realistic and challenging text-to-SQL task) is now available! We expect to release the whole dataset in 1-2 weeks. As this is a preliminary release, there may be errors. Your feedback would be invaluable in refining the dataset!</p>
+                    <div class="left"><p style="color:red;">Nov 12, 2024: We have released <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> full <a href="https://arxiv.org/abs/2411.07763"><i>paper</i></a>, <a href="https://github.com/xlang-ai/Spider2/blob/main/spider2/README.md"><i>data</i></a> and <a href="https://github.com/xlang-ai/Spider2"><i>code</i></a>. Follow the <a href="https://docs.google.com/document/d/1sCobAqJZcko-Vl3biOycwvCIR7kTwBPrhsgVfvaX1Fg/edit?tab=t.0"><i>guideline</i></a> to submit your scores to the <a href="https://spider2-sql.github.io/"><i>leaderboard</i></a>.</p>
+                    <div class="left">Aug 28, 2024: The early access version of <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> (a more realistic and challenging text-to-SQL task) is now available!  As this is a preliminary release, there may be errors. Your feedback would be invaluable in refining the dataset!</p>
                     <div class="left"><b><i>SParC</i></b> is a dataset for cross-domain <b>S</b>emantic <b>Par</b>sing in <b>C</b>ontext. It is the context-dependent/multi-turn version of the <a href="https://yale-lily.github.io/spider"><b><i>Spider task</i></b></a>, a complex and cross-domain text-to-SQL challenge. SParC consists of 4,298 coherent question sequences (12k+ unique individual questions annotated with SQL queries annotated by 14 Yale students), obtained from user interactions with 200 complex databases over 138 domains.
                     </div>
                     <a class="btn actionBtn2" href="https://www.xlang.ai/"> XLANG Lab for Building LLM/VLM Agents</a>
@@ -59,8 +60,11 @@ permalink: sparc
                     <p align="left">
                     <div class="left" style="background-color: #f5f5f5">
                        <ul>
-			 <li><span class="label label-default" style="background-color: #FF7F50"><i>08/28/2022</i></span>
-                             The early access version of <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> (a more realistic and challenging text-to-SQL task) is now available! We expect to release the whole dataset in 1-2 weeks. As this is a preliminary release, there may be errors. Your feedback would be invaluable in refining the dataset!
+                         <li><span class="label label-default" style="background-color: #FF7F50"><i>11/12/2024</i></span>
+                              We have released <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> full <a href="https://arxiv.org/abs/2411.07763"><i>paper</i></a>, <a href="https://github.com/xlang-ai/Spider2/blob/main/spider2/README.md"><i>data</i></a> and <a href="https://github.com/xlang-ai/Spider2"><i>code</i></a>. Follow the <a href="https://docs.google.com/document/d/1sCobAqJZcko-Vl3biOycwvCIR7kTwBPrhsgVfvaX1Fg/edit?tab=t.0"><i>guideline</i></a> to submit your scores to the <a href="https://spider2-sql.github.io/"><i>leaderboard</i></a>.
+                         </li> 
+			 <li><span class="label label-default" style="background-color: #FF7F50"><i>08/28/2024</i></span>
+                             The early access version of <a href="https://spider2-sql.github.io/"><i>Spider 2.0</i></a> (a more realistic and challenging text-to-SQL task) is now available! As this is a preliminary release, there may be errors. Your feedback would be invaluable in refining the dataset!
                          </li> 
 			 <li><span class="label label-default" style="background-color: #286dc0"><i>07/15/2024</i></span>
                              <a href="https://spider2-v.github.io/"><i>Spider 2.0-vision (Benchmarking Multimodal Agents on Automating Data Science and Engineering Workflows)</i></a> is out! Spider 2.0-SQL (much more realistic and challenging than Spider 1.0!) will be released in August.
