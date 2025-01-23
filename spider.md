@@ -50,9 +50,9 @@ redirect_from: "/seq2sql/spider"
                        <a class="btn actionBtn" href="https://arxiv.org/abs/1809.08887">Spider Paper (EMNLP'18)</a>
                        <a class="btn actionBtn" href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c">Spider Post</a>
                       <hr><b>Related Works from XLANG Lab:</b>
-                       <a class="btn actionBtn2" href="https://spider2-sql.github.io/">Spider 2.0 Text-to-SQL ('24)</a>
-                       <a class="btn actionBtn2" href="https://spider2-v.github.io/">Spider2-V ('24)</a>
-                       <a class="btn actionBtn2" href="https://os-world.github.io/">OSWorld ('24)</a>
+                       <a class="btn actionBtn2" href="https://spider2-sql.github.io/">Spider 2.0 Text-to-SQL (ICLR 25)</a>
+                       <a class="btn actionBtn2" href="https://spider2-v.github.io/">Spider2-V (NeurIPS 24)</a>
+                       <a class="btn actionBtn2" href="https://os-world.github.io/">OSWorld (NeurIPS 24)</a>
                        <a class="btn actionBtn" href="https://ds1000-code-gen.github.io/">DS-1000 Challenge (ICML'23)</a>
                        <a class="btn actionBtn" href="https://lm-code-binder.github.io/">Binder Framework (ICLR '23)</a>
                        <a class="btn actionBtn" href="https://github.com/hkunlp/unifiedskg">UnifiedSKG Framework (EMNLP'22)</a>
